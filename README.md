@@ -1,5 +1,4 @@
 ## Wibus👨‍💻
-
 Hello~ 各位访客，欢迎来到我的GitHub主页呀 👋
 
 🔭 我叫wibus，男，坐落于广东广州
@@ -8,11 +7,9 @@ Hello~ 各位访客，欢迎来到我的GitHub主页呀 👋
 
 我所爱好的：
 
-🤔 前端爱好者｜**TypeScript**, **JavaScript**, **CSS**, **VueJS**, **React** (HTML属于标签类语言)
-
-😗 后端探索者｜**NodeJS**
-
-😄  作曲编曲者｜**Logic Pro X**
+- 🤔 前端爱好者｜**TypeScript**, **JavaScript**, **CSS**, **VueJS**, **React** (HTML属于标签类语言)
+- 😗 后端探索者｜**NodeJS**
+- 😄  作曲编曲者｜**Logic Pro X**
 
 ⚡ WeChat & Tencent QQ：1596355173
 
