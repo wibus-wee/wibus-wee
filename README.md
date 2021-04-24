@@ -13,8 +13,9 @@ Hello~ 各位访客，欢迎来到wibus的GitHub主页呀 👋
 
 ⚡ WeChat & Tencent QQ：1596355173
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wibus-wee&layout=compact" />
+
 💬 WebSite：秉性之松｜https://iucky.cn/
 
 更多自述请前往 https://iucky.cn/about
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wibus-wee&layout=compact" />
