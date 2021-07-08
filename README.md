@@ -21,3 +21,5 @@ Hello~ 各位访客，欢迎来到wibus的GitHub主页呀 👋
 更多自述请前往 https://iucky.cn/about
 
 > 从 2021.5.1 开始，他将会在开发上减少80%的时间啦，转战音乐🎵 & 决战中考！
+
+![wibus-wee's github activity graph](https://activity-graph.herokuapp.com/graph?username=wibus-wee)](https://github.com/ashutosh00710/github-readme-activity-graph)
