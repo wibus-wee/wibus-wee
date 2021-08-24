@@ -43,8 +43,11 @@ Hello, I'm [Wibus](https://blog.iucky.cn), I'm a/an
 <code><img height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></code>
 
-#### My Streak
+#### My abilities
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wibus-wee">
-
-
+```
+Compose Music    ███████████████████████░░
+Writing Content  ███████████████░░░░░░░░░░
+Frontend         █████████████░░░░░░░░░░░░
+UI Design        █████████░░░░░░░░░░░░░░░░
+```
