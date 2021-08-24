@@ -21,11 +21,11 @@
 
 Hello, I'm [Wibus](https://blog.iucky.cn), I'm a/an
 
-- 🪧 **Front-end hobbyist**｜Always search for websites and learn their designs and code. I designed and wrote [STY theme](https://blog.iucky.cn/works/sty.html) by myself
-- 🔙 **Backend explorer**｜Don't know much about the back end, just basic usage of NodeJS, and if C counts as the back end it counts as the back end technology stack
-- 🎶  **Composing music arranger**｜I always use **Logic Pro X** to compose and arrange music, also make some lovely songs. And I have a music organization.
-- 🎹 **Piano specialist** | I know a lot about piano. I had studied piano for 10 years by the time I was 15
-- 🎤 **Singing specialist** | I know a lot about singing. I have won more than 20 awards for both singing and piano (🥇🥈🥉).
+- 🪧 **Front-end hobbyist**｜Designed and wrote [STY theme](https://blog.iucky.cn/works/sty.html) by myself
+- 🔙 **Backend explorer**｜Don't know much about the back end, just basic usage of `NodeJS` and `C`
+- 🎶  **Composing music arranger**｜Always use **Logic Pro X** to compose and arrange music
+- 🎹 **Piano specialist** | Studied piano for **10** years by the time I was 15
+- 🎤 **Singing specialist** | Have won more than **20** awards for both **singing and piano** (🥇🥈🥉).
 
 #### Languages and Tools
 
