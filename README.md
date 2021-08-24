@@ -1,7 +1,4 @@
-
 <h3 align="center">I'm Wibus, nice to meet you here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&count_private=true&show_icons=true" />
 <br><br>
 <a href="mailto:wibus@qq.com" align="center">
   <img align="center" alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
@@ -15,12 +12,11 @@
 <br><br>
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
 <a href="https://blog.iucky.cn" align="center"><img align="center" src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&count_private=true&show_icons=true" />
+<br><br>
 </h3>
-Hello, welcome to **wibus GitHub homepage** 👋
 
-His name is Wibus, male, located in Guangzhou, Guangdong province, ~~grade 3 little garbage~~, after the high school examination, he is a freshman in high school, but he does not study hard (?), he spends his days in front of the computer playing VSC (in fact, he is also active in learning).
-
-I'm a/an
+Hello, I'm [Wibus](https://blog.iucky.cn), I'm a/an
 
 - 🪧 **Front-end hobbyist**｜Always search for websites and learn their designs and code. I designed and wrote [STY theme](https://blog.iucky.cn/works/sty.html) by myself
 - 🔙 **Backend explorer**｜Don't know much about the back end, just basic usage of NodeJS, and if C counts as the back end it counts as the back end technology stack
