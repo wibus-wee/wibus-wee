@@ -21,7 +21,7 @@
 
 Hello, I'm [Wibus](https://blog.iucky.cn), I'm a/an
 
-- 🪧 **Front-end hobbyist**｜Designed and wrote [STY theme](https://blog.iucky.cn/works/sty.html) by myself
+- 🪧 **Front-end hobbyist**｜Designed and wrote ~~[STY theme](https://blog.iucky.cn/works/sty.html)~~ by myself (It is about to be in a slow update state, for reasons described in "Want to Say")
 - 🔙 **Backend explorer**｜Don't know much about the back end, just basic usage of `NodeJS` and `C`
 - 🎶  **Composing music arranger**｜Always use **Logic Pro X** to compose and arrange music
 - 🎹 **Piano specialist** | Studied piano for **10** years by the time I was 15
@@ -52,3 +52,9 @@ Writing Content  ███████████████░░░░░░
 Frontend         █████████████░░░░░░░░░░░░
 UI Design        █████████░░░░░░░░░░░░░░░░
 ```
+
+#### Want to say
+
+I have stopped developing PHP programs like Typecho, please don't ask me if you have any questions about typecho. But the original developed program I will ensure maintenance.
+
+> Typecho is really a lightweight blogging application, if you are a blogger, you must have a try!
