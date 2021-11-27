@@ -97,7 +97,7 @@ UI Design        █████████░░░░░░░░░░░░
 
 **开源在...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td></tr></thead><tbody><tr><td><a href=https://github.com/wibus-wee/GS-server><b>wibus-wee/GS-server</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee/GS-server?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee/GS-server?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee/GS-server/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee/GS-server?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee/GS-server/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee/GS-server?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/utmapp/UTM><b>utmapp/UTM</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/utmapp/UTM?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/utmapp/UTM?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/utmapp/UTM/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/utmapp/UTM?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/utmapp/UTM/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/utmapp/UTM?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/wibus-wee/Mix><b>wibus-wee/Mix</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee/Mix?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee/Mix?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee/Mix/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee/Mix?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee/Mix/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee/Mix?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
+<!-- opensource_dashboard:active -->
 
 <!-- **最近写了...**
 
@@ -105,11 +105,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><p>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</p></li><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li><li><a href=https://github.com/arco-design/arco-design>arco-design/arco-design</a><p>A comprehensive React UI components library</p></li><li><a href=https://github.com/koishijs/koishi>koishijs/koishi</a><p>现代、高效的跨平台聊天机器人框架</p></li></ul>
+<!-- recent_star_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/freefq/free>freefq/free</a><p>翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子</p></li><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/WumaCoder/ctxexp-parser>WumaCoder/ctxexp-parser</a><p>In the dynamic execution of JS language environment (wechat applet) to execute JS class calling function.</p></li><li><a href=https://github.com/jsun969/chinese-flag-avatar-builder>jsun969/chinese-flag-avatar-builder</a><p>庆国庆头像生成器</p></li><li><a href=https://github.com/chokcoco/iCSS>chokcoco/iCSS</a><p>不止于 CSS</p></li></ul>
+<!-- random_github_stars_inject -->
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2021/11/27 下午10:25<br>下一次刷新：2021/11/28 上午1:25</p>
+<!-- footer_inject -->
