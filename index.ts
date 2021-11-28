@@ -4,7 +4,7 @@ import { readFile, rm, writeFile } from 'fs/promises'
 import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
 import rax from 'retry-axios'
-import { github, mxSpace, opensource, timeZone } from './config'
+import { github, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 const githubAPIEndPoint = 'https://api.github.com'
 
@@ -27,7 +27,6 @@ const gh = axios.create({
   baseURL: githubAPIEndPoint,
   timeout: 4000,
 })
-
 type GHItem = {
   name: string
   id: number
@@ -170,8 +169,8 @@ ${topStar5}
     )
   }
 
-  await rm('./readme.md', { force: true })
-  await writeFile('./readme.md', newContent, { encoding: 'utf-8' })
+  await rm('./README.md', { force: true })
+  await writeFile('./README.md', newContent, { encoding: 'utf-8' })
 }
 
 function gc(token: keyof typeof COMMNETS) {
