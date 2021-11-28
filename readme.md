@@ -105,11 +105,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><p>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</p></li><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li><li><a href=https://github.com/arco-design/arco-design>arco-design/arco-design</a><p>A comprehensive React UI components library</p></li><li><a href=https://github.com/koishijs/koishi>koishijs/koishi</a><p>现代、高效的跨平台聊天机器人框架</p></li></ul>
+<ul><li><a href=https://github.com/521xueweihan/HelloGitHub>521xueweihan/HelloGitHub</a><p>:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</p></li><li><a href=https://github.com/arturbien/React95>arturbien/React95</a><p>🌈🕹 Refreshed Windows 95 style UI components for your React app</p></li><li><a href=https://github.com/pearmini/colorfu>pearmini/colorfu</a><p>Make beautiful but also meaningful wallpapers with colors and words. 🌈</p></li><li><a href=https://github.com/Codennnn/vue-color-avatar>Codennnn/vue-color-avatar</a><p>🥳 一个纯前端实现的头像生成网站，使用 Vite + Vue3 开发</p></li><li><a href=https://github.com/fangzesheng/free-api>fangzesheng/free-api</a><p>收集免费的接口服务,做一个api的搬运工</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/xudafeng/git-contributor>xudafeng/git-contributor</a><p>:octocat: Welcome to join in and feel free to contribute.</p></li><li><a href=https://github.com/abhisheknaiidu/awesome-github-profile-readme>abhisheknaiidu/awesome-github-profile-readme</a><p>😎 A curated list of awesome GitHub Profile READMEs 📝</p></li><li><a href=https://github.com/jsun969/Pigeon>jsun969/Pigeon</a><p>🕊️ 飞鸽传书</p></li><li><a href=https://github.com/facebook/react-native>facebook/react-native</a><p>A framework for building native applications using React</p></li><li><a href=https://github.com/wibus-wee/GS-server>wibus-wee/GS-server</a><p>TypeScript. Nextjs. Base.</p></li></ul>
+<ul><li><a href=https://github.com/WumaCoder/ctxexp-parser>WumaCoder/ctxexp-parser</a><p>In the dynamic execution of JS language environment (wechat applet) to execute JS class calling function.</p></li><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/ant-design/ant-design>ant-design/ant-design</a><p>An enterprise-class UI design language and React UI library</p></li><li><a href=https://github.com/hjh70526/cust>hjh70526/cust</a><p>微改的alpine</p></li><li><a href=https://github.com/triggerjs/trigger>triggerjs/trigger</a><p>A library for creating scroll-based animation with HTML attributes and CSS variables.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/28/21, 8:24 AM<br>下一次刷新：11/28/21, 11:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/28/21, 11:07 AM<br>下一次刷新：11/28/21, 2:07 PM</p>
