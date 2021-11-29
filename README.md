@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li><li><a href=https://github.com/WumaCoder/ctxexp-parser>WumaCoder/ctxexp-parser</a><p>In the dynamic execution of JS language environment (wechat applet) to execute JS class calling function.</p></li><li><a href=https://github.com/github/copilot-docs>github/copilot-docs</a><p>Documentation for GitHub Copilot</p></li><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/netptop/siteproxy>netptop/siteproxy</a><p>reverse proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持telegram web登录。请勿将本项目用于非法用途，否则后果自负。</p></li></ul>
+<ul><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><p>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</p></li><li><a href=https://github.com/triggerjs/trigger>triggerjs/trigger</a><p>A library for creating scroll-based animation with HTML attributes and CSS variables.</p></li><li><a href=https://github.com/MarsWang42/hyo>MarsWang42/hyo</a><p>:mount_fuji: Hyo - A datatable for React</p></li><li><a href=https://github.com/BiliBili-ayang/bilibili-live-tool>BiliBili-ayang/bilibili-live-tool</a><p>哔哩哔哩直播弹幕助手，麻雀虽小，五脏俱全！弹幕管理、发送弹幕、语音播报、自动回复、触发音效、点歌姬（通过直播间弹幕点歌）！更多好玩有趣的功能等您来探索！</p></li><li><a href=https://github.com/hjh70526/cust>hjh70526/cust</a><p>微改的alpine</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/29/21, 5:07 PM<br>下一次刷新：11/29/21, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/29/21, 8:10 PM<br>下一次刷新：11/29/21, 11:10 PM</p>
