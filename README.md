@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/electron/electron>electron/electron</a><p>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</p></li><li><a href=https://github.com/netptop/siteproxy>netptop/siteproxy</a><p>reverse proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持telegram web登录。请勿将本项目用于非法用途，否则后果自负。</p></li><li><a href=https://github.com/DouyinFE/semi-design>DouyinFE/semi-design</a><p>A modern, comprehensive, flexible design system and React UI library</p></li><li><a href=https://github.com/hjh70526/cust>hjh70526/cust</a><p>微改的alpine</p></li><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li></ul>
+<ul><li><a href=https://github.com/freefq/free>freefq/free</a><p>翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子</p></li><li><a href=https://github.com/electron/electron>electron/electron</a><p>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</p></li><li><a href=https://github.com/netptop/siteproxy>netptop/siteproxy</a><p>reverse proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持telegram web登录。请勿将本项目用于非法用途，否则后果自负。</p></li><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>Kami is mx-space's default web frontend theme. So cute and lovely.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/1/21, 8:10 PM<br>下一次刷新：12/1/21, 11:10 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/1/21, 11:07 PM<br>下一次刷新：12/2/21, 2:07 AM</p>
