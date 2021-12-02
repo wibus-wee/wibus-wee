@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/arco-design/arco-design>arco-design/arco-design</a><p>A comprehensive React UI components library</p></li><li><a href=https://github.com/jsun969/chinese-flag-avatar-builder>jsun969/chinese-flag-avatar-builder</a><p>庆国庆头像生成器</p></li><li><a href=https://github.com/github/copilot-docs>github/copilot-docs</a><p>Documentation for GitHub Copilot</p></li><li><a href=https://github.com/MarsWang42/hyo>MarsWang42/hyo</a><p>:mount_fuji: Hyo - A datatable for React</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>Kami is mx-space's default web frontend theme. So cute and lovely.</p></li></ul>
+<ul><li><a href=https://github.com/xudafeng/git-contributor>xudafeng/git-contributor</a><p>:octocat: Welcome to join in and feel free to contribute.</p></li><li><a href=https://github.com/MarsWang42/hyo>MarsWang42/hyo</a><p>:mount_fuji: Hyo - A datatable for React</p></li><li><a href=https://github.com/koishijs/koishi>koishijs/koishi</a><p>现代、高效的跨平台聊天机器人框架</p></li><li><a href=https://github.com/DouyinFE/semi-design>DouyinFE/semi-design</a><p>A modern, comprehensive, flexible design system and React UI library</p></li><li><a href=https://github.com/freefq/free>freefq/free</a><p>翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/3/21, 2:08 AM<br>下一次刷新：12/3/21, 5:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/3/21, 5:05 AM<br>下一次刷新：12/3/21, 8:05 AM</p>
