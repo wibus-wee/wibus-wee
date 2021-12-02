@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/arco-design/arco-design>arco-design/arco-design</a><p>A comprehensive React UI components library</p></li><li><a href=https://github.com/BiliBili-ayang/bilibili-live-tool>BiliBili-ayang/bilibili-live-tool</a><p>哔哩哔哩直播弹幕助手，麻雀虽小，五脏俱全！弹幕管理、发送弹幕、语音播报、自动回复、触发音效、点歌姬（通过直播间弹幕点歌）！更多好玩有趣的功能等您来探索！</p></li><li><a href=https://github.com/Zfour/python_github_calendar_api>Zfour/python_github_calendar_api</a><p>用python获取github上的用户贡献信息，部署于vercel的api</p></li><li><a href=https://github.com/electron/electron>electron/electron</a><p>:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS</p></li><li><a href=https://github.com/ant-design/ant-design>ant-design/ant-design</a><p>An enterprise-class UI design language and React UI library</p></li></ul>
+<ul><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>Kami is mx-space's default web frontend theme. So cute and lovely.</p></li><li><a href=https://github.com/jsun969/Pigeon>jsun969/Pigeon</a><p>🕊️ 飞鸽传书</p></li><li><a href=https://github.com/AlDanial/cloc>AlDanial/cloc</a><p>cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</p></li><li><a href=https://github.com/jsun969/chinese-flag-avatar-builder>jsun969/chinese-flag-avatar-builder</a><p>庆国庆头像生成器</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/2/21, 5:07 PM<br>下一次刷新：12/2/21, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/2/21, 8:10 PM<br>下一次刷新：12/2/21, 11:10 PM</p>
