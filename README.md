@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/geist-org/react>geist-org/react</a><p>Modern and minimalist React UI library.</p></li><li><a href=https://github.com/jsun969/Pigeon>jsun969/Pigeon</a><p>🕊️ 飞鸽传书</p></li><li><a href=https://github.com/ant-design/ant-design>ant-design/ant-design</a><p>An enterprise-class UI design language and React UI library</p></li><li><a href=https://github.com/arco-design/arco-design>arco-design/arco-design</a><p>A comprehensive React UI components library</p></li><li><a href=https://github.com/github/copilot-docs>github/copilot-docs</a><p>Documentation for GitHub Copilot</p></li></ul>
+<ul><li><a href=https://github.com/arco-design/arco-design>arco-design/arco-design</a><p>A comprehensive React UI components library</p></li><li><a href=https://github.com/xudafeng/git-contributor>xudafeng/git-contributor</a><p>:octocat: Welcome to join in and feel free to contribute.</p></li><li><a href=https://github.com/Zfour/python_github_calendar_api>Zfour/python_github_calendar_api</a><p>用python获取github上的用户贡献信息，部署于vercel的api</p></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><p>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/7/21, 2:06 AM<br>下一次刷新：12/7/21, 5:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/7/21, 5:06 AM<br>下一次刷新：12/7/21, 8:06 AM</p>
