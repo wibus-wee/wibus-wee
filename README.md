@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/geist-org/react>geist-org/react</a><p>Modern and minimalist React UI library.</p></li><li><a href=https://github.com/chokcoco/iCSS>chokcoco/iCSS</a><p>不止于 CSS</p></li><li><a href=https://github.com/arco-design/arco-design>arco-design/arco-design</a><p>A comprehensive React UI components library</p></li><li><a href=https://github.com/WumaCoder/ctxexp-parser>WumaCoder/ctxexp-parser</a><p>In the dynamic execution of JS language environment (wechat applet) to execute JS class calling function.</p></li><li><a href=https://github.com/arturbien/React95>arturbien/React95</a><p>🌈🕹 Refreshed Windows 95 style UI components for your React app</p></li></ul>
+<ul><li><a href=https://github.com/Zfour/python_github_calendar_api>Zfour/python_github_calendar_api</a><p>用python获取github上的用户贡献信息，部署于vercel的api</p></li><li><a href=https://github.com/BiliBili-ayang/bilibili-live-tool>BiliBili-ayang/bilibili-live-tool</a><p>哔哩哔哩直播弹幕助手，麻雀虽小，五脏俱全！弹幕管理、发送弹幕、语音播报、自动回复、触发音效、点歌姬（通过直播间弹幕点歌）！更多好玩有趣的功能等您来探索！</p></li><li><a href=https://github.com/fangzesheng/free-api>fangzesheng/free-api</a><p>收集免费的接口服务,做一个api的搬运工</p></li><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li><li><a href=https://github.com/Codennnn/vue-color-avatar>Codennnn/vue-color-avatar</a><p>🥳 一个纯前端实现的头像生成网站，使用 Vite + Vue3 开发</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/9/21, 2:08 AM<br>下一次刷新：12/9/21, 5:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/9/21, 5:06 AM<br>下一次刷新：12/9/21, 8:06 AM</p>
