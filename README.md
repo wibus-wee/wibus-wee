@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/triggerjs/trigger>triggerjs/trigger</a><p>A library for creating scroll-based animation with HTML attributes and CSS variables.</p></li><li><a href=https://github.com/freefq/free>freefq/free</a><p>翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子</p></li><li><a href=https://github.com/pearmini/colorfu>pearmini/colorfu</a><p>Make beautiful but also meaningful wallpapers with colors and words. 🌈</p></li><li><a href=https://github.com/geist-org/react>geist-org/react</a><p>Modern and minimalist React UI library.</p></li><li><a href=https://github.com/github/copilot-docs>github/copilot-docs</a><p>Documentation for GitHub Copilot</p></li></ul>
+<ul><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li><li><a href=https://github.com/Codennnn/vue-color-avatar>Codennnn/vue-color-avatar</a><p>An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站</p></li><li><a href=https://github.com/jsun969/chinese-flag-avatar-builder>jsun969/chinese-flag-avatar-builder</a><p>庆国庆头像生成器</p></li><li><a href=https://github.com/BiliBili-ayang/bilibili-live-tool>BiliBili-ayang/bilibili-live-tool</a><p>哔哩哔哩直播弹幕助手，麻雀虽小，五脏俱全！弹幕管理、发送弹幕、语音播报、自动回复、触发音效、点歌姬（通过直播间弹幕点歌）！更多好玩有趣的功能等您来探索！</p></li><li><a href=https://github.com/koishijs/koishi>koishijs/koishi</a><p>现代、高效的跨平台聊天机器人框架</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/9/21, 11:07 PM<br>下一次刷新：12/10/21, 2:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/10/21, 2:07 AM<br>下一次刷新：12/10/21, 5:07 AM</p>
