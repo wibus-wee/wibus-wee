@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/marktext/marktext>marktext/marktext</a><p>📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</p></li><li><a href=https://github.com/github/copilot-docs>github/copilot-docs</a><p>Documentation for GitHub Copilot</p></li><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><p>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</p></li><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/rxhanson/Rectangle>rxhanson/Rectangle</a><p>Move and resize windows on macOS with keyboard shortcuts and snap areas</p></li></ul>
+<ul><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>Yet another-another OneDrive index, powered by Vercel and Next.js</p></li><li><a href=https://github.com/marktext/marktext>marktext/marktext</a><p>📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</p></li><li><a href=https://github.com/arturbien/React95>arturbien/React95</a><p>🌈🕹 Refreshed Windows 95 style UI components for your React app</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/15/21, 2:08 AM<br>下一次刷新：12/15/21, 5:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/15/21, 5:05 AM<br>下一次刷新：12/15/21, 8:05 AM</p>
