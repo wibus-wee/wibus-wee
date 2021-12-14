@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/arturbien/React95>arturbien/React95</a><p>🌈🕹 Refreshed Windows 95 style UI components for your React app</p></li><li><a href=https://github.com/arco-design/arco-design>arco-design/arco-design</a><p>A comprehensive React UI components library</p></li><li><a href=https://github.com/koishijs/koishi>koishijs/koishi</a><p>现代、高效的跨平台聊天机器人框架</p></li><li><a href=https://github.com/felixhageloh/uebersicht>felixhageloh/uebersicht</a><p>ˈyːbɐˌzɪçt</p></li><li><a href=https://github.com/chokcoco/iCSS>chokcoco/iCSS</a><p>不止于 CSS</p></li></ul>
+<ul><li><a href=https://github.com/triggerjs/trigger>triggerjs/trigger</a><p>A library for creating scroll-based animation with HTML attributes and CSS variables.</p></li><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/fangzesheng/free-api>fangzesheng/free-api</a><p>收集免费的接口服务,做一个api的搬运工</p></li><li><a href=https://github.com/wibus-wee/STY-theme-icarus>wibus-wee/STY-theme-icarus</a><p>This project is a hexo-theme-Icarus derivative and remains open source</p></li><li><a href=https://github.com/DouyinFE/semi-design>DouyinFE/semi-design</a><p>A modern, comprehensive, flexible design system and React UI library</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/14/21, 5:07 PM<br>下一次刷新：12/14/21, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/14/21, 8:10 PM<br>下一次刷新：12/14/21, 11:10 PM</p>
