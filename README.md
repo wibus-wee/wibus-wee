@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/google/zx>google/zx</a><p>A tool for writing better scripts</p></li><li><a href=https://github.com/felixhageloh/uebersicht>felixhageloh/uebersicht</a><p>ˈyːbɐˌzɪçt</p></li><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li><li><a href=https://github.com/rxhanson/Rectangle>rxhanson/Rectangle</a><p>Move and resize windows on macOS with keyboard shortcuts and snap areas</p></li><li><a href=https://github.com/marktext/marktext>marktext/marktext</a><p>📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</p></li></ul>
+<ul><li><a href=https://github.com/Innei/react-typewriter>Innei/react-typewriter</a><p>A simple component impl typewriter effect</p></li><li><a href=https://github.com/DouyinFE/semi-design>DouyinFE/semi-design</a><p>A modern, comprehensive, flexible design system and React UI library</p></li><li><a href=https://github.com/pearmini/colorfu>pearmini/colorfu</a><p>Make beautiful but also meaningful wallpapers with colors and words. 🌈</p></li><li><a href=https://github.com/Codennnn/vue-color-avatar>Codennnn/vue-color-avatar</a><p>An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站</p></li><li><a href=https://github.com/babysor/MockingBird>babysor/MockingBird</a><p>🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/15/21, 2:08 PM<br>下一次刷新：12/15/21, 5:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/15/21, 5:07 PM<br>下一次刷新：12/15/21, 8:07 PM</p>
