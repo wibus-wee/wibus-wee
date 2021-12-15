@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>Yet another-another OneDrive index, powered by Vercel and Next.js</p></li><li><a href=https://github.com/marktext/marktext>marktext/marktext</a><p>📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</p></li><li><a href=https://github.com/arturbien/React95>arturbien/React95</a><p>🌈🕹 Refreshed Windows 95 style UI components for your React app</p></li></ul>
+<ul><li><a href=https://github.com/triggerjs/trigger>triggerjs/trigger</a><p>A library for creating scroll-based animation with HTML attributes and CSS variables.</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>Yet another-another OneDrive index, powered by Vercel and Next.js</p></li><li><a href=https://github.com/Codennnn/vue-color-avatar>Codennnn/vue-color-avatar</a><p>An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站</p></li><li><a href=https://github.com/DouyinFE/semi-design>DouyinFE/semi-design</a><p>A modern, comprehensive, flexible design system and React UI library</p></li><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/15/21, 5:05 AM<br>下一次刷新：12/15/21, 8:05 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/15/21, 8:24 AM<br>下一次刷新：12/15/21, 11:24 AM</p>
