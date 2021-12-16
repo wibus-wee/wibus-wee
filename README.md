@@ -105,11 +105,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Co2333/myyearwithgit>Co2333/myyearwithgit</a><p>代码仓库年终总结报告。</p></li><li><a href=https://github.com/wibus-wee/STY-Doc>wibus-wee/STY-Doc</a></li><li><a href=https://github.com/wibus-wee/STY-static>wibus-wee/STY-static</a><p>STY Assets Space</p></li><li><a href=https://github.com/wibus-wee/GS-admin>wibus-wee/GS-admin</a><p>G·Space backend management terminal</p></li><li><a href=https://github.com/wibus-wee/STY-Build-sh>wibus-wee/STY-Build-sh</a><p>it is used to build sty release</p></li></ul>
+<ul><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li><li><a href=https://github.com/Co2333/myyearwithgit>Co2333/myyearwithgit</a><p>代码仓库年终总结报告。</p></li><li><a href=https://github.com/wibus-wee/STY-Doc>wibus-wee/STY-Doc</a></li><li><a href=https://github.com/wibus-wee/STY-static>wibus-wee/STY-static</a><p>STY Assets Space</p></li><li><a href=https://github.com/wibus-wee/GS-admin>wibus-wee/GS-admin</a><p>G·Space backend management terminal</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/chokcoco/iCSS>chokcoco/iCSS</a><p>不止于 CSS</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>Yet another-another OneDrive index, powered by Vercel and Next.js</p></li><li><a href=https://github.com/521xueweihan/HelloGitHub>521xueweihan/HelloGitHub</a><p>:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</p></li><li><a href=https://github.com/wibus-wee/STY-theme-icarus>wibus-wee/STY-theme-icarus</a><p>This project is a hexo-theme-Icarus derivative and remains open source</p></li><li><a href=https://github.com/github/copilot-docs>github/copilot-docs</a><p>Documentation for GitHub Copilot</p></li></ul>
+<ul><li><a href=https://github.com/rxhanson/Rectangle>rxhanson/Rectangle</a><p>Move and resize windows on macOS with keyboard shortcuts and snap areas</p></li><li><a href=https://github.com/arturbien/React95>arturbien/React95</a><p>🌈🕹 Refreshed Windows 95 style UI components for your React app</p></li><li><a href=https://github.com/521xueweihan/HelloGitHub>521xueweihan/HelloGitHub</a><p>:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</p></li><li><a href=https://github.com/marktext/marktext>marktext/marktext</a><p>📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</p></li><li><a href=https://github.com/google/zx>google/zx</a><p>A tool for writing better scripts</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/16/21, 5:06 AM<br>下一次刷新：12/16/21, 8:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/16/21, 8:23 AM<br>下一次刷新：12/16/21, 11:23 AM</p>
