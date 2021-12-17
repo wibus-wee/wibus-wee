@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Codennnn/vue-color-avatar>Codennnn/vue-color-avatar</a><p>An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站</p></li><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li><li><a href=https://github.com/wibus-wee/STY-Build-sh>wibus-wee/STY-Build-sh</a><p>it is used to build sty release</p></li><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li><li><a href=https://github.com/felixhageloh/uebersicht>felixhageloh/uebersicht</a><p>ˈyːbɐˌzɪçt</p></li></ul>
+<ul><li><a href=https://github.com/google/zx>google/zx</a><p>A tool for writing better scripts</p></li><li><a href=https://github.com/521xueweihan/HelloGitHub>521xueweihan/HelloGitHub</a><p>:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</p></li><li><a href=https://github.com/wibus-wee/STY-theme-icarus>wibus-wee/STY-theme-icarus</a><p>This project is a hexo-theme-Icarus derivative and remains open source</p></li><li><a href=https://github.com/DouyinFE/semi-design>DouyinFE/semi-design</a><p>A modern, comprehensive, flexible design system and React UI library</p></li><li><a href=https://github.com/koishijs/koishi>koishijs/koishi</a><p>现代、高效的跨平台聊天机器人框架</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/17/21, 11:06 PM<br>下一次刷新：12/18/21, 2:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/18/21, 2:08 AM<br>下一次刷新：12/18/21, 5:08 AM</p>
