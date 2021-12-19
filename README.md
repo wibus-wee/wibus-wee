@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>Yet another-another OneDrive index, powered by Vercel and Next.js</p></li><li><a href=https://github.com/XXIIVV/webring>XXIIVV/webring</a><p>Make yourself a website</p></li><li><a href=https://github.com/nvm-sh/nvm>nvm-sh/nvm</a><p>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</p></li><li><a href=https://github.com/Codennnn/vue-color-avatar>Codennnn/vue-color-avatar</a><p>An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站</p></li></ul>
+<ul><li><a href=https://github.com/pearmini/colorfu>pearmini/colorfu</a><p>Make beautiful but also meaningful wallpapers with colors and words. 🌈</p></li><li><a href=https://github.com/wibus-wee/STY-static>wibus-wee/STY-static</a><p>STY Assets Space</p></li><li><a href=https://github.com/fangzesheng/free-api>fangzesheng/free-api</a><p>收集免费的接口服务,做一个api的搬运工</p></li><li><a href=https://github.com/rxhanson/Rectangle>rxhanson/Rectangle</a><p>Move and resize windows on macOS with keyboard shortcuts and snap areas</p></li><li><a href=https://github.com/markdown-it/markdown-it>markdown-it/markdown-it</a><p>Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/19/21, 2:08 PM<br>下一次刷新：12/19/21, 5:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/19/21, 5:06 PM<br>下一次刷新：12/19/21, 8:06 PM</p>
