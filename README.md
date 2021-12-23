@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/521xueweihan/HelloGitHub>521xueweihan/HelloGitHub</a><p>:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>OneDrive public directory listing, powered by Vercel and Next.js</p></li><li><a href=https://github.com/fangzesheng/free-api>fangzesheng/free-api</a><p>收集免费的接口服务,做一个api的搬运工</p></li><li><a href=https://github.com/wibus-wee/GS-admin>wibus-wee/GS-admin</a><p>G·Space backend management terminal</p></li><li><a href=https://github.com/babysor/MockingBird>babysor/MockingBird</a><p>🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time</p></li></ul>
+<ul><li><a href=https://github.com/Co2333/myyearwithgit>Co2333/myyearwithgit</a><p>代码仓库年终总结报告。</p></li><li><a href=https://github.com/wibus-wee/GS-admin>wibus-wee/GS-admin</a><p>G·Space backend management terminal</p></li><li><a href=https://github.com/google/zx>google/zx</a><p>A tool for writing better scripts</p></li><li><a href=https://github.com/marktext/marktext>marktext/marktext</a><p>📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</p></li><li><a href=https://github.com/pearmini/colorfu>pearmini/colorfu</a><p>Make beautiful but also meaningful wallpapers with colors and words. 🌈</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/23/21, 11:07 AM<br>下一次刷新：12/23/21, 2:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/23/21, 2:08 PM<br>下一次刷新：12/23/21, 5:08 PM</p>
