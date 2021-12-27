@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/NekoX-Dev/NekoX>NekoX-Dev/NekoX</a><p>The third-party Telegram android app.</p></li><li><a href=https://github.com/Co2333/myyearwithgit>Co2333/myyearwithgit</a><p>代码仓库年终总结报告。</p></li><li><a href=https://github.com/wibus-wee/GS-admin>wibus-wee/GS-admin</a><p>G·Space backend management terminal</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>OneDrive public directory listing, powered by Vercel and Next.js</p></li><li><a href=https://github.com/wibus-wee/STY-Doc>wibus-wee/STY-Doc</a></li></ul>
+<ul><li><a href=https://github.com/google/zx>google/zx</a><p>A tool for writing better scripts</p></li><li><a href=https://github.com/Codennnn/vue-color-avatar>Codennnn/vue-color-avatar</a><p>An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>OneDrive public directory listing, powered by Vercel and Next.js</p></li><li><a href=https://github.com/wibus-wee/GS-admin>wibus-wee/GS-admin</a><p>G·Space backend management terminal</p></li><li><a href=https://github.com/Innei/react-typewriter>Innei/react-typewriter</a><p>A simple component impl typewriter effect</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/27/21, 5:08 PM<br>下一次刷新：12/27/21, 8:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/27/21, 8:14 PM<br>下一次刷新：12/27/21, 11:14 PM</p>
