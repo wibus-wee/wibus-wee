@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/react-typewriter>Innei/react-typewriter</a><p>A simple component impl typewriter effect</p></li><li><a href=https://github.com/wibus-wee/STY-theme-icarus>wibus-wee/STY-theme-icarus</a><p>This project is a hexo-theme-Icarus derivative and remains open source</p></li><li><a href=https://github.com/rxhanson/Rectangle>rxhanson/Rectangle</a><p>Move and resize windows on macOS with keyboard shortcuts and snap areas</p></li><li><a href=https://github.com/NekoX-Dev/NekoX>NekoX-Dev/NekoX</a><p>The third-party Telegram android app.</p></li><li><a href=https://github.com/wibus-wee/STY-Doc>wibus-wee/STY-Doc</a></li></ul>
+<ul><li><a href=https://github.com/NekoX-Dev/NekoX>NekoX-Dev/NekoX</a><p>The third-party Telegram android app.</p></li><li><a href=https://github.com/Co2333/myyearwithgit>Co2333/myyearwithgit</a><p>代码仓库年终总结报告。</p></li><li><a href=https://github.com/wibus-wee/GS-admin>wibus-wee/GS-admin</a><p>G·Space backend management terminal</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>OneDrive public directory listing, powered by Vercel and Next.js</p></li><li><a href=https://github.com/wibus-wee/STY-Doc>wibus-wee/STY-Doc</a></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/27/21, 2:10 PM<br>下一次刷新：12/27/21, 5:10 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/27/21, 5:08 PM<br>下一次刷新：12/27/21, 8:08 PM</p>
