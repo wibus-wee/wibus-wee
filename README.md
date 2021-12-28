@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Mas0nShi/typoraCracker>Mas0nShi/typoraCracker</a><p>A extract & decryption and pack & encryption tools for typora.</p></li><li><a href=https://github.com/marktext/marktext>marktext/marktext</a><p>📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</p></li><li><a href=https://github.com/ikeq/hexo-theme-inside>ikeq/hexo-theme-inside</a><p>🌈 SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside</p></li><li><a href=https://github.com/Innei/react-typewriter>Innei/react-typewriter</a><p>A simple component impl typewriter effect</p></li><li><a href=https://github.com/wibus-wee/STY-static>wibus-wee/STY-static</a><p>STY Assets Space</p></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/STY-Doc>wibus-wee/STY-Doc</a></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li><li><a href=https://github.com/arturbien/React95>arturbien/React95</a><p>🌈🕹 Refreshed Windows 95 style UI components for your React app</p></li><li><a href=https://github.com/Tencent/tdesign-react>Tencent/tdesign-react</a><p>A React UI components lib for TDesign.</p></li><li><a href=https://github.com/marktext/marktext>marktext/marktext</a><p>📝A simple and elegant markdown editor, available for Linux, macOS and Windows.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/28/21, 11:07 AM<br>下一次刷新：12/28/21, 2:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/28/21, 2:08 PM<br>下一次刷新：12/28/21, 5:08 PM</p>
