@@ -109,7 +109,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ikeq/hexo-theme-inside>ikeq/hexo-theme-inside</a><p>🌈 SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside</p></li><li><a href=https://github.com/wibus-wee/STY-static>wibus-wee/STY-static</a><p>STY Assets Space</p></li><li><a href=https://github.com/pearmini/colorfu>pearmini/colorfu</a><p>Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈</p></li><li><a href=https://github.com/wibus-wee/STY-Build-sh>wibus-wee/STY-Build-sh</a><p>it is used to build sty release</p></li><li><a href=https://github.com/Tencent/tdesign-react>Tencent/tdesign-react</a><p>A React UI components lib for TDesign.</p></li></ul>
+<ul><li><a href=https://github.com/Co2333/myyearwithgit>Co2333/myyearwithgit</a><p>代码仓库年终总结报告。</p></li><li><a href=https://github.com/wibus-wee/STY-Doc>wibus-wee/STY-Doc</a></li><li><a href=https://github.com/LANDrop/LANDrop>LANDrop/LANDrop</a><p>Drop any files to any devices on your LAN.</p></li><li><a href=https://github.com/pearmini/colorfu>pearmini/colorfu</a><p>Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈</p></li><li><a href=https://github.com/521xueweihan/HelloGitHub>521xueweihan/HelloGitHub</a><p>:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -122,4 +122,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/31/21, 2:07 AM<br>下一次刷新：12/31/21, 5:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/31/21, 5:05 AM<br>下一次刷新：12/31/21, 8:05 AM</p>
