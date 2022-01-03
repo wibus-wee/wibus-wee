@@ -105,7 +105,17 @@ async function main() {
     gc('OPENSOURCE_DASHBOARD_ACTIVE'),
     generateOpenSourceSectionHtml(activeOpenSourceDetail),
   )
+  // 获取活跃的开源项目Gs详情
+  const activeOpenSourceDetailGs = await Promise.all(
+    opensource.gs.map((name) => {
+      return gh.get('/repos/' + name).then((data) => data.data)
+    }),
+  )
 
+  newContent = newContent.replace(
+    gc('OPENSOURCE_DASHBOARD_GS'),
+    generateOpenSourceSectionHtml(activeOpenSourceDetailGs),
+  )
   // 获取 Star
   const star: any[] = await gh
     .get('/users/' + github.name + '/starred')

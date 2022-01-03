@@ -95,9 +95,13 @@ UI Design        █████████░░░░░░░░░░░░
   <code><img height="20px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
 </p>
 
-**开源在...**
+**喜欢在...**
 
 <!-- opensource_dashboard:active -->
+
+**目前在...**
+
+<!-- opensource_dashboard:gs -->
 
 <!-- **最近写了...**
 
