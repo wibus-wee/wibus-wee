@@ -113,7 +113,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/dotnetcore/FastGithub>dotnetcore/FastGithub</a><p>github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题</p></li><li><a href=https://github.com/Innei/react-typewriter>Innei/react-typewriter</a><p>A simple component impl typewriter effect</p></li><li><a href=https://github.com/youranreus/G>youranreus/G</a><p>a graceful typecho theme</p></li><li><a href=https://github.com/NekoX-Dev/NekoX>NekoX-Dev/NekoX</a><p>The third-party Telegram android app.</p></li><li><a href=https://github.com/LANDrop/LANDrop>LANDrop/LANDrop</a><p>Drop any files to any devices on your LAN.</p></li></ul>
+<ul><li><a href=https://github.com/neat-run/wrapped>neat-run/wrapped</a><p>GitHub Wrapped, inspired by Spotify Wrapped</p></li><li><a href=https://github.com/babysor/MockingBird>babysor/MockingBird</a><p>🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time</p></li><li><a href=https://github.com/wibus-wee/STY-static>wibus-wee/STY-static</a><p>STY Assets Space</p></li><li><a href=https://github.com/google/zx>google/zx</a><p>A tool for writing better scripts</p></li><li><a href=https://github.com/rxhanson/Rectangle>rxhanson/Rectangle</a><p>Move and resize windows on macOS with keyboard shortcuts and snap areas</p></li></ul>
 
 **互联网上的偶像**
 
@@ -126,4 +126,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/11/22, 11:08 PM<br>下一次刷新：1/12/22, 2:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/12/22, 2:08 AM<br>下一次刷新：1/12/22, 5:08 AM</p>
