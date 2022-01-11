@@ -113,7 +113,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/neat-run/wrapped>neat-run/wrapped</a><p>GitHub Wrapped, inspired by Spotify Wrapped</p></li><li><a href=https://github.com/youranreus/G>youranreus/G</a><p>a graceful typecho theme</p></li><li><a href=https://github.com/Tencent/tdesign-react>Tencent/tdesign-react</a><p>A React UI components lib for TDesign.</p></li><li><a href=https://github.com/YunYouJun/vtuber>YunYouJun/vtuber</a><p>👻 Make a vtuber from one. 从一开始的 Vtuber</p></li><li><a href=https://github.com/wibus-wee/STY-Doc>wibus-wee/STY-Doc</a></li></ul>
+<ul><li><a href=https://github.com/Co2333/myyearwithgit>Co2333/myyearwithgit</a><p>代码仓库年终总结报告。</p></li><li><a href=https://github.com/dotnetcore/FastGithub>dotnetcore/FastGithub</a><p>github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题</p></li><li><a href=https://github.com/wibus-wee/STY-static>wibus-wee/STY-static</a><p>STY Assets Space</p></li><li><a href=https://github.com/youranreus/G>youranreus/G</a><p>a graceful typecho theme</p></li><li><a href=https://github.com/rxhanson/Rectangle>rxhanson/Rectangle</a><p>Move and resize windows on macOS with keyboard shortcuts and snap areas</p></li></ul>
 
 **互联网上的偶像**
 
@@ -126,4 +126,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/11/22, 11:10 AM<br>下一次刷新：1/11/22, 2:10 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/11/22, 2:08 PM<br>下一次刷新：1/11/22, 5:08 PM</p>
