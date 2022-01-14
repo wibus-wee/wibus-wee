@@ -113,7 +113,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/NekoX-Dev/NekoX>NekoX-Dev/NekoX</a><p>The third-party Telegram android app.</p></li><li><a href=https://github.com/Co2333/myyearwithgit>Co2333/myyearwithgit</a><p>代码仓库年终总结报告。</p></li><li><a href=https://github.com/YunYouJun/mirai-ts>YunYouJun/mirai-ts</a><p>🔧 Mirai(QQ Bot) JavaScript/TypeScript SDK for Node.js/Browser</p></li><li><a href=https://github.com/recharts/recharts>recharts/recharts</a><p>Redefined chart library built with React and D3</p></li><li><a href=https://github.com/ikeq/hexo-theme-inside>ikeq/hexo-theme-inside</a><p>🌈 SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside</p></li></ul>
+<ul><li><a href=https://github.com/YunYouJun/vtuber>YunYouJun/vtuber</a><p>👻 Make a vtuber from one. 从一开始的 Vtuber</p></li><li><a href=https://github.com/wibus-wee/STY-Doc>wibus-wee/STY-Doc</a></li><li><a href=https://github.com/neat-run/wrapped>neat-run/wrapped</a><p>GitHub Wrapped, inspired by Spotify Wrapped</p></li><li><a href=https://github.com/wibus-wee/GS-admin>wibus-wee/GS-admin</a><p>G·Space backend management terminal</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li></ul>
 
 **互联网上的偶像**
 
@@ -126,4 +126,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/14/22, 2:09 PM<br>下一次刷新：1/14/22, 5:09 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/14/22, 5:07 PM<br>下一次刷新：1/14/22, 8:07 PM</p>
