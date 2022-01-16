@@ -109,11 +109,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/Innei/nextjs-template>Innei/nextjs-template</a><p>NextJS template with prettier, eslint, typescript, tailwind, etc.</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, TailwindCSS.</p></li><li><a href=https://github.com/Innei/vite-react-tailwind-template>Innei/vite-react-tailwind-template</a><p>vite-react-tailwind-template</p></li><li><a href=https://github.com/Innei/wakatime-sync-action>Innei/wakatime-sync-action</a></li></ul>
+<ul><li><a href=https://github.com/matchai/awesome-pinned-gists>matchai/awesome-pinned-gists</a><p>📌✨ A collection of awesome dynamic pinned gists for GitHub</p></li><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/Innei/nextjs-template>Innei/nextjs-template</a><p>NextJS template with prettier, eslint, typescript, tailwind, etc.</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, TailwindCSS.</p></li><li><a href=https://github.com/Innei/vite-react-tailwind-template>Innei/vite-react-tailwind-template</a><p>vite-react-tailwind-template</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/windowjs/windowjs>windowjs/windowjs</a><p>Window.js is an open-source Javascript runtime for desktop graphics programming.</p></li><li><a href=https://github.com/recharts/recharts>recharts/recharts</a><p>Redefined chart library built with React and D3</p></li><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/ikeq/hexo-theme-inside>ikeq/hexo-theme-inside</a><p>🌈 SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside</p></li></ul>
+<ul><li><a href=https://github.com/privatenumber/tasuku>privatenumber/tasuku</a><p>✅ タスク — The minimal task runner for Node.js</p></li><li><a href=https://github.com/NekoX-Dev/NekoX>NekoX-Dev/NekoX</a><p>The third-party Telegram android app.</p></li><li><a href=https://github.com/windowjs/windowjs>windowjs/windowjs</a><p>Window.js is an open-source Javascript runtime for desktop graphics programming.</p></li><li><a href=https://github.com/takayama-lily/oicq>takayama-lily/oicq</a><p>QQ机器人协议库</p></li><li><a href=https://github.com/ikeq/hexo-theme-inside>ikeq/hexo-theme-inside</a><p>🌈 SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside</p></li></ul>
 
 **互联网上的偶像**
 
@@ -126,4 +126,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/16/22, 5:06 PM<br>下一次刷新：1/16/22, 8:06 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/16/22, 8:10 PM<br>下一次刷新：1/16/22, 11:10 PM</p>
