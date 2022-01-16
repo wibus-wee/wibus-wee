@@ -113,7 +113,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sivan/heti>sivan/heti</a><p>赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。</p></li><li><a href=https://github.com/project-mirai/mirai-api-http>project-mirai/mirai-api-http</a><p>Mirai HTTP API (console) plugin</p></li><li><a href=https://github.com/faker-js/faker>faker-js/faker</a><p>Generate massive amounts of fake data in the browser and node.js</p></li><li><a href=https://github.com/takayama-lily/oicq>takayama-lily/oicq</a><p>QQ机器人协议库</p></li><li><a href=https://github.com/mui-org/material-ui>mui-org/material-ui</a><p>MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.</p></li></ul>
+<ul><li><a href=https://github.com/windowjs/windowjs>windowjs/windowjs</a><p>Window.js is an open-source Javascript runtime for desktop graphics programming.</p></li><li><a href=https://github.com/recharts/recharts>recharts/recharts</a><p>Redefined chart library built with React and D3</p></li><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/ikeq/hexo-theme-inside>ikeq/hexo-theme-inside</a><p>🌈 SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside</p></li></ul>
 
 **互联网上的偶像**
 
@@ -126,4 +126,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/16/22, 2:08 PM<br>下一次刷新：1/16/22, 5:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/16/22, 5:06 PM<br>下一次刷新：1/16/22, 8:06 PM</p>
