@@ -113,7 +113,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/neat-run/wrapped>neat-run/wrapped</a><p>GitHub Wrapped, inspired by Spotify Wrapped</p></li><li><a href=https://github.com/hammerjs/hammer.js>hammerjs/hammer.js</a><p>A javascript library for multi-touch gestures :// You can touch this</p></li><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li><li><a href=https://github.com/Innei/react-message>Innei/react-message</a><p>A simple asynchronous React message popup utility</p></li><li><a href=https://github.com/faker-js/faker>faker-js/faker</a><p>Generate massive amounts of fake data in the browser and node.js</p></li></ul>
+<ul><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/youranreus/G>youranreus/G</a><p>a graceful typecho theme</p></li><li><a href=https://github.com/faker-js/faker>faker-js/faker</a><p>Generate massive amounts of fake data in the browser and node.js</p></li><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li><li><a href=https://github.com/hammerjs/hammer.js>hammerjs/hammer.js</a><p>A javascript library for multi-touch gestures :// You can touch this</p></li></ul>
 
 **互联网上的偶像**
 
@@ -126,4 +126,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/18/22, 5:07 PM<br>下一次刷新：1/18/22, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/18/22, 8:11 PM<br>下一次刷新：1/18/22, 11:11 PM</p>
