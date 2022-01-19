@@ -113,7 +113,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, TailwindCSS.</p></li><li><a href=https://github.com/privatenumber/tasuku>privatenumber/tasuku</a><p>✅ タスク — The minimal task runner for Node.js</p></li><li><a href=https://github.com/neat-run/wrapped>neat-run/wrapped</a><p>GitHub Wrapped, inspired by Spotify Wrapped</p></li><li><a href=https://github.com/Innei/vite-react-tailwind-template>Innei/vite-react-tailwind-template</a><p>vite-react-tailwind-template</p></li><li><a href=https://github.com/typegoose/typegoose>typegoose/typegoose</a><p>Typegoose - Define Mongoose models using TypeScript classes.</p></li></ul>
+<ul><li><a href=https://github.com/neat-run/wrapped>neat-run/wrapped</a><p>GitHub Wrapped, inspired by Spotify Wrapped</p></li><li><a href=https://github.com/laulzgoay/Briefness>laulzgoay/Briefness</a><p>一款简约的单栏 Typecho 主题，极致简洁的风格</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/privatenumber/tasuku>privatenumber/tasuku</a><p>✅ タスク — The minimal task runner for Node.js</p></li><li><a href=https://github.com/dotnetcore/FastGithub>dotnetcore/FastGithub</a><p>github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题</p></li></ul>
 
 **互联网上的偶像**
 
@@ -126,4 +126,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/19/22, 5:07 PM<br>下一次刷新：1/19/22, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/19/22, 8:10 PM<br>下一次刷新：1/19/22, 11:10 PM</p>
