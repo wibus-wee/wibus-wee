@@ -113,7 +113,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/YunYouJun/mirai-ts>YunYouJun/mirai-ts</a><p>🔧 Mirai(QQ Bot) JavaScript/TypeScript SDK for Node.js/Browser</p></li><li><a href=https://github.com/Innei/wakatime-sync-action>Innei/wakatime-sync-action</a></li><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/YunYouJun/vtuber>YunYouJun/vtuber</a><p>👻 Make a vtuber from one. 从一开始的 Vtuber</p></li><li><a href=https://github.com/Innei/react-message>Innei/react-message</a><p>A simple asynchronous React message popup utility</p></li></ul>
+<ul><li><a href=https://github.com/typegoose/typegoose>typegoose/typegoose</a><p>Typegoose - Define Mongoose models using TypeScript classes.</p></li><li><a href=https://github.com/Innei/react-message>Innei/react-message</a><p>A simple asynchronous React message popup utility</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/YunYouJun/vtuber>YunYouJun/vtuber</a><p>👻 Make a vtuber from one. 从一开始的 Vtuber</p></li></ul>
 
 **互联网上的偶像**
 
@@ -126,4 +126,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/20/22, 8:10 PM<br>下一次刷新：1/20/22, 11:10 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/20/22, 11:06 PM<br>下一次刷新：1/21/22, 2:06 AM</p>
