@@ -113,7 +113,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mui-org/material-ui>mui-org/material-ui</a><p>MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.</p></li><li><a href=https://github.com/youranreus/G>youranreus/G</a><p>a graceful typecho theme</p></li><li><a href=https://github.com/windowjs/windowjs>windowjs/windowjs</a><p>Window.js is an open-source Javascript runtime for desktop graphics programming.</p></li><li><a href=https://github.com/matchai/awesome-pinned-gists>matchai/awesome-pinned-gists</a><p>📌✨ A collection of awesome dynamic pinned gists for GitHub</p></li><li><a href=https://github.com/takayama-lily/oicq>takayama-lily/oicq</a><p>QQ机器人协议库</p></li></ul>
+<ul><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, TailwindCSS.</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/laulzgoay/Briefness>laulzgoay/Briefness</a><p>一款简约的单栏 Typecho 主题，极致简洁的风格</p></li><li><a href=https://github.com/YunYouJun/vtuber>YunYouJun/vtuber</a><p>👻 Make a vtuber from one. 从一开始的 Vtuber</p></li><li><a href=https://github.com/faker-js/faker>faker-js/faker</a><p>Generate massive amounts of fake data in the browser and node.js</p></li></ul>
 
 **互联网上的偶像**
 
@@ -126,4 +126,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/21/22, 11:06 AM<br>下一次刷新：1/21/22, 2:06 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/21/22, 2:08 PM<br>下一次刷新：1/21/22, 5:08 PM</p>
