@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/takayama-lily/oicq>takayama-lily/oicq</a><p>QQ机器人协议库</p></li><li><a href=https://github.com/privatenumber/tasuku>privatenumber/tasuku</a><p>✅ タスク — The minimal task runner for Node.js</p></li><li><a href=https://github.com/sivan/heti>sivan/heti</a><p>赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。</p></li><li><a href=https://github.com/imhanjie/gridea-theme-pure>imhanjie/gridea-theme-pure</a><p>一款专为 Gridea 设计的主题 - 简约、漂亮。</p></li><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li></ul>
+<ul><li><a href=https://github.com/project-mirai/mirai-api-http>project-mirai/mirai-api-http</a><p>Mirai HTTP API (console) plugin</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/faker-js/faker>faker-js/faker</a><p>Generate massive amounts of fake data in the browser and node.js</p></li><li><a href=https://github.com/windowjs/windowjs>windowjs/windowjs</a><p>Window.js is an open-source Javascript runtime for desktop graphics programming.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/22/22, 11:06 PM<br>下一次刷新：1/23/22, 2:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/23/22, 2:07 AM<br>下一次刷新：1/23/22, 5:07 AM</p>
