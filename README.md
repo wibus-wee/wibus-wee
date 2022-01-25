@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/Export-to-Markdown>Innei/Export-to-Markdown</a><p>这是从typecho数据库提取数据保存为hexo支持的markdown格式,方便迁移博客.</p></li><li><a href=https://github.com/sindresorhus/camelcase-keys>sindresorhus/camelcase-keys</a><p>Convert object keys to camel case</p></li><li><a href=https://github.com/Innei/react-message>Innei/react-message</a><p>A simple asynchronous React message popup utility</p></li><li><a href=https://github.com/imhanjie/gridea-theme-pure>imhanjie/gridea-theme-pure</a><p>一款专为 Gridea 设计的主题 - 简约、漂亮。</p></li><li><a href=https://github.com/Innei/wakatime-sync-action>Innei/wakatime-sync-action</a></li></ul>
+<ul><li><a href=https://github.com/laulzgoay/Briefness>laulzgoay/Briefness</a><p>一款简约的单栏 Typecho 主题，极致简洁的风格</p></li><li><a href=https://github.com/sivan/heti>sivan/heti</a><p>赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。</p></li><li><a href=https://github.com/mui-org/material-ui>mui-org/material-ui</a><p>MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.</p></li><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/Viglino/iconicss>Viglino/iconicss</a><p>More than 900 pure CSS3 icons!</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/25/22, 2:08 PM<br>下一次刷新：1/25/22, 5:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/25/22, 5:06 PM<br>下一次刷新：1/25/22, 8:06 PM</p>
