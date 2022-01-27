@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bs32g1038/node-blog>bs32g1038/node-blog</a><p>🔥✨ A react blog project base on nodejs, nestjs, mongoose, typescript, react, ant-design,nextjs</p></li><li><a href=https://github.com/Innei/Export-to-Markdown>Innei/Export-to-Markdown</a><p>这是从typecho数据库提取数据保存为hexo支持的markdown格式,方便迁移博客.</p></li><li><a href=https://github.com/mx-space/api-client>mx-space/api-client</a><p>A HTTP Client for mx-space RESTful API.</p></li><li><a href=https://github.com/imhanjie/gridea-theme-pure>imhanjie/gridea-theme-pure</a><p>一款专为 Gridea 设计的主题 - 简约、漂亮。</p></li><li><a href=https://github.com/windowjs/windowjs>windowjs/windowjs</a><p>Window.js is an open-source Javascript runtime for desktop graphics programming.</p></li></ul>
+<ul><li><a href=https://github.com/faker-js/faker>faker-js/faker</a><p>Generate massive amounts of fake data in the browser and node.js</p></li><li><a href=https://github.com/Innei/Export-to-Markdown>Innei/Export-to-Markdown</a><p>这是从typecho数据库提取数据保存为hexo支持的markdown格式,方便迁移博客.</p></li><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/github/webauthn-json>github/webauthn-json</a><p>🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.</p></li><li><a href=https://github.com/Innei/nextjs-template>Innei/nextjs-template</a><p>NextJS template with prettier, eslint, typescript, tailwind, etc.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/27/22, 5:07 PM<br>下一次刷新：1/27/22, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/27/22, 8:12 PM<br>下一次刷新：1/27/22, 11:12 PM</p>
