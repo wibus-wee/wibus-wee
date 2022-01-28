@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sindresorhus/camelcase-keys>sindresorhus/camelcase-keys</a><p>Convert object keys to camel case</p></li><li><a href=https://github.com/mx-space/api-client>mx-space/api-client</a><p>A HTTP Client for mx-space RESTful API.</p></li><li><a href=https://github.com/matchai/awesome-pinned-gists>matchai/awesome-pinned-gists</a><p>📌✨ A collection of awesome dynamic pinned gists for GitHub</p></li><li><a href=https://github.com/Innei/nextjs-template>Innei/nextjs-template</a><p>NextJS template with prettier, eslint, typescript, tailwind, etc.</p></li><li><a href=https://github.com/public-apis/public-apis>public-apis/public-apis</a><p>A collective list of free APIs</p></li></ul>
+<ul><li><a href=https://github.com/public-apis/public-apis>public-apis/public-apis</a><p>A collective list of free APIs</p></li><li><a href=https://github.com/Innei/vite-react-tailwind-template>Innei/vite-react-tailwind-template</a><p>vite-react-tailwind-template</p></li><li><a href=https://github.com/matchai/awesome-pinned-gists>matchai/awesome-pinned-gists</a><p>📌✨ A collection of awesome dynamic pinned gists for GitHub</p></li><li><a href=https://github.com/bs32g1038/node-blog>bs32g1038/node-blog</a><p>🔥✨ A react blog project base on nodejs, nestjs, mongoose, typescript, react, ant-design,nextjs</p></li><li><a href=https://github.com/github/webauthn-json>github/webauthn-json</a><p>🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/28/22, 5:05 AM<br>下一次刷新：1/28/22, 8:05 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/28/22, 8:24 AM<br>下一次刷新：1/28/22, 11:24 AM</p>
