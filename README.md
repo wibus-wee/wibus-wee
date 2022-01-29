@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/nextjs-template>Innei/nextjs-template</a><p>NextJS template with prettier, eslint, typescript, tailwind, etc.</p></li><li><a href=https://github.com/typegoose/typegoose>typegoose/typegoose</a><p>Typegoose - Define Mongoose models using TypeScript classes.</p></li><li><a href=https://github.com/Innei/vite-react-tailwind-template>Innei/vite-react-tailwind-template</a><p>vite-react-tailwind-template</p></li><li><a href=https://github.com/Innei/Export-to-Markdown>Innei/Export-to-Markdown</a><p>这是从typecho数据库提取数据保存为hexo支持的markdown格式,方便迁移博客.</p></li><li><a href=https://github.com/jwasham/coding-interview-university>jwasham/coding-interview-university</a><p>A complete computer science study plan to become a software engineer.</p></li></ul>
+<ul><li><a href=https://github.com/privatenumber/tasuku>privatenumber/tasuku</a><p>✅ タスク — The minimal task runner for Node.js</p></li><li><a href=https://github.com/bs32g1038/node-blog>bs32g1038/node-blog</a><p>🔥✨ A react blog project base on nodejs, nestjs, mongoose, typescript, react, ant-design,nextjs</p></li><li><a href=https://github.com/Innei/wakatime-sync-action>Innei/wakatime-sync-action</a></li><li><a href=https://github.com/faker-js/faker>faker-js/faker</a><p>Generate massive amounts of fake data in the browser and node.js</p></li><li><a href=https://github.com/Caviar-X/mcpi-rs>Caviar-X/mcpi-rs</a><p>rust version of Raspberryjuice api</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/29/22, 11:08 PM<br>下一次刷新：1/30/22, 2:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/30/22, 5:04 AM<br>下一次刷新：1/30/22, 8:04 AM</p>
