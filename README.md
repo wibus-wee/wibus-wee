@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bs32g1038/node-blog>bs32g1038/node-blog</a><p>🔥✨ A react blog project base on nodejs, nestjs, mongoose, typescript, react, ant-design,nextjs</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/project-mirai/mirai-api-http>project-mirai/mirai-api-http</a><p>Mirai HTTP API (console) plugin</p></li><li><a href=https://github.com/typegoose/typegoose>typegoose/typegoose</a><p>Typegoose - Define Mongoose models using TypeScript classes.</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, TailwindCSS.</p></li></ul>
+<ul><li><a href=https://github.com/Caviar-X/mcpi-rs>Caviar-X/mcpi-rs</a><p>rust version of Raspberryjuice api</p></li><li><a href=https://github.com/jwasham/coding-interview-university>jwasham/coding-interview-university</a><p>A complete computer science study plan to become a software engineer.</p></li><li><a href=https://github.com/laulzgoay/Briefness>laulzgoay/Briefness</a><p>一款简约的单栏 Typecho 主题，极致简洁的风格</p></li><li><a href=https://github.com/project-mirai/mirai-api-http>project-mirai/mirai-api-http</a><p>Mirai HTTP API (console) plugin</p></li><li><a href=https://github.com/matchai/awesome-pinned-gists>matchai/awesome-pinned-gists</a><p>📌✨ A collection of awesome dynamic pinned gists for GitHub</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/30/22, 8:25 AM<br>下一次刷新：1/30/22, 11:25 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/30/22, 11:07 AM<br>下一次刷新：1/30/22, 2:07 PM</p>
