@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mx-space/server-next>mx-space/server-next</a><p>😎 The next generation of RESTful API & GraphQL service and more for Mix Space, powered by @nestjs.</p></li><li><a href=https://github.com/tannerlinsley/react-query>tannerlinsley/react-query</a><p>⚛️ Hooks for fetching, caching and updating asynchronous data in React</p></li><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/github/webauthn-json>github/webauthn-json</a><p>🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.</p></li><li><a href=https://github.com/XJP-GIT/AntiZhaPian>XJP-GIT/AntiZhaPian</a><p>假的国家反诈中心</p></li></ul>
+<ul><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, TailwindCSS.</p></li><li><a href=https://github.com/XJP-GIT/AntiZhaPian>XJP-GIT/AntiZhaPian</a><p>假的国家反诈中心</p></li><li><a href=https://github.com/tannerlinsley/react-query>tannerlinsley/react-query</a><p>⚛️ Hooks for fetching, caching and updating asynchronous data in React</p></li><li><a href=https://github.com/Caviar-X/mcpi-rs>Caviar-X/mcpi-rs</a><p>rust version of Raspberryjuice api</p></li><li><a href=https://github.com/project-mirai/mirai-api-http>project-mirai/mirai-api-http</a><p>Mirai HTTP API (console) plugin</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/30/22, 5:06 PM<br>下一次刷新：1/30/22, 8:06 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/30/22, 8:09 PM<br>下一次刷新：1/30/22, 11:09 PM</p>
