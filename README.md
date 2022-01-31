@@ -110,11 +110,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/sofish/typo.css>sofish/typo.css</a><p>中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版</p></li><li><a href=https://github.com/Innei/raycast-extensions>Innei/raycast-extensions</a></li><li><a href=https://github.com/bilibili/ailab>bilibili/ailab</a></li><li><a href=https://github.com/Innei/components-playground>Innei/components-playground</a><p>用于分离测试组件的效果，或用于写组件 Demo，游乐场。</p></li><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li></ul>
+<ul><li><a href=https://github.com/YunYouJun/utils>YunYouJun/utils</a><p>🔧 Custom utils. 供日常使用的脚本小工具。</p></li><li><a href=https://github.com/YunYouJun/wc-github-corners>YunYouJun/wc-github-corners</a><p>:octocat: A web component for github corners. Can be used anywhere.</p></li><li><a href=https://github.com/sofish/typo.css>sofish/typo.css</a><p>中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版</p></li><li><a href=https://github.com/Innei/raycast-extensions>Innei/raycast-extensions</a></li><li><a href=https://github.com/bilibili/ailab>bilibili/ailab</a></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, TailwindCSS.</p></li><li><a href=https://github.com/XJP-GIT/AntiZhaPian>XJP-GIT/AntiZhaPian</a><p>假的国家反诈中心</p></li><li><a href=https://github.com/tannerlinsley/react-query>tannerlinsley/react-query</a><p>⚛️ Hooks for fetching, caching and updating asynchronous data in React</p></li><li><a href=https://github.com/Caviar-X/mcpi-rs>Caviar-X/mcpi-rs</a><p>rust version of Raspberryjuice api</p></li><li><a href=https://github.com/project-mirai/mirai-api-http>project-mirai/mirai-api-http</a><p>Mirai HTTP API (console) plugin</p></li></ul>
+<ul><li><a href=https://github.com/public-apis/public-apis>public-apis/public-apis</a><p>A collective list of free APIs</p></li><li><a href=https://github.com/Innei/components-playground>Innei/components-playground</a><p>用于分离测试组件的效果，或用于写组件 Demo，游乐场。</p></li><li><a href=https://github.com/tannerlinsley/react-query>tannerlinsley/react-query</a><p>⚛️ Hooks for fetching, caching and updating asynchronous data in React</p></li><li><a href=https://github.com/laulzgoay/Briefness>laulzgoay/Briefness</a><p>一款简约的单栏 Typecho 主题，极致简洁的风格</p></li><li><a href=https://github.com/Innei/nextjs-template>Innei/nextjs-template</a><p>NextJS template with prettier, eslint, typescript, tailwind, etc.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/30/22, 8:09 PM<br>下一次刷新：1/30/22, 11:09 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/31/22, 11:06 AM<br>下一次刷新：1/31/22, 2:06 PM</p>
