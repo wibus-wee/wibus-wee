@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li><li><a href=https://github.com/matchai/awesome-pinned-gists>matchai/awesome-pinned-gists</a><p>📌✨ A collection of awesome dynamic pinned gists for GitHub</p></li><li><a href=https://github.com/typegoose/typegoose>typegoose/typegoose</a><p>Typegoose - Define Mongoose models using TypeScript classes.</p></li><li><a href=https://github.com/Innei/vite-react-tailwind-template>Innei/vite-react-tailwind-template</a><p>vite-react-tailwind-template</p></li></ul>
+<ul><li><a href=https://github.com/Caviar-X/mcpi-rs>Caviar-X/mcpi-rs</a><p>rust version of Raspberryjuice api</p></li><li><a href=https://github.com/mx-space/api-client>mx-space/api-client</a><p>A HTTP Client for mx-space RESTful API.</p></li><li><a href=https://github.com/sindresorhus/camelcase-keys>sindresorhus/camelcase-keys</a><p>Convert object keys to camel case</p></li><li><a href=https://github.com/github/webauthn-json>github/webauthn-json</a><p>🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.</p></li><li><a href=https://github.com/tannerlinsley/react-query>tannerlinsley/react-query</a><p>⚛️ Hooks for fetching, caching and updating asynchronous data in React</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/22, 2:07 AM<br>下一次刷新：2/1/22, 5:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/22, 5:05 AM<br>下一次刷新：2/1/22, 8:05 AM</p>
