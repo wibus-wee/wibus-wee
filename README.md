@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/public-apis/public-apis>public-apis/public-apis</a><p>A collective list of free APIs</p></li><li><a href=https://github.com/Innei/components-playground>Innei/components-playground</a><p>用于分离测试组件的效果，或用于写组件 Demo，游乐场。</p></li><li><a href=https://github.com/github/webauthn-json>github/webauthn-json</a><p>🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.</p></li><li><a href=https://github.com/bs32g1038/node-blog>bs32g1038/node-blog</a><p>🔥✨ A react blog project base on nodejs, nestjs, mongoose, typescript, react, ant-design,nextjs</p></li><li><a href=https://github.com/laulzgoay/Briefness>laulzgoay/Briefness</a><p>一款简约的单栏 Typecho 主题，极致简洁的风格</p></li></ul>
+<ul><li><a href=https://github.com/Innei/components-playground>Innei/components-playground</a><p>用于分离测试组件的效果，或用于写组件 Demo，游乐场。</p></li><li><a href=https://github.com/Innei/nextjs-template>Innei/nextjs-template</a><p>NextJS template with prettier, eslint, typescript, tailwind, etc.</p></li><li><a href=https://github.com/github/webauthn-json>github/webauthn-json</a><p>🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.</p></li><li><a href=https://github.com/Innei/wakatime-sync-action>Innei/wakatime-sync-action</a></li><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/31/22, 5:06 PM<br>下一次刷新：1/31/22, 8:06 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/31/22, 8:10 PM<br>下一次刷新：1/31/22, 11:10 PM</p>
