@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/Viglino/iconicss>Viglino/iconicss</a><p>More than 900 pure CSS3 icons!</p></li><li><a href=https://github.com/Innei/vite-react-tailwind-template>Innei/vite-react-tailwind-template</a><p>vite-react-tailwind-template</p></li></ul>
+<ul><li><a href=https://github.com/Caviar-X/mcpi-rs>Caviar-X/mcpi-rs</a><p>rust version of Raspberryjuice api</p></li><li><a href=https://github.com/public-apis/public-apis>public-apis/public-apis</a><p>A collective list of free APIs</p></li><li><a href=https://github.com/mx-space/server-next>mx-space/server-next</a><p>😎 The next generation of RESTful API & GraphQL service and more for Mix Space, powered by @nestjs.</p></li><li><a href=https://github.com/Innei/components-playground>Innei/components-playground</a><p>用于分离测试组件的效果，或用于写组件 Demo，游乐场。</p></li><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/22, 8:28 AM<br>下一次刷新：2/1/22, 11:28 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/22, 11:07 AM<br>下一次刷新：2/1/22, 2:07 PM</p>
