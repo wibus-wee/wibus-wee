@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/nestjs-react-monorepo-template>Innei/nestjs-react-monorepo-template</a><p>NestJS + React + Vite + MongoDB monorepo template.</p></li><li><a href=https://github.com/Innei/components-playground>Innei/components-playground</a><p>用于分离测试组件的效果，或用于写组件 Demo，游乐场。</p></li><li><a href=https://github.com/streamich/react-use>streamich/react-use</a><p>React Hooks — 👍</p></li><li><a href=https://github.com/mx-space/server-next>mx-space/server-next</a><p>😎 The next generation of RESTful API & GraphQL service and more for Mix Space, powered by @nestjs.</p></li><li><a href=https://github.com/Innei/wakatime-sync-action>Innei/wakatime-sync-action</a></li></ul>
+<ul><li><a href=https://github.com/Caviar-X/mcpi-rs>Caviar-X/mcpi-rs</a><p>rust version of Raspberryjuice api</p></li><li><a href=https://github.com/Innei/wakatime-sync-action>Innei/wakatime-sync-action</a></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, TailwindCSS.</p></li><li><a href=https://github.com/jwasham/coding-interview-university>jwasham/coding-interview-university</a><p>A complete computer science study plan to become a software engineer.</p></li><li><a href=https://github.com/public-apis/public-apis>public-apis/public-apis</a><p>A collective list of free APIs</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/22, 11:09 PM<br>下一次刷新：2/2/22, 2:09 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/22, 2:08 AM<br>下一次刷新：2/2/22, 5:08 AM</p>
