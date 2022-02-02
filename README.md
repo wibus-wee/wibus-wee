@@ -110,11 +110,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Tsuk1ko/bilibili-live-chat>Tsuk1ko/bilibili-live-chat</a><p>📽️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬</p></li><li><a href=https://github.com/revoltchat/self-hosted>revoltchat/self-hosted</a><p>Deploy Revolt using Docker.</p></li><li><a href=https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup>maximbilan/Mac-OS-X-App-Menu-Bar-Popup</a><p>Mac OS X Application like a menu bar popup message</p></li><li><a href=https://github.com/maxogden/menubar>maxogden/menubar</a><p>➖ high level way to create menubar desktop applications with electron</p></li><li><a href=https://github.com/sindresorhus/awesome-electron>sindresorhus/awesome-electron</a><p>Useful resources for creating apps with Electron</p></li></ul>
+<ul><li><a href=https://github.com/progrium/macdriver>progrium/macdriver</a><p>Native Mac APIs for Go</p></li><li><a href=https://github.com/Tsuk1ko/bilibili-live-chat>Tsuk1ko/bilibili-live-chat</a><p>📽️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬</p></li><li><a href=https://github.com/revoltchat/self-hosted>revoltchat/self-hosted</a><p>Deploy Revolt using Docker.</p></li><li><a href=https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup>maximbilan/Mac-OS-X-App-Menu-Bar-Popup</a><p>Mac OS X Application like a menu bar popup message</p></li><li><a href=https://github.com/maxogden/menubar>maxogden/menubar</a><p>➖ high level way to create menubar desktop applications with electron</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/YunYouJun/utils>YunYouJun/utils</a><p>🔧 Custom utils. 供日常使用的脚本小工具。</p></li><li><a href=https://github.com/Innei/components-playground>Innei/components-playground</a><p>用于分离测试组件的效果，或用于写组件 Demo，游乐场。</p></li><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li><li><a href=https://github.com/YunYouJun/wc-github-corners>YunYouJun/wc-github-corners</a><p>:octocat: A web component for github corners. Can be used anywhere.</p></li><li><a href=https://github.com/bs32g1038/node-blog>bs32g1038/node-blog</a><p>🔥✨ A react blog project base on nodejs, nestjs, mongoose, typescript, react, ant-design,nextjs</p></li></ul>
+<ul><li><a href=https://github.com/yiliansource/party-js>yiliansource/party-js</a><p>A JavaScript library to brighten up your user's site experience with visual effects!</p></li><li><a href=https://github.com/jwasham/coding-interview-university>jwasham/coding-interview-university</a><p>A complete computer science study plan to become a software engineer.</p></li><li><a href=https://github.com/spiderT/electron-learn>spiderT/electron-learn</a><p>electron</p></li><li><a href=https://github.com/airbnb/lottie-web>airbnb/lottie-web</a><p>Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/</p></li><li><a href=https://github.com/Innei/raycast-extensions>Innei/raycast-extensions</a></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/22, 2:08 PM<br>下一次刷新：2/2/22, 5:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/22, 5:06 PM<br>下一次刷新：2/2/22, 8:06 PM</p>
