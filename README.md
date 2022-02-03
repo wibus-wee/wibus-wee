@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/airbnb/lottie-web>airbnb/lottie-web</a><p>Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/</p></li><li><a href=https://github.com/EtherDream/freecdn>EtherDream/freecdn</a><p>A front-end CDN based on ServiceWorker</p></li><li><a href=https://github.com/Agezao/confetti-js>Agezao/confetti-js</a><p>Easily Generate random confetti for your above-the-fold content</p></li><li><a href=https://github.com/Caviar-X/mcpi-rs>Caviar-X/mcpi-rs</a><p>rust version of Raspberryjuice api</p></li><li><a href=https://github.com/YunYouJun/wc-github-corners>YunYouJun/wc-github-corners</a><p>:octocat: A web component for github corners. Can be used anywhere.</p></li></ul>
+<ul><li><a href=https://github.com/Agezao/confetti-js>Agezao/confetti-js</a><p>Easily Generate random confetti for your above-the-fold content</p></li><li><a href=https://github.com/sofish/typo.css>sofish/typo.css</a><p>中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版</p></li><li><a href=https://github.com/YunYouJun/wc-github-corners>YunYouJun/wc-github-corners</a><p>:octocat: A web component for github corners. Can be used anywhere.</p></li><li><a href=https://github.com/Innei/components-playground>Innei/components-playground</a><p>用于分离测试组件的效果，或用于写组件 Demo，游乐场。</p></li><li><a href=https://github.com/YunYouJun/utils>YunYouJun/utils</a><p>🔧 Custom utils. 供日常使用的脚本小工具。</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/22, 5:06 AM<br>下一次刷新：2/3/22, 8:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/22, 8:24 AM<br>下一次刷新：2/3/22, 11:24 AM</p>
