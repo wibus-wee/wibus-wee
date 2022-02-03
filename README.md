@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/catdad/canvas-confetti>catdad/canvas-confetti</a><p>🎉 on-demand confetti gun</p></li><li><a href=https://github.com/sindresorhus/awesome-electron>sindresorhus/awesome-electron</a><p>Useful resources for creating apps with Electron</p></li><li><a href=https://github.com/sofish/typo.css>sofish/typo.css</a><p>中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版</p></li><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li><li><a href=https://github.com/outline/rich-markdown-editor>outline/rich-markdown-editor</a><p>The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:</p></li></ul>
+<ul><li><a href=https://github.com/Agezao/confetti-js>Agezao/confetti-js</a><p>Easily Generate random confetti for your above-the-fold content</p></li><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li><li><a href=https://github.com/bilibili/ailab>bilibili/ailab</a></li><li><a href=https://github.com/bs32g1038/node-blog>bs32g1038/node-blog</a><p>🔥✨ A react blog project base on nodejs, nestjs, mongoose, typescript, react, ant-design,nextjs</p></li><li><a href=https://github.com/klaussinani/ao>klaussinani/ao</a><p>Elegant Microsoft To-Do desktop app</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/22, 11:07 AM<br>下一次刷新：2/3/22, 2:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/22, 2:08 PM<br>下一次刷新：2/3/22, 5:08 PM</p>
