@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/octalmage/robotjs>octalmage/robotjs</a><p>Node.js Desktop Automation.</p></li><li><a href=https://github.com/wilix-team/iohook>wilix-team/iohook</a><p>Node.js global keyboard and mouse listener.</p></li><li><a href=https://github.com/bilibili/ailab>bilibili/ailab</a></li><li><a href=https://github.com/yiliansource/party-js>yiliansource/party-js</a><p>A JavaScript library to brighten up your user's site experience with visual effects!</p></li><li><a href=https://github.com/YunYouJun/utils>YunYouJun/utils</a><p>🔧 Custom utils. 供日常使用的脚本小工具。</p></li></ul>
+<ul><li><a href=https://github.com/YunYouJun/utils>YunYouJun/utils</a><p>🔧 Custom utils. 供日常使用的脚本小工具。</p></li><li><a href=https://github.com/klaussinani/ao>klaussinani/ao</a><p>Elegant Microsoft To-Do desktop app</p></li><li><a href=https://github.com/outline/rich-markdown-editor>outline/rich-markdown-editor</a><p>The open source React and Prosemirror based markdown editor that powers Outline. Want to try it out? Create an account:</p></li><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li><li><a href=https://github.com/Caviar-X/mcpi-rs>Caviar-X/mcpi-rs</a><p>rust version of Raspberryjuice api</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/22, 8:10 PM<br>下一次刷新：2/3/22, 11:10 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/22, 11:06 PM<br>下一次刷新：2/4/22, 2:06 AM</p>
