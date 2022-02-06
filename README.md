@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sindresorhus/awesome-electron>sindresorhus/awesome-electron</a><p>Useful resources for creating apps with Electron</p></li><li><a href=https://github.com/yiliansource/party-js>yiliansource/party-js</a><p>A JavaScript library to brighten up your user's site experience with visual effects!</p></li><li><a href=https://github.com/spiderT/electron-learn>spiderT/electron-learn</a><p>electron</p></li><li><a href=https://github.com/Innei/raycast-extensions>Innei/raycast-extensions</a></li><li><a href=https://github.com/tannerlinsley/react-query>tannerlinsley/react-query</a><p>⚛️ Hooks for fetching, caching and updating asynchronous data in React</p></li></ul>
+<ul><li><a href=https://github.com/octalmage/robotjs>octalmage/robotjs</a><p>Node.js Desktop Automation.</p></li><li><a href=https://github.com/Tsuk1ko/bilibili-live-chat>Tsuk1ko/bilibili-live-chat</a><p>📽️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬</p></li><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li><li><a href=https://github.com/klaussinani/ao>klaussinani/ao</a><p>Elegant Microsoft To-Do desktop app</p></li><li><a href=https://github.com/sofish/typo.css>sofish/typo.css</a><p>中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/22, 5:07 PM<br>下一次刷新：2/6/22, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/22, 8:09 PM<br>下一次刷新：2/6/22, 11:09 PM</p>
