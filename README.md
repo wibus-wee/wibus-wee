@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/YunYouJun/wc-github-corners>YunYouJun/wc-github-corners</a><p>:octocat: A web component for github corners. Can be used anywhere.</p></li><li><a href=https://github.com/airbnb/lottie-web>airbnb/lottie-web</a><p>Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/</p></li><li><a href=https://github.com/catdad/canvas-confetti>catdad/canvas-confetti</a><p>🎉 on-demand confetti gun</p></li><li><a href=https://github.com/Agezao/confetti-js>Agezao/confetti-js</a><p>Easily Generate random confetti for your above-the-fold content</p></li><li><a href=https://github.com/a334713698/Pigo>a334713698/Pigo</a><p>Pigo番茄钟iOS版</p></li></ul>
+<ul><li><a href=https://github.com/sindresorhus/awesome-electron>sindresorhus/awesome-electron</a><p>Useful resources for creating apps with Electron</p></li><li><a href=https://github.com/yiliansource/party-js>yiliansource/party-js</a><p>A JavaScript library to brighten up your user's site experience with visual effects!</p></li><li><a href=https://github.com/spiderT/electron-learn>spiderT/electron-learn</a><p>electron</p></li><li><a href=https://github.com/Innei/raycast-extensions>Innei/raycast-extensions</a></li><li><a href=https://github.com/tannerlinsley/react-query>tannerlinsley/react-query</a><p>⚛️ Hooks for fetching, caching and updating asynchronous data in React</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/22, 2:08 PM<br>下一次刷新：2/6/22, 5:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/22, 5:07 PM<br>下一次刷新：2/6/22, 8:07 PM</p>
