@@ -110,11 +110,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/pwxcoo/chinese-xinhua>pwxcoo/chinese-xinhua</a><p>:orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。</p></li><li><a href=https://github.com/alda-lang/alda>alda-lang/alda</a><p>A music programming language for musicians. :notes:</p></li><li><a href=https://github.com/mqyqingfeng/Wheels>mqyqingfeng/Wheels</a><p>以自己是否能造出轮子来衡量学习的效果</p></li><li><a href=https://github.com/progrium/macdriver>progrium/macdriver</a><p>Native Mac APIs for Go</p></li><li><a href=https://github.com/Tsuk1ko/bilibili-live-chat>Tsuk1ko/bilibili-live-chat</a><p>📽️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬</p></li></ul>
+<ul><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/pwxcoo/chinese-xinhua>pwxcoo/chinese-xinhua</a><p>:orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。</p></li><li><a href=https://github.com/alda-lang/alda>alda-lang/alda</a><p>A music programming language for musicians. :notes:</p></li><li><a href=https://github.com/mqyqingfeng/Wheels>mqyqingfeng/Wheels</a><p>以自己是否能造出轮子来衡量学习的效果</p></li><li><a href=https://github.com/progrium/macdriver>progrium/macdriver</a><p>Native Mac APIs for Go</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/raycast-extensions>Innei/raycast-extensions</a></li><li><a href=https://github.com/veler/DevToys>veler/DevToys</a><p>A Swiss Army knife for developers.</p></li><li><a href=https://github.com/tannerlinsley/react-query>tannerlinsley/react-query</a><p>⚛️ Hooks for fetching, caching and updating asynchronous data in React</p></li><li><a href=https://github.com/octalmage/robotjs>octalmage/robotjs</a><p>Node.js Desktop Automation.</p></li><li><a href=https://github.com/sindresorhus/awesome-electron>sindresorhus/awesome-electron</a><p>Useful resources for creating apps with Electron</p></li></ul>
+<ul><li><a href=https://github.com/YunYouJun/wc-github-corners>YunYouJun/wc-github-corners</a><p>:octocat: A web component for github corners. Can be used anywhere.</p></li><li><a href=https://github.com/airbnb/lottie-web>airbnb/lottie-web</a><p>Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/</p></li><li><a href=https://github.com/catdad/canvas-confetti>catdad/canvas-confetti</a><p>🎉 on-demand confetti gun</p></li><li><a href=https://github.com/Agezao/confetti-js>Agezao/confetti-js</a><p>Easily Generate random confetti for your above-the-fold content</p></li><li><a href=https://github.com/a334713698/Pigo>a334713698/Pigo</a><p>Pigo番茄钟iOS版</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/22, 11:07 AM<br>下一次刷新：2/6/22, 2:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/22, 2:08 PM<br>下一次刷新：2/6/22, 5:08 PM</p>
