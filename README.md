@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Agezao/confetti-js>Agezao/confetti-js</a><p>Easily Generate random confetti for your above-the-fold content</p></li><li><a href=https://github.com/a334713698/Pigo>a334713698/Pigo</a><p>Pigo番茄钟iOS版</p></li><li><a href=https://github.com/mqyqingfeng/Wheels>mqyqingfeng/Wheels</a><p>以自己是否能造出轮子来衡量学习的效果</p></li><li><a href=https://github.com/progrium/macdriver>progrium/macdriver</a><p>Native Mac APIs for Go</p></li><li><a href=https://github.com/yiliansource/party-js>yiliansource/party-js</a><p>A JavaScript library to brighten up your user's site experience with visual effects!</p></li></ul>
+<ul><li><a href=https://github.com/YunYouJun/wc-github-corners>YunYouJun/wc-github-corners</a><p>:octocat: A web component for github corners. Can be used anywhere.</p></li><li><a href=https://github.com/EtherDream/freecdn>EtherDream/freecdn</a><p>A front-end CDN based on ServiceWorker</p></li><li><a href=https://github.com/octalmage/robotjs>octalmage/robotjs</a><p>Node.js Desktop Automation.</p></li><li><a href=https://github.com/revoltchat/self-hosted>revoltchat/self-hosted</a><p>Deploy Revolt using Docker.</p></li><li><a href=https://github.com/a334713698/Pigo>a334713698/Pigo</a><p>Pigo番茄钟iOS版</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/10/22, 2:07 AM<br>下一次刷新：2/10/22, 5:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/10/22, 5:06 AM<br>下一次刷新：2/10/22, 8:06 AM</p>
