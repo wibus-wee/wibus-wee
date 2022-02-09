@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/YunYouJun/utils>YunYouJun/utils</a><p>🔧 Custom utils. 供日常使用的脚本小工具。</p></li><li><a href=https://github.com/mqyqingfeng/Wheels>mqyqingfeng/Wheels</a><p>以自己是否能造出轮子来衡量学习的效果</p></li><li><a href=https://github.com/revoltchat/self-hosted>revoltchat/self-hosted</a><p>Deploy Revolt using Docker.</p></li><li><a href=https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup>maximbilan/Mac-OS-X-App-Menu-Bar-Popup</a><p>Mac OS X Application like a menu bar popup message</p></li><li><a href=https://github.com/YunYouJun/wc-github-corners>YunYouJun/wc-github-corners</a><p>:octocat: A web component for github corners. Can be used anywhere.</p></li></ul>
+<ul><li><a href=https://github.com/maxogden/menubar>maxogden/menubar</a><p>➖ high level way to create menubar desktop applications with electron</p></li><li><a href=https://github.com/YunYouJun/wc-github-corners>YunYouJun/wc-github-corners</a><p>:octocat: A web component for github corners. Can be used anywhere.</p></li><li><a href=https://github.com/revoltchat/self-hosted>revoltchat/self-hosted</a><p>Deploy Revolt using Docker.</p></li><li><a href=https://github.com/DeveloperLx/macOS_Development_Tutorials_translation>DeveloperLx/macOS_Development_Tutorials_translation</a><p>Translation of macOS development tutorials.</p></li><li><a href=https://github.com/mqyqingfeng/Wheels>mqyqingfeng/Wheels</a><p>以自己是否能造出轮子来衡量学习的效果</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/9/22, 5:06 PM<br>下一次刷新：2/9/22, 8:06 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/9/22, 8:10 PM<br>下一次刷新：2/9/22, 11:10 PM</p>
