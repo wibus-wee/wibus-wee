@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/progrium/macdriver>progrium/macdriver</a><p>Native Mac APIs for Go</p></li><li><a href=https://github.com/pwxcoo/chinese-xinhua>pwxcoo/chinese-xinhua</a><p>:orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。</p></li><li><a href=https://github.com/yiliansource/party-js>yiliansource/party-js</a><p>A JavaScript library to brighten up your user's site experience with visual effects!</p></li><li><a href=https://github.com/EtherDream/freecdn>EtherDream/freecdn</a><p>A front-end CDN based on ServiceWorker</p></li><li><a href=https://github.com/airbnb/lottie-web>airbnb/lottie-web</a><p>Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/</p></li></ul>
+<ul><li><a href=https://github.com/07akioni/xicons>07akioni/xicons</a><p>SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)</p></li><li><a href=https://github.com/EtherDream/freecdn>EtherDream/freecdn</a><p>A front-end CDN based on ServiceWorker</p></li><li><a href=https://github.com/pwxcoo/chinese-xinhua>pwxcoo/chinese-xinhua</a><p>:orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。</p></li><li><a href=https://github.com/DeveloperLx/macOS_Development_Tutorials_translation>DeveloperLx/macOS_Development_Tutorials_translation</a><p>Translation of macOS development tutorials.</p></li><li><a href=https://github.com/Agezao/confetti-js>Agezao/confetti-js</a><p>Easily Generate random confetti for your above-the-fold content</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/10/22, 5:07 PM<br>下一次刷新：2/10/22, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/10/22, 8:10 PM<br>下一次刷新：2/10/22, 11:10 PM</p>
