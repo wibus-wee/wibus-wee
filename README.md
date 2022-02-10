@@ -110,11 +110,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/dragonir/3d>dragonir/3d</a><p>3d</p></li><li><a href=https://github.com/nextauthjs/next-auth>nextauthjs/next-auth</a><p>Authentication for Next.js</p></li><li><a href=https://github.com/996icu/996.ICU>996icu/996.ICU</a><p>Repo for counting stars and contributing. Press F to pay respect to glorious developers.</p></li><li><a href=https://github.com/07akioni/xicons>07akioni/xicons</a><p>SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li></ul>
+<ul><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li><li><a href=https://github.com/07akioni/ilw>07akioni/ilw</a></li><li><a href=https://github.com/PGYER/codefever>PGYER/codefever</a><p>CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!</p></li><li><a href=https://github.com/flmnt/graphemer>flmnt/graphemer</a><p>Unicode character splitter</p></li><li><a href=https://github.com/dragonir/3d>dragonir/3d</a><p>3d</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/YunYouJun/utils>YunYouJun/utils</a><p>🔧 Custom utils. 供日常使用的脚本小工具。</p></li><li><a href=https://github.com/wilix-team/iohook>wilix-team/iohook</a><p>Node.js global keyboard and mouse listener.</p></li><li><a href=https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup>maximbilan/Mac-OS-X-App-Menu-Bar-Popup</a><p>Mac OS X Application like a menu bar popup message</p></li><li><a href=https://github.com/airbnb/lottie-web>airbnb/lottie-web</a><p>Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/</p></li><li><a href=https://github.com/YunYouJun/wc-github-corners>YunYouJun/wc-github-corners</a><p>:octocat: A web component for github corners. Can be used anywhere.</p></li></ul>
+<ul><li><a href=https://github.com/07akioni/xicons>07akioni/xicons</a><p>SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)</p></li><li><a href=https://github.com/Agezao/confetti-js>Agezao/confetti-js</a><p>Easily Generate random confetti for your above-the-fold content</p></li><li><a href=https://github.com/sindresorhus/awesome-electron>sindresorhus/awesome-electron</a><p>Useful resources for creating apps with Electron</p></li><li><a href=https://github.com/Tsuk1ko/bilibili-live-chat>Tsuk1ko/bilibili-live-chat</a><p>📽️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬</p></li><li><a href=https://github.com/spiderT/electron-learn>spiderT/electron-learn</a><p>electron</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/10/22, 11:06 AM<br>下一次刷新：2/10/22, 2:06 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/10/22, 2:08 PM<br>下一次刷新：2/10/22, 5:08 PM</p>
