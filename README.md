@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/revoltchat/self-hosted>revoltchat/self-hosted</a><p>Deploy Revolt using Docker.</p></li><li><a href=https://github.com/progrium/macdriver>progrium/macdriver</a><p>Native Mac APIs for Go</p></li><li><a href=https://github.com/nextauthjs/next-auth>nextauthjs/next-auth</a><p>Authentication for Next.js</p></li><li><a href=https://github.com/Agezao/confetti-js>Agezao/confetti-js</a><p>Easily Generate random confetti for your above-the-fold content</p></li><li><a href=https://github.com/yiliansource/party-js>yiliansource/party-js</a><p>A JavaScript library to brighten up your user's site experience with visual effects!</p></li></ul>
+<ul><li><a href=https://github.com/EtherDream/freecdn>EtherDream/freecdn</a><p>A front-end CDN based on ServiceWorker</p></li><li><a href=https://github.com/maxogden/menubar>maxogden/menubar</a><p>➖ high level way to create menubar desktop applications with electron</p></li><li><a href=https://github.com/flmnt/graphemer>flmnt/graphemer</a><p>Unicode character splitter</p></li><li><a href=https://github.com/revoltchat/self-hosted>revoltchat/self-hosted</a><p>Deploy Revolt using Docker.</p></li><li><a href=https://github.com/nextauthjs/next-auth>nextauthjs/next-auth</a><p>Authentication for Next.js</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/22, 5:07 PM<br>下一次刷新：2/11/22, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/22, 8:10 PM<br>下一次刷新：2/11/22, 11:10 PM</p>
