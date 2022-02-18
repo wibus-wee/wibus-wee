@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Tsuk1ko/bilibili-live-chat>Tsuk1ko/bilibili-live-chat</a><p>📽️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬</p></li><li><a href=https://github.com/sindresorhus/awesome-electron>sindresorhus/awesome-electron</a><p>Useful resources for creating apps with Electron</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li><li><a href=https://github.com/maxogden/menubar>maxogden/menubar</a><p>➖ high level way to create menubar desktop applications with electron</p></li></ul>
+<ul><li><a href=https://github.com/sindresorhus/awesome-electron>sindresorhus/awesome-electron</a><p>Useful resources for creating apps with Electron</p></li><li><a href=https://github.com/dragonir/3d>dragonir/3d</a><p>Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup>maximbilan/Mac-OS-X-App-Menu-Bar-Popup</a><p>Mac OS X Application like a menu bar popup message</p></li><li><a href=https://github.com/flmnt/graphemer>flmnt/graphemer</a><p>Unicode character splitter</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/18/22, 5:08 AM<br>下一次刷新：2/18/22, 8:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/18/22, 8:30 AM<br>下一次刷新：2/18/22, 11:30 AM</p>
