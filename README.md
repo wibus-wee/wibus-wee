@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/maxogden/menubar>maxogden/menubar</a><p>➖ high level way to create menubar desktop applications with electron</p></li><li><a href=https://github.com/spiderT/electron-learn>spiderT/electron-learn</a><p>electron</p></li><li><a href=https://github.com/mqyqingfeng/Wheels>mqyqingfeng/Wheels</a><p>以自己是否能造出轮子来衡量学习的效果</p></li><li><a href=https://github.com/sindresorhus/awesome-electron>sindresorhus/awesome-electron</a><p>Useful resources for creating apps with Electron</p></li><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li></ul>
+<ul><li><a href=https://github.com/nextauthjs/next-auth>nextauthjs/next-auth</a><p>Authentication for Next.js</p></li><li><a href=https://github.com/iconify/iconify>iconify/iconify</a><p>Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!</p></li><li><a href=https://github.com/sindresorhus/got>sindresorhus/got</a><p>🌐 Human-friendly and powerful HTTP request library for Node.js</p></li><li><a href=https://github.com/alda-lang/alda>alda-lang/alda</a><p>A music programming language for musicians. :notes:</p></li><li><a href=https://github.com/progrium/macdriver>progrium/macdriver</a><p>Native Mac APIs for Go</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/19/22, 8:31 AM<br>下一次刷新：2/19/22, 11:31 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/19/22, 11:07 AM<br>下一次刷新：2/19/22, 2:07 PM</p>
