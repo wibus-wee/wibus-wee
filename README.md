@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pwxcoo/chinese-xinhua>pwxcoo/chinese-xinhua</a><p>:orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。</p></li><li><a href=https://github.com/maxogden/menubar>maxogden/menubar</a><p>➖ high level way to create menubar desktop applications with electron</p></li><li><a href=https://github.com/PGYER/codefever>PGYER/codefever</a><p>CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!</p></li><li><a href=https://github.com/spiderT/electron-learn>spiderT/electron-learn</a><p>electron</p></li><li><a href=https://github.com/nextauthjs/next-auth>nextauthjs/next-auth</a><p>Authentication for Next.js</p></li></ul>
+<ul><li><a href=https://github.com/spiderT/electron-learn>spiderT/electron-learn</a><p>electron</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/flmnt/graphemer>flmnt/graphemer</a><p>Unicode character splitter</p></li><li><a href=https://github.com/lerna/lerna>lerna/lerna</a><p>:dragon: A tool for managing JavaScript projects with multiple packages.</p></li><li><a href=https://github.com/jaywcjlove/awesome-mac>jaywcjlove/awesome-mac</a><p> Now we have become very big, Different from the original idea. Collect premium software in various categories.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/20/22, 5:06 AM<br>下一次刷新：2/20/22, 8:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/20/22, 8:33 AM<br>下一次刷新：2/20/22, 11:33 AM</p>
