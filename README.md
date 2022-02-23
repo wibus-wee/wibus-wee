@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/solstice23/osu-cursor>solstice23/osu-cursor</a><p>✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web</p></li><li><a href=https://github.com/996icu/996.ICU>996icu/996.ICU</a><p>Repo for counting stars and contributing. Press F to pay respect to glorious developers.</p></li><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li><li><a href=https://github.com/xjh22222228/awesome-web-editor>xjh22222228/awesome-web-editor</a><p>🔨 Open source WEB editor summary</p></li><li><a href=https://github.com/jaywcjlove/awesome-mac>jaywcjlove/awesome-mac</a><p> Now we have become very big, Different from the original idea. Collect premium software in various categories.</p></li></ul>
+<ul><li><a href=https://github.com/alda-lang/alda>alda-lang/alda</a><p>A music programming language for musicians. :notes:</p></li><li><a href=https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup>maximbilan/Mac-OS-X-App-Menu-Bar-Popup</a><p>Mac OS X Application like a menu bar popup message</p></li><li><a href=https://github.com/revoltchat/self-hosted>revoltchat/self-hosted</a><p>Deploy Revolt using Docker.</p></li><li><a href=https://github.com/996icu/996.ICU>996icu/996.ICU</a><p>Repo for counting stars and contributing. Press F to pay respect to glorious developers.</p></li><li><a href=https://github.com/solstice23/osu-cursor>solstice23/osu-cursor</a><p>✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/23/22, 5:07 PM<br>下一次刷新：2/23/22, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/23/22, 8:13 PM<br>下一次刷新：2/23/22, 11:13 PM</p>
