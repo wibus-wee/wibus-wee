@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mqyqingfeng/Wheels>mqyqingfeng/Wheels</a><p>以自己是否能造出轮子来衡量学习的效果</p></li><li><a href=https://github.com/07akioni/ilw>07akioni/ilw</a><p>Isomorphic logger wrapper. 同构日志打印适配器</p></li><li><a href=https://github.com/PGYER/codefever>PGYER/codefever</a><p>CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!</p></li><li><a href=https://github.com/alibaba/hooks>alibaba/hooks</a><p>A high-quality & reliable React Hooks library.</p></li><li><a href=https://github.com/pwxcoo/chinese-xinhua>pwxcoo/chinese-xinhua</a><p>:orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。</p></li></ul>
+<ul><li><a href=https://github.com/lerna/lerna>lerna/lerna</a><p>:dragon: A tool for managing JavaScript projects with multiple packages.</p></li><li><a href=https://github.com/996icu/996.ICU>996icu/996.ICU</a><p>Repo for counting stars and contributing. Press F to pay respect to glorious developers.</p></li><li><a href=https://github.com/jaywcjlove/awesome-mac>jaywcjlove/awesome-mac</a><p> Now we have become very big, Different from the original idea. Collect premium software in various categories.</p></li><li><a href=https://github.com/mqyqingfeng/Wheels>mqyqingfeng/Wheels</a><p>以自己是否能造出轮子来衡量学习的效果</p></li><li><a href=https://github.com/alibaba/hooks>alibaba/hooks</a><p>A high-quality & reliable React Hooks library.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/24/22, 11:08 PM<br>下一次刷新：2/25/22, 2:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/25/22, 2:09 AM<br>下一次刷新：2/25/22, 5:09 AM</p>
