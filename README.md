@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/dragonir/3d>dragonir/3d</a><p>Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇</p></li><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><p>哔哩哔哩-API收集整理【不断更新中....】</p></li><li><a href=https://github.com/ObuchiYuki/DevToysMac>ObuchiYuki/DevToysMac</a><p>DevToys For mac</p></li><li><a href=https://github.com/996icu/996.ICU>996icu/996.ICU</a><p>Repo for counting stars and contributing. Press F to pay respect to glorious developers.</p></li><li><a href=https://github.com/sindresorhus/got>sindresorhus/got</a><p>🌐 Human-friendly and powerful HTTP request library for Node.js</p></li></ul>
+<ul><li><a href=https://github.com/xjh22222228/awesome-web-editor>xjh22222228/awesome-web-editor</a><p>🔨 Open source WEB editor summary</p></li><li><a href=https://github.com/lerna/lerna>lerna/lerna</a><p>:dragon: A tool for managing JavaScript projects with multiple packages.</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/jaywcjlove/awesome-mac>jaywcjlove/awesome-mac</a><p> Now we have become very big, Different from the original idea. Collect premium software in various categories.</p></li><li><a href=https://github.com/solstice23/osu-cursor>solstice23/osu-cursor</a><p>✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/28/22, 2:08 AM<br>下一次刷新：2/28/22, 5:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/28/22, 5:07 AM<br>下一次刷新：2/28/22, 8:07 AM</p>
