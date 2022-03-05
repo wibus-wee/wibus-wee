@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jaywcjlove/awesome-mac>jaywcjlove/awesome-mac</a><p> Now we have become very big, Different from the original idea. Collect premium software in various categories.</p></li><li><a href=https://github.com/nextauthjs/next-auth>nextauthjs/next-auth</a><p>Authentication for Next.js</p></li><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li><li><a href=https://github.com/07akioni/ilw>07akioni/ilw</a><p>Isomorphic logger wrapper. 同构日志打印适配器</p></li></ul>
+<ul><li><a href=https://github.com/varletjs/varlet-vue2>varletjs/varlet-vue2</a><p>基于 Vue2 的 Material design 风格移动端组件库 Material design mobile component library for Vue2</p></li><li><a href=https://github.com/07akioni/ilw>07akioni/ilw</a><p>Isomorphic logger wrapper. 同构日志打印适配器</p></li><li><a href=https://github.com/pabueco/hue.tools>pabueco/hue.tools</a><p>Simple toolbox for working with colors. Color mixing, blending, conversion, modification, detailed information, etc.</p></li><li><a href=https://github.com/supabase/supabase>supabase/supabase</a><p>The open source Firebase alternative. Follow to stay updated about our public Beta.</p></li><li><a href=https://github.com/alibaba/hooks>alibaba/hooks</a><p>A high-quality & reliable React Hooks library.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/6/22, 2:08 AM<br>下一次刷新：3/6/22, 5:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/6/22, 5:06 AM<br>下一次刷新：3/6/22, 8:06 AM</p>
