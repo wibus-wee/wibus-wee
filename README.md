@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nextauthjs/next-auth>nextauthjs/next-auth</a><p>Authentication for Next.js</p></li><li><a href=https://github.com/iconify/iconify>iconify/iconify</a><p>Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!</p></li><li><a href=https://github.com/hydro-dev/Hydro>hydro-dev/Hydro</a><p>Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)</p></li><li><a href=https://github.com/dragonir/3d>dragonir/3d</a><p>Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇</p></li><li><a href=https://github.com/solstice23/osu-cursor>solstice23/osu-cursor</a><p>✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web</p></li></ul>
+<ul><li><a href=https://github.com/hydro-dev/Hydro>hydro-dev/Hydro</a><p>Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)</p></li><li><a href=https://github.com/dd-center/vdb>dd-center/vdb</a><p>Vtuber Database</p></li><li><a href=https://github.com/alibaba/hooks>alibaba/hooks</a><p>A high-quality & reliable React Hooks library.</p></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li><li><a href=https://github.com/07akioni/ilw>07akioni/ilw</a><p>Isomorphic logger wrapper. 同构日志打印适配器</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/6/22, 2:08 PM<br>下一次刷新：3/6/22, 5:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/6/22, 5:06 PM<br>下一次刷新：3/6/22, 8:06 PM</p>
