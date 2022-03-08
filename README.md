@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/xfgryujk/blivechat>xfgryujk/blivechat</a><p>用于OBS的仿YouTube风格的bilibili直播评论栏</p></li><li><a href=https://github.com/supabase/supabase>supabase/supabase</a><p>The open source Firebase alternative. Follow to stay updated about our public Beta.</p></li><li><a href=https://github.com/jaywcjlove/awesome-mac>jaywcjlove/awesome-mac</a><p> Now we have become very big, Different from the original idea. Collect premium software in various categories.</p></li><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li><li><a href=https://github.com/07akioni/ilw>07akioni/ilw</a><p>Isomorphic logger wrapper. 同构日志打印适配器</p></li></ul>
+<ul><li><a href=https://github.com/iconify/iconify>iconify/iconify</a><p>Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!</p></li><li><a href=https://github.com/solstice23/osu-cursor>solstice23/osu-cursor</a><p>✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web</p></li><li><a href=https://github.com/sindresorhus/got>sindresorhus/got</a><p>🌐 Human-friendly and powerful HTTP request library for Node.js</p></li><li><a href=https://github.com/alibaba/hooks>alibaba/hooks</a><p>A high-quality & reliable React Hooks library.</p></li><li><a href=https://github.com/hydro-dev/Hydro>hydro-dev/Hydro</a><p>Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/9/22, 2:09 AM<br>下一次刷新：3/9/22, 5:09 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/9/22, 5:06 AM<br>下一次刷新：3/9/22, 8:06 AM</p>
