@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/alibaba/hooks>alibaba/hooks</a><p>A high-quality & reliable React Hooks library.</p></li><li><a href=https://github.com/dd-center/vdb>dd-center/vdb</a><p>Vtuber Database</p></li><li><a href=https://github.com/supabase/supabase>supabase/supabase</a><p>The open source Firebase alternative. Follow to stay updated about our public Beta.</p></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li><li><a href=https://github.com/automerge/automerge>automerge/automerge</a><p>A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.</p></li></ul>
+<ul><li><a href=https://github.com/automerge/automerge>automerge/automerge</a><p>A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.</p></li><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li><li><a href=https://github.com/iconify/iconify>iconify/iconify</a><p>Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!</p></li><li><a href=https://github.com/SumiMakito/hexo-theme-typography>SumiMakito/hexo-theme-typography</a><p>Rediscover the beauty of typography.</p></li><li><a href=https://github.com/dd-center/vdb>dd-center/vdb</a><p>Vtuber Database</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/9/22, 11:07 PM<br>下一次刷新：3/10/22, 2:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/10/22, 2:09 AM<br>下一次刷新：3/10/22, 5:09 AM</p>
