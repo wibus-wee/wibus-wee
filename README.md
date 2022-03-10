@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/xjh22222228/awesome-web-editor>xjh22222228/awesome-web-editor</a><p>🔨 Open source WEB editor summary</p></li><li><a href=https://github.com/epiphone/class-validator-jsonschema>epiphone/class-validator-jsonschema</a><p>Convert class-validator-decorated classes into JSON schema</p></li><li><a href=https://github.com/solstice23/osu-cursor>solstice23/osu-cursor</a><p>✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web</p></li><li><a href=https://github.com/automerge/automerge>automerge/automerge</a><p>A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.</p></li><li><a href=https://github.com/iconify/iconify>iconify/iconify</a><p>Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!</p></li></ul>
+<ul><li><a href=https://github.com/epiphone/class-validator-jsonschema>epiphone/class-validator-jsonschema</a><p>Convert class-validator-decorated classes into JSON schema</p></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li><li><a href=https://github.com/ObuchiYuki/DevToysMac>ObuchiYuki/DevToysMac</a><p>DevToys For mac</p></li><li><a href=https://github.com/lerna/lerna>lerna/lerna</a><p>:dragon: A tool for managing JavaScript projects with multiple packages.</p></li><li><a href=https://github.com/sindresorhus/got>sindresorhus/got</a><p>🌐 Human-friendly and powerful HTTP request library for Node.js</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/10/22, 5:08 PM<br>下一次刷新：3/10/22, 8:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/10/22, 8:12 PM<br>下一次刷新：3/10/22, 11:12 PM</p>
