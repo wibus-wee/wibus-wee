@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lerna/lerna>lerna/lerna</a><p>:dragon: A tool for managing JavaScript projects with multiple packages.</p></li><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li><li><a href=https://github.com/SumiMakito/hexo-theme-typography>SumiMakito/hexo-theme-typography</a><p>Rediscover the beauty of typography.</p></li><li><a href=https://github.com/supabase/supabase>supabase/supabase</a><p>The open source Firebase alternative. Follow to stay updated about our public Beta.</p></li><li><a href=https://github.com/ObuchiYuki/DevToysMac>ObuchiYuki/DevToysMac</a><p>DevToys For mac</p></li></ul>
+<ul><li><a href=https://github.com/lerna/lerna>lerna/lerna</a><p>:dragon: A tool for managing JavaScript projects with multiple packages.</p></li><li><a href=https://github.com/automerge/automerge>automerge/automerge</a><p>A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.</p></li><li><a href=https://github.com/epiphone/class-validator-jsonschema>epiphone/class-validator-jsonschema</a><p>Convert class-validator-decorated classes into JSON schema</p></li><li><a href=https://github.com/SumiMakito/hexo-theme-typography>SumiMakito/hexo-theme-typography</a><p>Rediscover the beauty of typography.</p></li><li><a href=https://github.com/ObuchiYuki/DevToysMac>ObuchiYuki/DevToysMac</a><p>DevToys For mac</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/10/22, 11:08 PM<br>下一次刷新：3/11/22, 2:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/11/22, 2:09 AM<br>下一次刷新：3/11/22, 5:09 AM</p>
