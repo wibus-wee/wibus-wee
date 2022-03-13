@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/supabase/supabase>supabase/supabase</a><p>The open source Firebase alternative. Follow to stay updated about our public Beta.</p></li><li><a href=https://github.com/xfgryujk/blivechat>xfgryujk/blivechat</a><p>用于OBS的仿YouTube风格的bilibili直播评论栏</p></li><li><a href=https://github.com/antfu/vscode-file-nesting-config>antfu/vscode-file-nesting-config</a><p>Config of File Nesting for VS Code</p></li><li><a href=https://github.com/solstice23/osu-cursor>solstice23/osu-cursor</a><p>✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web</p></li><li><a href=https://github.com/alibaba/hooks>alibaba/hooks</a><p>A high-quality & reliable React Hooks library.</p></li></ul>
+<ul><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><p>哔哩哔哩-API收集整理【不断更新中....】</p></li><li><a href=https://github.com/antfu/vscode-file-nesting-config>antfu/vscode-file-nesting-config</a><p>Config of File Nesting for VS Code</p></li><li><a href=https://github.com/vadimdemedes/tailwind-rn>vadimdemedes/tailwind-rn</a><p>🦎 Use Tailwind CSS in React Native projects</p></li><li><a href=https://github.com/solstice23/osu-cursor>solstice23/osu-cursor</a><p>✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web</p></li><li><a href=https://github.com/kamranahmedse/driver.js>kamranahmedse/driver.js</a><p>A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/13/22, 11:08 AM<br>下一次刷新：3/13/22, 2:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/13/22, 2:12 PM<br>下一次刷新：3/13/22, 5:12 PM</p>
