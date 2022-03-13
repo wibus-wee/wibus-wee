@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/hydro-dev/Hydro>hydro-dev/Hydro</a><p>Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)</p></li><li><a href=https://github.com/vadimdemedes/tailwind-rn>vadimdemedes/tailwind-rn</a><p>🦎 Use Tailwind CSS in React Native projects</p></li><li><a href=https://github.com/Lete114/WebStack-Screenshot>Lete114/WebStack-Screenshot</a><p>网站截图 API | Website Screenshot API</p></li><li><a href=https://github.com/varletjs/varlet-vue2>varletjs/varlet-vue2</a><p>基于 Vue2 的 Material design 风格移动端组件库 Material design mobile component library for Vue2</p></li><li><a href=https://github.com/vercel/ncc>vercel/ncc</a><p>Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.</p></li></ul>
+<ul><li><a href=https://github.com/xjh22222228/awesome-web-editor>xjh22222228/awesome-web-editor</a><p>🔨 Open source WEB editor summary</p></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li><li><a href=https://github.com/antfu/vscode-file-nesting-config>antfu/vscode-file-nesting-config</a><p>Config of File Nesting for VS Code</p></li><li><a href=https://github.com/kamranahmedse/driver.js>kamranahmedse/driver.js</a><p>A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page</p></li><li><a href=https://github.com/Lete114/WebStack-Screenshot>Lete114/WebStack-Screenshot</a><p>网站截图 API | Website Screenshot API</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/13/22, 11:07 PM<br>下一次刷新：3/14/22, 2:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/14/22, 2:08 AM<br>下一次刷新：3/14/22, 5:08 AM</p>
