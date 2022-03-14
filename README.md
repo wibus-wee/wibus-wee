@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pabueco/hue.tools>pabueco/hue.tools</a><p>Simple toolbox for working with colors. Color mixing, blending, conversion, modification, detailed information, etc.</p></li><li><a href=https://github.com/antfu/vscode-file-nesting-config>antfu/vscode-file-nesting-config</a><p>Config of File Nesting for VS Code</p></li><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><p>哔哩哔哩-API收集整理【不断更新中....】</p></li><li><a href=https://github.com/vercel/ncc>vercel/ncc</a><p>Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.</p></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li></ul>
+<ul><li><a href=https://github.com/hydro-dev/Hydro>hydro-dev/Hydro</a><p>Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)</p></li><li><a href=https://github.com/alibaba/hooks>alibaba/hooks</a><p>A high-quality & reliable React Hooks library.</p></li><li><a href=https://github.com/jscottsmith/react-scroll-parallax>jscottsmith/react-scroll-parallax</a><p>🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.</p></li><li><a href=https://github.com/solstice23/osu-cursor>solstice23/osu-cursor</a><p>✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web</p></li><li><a href=https://github.com/dd-center/vdb>dd-center/vdb</a><p>Vtuber Database</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/14/22, 11:08 PM<br>下一次刷新：3/15/22, 2:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/15/22, 2:09 AM<br>下一次刷新：3/15/22, 5:09 AM</p>
