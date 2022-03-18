@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/hydro-dev/Hydro>hydro-dev/Hydro</a><p>Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)</p></li><li><a href=https://github.com/jmcdo29/testing-nestjs>jmcdo29/testing-nestjs</a><p>A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!</p></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li><li><a href=https://github.com/varletjs/varlet-vue2>varletjs/varlet-vue2</a><p>基于 Vue2 的 Material design 风格移动端组件库 Material design mobile component library for Vue2</p></li><li><a href=https://github.com/supabase/supabase>supabase/supabase</a><p>The open source Firebase alternative. Follow to stay updated about our public Beta.</p></li></ul>
+<ul><li><a href=https://github.com/jlevy/the-art-of-command-line>jlevy/the-art-of-command-line</a><p>Master the command line, in one page</p></li><li><a href=https://github.com/mikepenz/release-changelog-builder-action>mikepenz/release-changelog-builder-action</a><p>A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.</p></li><li><a href=https://github.com/kamranahmedse/driver.js>kamranahmedse/driver.js</a><p>A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page</p></li><li><a href=https://github.com/SocialSisterYi/bilibili-API-collect>SocialSisterYi/bilibili-API-collect</a><p>哔哩哔哩-API收集整理【不断更新中....】</p></li><li><a href=https://github.com/supabase/supabase>supabase/supabase</a><p>The open source Firebase alternative. Follow to stay updated about our public Beta.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/18/22, 8:33 AM<br>下一次刷新：3/18/22, 11:33 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/18/22, 11:11 AM<br>下一次刷新：3/18/22, 2:11 PM</p>
