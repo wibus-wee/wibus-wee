@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jscottsmith/react-scroll-parallax>jscottsmith/react-scroll-parallax</a><p>🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.</p></li><li><a href=https://github.com/vadimdemedes/tailwind-rn>vadimdemedes/tailwind-rn</a><p>🦎 Use Tailwind CSS in React Native projects</p></li><li><a href=https://github.com/jsun969/Pigeon>jsun969/Pigeon</a><p>飞鸽传书 校园远程通知平台</p></li><li><a href=https://github.com/vercel/ncc>vercel/ncc</a><p>Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.</p></li><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li></ul>
+<ul><li><a href=https://github.com/Mayandev/notion-avatar>Mayandev/notion-avatar</a><p>🪄 An online tool for making notion-style avatars.</p></li><li><a href=https://github.com/kamranahmedse/driver.js>kamranahmedse/driver.js</a><p>A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page</p></li><li><a href=https://github.com/alibaba/hooks>alibaba/hooks</a><p>A high-quality & reliable React Hooks library.</p></li><li><a href=https://github.com/jlevy/the-art-of-command-line>jlevy/the-art-of-command-line</a><p>Master the command line, in one page</p></li><li><a href=https://github.com/antfu/reactivue>antfu/reactivue</a><p>🙊 Use Vue Composition API in React components</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/19/22, 5:07 AM<br>下一次刷新：3/19/22, 8:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/19/22, 8:31 AM<br>下一次刷新：3/19/22, 11:31 AM</p>
