@@ -110,11 +110,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/MessagePigeon/server>MessagePigeon/server</a><p>The Backend of Message Pigeon</p></li><li><a href=https://github.com/xmldom/xmldom>xmldom/xmldom</a><p>A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.</p></li><li><a href=https://github.com/StackerDesu/Nyah>StackerDesu/Nyah</a><p>Nyah is a programming language runtime built for high performance and comes with a scripting language.</p></li><li><a href=https://github.com/Tencent/omi>Tencent/omi</a><p>Front End Cross-Frameworks Framework - 前端跨框架框架</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li></ul>
+<ul><li><a href=https://github.com/yewstack/yew>yewstack/yew</a><p>Rust / Wasm framework for building client web apps</p></li><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li><li><a href=https://github.com/MessagePigeon/server>MessagePigeon/server</a><p>The Backend of Message Pigeon</p></li><li><a href=https://github.com/xmldom/xmldom>xmldom/xmldom</a><p>A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.</p></li><li><a href=https://github.com/StackerDesu/Nyah>StackerDesu/Nyah</a><p>Nyah is a programming language runtime built for high performance and comes with a scripting language.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li><li><a href=https://github.com/SumiMakito/hexo-theme-typography>SumiMakito/hexo-theme-typography</a><p>Rediscover the beauty of typography.</p></li><li><a href=https://github.com/peng-zhihui/ElectronBot>peng-zhihui/ElectronBot</a></li><li><a href=https://github.com/Lete114/WebStack-Screenshot>Lete114/WebStack-Screenshot</a><p>网站截图 API | Website Screenshot API</p></li><li><a href=https://github.com/lit/lit>lit/lit</a><p>Lit is a simple library for building fast, lightweight web components.</p></li></ul>
+<ul><li><a href=https://github.com/hydro-dev/Hydro>hydro-dev/Hydro</a><p>Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)</p></li><li><a href=https://github.com/dd-center/vdb>dd-center/vdb</a><p>Vtuber Database</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/jscottsmith/react-scroll-parallax>jscottsmith/react-scroll-parallax</a><p>🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.</p></li><li><a href=https://github.com/Innei/pnpm-workspace-monorepo>Innei/pnpm-workspace-monorepo</a></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/22, 8:32 AM<br>下一次刷新：3/20/22, 11:32 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/22, 11:07 AM<br>下一次刷新：3/20/22, 2:07 PM</p>
