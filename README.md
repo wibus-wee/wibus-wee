@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/peng-zhihui/ElectronBot>peng-zhihui/ElectronBot</a></li><li><a href=https://github.com/Innei/pnpm-monorepo-lib-template>Innei/pnpm-monorepo-lib-template</a></li><li><a href=https://github.com/pabueco/hue.tools>pabueco/hue.tools</a><p>Simple toolbox for working with colors. Color mixing, blending, conversion, modification, detailed information, etc.</p></li><li><a href=https://github.com/Mayandev/notion-avatar>Mayandev/notion-avatar</a><p>🪄 An online tool for making notion-style avatars.</p></li><li><a href=https://github.com/Innei/pnpm-workspace-monorepo>Innei/pnpm-workspace-monorepo</a></li></ul>
+<ul><li><a href=https://github.com/VirgilClyne/iRingo>VirgilClyne/iRingo</a><p>解锁完整的 Apple功能和集成服务</p></li><li><a href=https://github.com/SumiMakito/hexo-theme-typography>SumiMakito/hexo-theme-typography</a><p>Rediscover the beauty of typography.</p></li><li><a href=https://github.com/peng-zhihui/ElectronBot>peng-zhihui/ElectronBot</a></li><li><a href=https://github.com/Lete114/WebStack-Screenshot>Lete114/WebStack-Screenshot</a><p>网站截图 API | Website Screenshot API</p></li><li><a href=https://github.com/lit/lit>lit/lit</a><p>Lit is a simple library for building fast, lightweight web components.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/22, 5:06 AM<br>下一次刷新：3/20/22, 8:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/22, 8:32 AM<br>下一次刷新：3/20/22, 11:32 AM</p>
