@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/antfu/vue-minesweeper>antfu/vue-minesweeper</a><p>A tiny minesweeper clone in Vue 3</p></li><li><a href=https://github.com/SumiMakito/hexo-theme-typography>SumiMakito/hexo-theme-typography</a><p>Rediscover the beauty of typography.</p></li><li><a href=https://github.com/vercel/ncc>vercel/ncc</a><p>Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.</p></li><li><a href=https://github.com/jmcdo29/testing-nestjs>jmcdo29/testing-nestjs</a><p>A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!</p></li><li><a href=https://github.com/jscottsmith/react-scroll-parallax>jscottsmith/react-scroll-parallax</a><p>🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.</p></li></ul>
+<ul><li><a href=https://github.com/dd-center/vdb>dd-center/vdb</a><p>Vtuber Database</p></li><li><a href=https://github.com/mikepenz/release-changelog-builder-action>mikepenz/release-changelog-builder-action</a><p>A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.</p></li><li><a href=https://github.com/SumiMakito/hexo-theme-typography>SumiMakito/hexo-theme-typography</a><p>Rediscover the beauty of typography.</p></li><li><a href=https://github.com/antfu/vue-minesweeper>antfu/vue-minesweeper</a><p>A tiny minesweeper clone in Vue 3</p></li><li><a href=https://github.com/jscottsmith/react-scroll-parallax>jscottsmith/react-scroll-parallax</a><p>🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/22, 2:09 PM<br>下一次刷新：3/20/22, 5:09 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/22, 5:08 PM<br>下一次刷新：3/20/22, 8:08 PM</p>
