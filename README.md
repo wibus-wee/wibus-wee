@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/Tencent/omi>Tencent/omi</a><p>Front End Cross-Frameworks Framework - 前端跨框架框架</p></li><li><a href=https://github.com/hydro-dev/Hydro>hydro-dev/Hydro</a><p>Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)</p></li><li><a href=https://github.com/OhYee/blotter>OhYee/blotter</a><p>Golang blog backend</p></li><li><a href=https://github.com/peng-zhihui/ElectronBot>peng-zhihui/ElectronBot</a></li></ul>
+<ul><li><a href=https://github.com/lit/lit>lit/lit</a><p>Lit is a simple library for building fast, lightweight web components.</p></li><li><a href=https://github.com/Lete114/WebStack-Screenshot>Lete114/WebStack-Screenshot</a><p>网站截图 API | Website Screenshot API</p></li><li><a href=https://github.com/Innei/pnpm-monorepo-lib-template>Innei/pnpm-monorepo-lib-template</a></li><li><a href=https://github.com/automerge/automerge>automerge/automerge</a><p>A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.</p></li><li><a href=https://github.com/antfu/reactivue>antfu/reactivue</a><p>🙊 Use Vue Composition API in React components</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/21/22, 2:10 PM<br>下一次刷新：3/21/22, 5:10 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/21/22, 5:08 PM<br>下一次刷新：3/21/22, 8:08 PM</p>
