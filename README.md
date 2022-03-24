@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Mayandev/notion-avatar>Mayandev/notion-avatar</a><p>🪄 An online tool for making notion-style avatars.</p></li><li><a href=https://github.com/antfu/reactivue>antfu/reactivue</a><p>🙊 Use Vue Composition API in React components</p></li><li><a href=https://github.com/Innei/pnpm-monorepo-lib-template>Innei/pnpm-monorepo-lib-template</a></li><li><a href=https://github.com/mikepenz/release-changelog-builder-action>mikepenz/release-changelog-builder-action</a><p>A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.</p></li><li><a href=https://github.com/SumiMakito/hexo-theme-typography>SumiMakito/hexo-theme-typography</a><p>Rediscover the beauty of typography.</p></li></ul>
+<ul><li><a href=https://github.com/jscottsmith/react-scroll-parallax>jscottsmith/react-scroll-parallax</a><p>🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.</p></li><li><a href=https://github.com/kamranahmedse/driver.js>kamranahmedse/driver.js</a><p>A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page</p></li><li><a href=https://github.com/antfu/vscode-file-nesting-config>antfu/vscode-file-nesting-config</a><p>Config of File Nesting for VS Code</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/Mayandev/notion-avatar>Mayandev/notion-avatar</a><p>🪄 An online tool for making notion-style avatars.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/24/22, 5:06 AM<br>下一次刷新：3/24/22, 8:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/24/22, 8:34 AM<br>下一次刷新：3/24/22, 11:34 AM</p>
