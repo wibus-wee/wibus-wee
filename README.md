@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/StackerDesu/Nyah>StackerDesu/Nyah</a><p>Nyah is a programming language runtime built for high performance and comes with a scripting language.</p></li><li><a href=https://github.com/Mayandev/notion-avatar>Mayandev/notion-avatar</a><p>🪄 An online tool for making notion-style avatars.</p></li><li><a href=https://github.com/lit/lit>lit/lit</a><p>Lit is a simple library for building fast, lightweight web components.</p></li><li><a href=https://github.com/automerge/automerge>automerge/automerge</a><p>A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.</p></li><li><a href=https://github.com/antfu/vscode-file-nesting-config>antfu/vscode-file-nesting-config</a><p>Config of File Nesting for VS Code</p></li></ul>
+<ul><li><a href=https://github.com/antfu/vue-minesweeper>antfu/vue-minesweeper</a><p>A tiny minesweeper clone in Vue 3</p></li><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li><li><a href=https://github.com/MessagePigeon/server>MessagePigeon/server</a><p>Message Pigeon Backend</p></li><li><a href=https://github.com/antfu/vscode-file-nesting-config>antfu/vscode-file-nesting-config</a><p>Config of File Nesting for VS Code</p></li><li><a href=https://github.com/peng-zhihui/ElectronBot>peng-zhihui/ElectronBot</a></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/26/22, 2:09 PM<br>下一次刷新：3/26/22, 5:09 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/26/22, 5:07 PM<br>下一次刷新：3/26/22, 8:07 PM</p>
