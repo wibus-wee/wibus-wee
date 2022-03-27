@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lete114/WebStack-Screenshot>Lete114/WebStack-Screenshot</a><p>网站截图 API | Website Screenshot API</p></li><li><a href=https://github.com/xmldom/xmldom>xmldom/xmldom</a><p>A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.</p></li><li><a href=https://github.com/MessagePigeon/server>MessagePigeon/server</a><p>Message Pigeon Backend</p></li><li><a href=https://github.com/Mayandev/notion-avatar>Mayandev/notion-avatar</a><p>🪄 An online tool for making notion-style avatars.</p></li><li><a href=https://github.com/lit/lit>lit/lit</a><p>Lit is a simple library for building fast, lightweight web components.</p></li></ul>
+<ul><li><a href=https://github.com/OhYee/blotter>OhYee/blotter</a><p>Golang blog backend</p></li><li><a href=https://github.com/jsun969/Pigeon>jsun969/Pigeon</a><p>飞鸽传书 校园远程通知平台</p></li><li><a href=https://github.com/MessagePigeon/server>MessagePigeon/server</a><p>Message Pigeon Backend</p></li><li><a href=https://github.com/antfu/vue-minesweeper>antfu/vue-minesweeper</a><p>A tiny minesweeper clone in Vue 3</p></li><li><a href=https://github.com/automerge/automerge>automerge/automerge</a><p>A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/27/22, 11:13 AM<br>下一次刷新：3/27/22, 2:13 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/27/22, 2:09 PM<br>下一次刷新：3/27/22, 5:09 PM</p>
