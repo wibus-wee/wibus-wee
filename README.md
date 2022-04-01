@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/antfu/reactivue>antfu/reactivue</a><p>🙊 Use Vue Composition API in React components</p></li><li><a href=https://github.com/MessagePigeon/server>MessagePigeon/server</a><p>Message Pigeon Backend</p></li><li><a href=https://github.com/asiL-tcefreP/blog>asiL-tcefreP/blog</a><p>Blog Back-End（个人博客后端服务器）（基于Vue+Springboot+mybatisplus+SpringCloud+ELK等框架实现） 创作不易，如果可以，请帮忙star一下，谢谢！</p></li><li><a href=https://github.com/peng-zhihui/ElectronBot>peng-zhihui/ElectronBot</a></li><li><a href=https://github.com/antfu/vscode-file-nesting-config>antfu/vscode-file-nesting-config</a><p>Config of File Nesting for VS Code</p></li></ul>
+<ul><li><a href=https://github.com/CodeEditApp/CodeEdit>CodeEditApp/CodeEdit</a><p>CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.</p></li><li><a href=https://github.com/antfu/vue-minesweeper>antfu/vue-minesweeper</a><p>A tiny minesweeper clone in Vue 3</p></li><li><a href=https://github.com/antfu/reactivue>antfu/reactivue</a><p>🙊 Use Vue Composition API in React components</p></li><li><a href=https://github.com/Tencent/omi>Tencent/omi</a><p>Front End Cross-Frameworks Framework - 前端跨框架框架</p></li><li><a href=https://github.com/jlevy/the-art-of-command-line>jlevy/the-art-of-command-line</a><p>Master the command line, in one page</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/1/22, 11:08 PM<br>下一次刷新：4/2/22, 2:08 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/2/22, 2:09 AM<br>下一次刷新：4/2/22, 5:09 AM</p>
