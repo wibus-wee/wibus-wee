@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jlevy/the-art-of-command-line>jlevy/the-art-of-command-line</a><p>Master the command line, in one page</p></li><li><a href=https://github.com/jsun969/Pigeon>jsun969/Pigeon</a><p>飞鸽传书 校园远程通知平台</p></li><li><a href=https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate>joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate</a><p>ReactJS + Vite boilerplate to be used with Tailwindcss.</p></li><li><a href=https://github.com/antfu/vue-minesweeper>antfu/vue-minesweeper</a><p>A tiny minesweeper clone in Vue 3</p></li><li><a href=https://github.com/surmon-china/nodepress>surmon-china/nodepress</a><p>🟢 RESTful API service for https://surmon.me blog, powered by @nestjs</p></li></ul>
+<ul><li><a href=https://github.com/OhYee/blotter>OhYee/blotter</a><p>Golang blog backend</p></li><li><a href=https://github.com/lit/lit>lit/lit</a><p>Lit is a simple library for building fast, lightweight web components.</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/jsun969/Pigeon>jsun969/Pigeon</a><p>飞鸽传书 校园远程通知平台</p></li><li><a href=https://github.com/antfu/vscode-file-nesting-config>antfu/vscode-file-nesting-config</a><p>Config of File Nesting for VS Code</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/3/22, 2:09 PM<br>下一次刷新：4/3/22, 5:09 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/3/22, 5:08 PM<br>下一次刷新：4/3/22, 8:08 PM</p>
