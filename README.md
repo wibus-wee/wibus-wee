@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/peng-zhihui/ElectronBot>peng-zhihui/ElectronBot</a></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/storybookjs/storybook>storybookjs/storybook</a><p>📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!</p></li><li><a href=https://github.com/xmldom/xmldom>xmldom/xmldom</a><p>A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.</p></li></ul>
+<ul><li><a href=https://github.com/antfu/vue-minesweeper>antfu/vue-minesweeper</a><p>A tiny minesweeper clone in Vue 3</p></li><li><a href=https://github.com/OhYee/blotter>OhYee/blotter</a><p>Golang blog backend</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/fantasticit/wipi>fantasticit/wipi</a><p>A blog system written by next.js, nest.js and MySQL.</p></li><li><a href=https://github.com/Sepush/naive-starter>Sepush/naive-starter</a><p>a template for naive-ui user</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/9/22, 8:34 AM<br>下一次刷新：4/9/22, 11:34 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/9/22, 11:17 AM<br>下一次刷新：4/9/22, 2:17 PM</p>
