@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/li-jia-nan/myBundler>li-jia-nan/myBundler</a><p>一个简易的打包工具，迷你版webpack</p></li><li><a href=https://github.com/Innei/imx-bot>Innei/imx-bot</a><p>My qqbot</p></li><li><a href=https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate>joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate</a><p>ReactJS + Vite boilerplate to be used with Tailwindcss.</p></li><li><a href=https://github.com/fantasticit/wipi>fantasticit/wipi</a><p>A blog system written by next.js, nest.js and MySQL.</p></li><li><a href=https://github.com/zh-blogs/blog-daohang>zh-blogs/blog-daohang</a><p>中文博客网站列表导航v1.0.4</p></li></ul>
+<ul><li><a href=https://github.com/zh-blogs/blog-daohang>zh-blogs/blog-daohang</a><p>中文博客网站列表导航v1.0.4</p></li><li><a href=https://github.com/goldfire/howler.js>goldfire/howler.js</a><p>Javascript audio library for the modern web.</p></li><li><a href=https://github.com/unjs/consola>unjs/consola</a><p>Elegant Console Logger for Node.js and Browser 🐨</p></li><li><a href=https://github.com/asiL-tcefreP/blog>asiL-tcefreP/blog</a><p>Blog Back-End（个人博客后端服务器）（基于Vue+Springboot+mybatisplus+SpringCloud+ELK等框架实现） 创作不易，如果可以，请帮忙star一下，谢谢！</p></li><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/17/22, 2:09 AM<br>下一次刷新：4/17/22, 5:09 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/17/22, 5:06 AM<br>下一次刷新：4/17/22, 8:06 AM</p>
