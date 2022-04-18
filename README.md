@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/goldfire/howler.js>goldfire/howler.js</a><p>Javascript audio library for the modern web.</p></li><li><a href=https://github.com/surmon-china/nodepress>surmon-china/nodepress</a><p>🟢 RESTful API service for https://surmon.me blog, powered by @nestjs</p></li><li><a href=https://github.com/iVoider/PlayCover>iVoider/PlayCover</a><p>PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)</p></li><li><a href=https://github.com/storybookjs/storybook>storybookjs/storybook</a><p>📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!</p></li><li><a href=https://github.com/antfu/case-police>antfu/case-police</a><p>🚨 Make the case correct, PLEASE!</p></li></ul>
+<ul><li><a href=https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate>joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate</a><p>ReactJS + Vite boilerplate to be used with Tailwindcss.</p></li><li><a href=https://github.com/iVoider/PlayCover>iVoider/PlayCover</a><p>PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)</p></li><li><a href=https://github.com/YaoFANGUK/video-subtitle-extractor>YaoFANGUK/video-subtitle-extractor</a><p>视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.</p></li><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li><li><a href=https://github.com/zh-blogs/blog-daohang>zh-blogs/blog-daohang</a><p>中文博客网站列表导航v1.0.4</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/22, 5:08 PM<br>下一次刷新：4/18/22, 8:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/22, 8:14 PM<br>下一次刷新：4/18/22, 11:14 PM</p>
