@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/spencerwooo/dotfiles>spencerwooo/dotfiles</a><p>Dotfiles for all :D</p></li><li><a href=https://github.com/antfu/case-police>antfu/case-police</a><p>🚨 Make the case correct, PLEASE!</p></li><li><a href=https://github.com/li-jia-nan/myBundler>li-jia-nan/myBundler</a><p>一个简易的打包工具，迷你版webpack</p></li><li><a href=https://github.com/liyupi/mianshiya-public>liyupi/mianshiya-public</a><p>干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮</p></li><li><a href=https://github.com/GorvGoyl/Clone-Wars>GorvGoyl/Clone-Wars</a><p>100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.</p></li></ul>
+<ul><li><a href=https://github.com/zh-blogs/blog-daohang>zh-blogs/blog-daohang</a><p>中文博客网站列表导航v1.0.4</p></li><li><a href=https://github.com/YaoFANGUK/video-subtitle-extractor>YaoFANGUK/video-subtitle-extractor</a><p>视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.</p></li><li><a href=https://github.com/vladdenisov/ytmusic-api>vladdenisov/ytmusic-api</a><p>Unofficial YouTube Music API for NodeJS written in TypeScript</p></li><li><a href=https://github.com/unjs/nitro>unjs/nitro</a><p>⚗️ Build and deploy universal JavaScript servers</p></li><li><a href=https://github.com/OldPanda/Open-the-F-king-URL-Right-Now>OldPanda/Open-the-F-king-URL-Right-Now</a><p>自动跳转某些网站不希望用户直达的外链</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/22/22, 8:14 PM<br>下一次刷新：4/22/22, 11:14 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/22/22, 11:08 PM<br>下一次刷新：4/23/22, 2:08 AM</p>
