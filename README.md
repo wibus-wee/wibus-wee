@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/YaoFANGUK/video-subtitle-extractor>YaoFANGUK/video-subtitle-extractor</a><p>视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.</p></li><li><a href=https://github.com/iVoider/PlayCover>iVoider/PlayCover</a><p>PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)</p></li><li><a href=https://github.com/unjs/nitro>unjs/nitro</a><p>⚗️ Build and deploy universal JavaScript servers</p></li><li><a href=https://github.com/Innei/imx-bot>Innei/imx-bot</a><p>My qqbot</p></li><li><a href=https://github.com/R-r-riddikulus/riddikulus-shanghai-2022>R-r-riddikulus/riddikulus-shanghai-2022</a><p>上海2022封城实录</p></li></ul>
+<ul><li><a href=https://github.com/unjs/nitro>unjs/nitro</a><p>⚗️ Build and deploy universal JavaScript servers</p></li><li><a href=https://github.com/spencerwooo/substats>spencerwooo/substats</a><p>( ｀д′) how many followers do i have? how many!</p></li><li><a href=https://github.com/fantasticit/wipi>fantasticit/wipi</a><p>A blog system written by next.js, nest.js and MySQL.</p></li><li><a href=https://github.com/Marak/say.js>Marak/say.js</a><p>TTS (text to speech) for node.js. send text from node.js to your speakers.</p></li><li><a href=https://github.com/iVoider/PlayCover>iVoider/PlayCover</a><p>PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/29/22, 8:39 AM<br>下一次刷新：4/29/22, 11:39 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/29/22, 11:45 AM<br>下一次刷新：4/29/22, 2:45 PM</p>
