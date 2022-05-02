@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lefex/FE>lefex/FE</a><p>前端 100 天，帮助 10W 人入门并进阶前端。</p></li><li><a href=https://github.com/NotionX/react-notion-x>NotionX/react-notion-x</a><p>Fast and accurate React renderer for Notion. TS batteries included. ⚡️</p></li><li><a href=https://github.com/storybookjs/storybook>storybookjs/storybook</a><p>📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!</p></li><li><a href=https://github.com/spencerwooo/dotfiles>spencerwooo/dotfiles</a><p>Dotfiles for all :D</p></li><li><a href=https://github.com/unjs/nitro>unjs/nitro</a><p>⚗️ Build and deploy universal JavaScript servers</p></li></ul>
+<ul><li><a href=https://github.com/electron-react-boilerplate/electron-react-boilerplate>electron-react-boilerplate/electron-react-boilerplate</a><p>A Foundation for Scalable Cross-Platform Apps</p></li><li><a href=https://github.com/unjs/consola>unjs/consola</a><p>Elegant Console Logger for Node.js and Browser 🐨</p></li><li><a href=https://github.com/R-r-riddikulus/riddikulus-shanghai-2022>R-r-riddikulus/riddikulus-shanghai-2022</a><p>上海2022封城实录</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/Marak/say.js>Marak/say.js</a><p>TTS (text to speech) for node.js. send text from node.js to your speakers.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/2/22, 8:40 AM<br>下一次刷新：5/2/22, 11:40 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/2/22, 12:07 PM<br>下一次刷新：5/2/22, 3:07 PM</p>
