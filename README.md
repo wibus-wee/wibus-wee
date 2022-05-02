@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/R-r-riddikulus/riddikulus-shanghai-2022>R-r-riddikulus/riddikulus-shanghai-2022</a><p>上海2022封城实录</p></li><li><a href=https://github.com/li-jia-nan/myBundler>li-jia-nan/myBundler</a><p>一个简易的打包工具，迷你版webpack</p></li><li><a href=https://github.com/iVoider/PlayCover>iVoider/PlayCover</a><p>PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)</p></li><li><a href=https://github.com/Innei/imx-bot>Innei/imx-bot</a><p>My qqbot</p></li><li><a href=https://github.com/spencerwooo/substats>spencerwooo/substats</a><p>( ｀д′) how many followers do i have? how many!</p></li></ul>
+<ul><li><a href=https://github.com/lefex/FE>lefex/FE</a><p>前端 100 天，帮助 10W 人入门并进阶前端。</p></li><li><a href=https://github.com/electron-react-boilerplate/electron-react-boilerplate>electron-react-boilerplate/electron-react-boilerplate</a><p>A Foundation for Scalable Cross-Platform Apps</p></li><li><a href=https://github.com/NotionX/react-notion-x>NotionX/react-notion-x</a><p>Fast and accurate React renderer for Notion. TS batteries included. ⚡️</p></li><li><a href=https://github.com/Innei/imx-bot>Innei/imx-bot</a><p>My qqbot</p></li><li><a href=https://github.com/li-jia-nan/myBundler>li-jia-nan/myBundler</a><p>一个简易的打包工具，迷你版webpack</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/2/22, 8:15 PM<br>下一次刷新：5/2/22, 11:15 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/2/22, 11:09 PM<br>下一次刷新：5/3/22, 2:09 AM</p>
