@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/spencerwooo/substats>spencerwooo/substats</a><p>( ｀д′) how many followers do i have? how many!</p></li><li><a href=https://github.com/YaoFANGUK/video-subtitle-extractor>YaoFANGUK/video-subtitle-extractor</a><p>视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.</p></li><li><a href=https://github.com/zh-blogs/blog-daohang>zh-blogs/blog-daohang</a><p>中文博客网站列表导航v1.0.4.1</p></li><li><a href=https://github.com/spencerwooo/dotfiles>spencerwooo/dotfiles</a><p>Dotfiles for all :D</p></li><li><a href=https://github.com/jaywcjlove/hotkeys>jaywcjlove/hotkeys</a><p>➷ A robust Javascript library for capturing keyboard input. It has no dependencies.</p></li></ul>
+<ul><li><a href=https://github.com/jaywcjlove/hotkeys>jaywcjlove/hotkeys</a><p>➷ A robust Javascript library for capturing keyboard input. It has no dependencies.</p></li><li><a href=https://github.com/electron-react-boilerplate/electron-react-boilerplate>electron-react-boilerplate/electron-react-boilerplate</a><p>A Foundation for Scalable Cross-Platform Apps</p></li><li><a href=https://github.com/unjs/nitro>unjs/nitro</a><p>⚗️ Build and deploy universal JavaScript servers</p></li><li><a href=https://github.com/Marak/say.js>Marak/say.js</a><p>TTS (text to speech) for node.js. send text from node.js to your speakers.</p></li><li><a href=https://github.com/R-r-riddikulus/riddikulus-shanghai-2022>R-r-riddikulus/riddikulus-shanghai-2022</a><p>上海2022封城实录</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/5/22, 5:11 AM<br>下一次刷新：5/5/22, 8:11 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/5/22, 8:40 AM<br>下一次刷新：5/5/22, 11:40 AM</p>
