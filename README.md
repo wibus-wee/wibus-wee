@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/R-r-riddikulus/riddikulus-shanghai-2022>R-r-riddikulus/riddikulus-shanghai-2022</a><p>上海2022封城实录</p></li><li><a href=https://github.com/thelinmichael/spotify-web-api-node>thelinmichael/spotify-web-api-node</a><p>A Node.js wrapper for Spotify's Web API.</p></li><li><a href=https://github.com/EZLippi/Tinyhttpd>EZLippi/Tinyhttpd</a><p>Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net</p></li><li><a href=https://github.com/zpao/qrcode.react>zpao/qrcode.react</a><p>A<qrcode>component for use with React.</p></li><li><a href=https://github.com/vladdenisov/ytmusic-api>vladdenisov/ytmusic-api</a><p>Unofficial YouTube Music API for NodeJS written in TypeScript</p></li></ul>
+<ul><li><a href=https://github.com/lefex/FE>lefex/FE</a><p>前端 100 天，帮助 10W 人入门并进阶前端。</p></li><li><a href=https://github.com/spencerwooo/dotfiles>spencerwooo/dotfiles</a><p>Dotfiles for all :D</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/Marak/say.js>Marak/say.js</a><p>TTS (text to speech) for node.js. send text from node.js to your speakers.</p></li><li><a href=https://github.com/NotionX/react-notion-x>NotionX/react-notion-x</a><p>Fast and accurate React renderer for Notion. TS batteries included. ⚡️</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/6/22, 2:11 PM<br>下一次刷新：5/6/22, 5:11 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/6/22, 5:09 PM<br>下一次刷新：5/6/22, 8:09 PM</p>
