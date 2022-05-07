@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/iVoider/PlayCover>iVoider/PlayCover</a><p>PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)</p></li><li><a href=https://github.com/Marak/say.js>Marak/say.js</a><p>TTS (text to speech) for node.js. send text from node.js to your speakers.</p></li><li><a href=https://github.com/zpao/qrcode.react>zpao/qrcode.react</a><p>A<qrcode>component for use with React.</p></li><li><a href=https://github.com/goldfire/howler.js>goldfire/howler.js</a><p>Javascript audio library for the modern web.</p></li><li><a href=https://github.com/thelinmichael/spotify-web-api-node>thelinmichael/spotify-web-api-node</a><p>A Node.js wrapper for Spotify's Web API.</p></li></ul>
+<ul><li><a href=https://github.com/thelinmichael/spotify-web-api-node>thelinmichael/spotify-web-api-node</a><p>A Node.js wrapper for Spotify's Web API.</p></li><li><a href=https://github.com/jaywcjlove/hotkeys>jaywcjlove/hotkeys</a><p>➷ A robust Javascript library for capturing keyboard input. It has no dependencies.</p></li><li><a href=https://github.com/vladdenisov/ytmusic-api>vladdenisov/ytmusic-api</a><p>Unofficial YouTube Music API for NodeJS written in TypeScript</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/unjs/nitro>unjs/nitro</a><p>⚗️ Build and deploy universal JavaScript servers</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/7/22, 8:36 AM<br>下一次刷新：5/7/22, 11:36 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/7/22, 11:28 AM<br>下一次刷新：5/7/22, 2:28 PM</p>
