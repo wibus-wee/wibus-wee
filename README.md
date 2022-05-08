@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/spencerwooo/substats>spencerwooo/substats</a><p>( ｀д′) how many followers do i have? how many!</p></li><li><a href=https://github.com/emresenyuva/youtube-music-api>emresenyuva/youtube-music-api</a><p>Node.js Unoffical Youtube Music API</p></li><li><a href=https://github.com/EZLippi/Tinyhttpd>EZLippi/Tinyhttpd</a><p>Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net</p></li><li><a href=https://github.com/zpao/qrcode.react>zpao/qrcode.react</a><p>A<qrcode>component for use with React.</p></li></ul>
+<ul><li><a href=https://github.com/iVoider/PlayCover>iVoider/PlayCover</a><p>PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)</p></li><li><a href=https://github.com/jaywcjlove/hotkeys>jaywcjlove/hotkeys</a><p>➷ A robust Javascript library for capturing keyboard input. It has no dependencies.</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/YaoFANGUK/video-subtitle-extractor>YaoFANGUK/video-subtitle-extractor</a><p>视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/8/22, 8:37 AM<br>下一次刷新：5/8/22, 11:37 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/8/22, 11:35 AM<br>下一次刷新：5/8/22, 2:35 PM</p>
