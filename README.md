@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/probberechts/hexo-theme-cactus>probberechts/hexo-theme-cactus</a><p>:cactus: A responsive, clean and simple theme for Hexo.</p></li><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><p>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</p></li><li><a href=https://github.com/jsun969/home>jsun969/home</a><p>Personal Homepage 个人主页</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/thelinmichael/spotify-web-api-node>thelinmichael/spotify-web-api-node</a><p>A Node.js wrapper for Spotify's Web API.</p></li></ul>
+<ul><li><a href=https://github.com/jsun969/home>jsun969/home</a><p>Personal Homepage 个人主页</p></li><li><a href=https://github.com/zpao/qrcode.react>zpao/qrcode.react</a><p>A<qrcode>component for use with React.</p></li><li><a href=https://github.com/li-jia-nan/How-to-Upgrade-to-React18>li-jia-nan/How-to-Upgrade-to-React18</a><p>React 18 完整版升级指南 & 新特性解读</p></li><li><a href=https://github.com/mx-space/mx-web-yun>mx-space/mx-web-yun</a><p>☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。</p></li><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><p>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/23/22, 11:48 AM<br>下一次刷新：5/23/22, 2:48 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/23/22, 2:12 PM<br>下一次刷新：5/23/22, 5:12 PM</p>
