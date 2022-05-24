@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/GriffinJohnston/uiball-loaders>GriffinJohnston/uiball-loaders</a><p>Modern, tree-shakeable loaders & spinners for React. Made with CSS, HTML and a splash of SVG. https://uiball.com/loaders</p></li><li><a href=https://github.com/missive/emoji-mart>missive/emoji-mart</a><p>🏪 One component to pick them all</p></li><li><a href=https://github.com/mx-space/mx-web-yun>mx-space/mx-web-yun</a><p>☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。</p></li><li><a href=https://github.com/mazzzystar/disco-diffusion-wrapper>mazzzystar/disco-diffusion-wrapper</a><p>Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li></ul>
+<ul><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/missive/emoji-mart>missive/emoji-mart</a><p>🏪 One component to pick them all</p></li><li><a href=https://github.com/thelinmichael/spotify-web-api-node>thelinmichael/spotify-web-api-node</a><p>A Node.js wrapper for Spotify's Web API.</p></li><li><a href=https://github.com/Innei/vue-react-wrapper>Innei/vue-react-wrapper</a><p>Use react component in vue 3 and data binding.</p></li><li><a href=https://github.com/bhaoo/Cuckoo>bhaoo/Cuckoo</a><p>🍭 一款MD风格的双栏Typecho主题</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/24/22, 5:07 AM<br>下一次刷新：5/24/22, 8:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/24/22, 8:43 AM<br>下一次刷新：5/24/22, 11:43 AM</p>
