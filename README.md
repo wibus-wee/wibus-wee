@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bhaoo/Cuckoo>bhaoo/Cuckoo</a><p>🍭 一款MD风格的双栏Typecho主题</p></li><li><a href=https://github.com/missive/emoji-mart>missive/emoji-mart</a><p>🏪 One component to pick them all</p></li><li><a href=https://github.com/mx-space/mx-web-yun>mx-space/mx-web-yun</a><p>☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。</p></li><li><a href=https://github.com/zpao/qrcode.react>zpao/qrcode.react</a><p>A<qrcode>component for use with React.</p></li><li><a href=https://github.com/mazzzystar/disco-diffusion-wrapper>mazzzystar/disco-diffusion-wrapper</a><p>Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.</p></li></ul>
+<ul><li><a href=https://github.com/li-jia-nan/How-to-Upgrade-to-React18>li-jia-nan/How-to-Upgrade-to-React18</a><p>React 18 完整版升级指南 & 新特性解读</p></li><li><a href=https://github.com/cirruslabs/tart>cirruslabs/tart</a><p>macOS VMs on Apple Silicon to use in CI and other automations</p></li><li><a href=https://github.com/bhaoo/Cuckoo>bhaoo/Cuckoo</a><p>🍭 一款MD风格的双栏Typecho主题</p></li><li><a href=https://github.com/siemiatj/react-plugin-system>siemiatj/react-plugin-system</a><p>Basic plugin system for React applications</p></li><li><a href=https://github.com/electron-react-boilerplate/electron-react-boilerplate>electron-react-boilerplate/electron-react-boilerplate</a><p>A Foundation for Scalable Cross-Platform Apps</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/30/22, 11:52 AM<br>下一次刷新：5/30/22, 2:52 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/30/22, 2:13 PM<br>下一次刷新：5/30/22, 5:13 PM</p>
