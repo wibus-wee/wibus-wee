@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/GeekyAnts/react-pluggable>GeekyAnts/react-pluggable</a><p>A plugin system for JS & React apps.</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/YunYouJun/valaxy>YunYouJun/valaxy</a><p>🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）</p></li><li><a href=https://github.com/bhaoo/Cuckoo>bhaoo/Cuckoo</a><p>🍭 一款MD风格的双栏Typecho主题</p></li><li><a href=https://github.com/YunYouJun/sponsors>YunYouJun/sponsors</a><p>💰 Sponsors of @YunYouJun. 云游君的赞助者们</p></li></ul>
+<ul><li><a href=https://github.com/siemiatj/react-plugin-system>siemiatj/react-plugin-system</a><p>Basic plugin system for React applications</p></li><li><a href=https://github.com/cirruslabs/tart>cirruslabs/tart</a><p>macOS VMs on Apple Silicon to use in CI and other automations</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/Brx86/DingZhen>Brx86/DingZhen</a><p>一眼丁真合集与Api，目前已收集502张</p></li><li><a href=https://github.com/mx-space/mx-web-yun>mx-space/mx-web-yun</a><p>☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/22, 2:10 AM<br>下一次刷新：6/1/22, 5:10 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/22, 5:07 AM<br>下一次刷新：6/1/22, 8:07 AM</p>
