@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bhaoo/Cuckoo>bhaoo/Cuckoo</a><p>🍭 一款MD风格的双栏Typecho主题</p></li><li><a href=https://github.com/electron-react-boilerplate/electron-react-boilerplate>electron-react-boilerplate/electron-react-boilerplate</a><p>A Foundation for Scalable Cross-Platform Apps</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/WindySha/Xpatch>WindySha/Xpatch</a><p>免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.</p></li><li><a href=https://github.com/Brx86/DingZhen>Brx86/DingZhen</a><p>一眼丁真合集与Api，目前已收集502张</p></li></ul>
+<ul><li><a href=https://github.com/GeekyAnts/react-pluggable>GeekyAnts/react-pluggable</a><p>A plugin system for JS & React apps.</p></li><li><a href=https://github.com/cirruslabs/tart>cirruslabs/tart</a><p>macOS VMs on Apple Silicon to use in CI and other automations</p></li><li><a href=https://github.com/li-jia-nan/How-to-Upgrade-to-React18>li-jia-nan/How-to-Upgrade-to-React18</a><p>React 18 完整版升级指南 & 新特性解读</p></li><li><a href=https://github.com/YunYouJun/sponsors>YunYouJun/sponsors</a><p>💰 Sponsors of @YunYouJun. 云游君的赞助者们</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/22, 2:16 PM<br>下一次刷新：6/1/22, 5:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/22, 5:20 PM<br>下一次刷新：6/1/22, 8:20 PM</p>
