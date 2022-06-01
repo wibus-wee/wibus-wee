@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jsun969/home>jsun969/home</a><p>Personal Homepage 个人主页</p></li><li><a href=https://github.com/missive/emoji-mart>missive/emoji-mart</a><p>🏪 One component to pick them all</p></li><li><a href=https://github.com/probberechts/hexo-theme-cactus>probberechts/hexo-theme-cactus</a><p>:cactus: A responsive, clean and simple theme for Hexo.</p></li><li><a href=https://github.com/WindySha/Xpatch>WindySha/Xpatch</a><p>免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li></ul>
+<ul><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/mazzzystar/disco-diffusion-wrapper>mazzzystar/disco-diffusion-wrapper</a><p>Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.</p></li><li><a href=https://github.com/bhaoo/Cuckoo>bhaoo/Cuckoo</a><p>🍭 一款MD风格的双栏Typecho主题</p></li><li><a href=https://github.com/mx-space/mx-web-yun>mx-space/mx-web-yun</a><p>☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/22, 11:09 PM<br>下一次刷新：6/2/22, 2:09 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/2/22, 2:15 AM<br>下一次刷新：6/2/22, 5:15 AM</p>
