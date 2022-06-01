@@ -110,11 +110,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Innei/react-shortcut-guide>Innei/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/lewkamtao/Geek_Blog>lewkamtao/Geek_Blog</a><p>基于Vue+Nuxt.js服务器渲染(SSR)搭建的个人博客系统</p></li><li><a href=https://github.com/jsun969/air-conditioner>jsun969/air-conditioner</a><p>A Windless Air Conditioner</p></li><li><a href=https://github.com/Houfeng/safeify>Houfeng/safeify</a><p>📦 Safe sandbox that can be used to execute untrusted code.</p></li><li><a href=https://github.com/SeleniumHQ/selenium>SeleniumHQ/selenium</a><p>A browser automation framework and ecosystem.</p></li></ul>
+<ul><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/lewkamtao/Geek_Blog>lewkamtao/Geek_Blog</a><p>基于Vue+Nuxt.js服务器渲染(SSR)搭建的个人博客系统</p></li><li><a href=https://github.com/jsun969/air-conditioner>jsun969/air-conditioner</a><p>A Windless Air Conditioner</p></li><li><a href=https://github.com/Houfeng/safeify>Houfeng/safeify</a><p>📦 Safe sandbox that can be used to execute untrusted code.</p></li><li><a href=https://github.com/SeleniumHQ/selenium>SeleniumHQ/selenium</a><p>A browser automation framework and ecosystem.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/GeekyAnts/react-pluggable>GeekyAnts/react-pluggable</a><p>A plugin system for JS & React apps.</p></li><li><a href=https://github.com/cirruslabs/tart>cirruslabs/tart</a><p>macOS VMs on Apple Silicon to use in CI and other automations</p></li><li><a href=https://github.com/li-jia-nan/How-to-Upgrade-to-React18>li-jia-nan/How-to-Upgrade-to-React18</a><p>React 18 完整版升级指南 & 新特性解读</p></li><li><a href=https://github.com/YunYouJun/sponsors>YunYouJun/sponsors</a><p>💰 Sponsors of @YunYouJun. 云游君的赞助者们</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li></ul>
+<ul><li><a href=https://github.com/mazzzystar/disco-diffusion-wrapper>mazzzystar/disco-diffusion-wrapper</a><p>Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/electron-react-boilerplate/electron-react-boilerplate>electron-react-boilerplate/electron-react-boilerplate</a><p>A Foundation for Scalable Cross-Platform Apps</p></li><li><a href=https://github.com/Brx86/DingZhen>Brx86/DingZhen</a><p>一眼丁真合集与Api，目前已收集502张</p></li><li><a href=https://github.com/cirruslabs/tart>cirruslabs/tart</a><p>macOS VMs on Apple Silicon to use in CI and other automations</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/22, 5:20 PM<br>下一次刷新：6/1/22, 8:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/22, 8:17 PM<br>下一次刷新：6/1/22, 11:17 PM</p>
