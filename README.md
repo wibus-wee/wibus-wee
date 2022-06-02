@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/byteblogs168/theme-react-sakura>byteblogs168/theme-react-sakura</a><p>使用react开发个人helloblog-sakura博客主题</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/probberechts/hexo-theme-cactus>probberechts/hexo-theme-cactus</a><p>:cactus: A responsive, clean and simple theme for Hexo.</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/SeleniumHQ/selenium>SeleniumHQ/selenium</a><p>A browser automation framework and ecosystem.</p></li></ul>
+<ul><li><a href=https://github.com/mazzzystar/disco-diffusion-wrapper>mazzzystar/disco-diffusion-wrapper</a><p>Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><p>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</p></li><li><a href=https://github.com/SeleniumHQ/selenium>SeleniumHQ/selenium</a><p>A browser automation framework and ecosystem.</p></li><li><a href=https://github.com/missive/emoji-mart>missive/emoji-mart</a><p>🏪 One component to pick them all</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/2/22, 8:47 AM<br>下一次刷新：6/2/22, 11:47 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/2/22, 12:01 PM<br>下一次刷新：6/2/22, 3:01 PM</p>
