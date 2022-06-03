@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Houfeng/safeify>Houfeng/safeify</a><p>📦 Safe sandbox that can be used to execute untrusted code.</p></li><li><a href=https://github.com/jsun969/air-conditioner>jsun969/air-conditioner</a><p>A Windless Air Conditioner</p></li><li><a href=https://github.com/GeekyAnts/react-pluggable>GeekyAnts/react-pluggable</a><p>A plugin system for JS & React apps.</p></li><li><a href=https://github.com/mx-space/mx-web-yun>mx-space/mx-web-yun</a><p>☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。</p></li><li><a href=https://github.com/li-jia-nan/How-to-Upgrade-to-React18>li-jia-nan/How-to-Upgrade-to-React18</a><p>React 18 完整版升级指南 & 新特性解读</p></li></ul>
+<ul><li><a href=https://github.com/Dreamer-Paul/KStart>Dreamer-Paul/KStart</a><p>☕ 一个简洁轻巧的公共起始页服务</p></li><li><a href=https://github.com/siemiatj/react-plugin-system>siemiatj/react-plugin-system</a><p>Basic plugin system for React applications</p></li><li><a href=https://github.com/cirruslabs/tart>cirruslabs/tart</a><p>macOS VMs on Apple Silicon to use in CI and other automations</p></li><li><a href=https://github.com/mazzzystar/disco-diffusion-wrapper>mazzzystar/disco-diffusion-wrapper</a><p>Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.</p></li><li><a href=https://github.com/lewkamtao/Geek_Blog>lewkamtao/Geek_Blog</a><p>基于Vue+Nuxt.js服务器渲染(SSR)搭建的个人博客系统</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/4/22, 2:10 AM<br>下一次刷新：6/4/22, 5:10 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/4/22, 5:06 AM<br>下一次刷新：6/4/22, 8:06 AM</p>
