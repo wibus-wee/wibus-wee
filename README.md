@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/GeekyAnts/react-pluggable>GeekyAnts/react-pluggable</a><p>A plugin system for JS & React apps.</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><p>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</p></li><li><a href=https://github.com/byteblogs168/theme-react-sakura>byteblogs168/theme-react-sakura</a><p>使用react开发个人helloblog-sakura博客主题</p></li><li><a href=https://github.com/jsun969/home>jsun969/home</a><p>Personal Homepage 个人主页</p></li></ul>
+<ul><li><a href=https://github.com/li-jia-nan/How-to-Upgrade-to-React18>li-jia-nan/How-to-Upgrade-to-React18</a><p>React 18 完整版升级指南 & 新特性解读</p></li><li><a href=https://github.com/jsun969/home>jsun969/home</a><p>Personal Homepage 个人主页</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/YunYouJun/valaxy>YunYouJun/valaxy</a><p>🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）</p></li><li><a href=https://github.com/bhaoo/Cuckoo>bhaoo/Cuckoo</a><p>🍭 一款MD风格的双栏Typecho主题</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/22, 2:10 PM<br>下一次刷新：6/3/22, 5:10 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/22, 5:08 PM<br>下一次刷新：6/3/22, 8:08 PM</p>
