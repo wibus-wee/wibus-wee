@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/WingLim/hugo-tania>WingLim/hugo-tania</a><p>A simple theme for bloggers.</p></li><li><a href=https://github.com/YunYouJun/valaxy>YunYouJun/valaxy</a><p>🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）</p></li><li><a href=https://github.com/pmndrs/react-spring>pmndrs/react-spring</a><p>✌️ A spring physics based React animation library</p></li><li><a href=https://github.com/cirruslabs/tart>cirruslabs/tart</a><p>macOS VMs on Apple Silicon to use in CI and other automations</p></li><li><a href=https://github.com/jsun969/home>jsun969/home</a><p>Personal Homepage 个人主页</p></li></ul>
+<ul><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/mazzzystar/disco-diffusion-wrapper>mazzzystar/disco-diffusion-wrapper</a><p>Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.</p></li><li><a href=https://github.com/vuejs/vitepress>vuejs/vitepress</a><p>Vite & Vue powered static site generator.</p></li><li><a href=https://github.com/pmndrs/react-spring>pmndrs/react-spring</a><p>✌️ A spring physics based React animation library</p></li><li><a href=https://github.com/cirruslabs/tart>cirruslabs/tart</a><p>macOS VMs on Apple Silicon to use in CI and other automations</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/5/22, 8:45 AM<br>下一次刷新：6/5/22, 11:45 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/5/22, 11:30 AM<br>下一次刷新：6/5/22, 2:30 PM</p>
