@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vuejs/vitepress>vuejs/vitepress</a><p>Vite & Vue powered static site generator.</p></li><li><a href=https://github.com/tj/commander.js>tj/commander.js</a><p>node.js command-line interfaces made easy</p></li><li><a href=https://github.com/framer/motion>framer/motion</a><p>Open source, production-ready animation and gesture library for React</p></li><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><p>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</p></li><li><a href=https://github.com/Houfeng/safeify>Houfeng/safeify</a><p>📦 Safe sandbox that can be used to execute untrusted code.</p></li></ul>
+<ul><li><a href=https://github.com/WingLim/hugo-tania>WingLim/hugo-tania</a><p>A simple theme for bloggers.</p></li><li><a href=https://github.com/YunYouJun/valaxy>YunYouJun/valaxy</a><p>🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）</p></li><li><a href=https://github.com/pmndrs/react-spring>pmndrs/react-spring</a><p>✌️ A spring physics based React animation library</p></li><li><a href=https://github.com/cirruslabs/tart>cirruslabs/tart</a><p>macOS VMs on Apple Silicon to use in CI and other automations</p></li><li><a href=https://github.com/jsun969/home>jsun969/home</a><p>Personal Homepage 个人主页</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/5/22, 5:09 AM<br>下一次刷新：6/5/22, 8:09 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/5/22, 8:45 AM<br>下一次刷新：6/5/22, 11:45 AM</p>
