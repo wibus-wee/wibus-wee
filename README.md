@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SortableJS/Sortable>SortableJS/Sortable</a><p>Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.</p></li><li><a href=https://github.com/YunYouJun/valaxy>YunYouJun/valaxy</a><p>🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）</p></li><li><a href=https://github.com/tj/commander.js>tj/commander.js</a><p>node.js command-line interfaces made easy</p></li><li><a href=https://github.com/Houfeng/safeify>Houfeng/safeify</a><p>📦 Safe sandbox that can be used to execute untrusted code.</p></li><li><a href=https://github.com/labring/laf>labring/laf</a><p>laf is a serverless framework, lets you write code like writing a blog!</p></li></ul>
+<ul><li><a href=https://github.com/framer/motion>framer/motion</a><p>Open source, production-ready animation and gesture library for React</p></li><li><a href=https://github.com/siemiatj/react-plugin-system>siemiatj/react-plugin-system</a><p>Basic plugin system for React applications</p></li><li><a href=https://github.com/YunYouJun/valaxy>YunYouJun/valaxy</a><p>🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）</p></li><li><a href=https://github.com/Stuk/jszip>Stuk/jszip</a><p>Create, read and edit .zip files with Javascript</p></li><li><a href=https://github.com/Houfeng/safeify>Houfeng/safeify</a><p>📦 Safe sandbox that can be used to execute untrusted code.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/7/22, 5:06 AM<br>下一次刷新：6/7/22, 8:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/7/22, 8:33 AM<br>下一次刷新：6/7/22, 11:33 AM</p>
