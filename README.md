@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vuejs/vitepress>vuejs/vitepress</a><p>Vite & Vue powered static site generator.</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/Brx86/DingZhen>Brx86/DingZhen</a><p>一眼丁真合集与Api，目前已收集502张</p></li><li><a href=https://github.com/jsun969/air-conditioner>jsun969/air-conditioner</a><p>A Windless Air Conditioner</p></li><li><a href=https://github.com/sergi/jsftp>sergi/jsftp</a><p>Light and complete FTP client implementation for Node.js</p></li></ul>
+<ul><li><a href=https://github.com/morris/vinyl-ftp>morris/vinyl-ftp</a><p>Blazing fast vinyl adapter for FTP</p></li><li><a href=https://github.com/SeleniumHQ/selenium>SeleniumHQ/selenium</a><p>A browser automation framework and ecosystem.</p></li><li><a href=https://github.com/Stuk/jszip>Stuk/jszip</a><p>Create, read and edit .zip files with Javascript</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/bluebill1049/little-state-machine>bluebill1049/little-state-machine</a><p>📠 React custom hook for persist state management</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/22, 11:48 AM<br>下一次刷新：6/8/22, 2:48 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/22, 2:10 PM<br>下一次刷新：6/8/22, 5:10 PM</p>
