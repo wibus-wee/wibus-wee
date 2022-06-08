@@ -114,7 +114,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/samzhangjy/VueTerm>samzhangjy/VueTerm</a><p>An Ubuntu like terminal portfolio site.</p></li><li><a href=https://github.com/Brx86/DingZhen>Brx86/DingZhen</a><p>一眼丁真合集与Api，目前已收集502张</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/siemiatj/react-plugin-system>siemiatj/react-plugin-system</a><p>Basic plugin system for React applications</p></li><li><a href=https://github.com/mscdex/node-ftp>mscdex/node-ftp</a><p>An FTP client module for node.js</p></li></ul>
+<ul><li><a href=https://github.com/1c7/chinese-independent-developer>1c7/chinese-independent-developer</a><p>👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么</p></li><li><a href=https://github.com/Brx86/DingZhen>Brx86/DingZhen</a><p>一眼丁真合集与Api，目前已收集502张</p></li><li><a href=https://github.com/bluebill1049/little-state-machine>bluebill1049/little-state-machine</a><p>📠 React custom hook for persist state management</p></li><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/SortableJS/Sortable>SortableJS/Sortable</a><p>Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +127,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/22, 5:08 PM<br>下一次刷新：6/8/22, 8:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/22, 8:16 PM<br>下一次刷新：6/8/22, 11:16 PM</p>
