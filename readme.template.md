@@ -1,4 +1,4 @@
-<h3 align="center">I'm Wibus, nice to meet you here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h3 align="center">I'm Wibus, nice to meet you here. 👋
 <br><br>
 <a href="mailto:wibus@qq.com" align="center">
   <img align="center" alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
@@ -21,6 +21,7 @@
 **Abilities**
 
 ```
+NO PHP!          █████████████████████████
 Compose Music    ███████████████████████░░
 Writing Content  ███████████████░░░░░░░░░░
 Frontend         █████████████░░░░░░░░░░░░
@@ -71,10 +72,6 @@ UI Design        █████████░░░░░░░░░░░░
 </p>
 
 **Music professional (yes!)**
-
-<p>
-  Created an organization, `WiMusic`, which is still developing
-</p>
 
 
 **Others (Maybe...)**
