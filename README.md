@@ -1,4 +1,4 @@
-<h3 align="center">I'm Wibus, nice to meet you here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h3 align="center">I'm Wibus, nice to meet you here. 👋
 <br><br>
 <a href="mailto:wibus@qq.com" align="center">
   <img align="center" alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
@@ -21,6 +21,7 @@
 **Abilities**
 
 ```
+NO PHP!          █████████████████████████
 Compose Music    ███████████████████████░░
 Writing Content  ███████████████░░░░░░░░░░
 Frontend         █████████████░░░░░░░░░░░░
@@ -72,10 +73,6 @@ UI Design        █████████░░░░░░░░░░░░
 
 **Music professional (yes!)**
 
-<p>
-  Created an organization, `WiMusic`, which is still developing
-</p>
-
 
 **Others (Maybe...)**
 
@@ -114,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/formkit/auto-animate>formkit/auto-animate</a><p>A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.</p></li><li><a href=https://github.com/Dreamer-Paul/KStart>Dreamer-Paul/KStart</a><p>☕ 一个简洁轻巧的公共起始页服务</p></li><li><a href=https://github.com/yu-steven/openit>yu-steven/openit</a><p>致力于打造无感翻墙环境</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/YunYouJun/valaxy>YunYouJun/valaxy</a><p>🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）</p></li></ul>
+<ul><li><a href=https://github.com/vuejs/vitepress>vuejs/vitepress</a><p>Vite & Vue powered static site generator.</p></li><li><a href=https://github.com/WingLim/hugo-tania>WingLim/hugo-tania</a><p>A simple theme for bloggers.</p></li><li><a href=https://github.com/pmndrs/react-spring>pmndrs/react-spring</a><p>✌️ A spring physics based React animation library</p></li><li><a href=https://github.com/framer/motion>framer/motion</a><p>Open source, production-ready animation and gesture library for React</p></li><li><a href=https://github.com/SeleniumHQ/selenium>SeleniumHQ/selenium</a><p>A browser automation framework and ecosystem.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -127,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/9/22, 8:16 PM<br>下一次刷新：6/9/22, 11:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/9/22, 8:45 PM<br>下一次刷新：6/9/22, 11:45 PM</p>
