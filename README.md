@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vuejs/vitepress>vuejs/vitepress</a><p>Vite & Vue powered static site generator.</p></li><li><a href=https://github.com/SortableJS/Sortable>SortableJS/Sortable</a><p>Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.</p></li><li><a href=https://github.com/yuancy-code/react-plugin-system>yuancy-code/react-plugin-system</a><p>react-plugin-system project build by rollup-cli.</p></li><li><a href=https://github.com/jsun969/air-conditioner>jsun969/air-conditioner</a><p>A Windless Air Conditioner</p></li><li><a href=https://github.com/tj/commander.js>tj/commander.js</a><p>node.js command-line interfaces made easy</p></li></ul>
+<ul><li><a href=https://github.com/vuejs/vitepress>vuejs/vitepress</a><p>Vite & Vue powered static site generator.</p></li><li><a href=https://github.com/adityatelange/hugo-PaperMod>adityatelange/hugo-PaperMod</a><p>A fast, clean, responsive Hugo theme.</p></li><li><a href=https://github.com/rcaferati/react-awesome-slider>rcaferati/react-awesome-slider</a><p>React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. 🖥️ 📱</p></li><li><a href=https://github.com/samzhangjy/VueTerm>samzhangjy/VueTerm</a><p>An Ubuntu like terminal portfolio site.</p></li><li><a href=https://github.com/lewkamtao/Geek_Blog>lewkamtao/Geek_Blog</a><p>基于Vue+Nuxt.js服务器渲染(SSR)搭建的个人博客系统</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 5:08 PM<br>下一次刷新：6/10/22, 8:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 8:14 PM<br>下一次刷新：6/10/22, 11:14 PM</p>
