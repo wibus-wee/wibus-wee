@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/FelixKratz/SketchyBar>FelixKratz/SketchyBar</a><p>A highly customizable macOS status bar replacement</p></li><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><p>The most powerful virtual list component for React</p></li><li><a href=https://github.com/PlasmoHQ/plasmo>PlasmoHQ/plasmo</a><p>The browser extension framework</p></li><li><a href=https://github.com/akxcv/vuera>akxcv/vuera</a><p>:eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:</p></li><li><a href=https://github.com/liexusong/php-beast>liexusong/php-beast</a><p>PHP source code encrypt module (PHP源码加密扩展)</p></li></ul>
+<ul><li><a href=https://github.com/fastify/fastify>fastify/fastify</a><p>Fast and low overhead web framework, for Node.js</p></li><li><a href=https://github.com/RasaHQ/rasa>RasaHQ/rasa</a><p>💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants</p></li><li><a href=https://github.com/FelixKratz/SketchyBar>FelixKratz/SketchyBar</a><p>A highly customizable macOS status bar replacement</p></li><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><p>The most powerful virtual list component for React</p></li><li><a href=https://github.com/PlasmoHQ/plasmo>PlasmoHQ/plasmo</a><p>The browser extension framework</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jsun969/air-conditioner>jsun969/air-conditioner</a><p>A Windless Air Conditioner</p></li><li><a href=https://github.com/morris/vinyl-ftp>morris/vinyl-ftp</a><p>Blazing fast vinyl adapter for FTP</p></li><li><a href=https://github.com/vuejs/vitepress>vuejs/vitepress</a><p>Vite & Vue powered static site generator.</p></li><li><a href=https://github.com/WingLim/hugo-tania>WingLim/hugo-tania</a><p>A simple theme for bloggers.</p></li><li><a href=https://github.com/LasCC/Hack-Tools>LasCC/Hack-Tools</a><p>The all-in-one Red Team extension for Web Pentester 🛠</p></li></ul>
+<ul><li><a href=https://github.com/samzhangjy/VueTerm>samzhangjy/VueTerm</a><p>An Ubuntu like terminal portfolio site.</p></li><li><a href=https://github.com/yu-steven/openit>yu-steven/openit</a><p>致力于打造无感翻墙环境</p></li><li><a href=https://github.com/pmndrs/react-spring>pmndrs/react-spring</a><p>✌️ A spring physics based React animation library</p></li><li><a href=https://github.com/framer/motion>framer/motion</a><p>Open source, production-ready animation and gesture library for React</p></li><li><a href=https://github.com/liexusong/php-beast>liexusong/php-beast</a><p>PHP source code encrypt module (PHP源码加密扩展)</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/11/22, 5:06 AM<br>下一次刷新：6/11/22, 8:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/11/22, 8:40 AM<br>下一次刷新：6/11/22, 11:40 AM</p>
