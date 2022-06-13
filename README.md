@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sergi/jsftp>sergi/jsftp</a><p>Light and complete FTP client implementation for Node.js</p></li><li><a href=https://github.com/WingLim/hugo-tania>WingLim/hugo-tania</a><p>A simple theme for bloggers.</p></li><li><a href=https://github.com/igorkulman/ChangeMenuBarColor>igorkulman/ChangeMenuBarColor</a><p>Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image</p></li><li><a href=https://github.com/Dreamer-Paul/KStart>Dreamer-Paul/KStart</a><p>☕ 一个简洁轻巧的公共起始页服务</p></li><li><a href=https://github.com/morris/vinyl-ftp>morris/vinyl-ftp</a><p>Blazing fast vinyl adapter for FTP</p></li></ul>
+<ul><li><a href=https://github.com/sergi/jsftp>sergi/jsftp</a><p>Light and complete FTP client implementation for Node.js</p></li><li><a href=https://github.com/adityatelange/hugo-PaperMod>adityatelange/hugo-PaperMod</a><p>A fast, clean, responsive Hugo theme.</p></li><li><a href=https://github.com/tj/commander.js>tj/commander.js</a><p>node.js command-line interfaces made easy</p></li><li><a href=https://github.com/yu-steven/openit>yu-steven/openit</a><p>致力于打造无感翻墙环境</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/14/22, 2:16 AM<br>下一次刷新：6/14/22, 5:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/14/22, 5:07 AM<br>下一次刷新：6/14/22, 8:07 AM</p>
