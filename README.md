@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/framer/motion>framer/motion</a><p>Open source, production-ready animation and gesture library for React</p></li><li><a href=https://github.com/mscdex/node-ftp>mscdex/node-ftp</a><p>An FTP client module for node.js</p></li><li><a href=https://github.com/vuejs/vitepress>vuejs/vitepress</a><p>Vite & Vue powered static site generator.</p></li><li><a href=https://github.com/sergi/jsftp>sergi/jsftp</a><p>Light and complete FTP client implementation for Node.js</p></li><li><a href=https://github.com/FelixKratz/SketchyBar>FelixKratz/SketchyBar</a><p>A highly customizable macOS status bar replacement</p></li></ul>
+<ul><li><a href=https://github.com/tj/commander.js>tj/commander.js</a><p>node.js command-line interfaces made easy</p></li><li><a href=https://github.com/bluebill1049/little-state-machine>bluebill1049/little-state-machine</a><p>📠 React custom hook for persist state management</p></li><li><a href=https://github.com/mscdex/node-ftp>mscdex/node-ftp</a><p>An FTP client module for node.js</p></li><li><a href=https://github.com/yuancy-code/react-plugin-system>yuancy-code/react-plugin-system</a><p>react-plugin-system project build by rollup-cli.</p></li><li><a href=https://github.com/Stuk/jszip>Stuk/jszip</a><p>Create, read and edit .zip files with Javascript</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/15/22, 5:08 PM<br>下一次刷新：6/15/22, 8:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/15/22, 8:14 PM<br>下一次刷新：6/15/22, 11:14 PM</p>
