@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/adityatelange/hugo-PaperMod>adityatelange/hugo-PaperMod</a><p>A fast, clean, responsive Hugo theme.</p></li><li><a href=https://github.com/rcaferati/react-awesome-slider>rcaferati/react-awesome-slider</a><p>React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. 🖥️ 📱</p></li><li><a href=https://github.com/bluebill1049/little-state-machine>bluebill1049/little-state-machine</a><p>📠 React custom hook for persist state management</p></li><li><a href=https://github.com/akxcv/vuera>akxcv/vuera</a><p>:eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:</p></li><li><a href=https://github.com/samzhangjy/VueTerm>samzhangjy/VueTerm</a><p>An Ubuntu like terminal portfolio site.</p></li></ul>
+<ul><li><a href=https://github.com/framer/motion>framer/motion</a><p>Open source, production-ready animation and gesture library for React</p></li><li><a href=https://github.com/sergi/jsftp>sergi/jsftp</a><p>Light and complete FTP client implementation for Node.js</p></li><li><a href=https://github.com/HIBIKI-CUBE/menu-bar-height>HIBIKI-CUBE/menu-bar-height</a><p>Get height of Menu Bar on macOS</p></li><li><a href=https://github.com/yu-steven/openit>yu-steven/openit</a><p>致力于打造无感翻墙环境</p></li><li><a href=https://github.com/pmndrs/react-spring>pmndrs/react-spring</a><p>✌️ A spring physics based React animation library</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/22, 11:46 AM<br>下一次刷新：6/17/22, 2:46 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/22, 2:10 PM<br>下一次刷新：6/17/22, 5:10 PM</p>
