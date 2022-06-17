@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/antfu/changelogithub>antfu/changelogithub</a><p>Generate changelog for GitHub</p></li><li><a href=https://github.com/chibat/chrome-extension-typescript-starter>chibat/chrome-extension-typescript-starter</a><p>Chrome Extension TypeScript Starter</p></li><li><a href=https://github.com/jrotty/LowNavigation>jrotty/LowNavigation</a><p>一个无需数据库的PHP导航程序</p></li><li><a href=https://github.com/fastify/fastify>fastify/fastify</a><p>Fast and low overhead web framework, for Node.js</p></li><li><a href=https://github.com/RasaHQ/rasa>RasaHQ/rasa</a><p>💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants</p></li></ul>
+<ul><li><a href=https://github.com/wenyan-lang/wenyan>wenyan-lang/wenyan</a><p>文言文編程語言 A programming language for the ancient Chinese.</p></li><li><a href=https://github.com/antfu/changelogithub>antfu/changelogithub</a><p>Generate changelog for GitHub</p></li><li><a href=https://github.com/chibat/chrome-extension-typescript-starter>chibat/chrome-extension-typescript-starter</a><p>Chrome Extension TypeScript Starter</p></li><li><a href=https://github.com/jrotty/LowNavigation>jrotty/LowNavigation</a><p>一个无需数据库的PHP导航程序</p></li><li><a href=https://github.com/fastify/fastify>fastify/fastify</a><p>Fast and low overhead web framework, for Node.js</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/HIBIKI-CUBE/menu-bar-height>HIBIKI-CUBE/menu-bar-height</a><p>Get height of Menu Bar on macOS</p></li><li><a href=https://github.com/rcaferati/react-awesome-slider>rcaferati/react-awesome-slider</a><p>React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. 🖥️ 📱</p></li><li><a href=https://github.com/formkit/auto-animate>formkit/auto-animate</a><p>A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.</p></li><li><a href=https://github.com/Stuk/jszip>Stuk/jszip</a><p>Create, read and edit .zip files with Javascript</p></li><li><a href=https://github.com/yuancy-code/react-plugin-system>yuancy-code/react-plugin-system</a><p>react-plugin-system project build by rollup-cli.</p></li></ul>
+<ul><li><a href=https://github.com/akxcv/vuera>akxcv/vuera</a><p>:eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:</p></li><li><a href=https://github.com/samzhangjy/VueTerm>samzhangjy/VueTerm</a><p>An Ubuntu like terminal portfolio site.</p></li><li><a href=https://github.com/Stuk/jszip>Stuk/jszip</a><p>Create, read and edit .zip files with Javascript</p></li><li><a href=https://github.com/bluebill1049/little-state-machine>bluebill1049/little-state-machine</a><p>📠 React custom hook for persist state management</p></li><li><a href=https://github.com/PlasmoHQ/plasmo>PlasmoHQ/plasmo</a><p>The browser extension framework</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/22, 8:15 PM<br>下一次刷新：6/17/22, 11:15 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/22, 11:11 PM<br>下一次刷新：6/18/22, 2:11 AM</p>
