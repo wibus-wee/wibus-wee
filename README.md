@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/mongodb/mongo>mongodb/mongo</a><p>The MongoDB Database</p></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/free-audio/clap>free-audio/clap</a><p>Audio Plugin API</p></li><li><a href=https://github.com/nrwl/nx>nrwl/nx</a><p>Smart, Fast and Extensible Build System</p></li><li><a href=https://github.com/lxgr-linux/pokete>lxgr-linux/pokete</a><p>A terminal based Pokemon like game</p></li></ul>
+<ul><li><a href=https://github.com/wenyan-lang/book>wenyan-lang/book</a><p>文言陰符 An Introduction to Programming in Wenyan Language</p></li><li><a href=https://github.com/mongodb/mongo>mongodb/mongo</a><p>The MongoDB Database</p></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/free-audio/clap>free-audio/clap</a><p>Audio Plugin API</p></li><li><a href=https://github.com/nrwl/nx>nrwl/nx</a><p>Smart, Fast and Extensible Build System</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/formkit/auto-animate>formkit/auto-animate</a><p>A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.</p></li><li><a href=https://github.com/sergi/jsftp>sergi/jsftp</a><p>Light and complete FTP client implementation for Node.js</p></li><li><a href=https://github.com/samzhangjy/VueTerm>samzhangjy/VueTerm</a><p>An Ubuntu like terminal portfolio site.</p></li><li><a href=https://github.com/rcaferati/react-awesome-slider>rcaferati/react-awesome-slider</a><p>React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. 🖥️ 📱</p></li><li><a href=https://github.com/LasCC/Hack-Tools>LasCC/Hack-Tools</a><p>The all-in-one Red Team extension for Web Pentester 🛠</p></li></ul>
+<ul><li><a href=https://github.com/PlasmoHQ/plasmo>PlasmoHQ/plasmo</a><p>The browser extension framework</p></li><li><a href=https://github.com/FelixKratz/SketchyBar>FelixKratz/SketchyBar</a><p>A highly customizable macOS status bar replacement</p></li><li><a href=https://github.com/RasaHQ/rasa>RasaHQ/rasa</a><p>💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants</p></li><li><a href=https://github.com/samzhangjy/VueTerm>samzhangjy/VueTerm</a><p>An Ubuntu like terminal portfolio site.</p></li><li><a href=https://github.com/LasCC/Hack-Tools>LasCC/Hack-Tools</a><p>The all-in-one Red Team extension for Web Pentester 🛠</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/18/22, 8:13 PM<br>下一次刷新：6/18/22, 11:13 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/18/22, 11:07 PM<br>下一次刷新：6/19/22, 2:07 AM</p>
