@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/akxcv/vuera>akxcv/vuera</a><p>:eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:</p></li><li><a href=https://github.com/free-audio/clap>free-audio/clap</a><p>Audio Plugin API</p></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/wenyan-lang/book>wenyan-lang/book</a><p>文言陰符 An Introduction to Programming in Wenyan Language</p></li><li><a href=https://github.com/fastify/fastify>fastify/fastify</a><p>Fast and low overhead web framework, for Node.js</p></li></ul>
+<ul><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/denoland/deno>denoland/deno</a><p>A modern runtime for JavaScript and TypeScript.</p></li><li><a href=https://github.com/adityatelange/hugo-PaperMod>adityatelange/hugo-PaperMod</a><p>A fast, clean, responsive Hugo theme.</p></li><li><a href=https://github.com/PlasmoHQ/plasmo>PlasmoHQ/plasmo</a><p>The browser extension framework</p></li><li><a href=https://github.com/antfu/changelogithub>antfu/changelogithub</a><p>Generate changelog for GitHub</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/21/22, 5:12 PM<br>下一次刷新：6/21/22, 8:12 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/21/22, 8:15 PM<br>下一次刷新：6/21/22, 11:15 PM</p>
