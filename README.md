@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/RasaHQ/rasa>RasaHQ/rasa</a><p>💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants</p></li><li><a href=https://github.com/denoland/deno>denoland/deno</a><p>A modern runtime for JavaScript and TypeScript.</p></li><li><a href=https://github.com/igorkulman/ChangeMenuBarColor>igorkulman/ChangeMenuBarColor</a><p>Simple utility to change macOS Big Sur and Monterey menu bar color by appending a solid color or gradient rectangle to a wallpaper image</p></li><li><a href=https://github.com/wenyan-lang/wenyan>wenyan-lang/wenyan</a><p>文言文編程語言 A programming language for the ancient Chinese.</p></li><li><a href=https://github.com/octokit/octokit.js>octokit/octokit.js</a><p>The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.</p></li></ul>
+<ul><li><a href=https://github.com/FelixKratz/SketchyBar>FelixKratz/SketchyBar</a><p>A highly customizable macOS status bar replacement</p></li><li><a href=https://github.com/wenyan-lang/book>wenyan-lang/book</a><p>文言陰符 An Introduction to Programming in Wenyan Language</p></li><li><a href=https://github.com/jrotty/LowNavigation>jrotty/LowNavigation</a><p>一个无需数据库的PHP导航程序</p></li><li><a href=https://github.com/antfu/changelogithub>antfu/changelogithub</a><p>Generate changelog for GitHub</p></li><li><a href=https://github.com/chibat/chrome-extension-typescript-starter>chibat/chrome-extension-typescript-starter</a><p>Chrome Extension TypeScript Starter</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/23/22, 2:10 PM<br>下一次刷新：6/23/22, 5:10 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/23/22, 5:08 PM<br>下一次刷新：6/23/22, 8:08 PM</p>
