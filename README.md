@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nrwl/nx>nrwl/nx</a><p>Smart, Fast and Extensible Build System</p></li><li><a href=https://github.com/codex-team/editor.js>codex-team/editor.js</a><p>A block-styled editor with clean JSON output</p></li><li><a href=https://github.com/PlasmoHQ/plasmo>PlasmoHQ/plasmo</a><p>The browser extension framework</p></li><li><a href=https://github.com/free-audio/clap>free-audio/clap</a><p>Audio Plugin API</p></li><li><a href=https://github.com/wenyan-lang/wenyan>wenyan-lang/wenyan</a><p>文言文編程語言 A programming language for the ancient Chinese.</p></li></ul>
+<ul><li><a href=https://github.com/elastic/eui>elastic/eui</a><p>Elastic UI Framework 🙌</p></li><li><a href=https://github.com/FelixKratz/SketchyBar>FelixKratz/SketchyBar</a><p>A highly customizable macOS status bar replacement</p></li><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><p>The most powerful virtual list component for React</p></li><li><a href=https://github.com/commitizen-tools/commitizen>commitizen-tools/commitizen</a><p>Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:</p></li><li><a href=https://github.com/lxgr-linux/pokete>lxgr-linux/pokete</a><p>A terminal based Pokemon like game</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/24/22, 11:09 PM<br>下一次刷新：6/25/22, 2:09 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 2:11 AM<br>下一次刷新：6/25/22, 5:11 AM</p>
