@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/elastic/eui>elastic/eui</a><p>Elastic UI Framework 🙌</p></li><li><a href=https://github.com/FelixKratz/SketchyBar>FelixKratz/SketchyBar</a><p>A highly customizable macOS status bar replacement</p></li><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><p>The most powerful virtual list component for React</p></li><li><a href=https://github.com/commitizen-tools/commitizen>commitizen-tools/commitizen</a><p>Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:</p></li><li><a href=https://github.com/lxgr-linux/pokete>lxgr-linux/pokete</a><p>A terminal based Pokemon like game</p></li></ul>
+<ul><li><a href=https://github.com/commitizen-tools/commitizen>commitizen-tools/commitizen</a><p>Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:</p></li><li><a href=https://github.com/FelixKratz/SketchyBar>FelixKratz/SketchyBar</a><p>A highly customizable macOS status bar replacement</p></li><li><a href=https://github.com/chibat/chrome-extension-typescript-starter>chibat/chrome-extension-typescript-starter</a><p>Chrome Extension TypeScript Starter</p></li><li><a href=https://github.com/octokit/octokit.js>octokit/octokit.js</a><p>The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.</p></li><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><p>The most powerful virtual list component for React</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 2:11 AM<br>下一次刷新：6/25/22, 5:11 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 5:06 AM<br>下一次刷新：6/25/22, 8:06 AM</p>
