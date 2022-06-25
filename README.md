@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/ChainSafe/web3.js>ChainSafe/web3.js</a><p>Ethereum JavaScript API</p></li><li><a href=https://github.com/mattermost/focalboard>mattermost/focalboard</a><p>Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.</p></li><li><a href=https://github.com/MarsWang42/devlog>MarsWang42/devlog</a></li><li><a href=https://github.com/sindresorhus/np>sindresorhus/np</a><p>A better `npm publish`</p></li><li><a href=https://github.com/easychen/lean-side-bussiness>easychen/lean-side-bussiness</a><p>精益副业：程序员如何优雅地做副业</p></li></ul>
+<ul><li><a href=https://github.com/antfu/use>antfu/use</a><p>Things I am using</p></li><li><a href=https://github.com/ChainSafe/web3.js>ChainSafe/web3.js</a><p>Ethereum JavaScript API</p></li><li><a href=https://github.com/mattermost/focalboard>mattermost/focalboard</a><p>Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.</p></li><li><a href=https://github.com/MarsWang42/devlog>MarsWang42/devlog</a></li><li><a href=https://github.com/sindresorhus/np>sindresorhus/np</a><p>A better `npm publish`</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mongodb/mongo>mongodb/mongo</a><p>The MongoDB Database</p></li><li><a href=https://github.com/antfu/changelogithub>antfu/changelogithub</a><p>Generate changelog for GitHub</p></li><li><a href=https://github.com/FelixKratz/SketchyBar>FelixKratz/SketchyBar</a><p>A highly customizable macOS status bar replacement</p></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/petyosi/react-virtuoso>petyosi/react-virtuoso</a><p>The most powerful virtual list component for React</p></li></ul>
+<ul><li><a href=https://github.com/commitizen-tools/commitizen>commitizen-tools/commitizen</a><p>Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:</p></li><li><a href=https://github.com/wenyan-lang/wenyan>wenyan-lang/wenyan</a><p>文言文編程語言 A programming language for the ancient Chinese.</p></li><li><a href=https://github.com/nrwl/nx>nrwl/nx</a><p>Smart, Fast and Extensible Build System</p></li><li><a href=https://github.com/easychen/lean-side-bussiness>easychen/lean-side-bussiness</a><p>精益副业：程序员如何优雅地做副业</p></li><li><a href=https://github.com/BabylonJS/Babylon.js>BabylonJS/Babylon.js</a><p>Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 11:47 AM<br>下一次刷新：6/25/22, 2:47 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 2:09 PM<br>下一次刷新：6/25/22, 5:09 PM</p>
