@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/easychen/lean-side-bussiness>easychen/lean-side-bussiness</a><p>精益副业：程序员如何优雅地做副业</p></li><li><a href=https://github.com/wenyan-lang/book>wenyan-lang/book</a><p>文言陰符 An Introduction to Programming in Wenyan Language</p></li><li><a href=https://github.com/wenyan-lang/wenyan>wenyan-lang/wenyan</a><p>文言文編程語言 A programming language for the ancient Chinese.</p></li><li><a href=https://github.com/jrotty/LowNavigation>jrotty/LowNavigation</a><p>一个无需数据库的PHP导航程序</p></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li></ul>
+<ul><li><a href=https://github.com/lxgr-linux/pokete>lxgr-linux/pokete</a><p>A terminal based Pokemon like game</p></li><li><a href=https://github.com/wenyan-lang/wenyan>wenyan-lang/wenyan</a><p>文言文編程語言 A programming language for the ancient Chinese.</p></li><li><a href=https://github.com/MarsWang42/devlog>MarsWang42/devlog</a></li><li><a href=https://github.com/denoland/deno>denoland/deno</a><p>A modern runtime for JavaScript and TypeScript.</p></li><li><a href=https://github.com/chibat/chrome-extension-typescript-starter>chibat/chrome-extension-typescript-starter</a><p>Chrome Extension TypeScript Starter</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 5:07 PM<br>下一次刷新：6/25/22, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 8:12 PM<br>下一次刷新：6/25/22, 11:12 PM</p>
