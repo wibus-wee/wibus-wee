@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/TuSimple/naive-ui>TuSimple/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li><li><a href=https://github.com/LittleSound/my-swipeable-card-stack>LittleSound/my-swipeable-card-stack</a></li><li><a href=https://github.com/antfu/broz>antfu/broz</a><p>A simple, frameless browser for screenshots</p></li><li><a href=https://github.com/antfu/use>antfu/use</a><p>Things I am using</p></li><li><a href=https://github.com/ChainSafe/web3.js>ChainSafe/web3.js</a><p>Ethereum JavaScript API</p></li></ul>
+<ul><li><a href=https://github.com/ddiu8081/tin>ddiu8081/tin</a><p>Mathematical arts driven by t, i and anything.</p></li><li><a href=https://github.com/TuSimple/naive-ui>TuSimple/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li><li><a href=https://github.com/LittleSound/my-swipeable-card-stack>LittleSound/my-swipeable-card-stack</a></li><li><a href=https://github.com/antfu/broz>antfu/broz</a><p>A simple, frameless browser for screenshots</p></li><li><a href=https://github.com/antfu/use>antfu/use</a><p>Things I am using</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lxgr-linux/pokete>lxgr-linux/pokete</a><p>A terminal based Pokemon like game</p></li><li><a href=https://github.com/wenyan-lang/wenyan>wenyan-lang/wenyan</a><p>文言文編程語言 A programming language for the ancient Chinese.</p></li><li><a href=https://github.com/MarsWang42/devlog>MarsWang42/devlog</a></li><li><a href=https://github.com/denoland/deno>denoland/deno</a><p>A modern runtime for JavaScript and TypeScript.</p></li><li><a href=https://github.com/chibat/chrome-extension-typescript-starter>chibat/chrome-extension-typescript-starter</a><p>Chrome Extension TypeScript Starter</p></li></ul>
+<ul><li><a href=https://github.com/codex-team/editor.js>codex-team/editor.js</a><p>A block-styled editor with clean JSON output</p></li><li><a href=https://github.com/elastic/eui>elastic/eui</a><p>Elastic UI Framework 🙌</p></li><li><a href=https://github.com/primer/css>primer/css</a><p>The CSS design system that powers GitHub</p></li><li><a href=https://github.com/nrwl/nx>nrwl/nx</a><p>Smart, Fast and Extensible Build System</p></li><li><a href=https://github.com/mattermost/focalboard>mattermost/focalboard</a><p>Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 8:12 PM<br>下一次刷新：6/25/22, 11:12 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 11:07 PM<br>下一次刷新：6/26/22, 2:07 AM</p>
