@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/codex-team/editor.js>codex-team/editor.js</a><p>A block-styled editor with clean JSON output</p></li><li><a href=https://github.com/elastic/eui>elastic/eui</a><p>Elastic UI Framework 🙌</p></li><li><a href=https://github.com/primer/css>primer/css</a><p>The CSS design system that powers GitHub</p></li><li><a href=https://github.com/nrwl/nx>nrwl/nx</a><p>Smart, Fast and Extensible Build System</p></li><li><a href=https://github.com/mattermost/focalboard>mattermost/focalboard</a><p>Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.</p></li></ul>
+<ul><li><a href=https://github.com/jrotty/LowNavigation>jrotty/LowNavigation</a><p>一个无需数据库的PHP导航程序</p></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/codex-team/editor.js>codex-team/editor.js</a><p>A block-styled editor with clean JSON output</p></li><li><a href=https://github.com/easychen/lean-side-bussiness>easychen/lean-side-bussiness</a><p>精益副业：程序员如何优雅地做副业</p></li><li><a href=https://github.com/wenyan-lang/wenyan>wenyan-lang/wenyan</a><p>文言文編程語言 A programming language for the ancient Chinese.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 11:07 PM<br>下一次刷新：6/26/22, 2:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/22, 2:09 AM<br>下一次刷新：6/26/22, 5:09 AM</p>
