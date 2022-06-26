@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/ddiu8081/tin>ddiu8081/tin</a><p>Mathematical arts driven by t, i and anything.</p></li><li><a href=https://github.com/TuSimple/naive-ui>TuSimple/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li><li><a href=https://github.com/LittleSound/my-swipeable-card-stack>LittleSound/my-swipeable-card-stack</a></li><li><a href=https://github.com/antfu/broz>antfu/broz</a><p>A simple, frameless browser for screenshots</p></li><li><a href=https://github.com/antfu/use>antfu/use</a><p>Things I am using</p></li></ul>
+<ul><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/appsmithorg/appsmith>appsmithorg/appsmith</a><p>Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.</p></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><p>The instant on-demand atomic CSS engine.</p></li><li><a href=https://github.com/ddiu8081/tin>ddiu8081/tin</a><p>Mathematical arts driven by t, i and anything.</p></li><li><a href=https://github.com/TuSimple/naive-ui>TuSimple/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/easychen/lean-side-bussiness>easychen/lean-side-bussiness</a><p>精益副业：程序员如何优雅地做副业</p></li><li><a href=https://github.com/wenyan-lang/wenyan>wenyan-lang/wenyan</a><p>文言文編程語言 A programming language for the ancient Chinese.</p></li><li><a href=https://github.com/antfu/changelogithub>antfu/changelogithub</a><p>Generate changelog for GitHub</p></li><li><a href=https://github.com/free-audio/clap>free-audio/clap</a><p>Audio Plugin API</p></li><li><a href=https://github.com/mongodb/mongo>mongodb/mongo</a><p>The MongoDB Database</p></li></ul>
+<ul><li><a href=https://github.com/DefinitelyTyped/DefinitelyTyped>DefinitelyTyped/DefinitelyTyped</a><p>The repository for high quality TypeScript type definitions.</p></li><li><a href=https://github.com/octokit/octokit.js>octokit/octokit.js</a><p>The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.</p></li><li><a href=https://github.com/MarsWang42/devlog>MarsWang42/devlog</a></li><li><a href=https://github.com/antfu/broz>antfu/broz</a><p>A simple, frameless browser for screenshots</p></li><li><a href=https://github.com/nrwl/nx>nrwl/nx</a><p>Smart, Fast and Extensible Build System</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/22, 5:06 AM<br>下一次刷新：6/26/22, 8:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/22, 8:47 AM<br>下一次刷新：6/26/22, 11:47 AM</p>
