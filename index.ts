@@ -178,7 +178,7 @@ ${topStar5}
     `,
     )
   }
-
+  newContent = newContent.toString()
   await rm('./README.md', { force: true })
   await writeFile('./README.md', newContent, { encoding: 'utf-8' })
 }
