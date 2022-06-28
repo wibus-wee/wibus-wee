@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/BabylonJS/Babylon.js>BabylonJS/Babylon.js</a><p>Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.</p></li><li><a href=https://github.com/mongodb/mongo>mongodb/mongo</a><p>The MongoDB Database</p></li><li><a href=https://github.com/primer/css>primer/css</a><p>The CSS design system that powers GitHub</p></li><li><a href=https://github.com/free-audio/clap>free-audio/clap</a><p>Audio Plugin API</p></li></ul>
+<ul><li><a href=https://github.com/MarsWang42/devlog>MarsWang42/devlog</a></li><li><a href=https://github.com/mongodb/mongo>mongodb/mongo</a><p>The MongoDB Database</p></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/ChainSafe/web3.js>ChainSafe/web3.js</a><p>Ethereum JavaScript API</p></li><li><a href=https://github.com/free-audio/clap>free-audio/clap</a><p>Audio Plugin API</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/28/22, 8:42 AM<br>下一次刷新：6/28/22, 11:42 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/28/22, 11:57 AM<br>下一次刷新：6/28/22, 2:57 PM</p>
