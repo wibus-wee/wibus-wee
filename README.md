@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ddiu8081/tin>ddiu8081/tin</a><p>Mathematical arts driven by t, i and anything.</p></li><li><a href=https://github.com/denoland/deno>denoland/deno</a><p>A modern runtime for JavaScript and TypeScript.</p></li><li><a href=https://github.com/octokit/octokit.js>octokit/octokit.js</a><p>The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.</p></li><li><a href=https://github.com/MarsWang42/devlog>MarsWang42/devlog</a></li><li><a href=https://github.com/nestjs/nest>nestjs/nest</a><p>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀</p></li></ul>
+<ul><li><a href=https://github.com/easychen/lean-side-bussiness>easychen/lean-side-bussiness</a><p>精益副业：程序员如何优雅地做副业</p></li><li><a href=https://github.com/MarsWang42/devlog>MarsWang42/devlog</a></li><li><a href=https://github.com/codex-team/editor.js>codex-team/editor.js</a><p>A block-styled editor with clean JSON output</p></li><li><a href=https://github.com/LittleSound/my-swipeable-card-stack>LittleSound/my-swipeable-card-stack</a></li><li><a href=https://github.com/ChainSafe/web3.js>ChainSafe/web3.js</a><p>Ethereum JavaScript API</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/29/22, 5:06 AM<br>下一次刷新：6/29/22, 8:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/29/22, 8:40 AM<br>下一次刷新：6/29/22, 11:40 AM</p>
