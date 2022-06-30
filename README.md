@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/denoland/fresh>denoland/fresh</a><p>The next-gen web framework.</p></li><li><a href=https://github.com/vercel/swr>vercel/swr</a><p>React Hooks for Data Fetching</p></li><li><a href=https://github.com/frank-lam/fullstack-tutorial>frank-lam/fullstack-tutorial</a><p>🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试</p></li><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/Tokinx/Wing>Tokinx/Wing</a><p>Simple, smooth, data-driven, responsive WordPress theme</p></li></ul>
+<ul><li><a href=https://github.com/antfu/cache-async-fn>antfu/cache-async-fn</a></li><li><a href=https://github.com/denoland/fresh>denoland/fresh</a><p>The next-gen web framework.</p></li><li><a href=https://github.com/vercel/swr>vercel/swr</a><p>React Hooks for Data Fetching</p></li><li><a href=https://github.com/frank-lam/fullstack-tutorial>frank-lam/fullstack-tutorial</a><p>🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试</p></li><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nestjs/nest>nestjs/nest</a><p>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀</p></li><li><a href=https://github.com/primer/css>primer/css</a><p>The CSS design system that powers GitHub</p></li><li><a href=https://github.com/DevCloudFE/vue-devui>DevCloudFE/vue-devui</a><p>UI components based on Vue3 and DevUI Design</p></li><li><a href=https://github.com/codex-team/editor.js>codex-team/editor.js</a><p>A block-styled editor with clean JSON output</p></li><li><a href=https://github.com/elastic/eui>elastic/eui</a><p>Elastic UI Framework 🙌</p></li></ul>
+<ul><li><a href=https://github.com/ddiu8081/tin>ddiu8081/tin</a><p>Mathematical arts driven by t, i and anything.</p></li><li><a href=https://github.com/primer/css>primer/css</a><p>The CSS design system that powers GitHub</p></li><li><a href=https://github.com/easychen/lean-side-bussiness>easychen/lean-side-bussiness</a><p>精益副业：程序员如何优雅地做副业</p></li><li><a href=https://github.com/MarsWang42/devlog>MarsWang42/devlog</a></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><p>The instant on-demand atomic CSS engine.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/30/22, 5:07 PM<br>下一次刷新：6/30/22, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/30/22, 8:16 PM<br>下一次刷新：6/30/22, 11:16 PM</p>
