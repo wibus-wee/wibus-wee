@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/vercel/swr>vercel/swr</a><p>React Hooks for Data Fetching</p></li><li><a href=https://github.com/frank-lam/fullstack-tutorial>frank-lam/fullstack-tutorial</a><p>🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试</p></li><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/Tokinx/Wing>Tokinx/Wing</a><p>Simple, smooth, data-driven, responsive WordPress theme</p></li><li><a href=https://github.com/antfu/taze>antfu/taze</a><p>🥦 A modern cli tool that keeps your deps fresh</p></li></ul>
+<ul><li><a href=https://github.com/denoland/fresh>denoland/fresh</a><p>The next-gen web framework.</p></li><li><a href=https://github.com/vercel/swr>vercel/swr</a><p>React Hooks for Data Fetching</p></li><li><a href=https://github.com/frank-lam/fullstack-tutorial>frank-lam/fullstack-tutorial</a><p>🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试</p></li><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/Tokinx/Wing>Tokinx/Wing</a><p>Simple, smooth, data-driven, responsive WordPress theme</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/DefinitelyTyped/DefinitelyTyped>DefinitelyTyped/DefinitelyTyped</a><p>The repository for high quality TypeScript type definitions.</p></li><li><a href=https://github.com/sindresorhus/np>sindresorhus/np</a><p>A better `npm publish`</p></li><li><a href=https://github.com/nestjs/nest>nestjs/nest</a><p>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀</p></li><li><a href=https://github.com/elastic/eui>elastic/eui</a><p>Elastic UI Framework 🙌</p></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><p>The instant on-demand atomic CSS engine.</p></li></ul>
+<ul><li><a href=https://github.com/antfu/use>antfu/use</a><p>Things I am using</p></li><li><a href=https://github.com/nestjs/nest>nestjs/nest</a><p>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀</p></li><li><a href=https://github.com/elastic/eui>elastic/eui</a><p>Elastic UI Framework 🙌</p></li><li><a href=https://github.com/ddiu8081/tin>ddiu8081/tin</a><p>Mathematical arts driven by t, i and anything.</p></li><li><a href=https://github.com/antfu/broz>antfu/broz</a><p>A simple, frameless browser for screenshots</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/30/22, 5:07 AM<br>下一次刷新：6/30/22, 8:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/30/22, 8:39 AM<br>下一次刷新：6/30/22, 11:39 AM</p>
