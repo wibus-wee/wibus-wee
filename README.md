@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/cytopia/linux-timemachine>cytopia/linux-timemachine</a><p>Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups</p></li><li><a href=https://github.com/nvh95/jest-preview>nvh95/jest-preview</a><p>Debug your Jest tests. Effortlessly.🛠🖼</p></li><li><a href=https://github.com/antfu/cache-async-fn>antfu/cache-async-fn</a></li><li><a href=https://github.com/denoland/fresh>denoland/fresh</a><p>The next-gen web framework.</p></li><li><a href=https://github.com/vercel/swr>vercel/swr</a><p>React Hooks for Data Fetching</p></li></ul>
+<ul><li><a href=https://github.com/nanmu42/orly>nanmu42/orly</a><p>:football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴</p></li><li><a href=https://github.com/Polymer/polymer>Polymer/polymer</a><p>Our original Web Component library.</p></li><li><a href=https://github.com/cytopia/linux-timemachine>cytopia/linux-timemachine</a><p>Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups</p></li><li><a href=https://github.com/nvh95/jest-preview>nvh95/jest-preview</a><p>Debug your Jest tests. Effortlessly.🛠🖼</p></li><li><a href=https://github.com/antfu/cache-async-fn>antfu/cache-async-fn</a></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ddiu8081/tin>ddiu8081/tin</a><p>Mathematical arts driven by t, i and anything.</p></li><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/antfu/use>antfu/use</a><p>Things I am using</p></li><li><a href=https://github.com/antfu/broz>antfu/broz</a><p>A simple, frameless browser for screenshots</p></li><li><a href=https://github.com/DevCloudFE/vue-devui>DevCloudFE/vue-devui</a><p>UI components based on Vue3 and DevUI Design</p></li></ul>
+<ul><li><a href=https://github.com/antfu/taze>antfu/taze</a><p>🥦 A modern cli tool that keeps your deps fresh</p></li><li><a href=https://github.com/Tokinx/Wing>Tokinx/Wing</a><p>Simple, smooth, data-driven, responsive WordPress theme</p></li><li><a href=https://github.com/octokit/octokit.js>octokit/octokit.js</a><p>The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.</p></li><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/ChainSafe/web3.js>ChainSafe/web3.js</a><p>Ethereum JavaScript API</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/2/22, 8:12 PM<br>下一次刷新：7/2/22, 11:12 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/2/22, 11:07 PM<br>下一次刷新：7/3/22, 2:07 AM</p>
