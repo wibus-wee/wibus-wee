@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/BabylonJS/Babylon.js>BabylonJS/Babylon.js</a><p>Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.</p></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><p>The instant on-demand atomic CSS engine.</p></li><li><a href=https://github.com/sindresorhus/np>sindresorhus/np</a><p>A better `npm publish`</p></li><li><a href=https://github.com/primer/css>primer/css</a><p>The CSS design system that powers GitHub</p></li><li><a href=https://github.com/easychen/lean-side-bussiness>easychen/lean-side-bussiness</a><p>精益副业：程序员如何优雅地做副业</p></li></ul>
+<ul><li><a href=https://github.com/appsmithorg/appsmith>appsmithorg/appsmith</a><p>Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.</p></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><p>The instant on-demand atomic CSS engine.</p></li><li><a href=https://github.com/vercel/swr>vercel/swr</a><p>React Hooks for Data Fetching</p></li><li><a href=https://github.com/frank-lam/fullstack-tutorial>frank-lam/fullstack-tutorial</a><p>🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试</p></li><li><a href=https://github.com/ddiu8081/tin>ddiu8081/tin</a><p>Mathematical arts driven by t, i and anything.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/22, 2:10 PM<br>下一次刷新：7/3/22, 5:10 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/22, 5:08 PM<br>下一次刷新：7/3/22, 8:08 PM</p>
