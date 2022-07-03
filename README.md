@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/appsmithorg/appsmith>appsmithorg/appsmith</a><p>Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.</p></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><p>The instant on-demand atomic CSS engine.</p></li><li><a href=https://github.com/vercel/swr>vercel/swr</a><p>React Hooks for Data Fetching</p></li><li><a href=https://github.com/frank-lam/fullstack-tutorial>frank-lam/fullstack-tutorial</a><p>🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试</p></li><li><a href=https://github.com/ddiu8081/tin>ddiu8081/tin</a><p>Mathematical arts driven by t, i and anything.</p></li></ul>
+<ul><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/antfu/use>antfu/use</a><p>Things I am using</p></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><p>The instant on-demand atomic CSS engine.</p></li><li><a href=https://github.com/TuSimple/naive-ui>TuSimple/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li><li><a href=https://github.com/frank-lam/fullstack-tutorial>frank-lam/fullstack-tutorial</a><p>🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/22, 5:08 PM<br>下一次刷新：7/3/22, 8:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/22, 8:13 PM<br>下一次刷新：7/3/22, 11:13 PM</p>
