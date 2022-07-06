@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/denoland/fresh>denoland/fresh</a><p>The next-gen web framework.</p></li><li><a href=https://github.com/appsmithorg/appsmith>appsmithorg/appsmith</a><p>Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.</p></li><li><a href=https://github.com/antfu/use>antfu/use</a><p>Things I am using</p></li><li><a href=https://github.com/cytopia/linux-timemachine>cytopia/linux-timemachine</a><p>Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups</p></li><li><a href=https://github.com/nvh95/jest-preview>nvh95/jest-preview</a><p>Debug your Jest tests. Effortlessly.🛠🖼</p></li></ul>
+<ul><li><a href=https://github.com/denoland/fresh>denoland/fresh</a><p>The next-gen web framework.</p></li><li><a href=https://github.com/vercel/swr>vercel/swr</a><p>React Hooks for Data Fetching</p></li><li><a href=https://github.com/Tokinx/Wing>Tokinx/Wing</a><p>Simple, smooth, data-driven, responsive WordPress theme</p></li><li><a href=https://github.com/unocss/unocss>unocss/unocss</a><p>The instant on-demand atomic CSS engine.</p></li><li><a href=https://github.com/appsmithorg/appsmith>appsmithorg/appsmith</a><p>Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/6/22, 2:10 PM<br>下一次刷新：7/6/22, 5:10 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/6/22, 5:12 PM<br>下一次刷新：7/6/22, 8:12 PM</p>
