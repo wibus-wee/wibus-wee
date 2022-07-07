@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vercel/swr>vercel/swr</a><p>React Hooks for Data Fetching</p></li><li><a href=https://github.com/antfu/cache-async-fn>antfu/cache-async-fn</a></li><li><a href=https://github.com/antfu/use>antfu/use</a><p>Things I am using</p></li><li><a href=https://github.com/mattermost/focalboard>mattermost/focalboard</a><p>Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.</p></li><li><a href=https://github.com/Polymer/polymer>Polymer/polymer</a><p>Our original Web Component library.</p></li></ul>
+<ul><li><a href=https://github.com/easychen/lean-side-bussiness>easychen/lean-side-bussiness</a><p>精益副业：程序员如何优雅地做副业</p></li><li><a href=https://github.com/antfu/use>antfu/use</a><p>Things I am using</p></li><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/nanmu42/orly>nanmu42/orly</a><p>:football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴</p></li><li><a href=https://github.com/mattermost/focalboard>mattermost/focalboard</a><p>Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/7/22, 12:00 PM<br>下一次刷新：7/7/22, 3:00 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/7/22, 2:10 PM<br>下一次刷新：7/7/22, 5:10 PM</p>
