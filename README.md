@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bilibili-ayang/bilibili-live-helper>bilibili-ayang/bilibili-live-helper</a><p>一款小破站直播姬，方便您直播，帮助您更好的与观众互动！</p></li><li><a href=https://github.com/nanmu42/orly>nanmu42/orly</a><p>:football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴</p></li><li><a href=https://github.com/frank-lam/fullstack-tutorial>frank-lam/fullstack-tutorial</a><p>🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试</p></li><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/Tokinx/Wing>Tokinx/Wing</a><p>Simple, smooth, data-driven, responsive WordPress theme</p></li></ul>
+<ul><li><a href=https://github.com/sindresorhus/ora>sindresorhus/ora</a><p>Elegant terminal spinner</p></li><li><a href=https://github.com/nanmu42/orly>nanmu42/orly</a><p>:football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴</p></li><li><a href=https://github.com/saas-js/saas-ui>saas-js/saas-ui</a><p>The React component library for startups, built with Chakra UI.</p></li><li><a href=https://github.com/jsun969/uwall>jsun969/uwall</a><p>🏫 校园万能墙 [CHINESE ONLY]</p></li><li><a href=https://github.com/Tokinx/Wing>Tokinx/Wing</a><p>Simple, smooth, data-driven, responsive WordPress theme</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/9/22, 2:09 AM<br>下一次刷新：7/9/22, 5:09 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/9/22, 5:06 AM<br>下一次刷新：7/9/22, 8:06 AM</p>
