@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/lewkamtao/Lew-UI>lewkamtao/Lew-UI</a><p>A beautiful component library based on vue3</p></li><li><a href=https://github.com/timc1/kbar>timc1/kbar</a><p>fast, portable, and extensible cmd+k interface for your site</p></li><li><a href=https://github.com/taskforcesh/bullmq>taskforcesh/bullmq</a><p>BullMQ - Premium Message Queue for NodeJS based on Redis</p></li><li><a href=https://github.com/maqi1520/react-antd-low-code>maqi1520/react-antd-low-code</a><p>简易版 react 低代码平台</p></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li></ul>
+<ul><li><a href=https://github.com/candlewill/Dialog_Corpus>candlewill/Dialog_Corpus</a><p>用于训练中英文对话系统的语料库 Datasets for Training Chatbot System</p></li><li><a href=https://github.com/lewkamtao/Lew-UI>lewkamtao/Lew-UI</a><p>A beautiful component library based on vue3</p></li><li><a href=https://github.com/timc1/kbar>timc1/kbar</a><p>fast, portable, and extensible cmd+k interface for your site</p></li><li><a href=https://github.com/taskforcesh/bullmq>taskforcesh/bullmq</a><p>BullMQ - Premium Message Queue for NodeJS based on Redis</p></li><li><a href=https://github.com/maqi1520/react-antd-low-code>maqi1520/react-antd-low-code</a><p>简易版 react 低代码平台</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Tokinx/Wing>Tokinx/Wing</a><p>Simple, smooth, data-driven, responsive WordPress theme</p></li><li><a href=https://github.com/antfu/taze>antfu/taze</a><p>🥦 A modern cli tool that keeps your deps fresh</p></li><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/antfu/cache-async-fn>antfu/cache-async-fn</a></li><li><a href=https://github.com/DevCloudFE/vue-devui>DevCloudFE/vue-devui</a><p>UI components based on Vue3 and DevUI Design</p></li></ul>
+<ul><li><a href=https://github.com/vitest-dev/vitest>vitest-dev/vitest</a><p>A Vite-native test framework. It's fast!</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li><li><a href=https://github.com/nanmu42/orly>nanmu42/orly</a><p>:football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴</p></li><li><a href=https://github.com/vercel/pkg>vercel/pkg</a><p>Package your Node.js project into an executable</p></li><li><a href=https://github.com/NVlabs/eg3d>NVlabs/eg3d</a></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/9/22, 5:07 PM<br>下一次刷新：7/9/22, 8:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/9/22, 8:13 PM<br>下一次刷新：7/9/22, 11:13 PM</p>
