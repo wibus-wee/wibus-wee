@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/simple-icons/simple-icons>simple-icons/simple-icons</a><p>SVG icons for popular brands</p></li><li><a href=https://github.com/coderit666/GoGuide>coderit666/GoGuide</a><p>「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。</p></li><li><a href=https://github.com/moieo/PChat>moieo/PChat</a><p>基于 Socket.io 的 即时通讯项目</p></li><li><a href=https://github.com/vercel/pkg>vercel/pkg</a><p>Package your Node.js project into an executable</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li></ul>
+<ul><li><a href=https://github.com/simple-icons/simple-icons>simple-icons/simple-icons</a><p>SVG icons for popular brands</p></li><li><a href=https://github.com/nanmu42/orly>nanmu42/orly</a><p>:football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴</p></li><li><a href=https://github.com/lewkamtao/Lew-UI>lewkamtao/Lew-UI</a><p>A beautiful component library based on vue3</p></li><li><a href=https://github.com/nvh95/jest-preview>nvh95/jest-preview</a><p>Debug your Jest tests. Effortlessly.🛠🖼</p></li><li><a href=https://github.com/coderit666/GoGuide>coderit666/GoGuide</a><p>「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/16/22, 11:07 PM<br>下一次刷新：7/17/22, 2:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/22, 2:09 AM<br>下一次刷新：7/17/22, 5:09 AM</p>
