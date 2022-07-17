@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/saas-js/saas-ui>saas-js/saas-ui</a><p>The React component library for startups, built with Chakra UI.</p></li><li><a href=https://github.com/sindresorhus/ora>sindresorhus/ora</a><p>Elegant terminal spinner</p></li><li><a href=https://github.com/PuruVJ/macos-web>PuruVJ/macos-web</a></li><li><a href=https://github.com/jsun969/uwall>jsun969/uwall</a><p>🏫 校园万能墙 [CHINESE ONLY]</p></li><li><a href=https://github.com/maqi1520/react-antd-low-code>maqi1520/react-antd-low-code</a><p>简易版 react 低代码平台</p></li></ul>
+<ul><li><a href=https://github.com/timc1/kbar>timc1/kbar</a><p>fast, portable, and extensible cmd+k interface for your site</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/TryGhost/Ghost>TryGhost/Ghost</a><p>Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.</p></li><li><a href=https://github.com/maqi1520/react-antd-low-code>maqi1520/react-antd-low-code</a><p>简易版 react 低代码平台</p></li><li><a href=https://github.com/vercel/pkg>vercel/pkg</a><p>Package your Node.js project into an executable</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/22, 11:07 PM<br>下一次刷新：7/18/22, 2:07 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/18/22, 2:09 AM<br>下一次刷新：7/18/22, 5:09 AM</p>
