@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lewkamtao/Lew-UI>lewkamtao/Lew-UI</a><p>A beautiful component library based on vue3</p></li><li><a href=https://github.com/bilibili-ayang/bilibili-live-helper>bilibili-ayang/bilibili-live-helper</a><p>一款小破站直播姬，方便您直播，帮助您更好的与观众互动！</p></li><li><a href=https://github.com/timc1/kbar>timc1/kbar</a><p>fast, portable, and extensible cmd+k interface for your site</p></li><li><a href=https://github.com/jsun969/uwall>jsun969/uwall</a><p>🏫 校园万能墙 [CHINESE ONLY]</p></li><li><a href=https://github.com/candlewill/Dialog_Corpus>candlewill/Dialog_Corpus</a><p>用于训练中英文对话系统的语料库 Datasets for Training Chatbot System</p></li></ul>
+<ul><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li><li><a href=https://github.com/candlewill/Dialog_Corpus>candlewill/Dialog_Corpus</a><p>用于训练中英文对话系统的语料库 Datasets for Training Chatbot System</p></li><li><a href=https://github.com/jsun969/uwall>jsun969/uwall</a><p>🏫 校园万能墙 [CHINESE ONLY]</p></li><li><a href=https://github.com/woai3c/visual-drag-demo>woai3c/visual-drag-demo</a><p>一个低代码（可视化拖拽）教学项目</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/22, 5:06 AM<br>下一次刷新：7/17/22, 8:06 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/22, 8:45 AM<br>下一次刷新：7/17/22, 11:45 AM</p>
