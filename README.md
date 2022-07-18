@@ -107,11 +107,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/antfu/.github>antfu/.github</a><p>The default community health files for all my repos on GitHub</p></li><li><a href=https://github.com/Hammerspoon/hammerspoon>Hammerspoon/hammerspoon</a><p>Staggeringly powerful macOS desktop automation with Lua</p></li><li><a href=https://github.com/greedisgoood/botbay>greedisgoood/botbay</a><p>botbay-以生物多样性为命题的私有机器人赋能平台</p></li><li><a href=https://github.com/jsun969/react-hook-dialog>jsun969/react-hook-dialog</a><p>💬 React hook for master your dialog component</p></li><li><a href=https://github.com/vercel/serve>vercel/serve</a><p>Static file serving and directory listing</p></li></ul>
+<ul><li><a href=https://github.com/benbusby/whoogle-search>benbusby/whoogle-search</a><p>A self-hosted, ad-free, privacy-respecting metasearch engine</p></li><li><a href=https://github.com/antfu/.github>antfu/.github</a><p>The default community health files for all my repos on GitHub</p></li><li><a href=https://github.com/Hammerspoon/hammerspoon>Hammerspoon/hammerspoon</a><p>Staggeringly powerful macOS desktop automation with Lua</p></li><li><a href=https://github.com/greedisgoood/botbay>greedisgoood/botbay</a><p>botbay-以生物多样性为命题的私有机器人赋能平台</p></li><li><a href=https://github.com/jsun969/react-hook-dialog>jsun969/react-hook-dialog</a><p>💬 React hook for master your dialog component</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/simple-icons/simple-icons>simple-icons/simple-icons</a><p>SVG icons for popular brands</p></li><li><a href=https://github.com/TryGhost/Admin>TryGhost/Admin</a><p>Ghost's admin client</p></li><li><a href=https://github.com/PuruVJ/macos-web>PuruVJ/macos-web</a></li><li><a href=https://github.com/timc1/kbar>timc1/kbar</a><p>fast, portable, and extensible cmd+k interface for your site</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li></ul>
+<ul><li><a href=https://github.com/vercel/pkg>vercel/pkg</a><p>Package your Node.js project into an executable</p></li><li><a href=https://github.com/moieo/PChat>moieo/PChat</a><p>基于 Socket.io 的 即时通讯项目</p></li><li><a href=https://github.com/webfansplz/vuejs-challenges>webfansplz/vuejs-challenges</a><p>Collection of Vue.js challenges</p></li><li><a href=https://github.com/taskforcesh/bullmq>taskforcesh/bullmq</a><p>BullMQ - Premium Message Queue for NodeJS based on Redis</p></li><li><a href=https://github.com/saas-js/saas-ui>saas-js/saas-ui</a><p>The React component library for startups, built with Chakra UI.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/18/22, 2:11 PM<br>下一次刷新：7/18/22, 5:11 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/18/22, 5:13 PM<br>下一次刷新：7/18/22, 8:13 PM</p>
