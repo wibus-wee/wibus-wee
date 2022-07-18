@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/saas-js/saas-ui>saas-js/saas-ui</a><p>The React component library for startups, built with Chakra UI.</p></li><li><a href=https://github.com/TryGhost/Ghost>TryGhost/Ghost</a><p>Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.</p></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li><li><a href=https://github.com/nanmu42/orly>nanmu42/orly</a><p>:football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴</p></li><li><a href=https://github.com/PuruVJ/macos-web>PuruVJ/macos-web</a></li></ul>
+<ul><li><a href=https://github.com/maqi1520/react-antd-low-code>maqi1520/react-antd-low-code</a><p>简易版 react 低代码平台</p></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li><li><a href=https://github.com/coderit666/GoGuide>coderit666/GoGuide</a><p>「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。</p></li><li><a href=https://github.com/jsun969/uwall>jsun969/uwall</a><p>🏫 校园万能墙 [CHINESE ONLY]</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/19/22, 2:09 AM<br>下一次刷新：7/19/22, 5:09 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/19/22, 5:07 AM<br>下一次刷新：7/19/22, 8:07 AM</p>
