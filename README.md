@@ -111,7 +111,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/candlewill/Dialog_Corpus>candlewill/Dialog_Corpus</a><p>用于训练中英文对话系统的语料库 Datasets for Training Chatbot System</p></li><li><a href=https://github.com/taskforcesh/bullmq>taskforcesh/bullmq</a><p>BullMQ - Premium Message Queue for NodeJS based on Redis</p></li><li><a href=https://github.com/PuruVJ/macos-web>PuruVJ/macos-web</a></li><li><a href=https://github.com/jsun969/react-hook-dialog>jsun969/react-hook-dialog</a><p>💬 React hook for master your dialog component</p></li><li><a href=https://github.com/TryGhost/Ghost>TryGhost/Ghost</a><p>Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.</p></li></ul>
+<ul><li><a href=https://github.com/coderit666/GoGuide>coderit666/GoGuide</a><p>「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。</p></li><li><a href=https://github.com/moieo/PChat>moieo/PChat</a><p>基于 Socket.io 的 即时通讯项目</p></li><li><a href=https://github.com/maqi1520/react-antd-low-code>maqi1520/react-antd-low-code</a><p>简易版 react 低代码平台</p></li><li><a href=https://github.com/PuruVJ/macos-web>PuruVJ/macos-web</a></li><li><a href=https://github.com/TryGhost/Admin>TryGhost/Admin</a><p>Ghost's admin client</p></li></ul>
 
 **互联网上的偶像**
 
@@ -124,4 +124,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/19/22, 2:12 PM<br>下一次刷新：7/19/22, 5:12 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/19/22, 5:18 PM<br>下一次刷新：7/19/22, 8:18 PM</p>
