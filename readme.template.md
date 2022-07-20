@@ -1,8 +1,12 @@
+Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. 
+
+I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>*. Want to become a FSD (Full Stacks Developer)
+
+<p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
 <a href="https://blog.iucky.cn" align="center"><img src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
-
-Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>*. Want to become a FSD (Full Stacks Developer)
+</p>
 
 **Abilities**
 
