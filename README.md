@@ -1,8 +1,12 @@
+Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. 
+
+I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>*. Want to become a FSD (Full Stacks Developer)
+
+<p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
 <a href="https://blog.iucky.cn" align="center"><img src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
-
-Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>*. Want to become a FSD (Full Stacks Developer)
+</p>
 
 **Abilities**
 
@@ -81,7 +85,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/TryGhost/Admin>TryGhost/Admin</a><p>Ghost's admin client</p></li><li><a href=https://github.com/bilibili-ayang/bilibili-live-helper>bilibili-ayang/bilibili-live-helper</a><p>一款小破站直播姬，方便您直播，帮助您更好的与观众互动！</p></li><li><a href=https://github.com/PuruVJ/macos-web>PuruVJ/macos-web</a></li><li><a href=https://github.com/sindresorhus/ora>sindresorhus/ora</a><p>Elegant terminal spinner</p></li><li><a href=https://github.com/massCodeIO/massCode>massCodeIO/massCode</a><p>Next version of massCode. A free and open source code snippets manager for developers</p></li></ul>
+<ul><li><a href=https://github.com/maqi1520/react-antd-low-code>maqi1520/react-antd-low-code</a><p>简易版 react 低代码平台</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/simple-icons/simple-icons>simple-icons/simple-icons</a><p>SVG icons for popular brands</p></li><li><a href=https://github.com/PuruVJ/macos-web>PuruVJ/macos-web</a></li><li><a href=https://github.com/type-challenges/type-challenges>type-challenges/type-challenges</a><p>Collection of TypeScript type challenges with online judge</p></li></ul>
 
 **互联网上的偶像**
 
@@ -97,4 +101,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/20/22, 9:41 PM<br>下一次刷新：7/21/22, 12:41 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/20/22, 9:44 PM<br>下一次刷新：7/21/22, 12:44 AM</p>
