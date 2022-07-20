@@ -37,7 +37,9 @@ UI Design        █████████░░░░░░░░░░░░
 <p>
   <img alt="github actions"
     src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
+
+    
+    
 
 **Environment**
 
@@ -77,7 +79,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jsun969/react-hook-dialog>jsun969/react-hook-dialog</a><p>💬 React hook for master your dialog component</p></li><li><a href=https://github.com/sindresorhus/ora>sindresorhus/ora</a><p>Elegant terminal spinner</p></li><li><a href=https://github.com/TryGhost/Admin>TryGhost/Admin</a><p>Ghost's admin client</p></li><li><a href=https://github.com/greedisgoood/botbay>greedisgoood/botbay</a><p>botbay-以生物多样性为命题的私有机器人赋能平台</p></li><li><a href=https://github.com/bilibili-ayang/bilibili-live-helper>bilibili-ayang/bilibili-live-helper</a><p>一款小破站直播姬，方便您直播，帮助您更好的与观众互动！</p></li></ul>
+<ul><li><a href=https://github.com/sindresorhus/ora>sindresorhus/ora</a><p>Elegant terminal spinner</p></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li><li><a href=https://github.com/timc1/kbar>timc1/kbar</a><p>fast, portable, and extensible cmd+k interface for your site</p></li><li><a href=https://github.com/vercel/pkg>vercel/pkg</a><p>Package your Node.js project into an executable</p></li><li><a href=https://github.com/saas-js/saas-ui>saas-js/saas-ui</a><p>The React component library for startups, built with Chakra UI.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -85,11 +87,12 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 **捉迷藏**
 
-<p><a href="https://github.com/wibus-wee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p>
+ <a href="https://github.com/mx-space" target="_blank"><img alt="NEXT" src='https://img.shields.io/badge/NEXT%20Space-white.svg?&style=for-the-badge&logo=&logoColor=white' /></a>
+<a href="https://github.com/wibus-wee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://github.com/mx-space" target="_blank"><img alt="Innei" src='https://img.shields.io/badge/mx%20space-blue.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iNzkiIHZpZXdCb3g9IjAgMCA4MCA3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC43NTcpIiBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0zOS4xNyAwQzE3LjUzNiAwIDAgMTcuNTM3IDAgMzkuMTdjMCAyMS42MzIgMTcuNTM3IDM5LjE2OSAzOS4xNyAzOS4xNjkgMjEuNjMyIDAgMzkuMTY5LTE3LjUzNyAzOS4xNjktMzkuMTdDNzguMzM5IDE3LjUzNyA2MC44MDIgMCAzOS4xNjkgMHptMCA3My45ODZjLTE5LjIzIDAtMzQuODE4LTE1LjU4OC0zNC44MTgtMzQuODE3IDAtMTkuMjI4IDE1LjU4OS0zNC44MTcgMzQuODE3LTM0LjgxNyAxOS4yMjkgMCAzNC44MTcgMTUuNTg5IDM0LjgxNyAzNC44MTcgMCAxOS4yMjktMTUuNTg4IDM0LjgxNy0zNC44MTcgMzQuODE3eiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjM5LjE2OSIgY3k9IjM5LjE2OSIgcj0iMzEuNTI3Ii8+PC9nPjxwYXRoIGQ9Ik0zOS44MDEgNTkuMDQ3TDE5Ljc1NyAzOS4wNDUgMzkuOCAxOS4wMDFsMjAuMDAyIDIwLjAwMUwzOS44IDU5LjA0N3pNNTUuOTkgNDEuODg0bC03LjE0Ny02LjczNS05LjA0LTguNTJMMjMuNTcgNDEuODg0bTI0Ljc5LTUuNzJMMzMuMTA2IDUxLjQxOG0tMS45MDctMTUuMjU2TDQ2LjQ1NCA1MS40MiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjwvZz48L3N2Zz4=&logoColor=white' /></a>
-<a href="https://github.com/mx-space" target="_blank"><img alt="NEXT" src='https://img.shields.io/badge/NEXT%20Space-white.svg?&style=for-the-badge&logo=&logoColor=white' /></a>
-
+</p>
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/20/22, 9:39 PM<br>下一次刷新：7/21/22, 12:39 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/20/22, 9:40 PM<br>下一次刷新：7/21/22, 12:40 AM</p>
