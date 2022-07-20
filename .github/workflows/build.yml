@@ -51,7 +51,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_repositories: yes
+          plugin_repositories: no
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_wakatime: yes
