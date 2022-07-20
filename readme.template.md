@@ -16,6 +16,7 @@ UI Design        █████████░░░░░░░░░░░░
 
 **Stacks**
 
+<p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -30,6 +31,7 @@ UI Design        █████████░░░░░░░░░░░░
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MySQL"
     src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=Mysql&logoColor=white" />
+</p>
 
 
 **DevOps**
@@ -61,7 +63,7 @@ UI Design        █████████░░░░░░░░░░░░
   <img alt="Eltrac on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a>
 
-**Coding with...**
+**喜欢在...**
 
 <!-- opensource_dashboard:active -->
 
