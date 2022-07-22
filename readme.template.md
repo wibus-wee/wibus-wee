@@ -8,6 +8,17 @@ I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
 </p>
 
+
+**Abilities**
+
+```
+NO PHP!          █████████████████████████
+Compose Music    ███████████████████████░░
+Writing Content  ███████████████░░░░░░░░░░
+Frontend         █████████████░░░░░░░░░░░░
+UI Design        █████████░░░░░░░░░░░░░░░░
+```
+
 **Stacks**
 
 <p>
@@ -56,15 +67,6 @@ I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>
   <img alt="Eltrac on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a>
 
-**Abilities**
-
-```
-NO PHP!          █████████████████████████
-Compose Music    ███████████████████████░░
-Writing Content  ███████████████░░░░░░░░░░
-Frontend         █████████████░░░░░░░░░░░░
-UI Design        █████████░░░░░░░░░░░░░░░░
-```
 
 **喜欢在...**
 
