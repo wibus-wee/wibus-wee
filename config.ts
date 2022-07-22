@@ -1,6 +1,6 @@
 export const opensource = {
-  active: ['nx-space/nx-core', 'nx-space/nx-admin', 'utmapp/UTM'],
-  gs: ['nx-space/nx-core', 'nx-space/nx-admin', 'nx-space/nx-cli', 'nx-space/nx-A-My'],
+  active: ['nx-space/core', 'nx-space/nx-admin', 'utmapp/UTM'],
+  gs: ['nx-space/core', 'nx-space/nx-admin', 'nx-space/nx-cli', 'nx-space/nx-A-My'],
 }
 
 export const github = {
