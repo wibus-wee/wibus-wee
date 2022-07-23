@@ -82,11 +82,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/makenotion/notion-sdk-js>makenotion/notion-sdk-js</a><p>Official Notion JavaScript Client</p></li><li><a href=https://github.com/editablejs/editable>editablejs/editable</a><p>An experimental rich text editor framework which aims to replace the native contenteditable attribute with a self-drawn cursor to provide richer and more stable editing capabilities.</p></li><li><a href=https://github.com/react-monaco-editor/react-monaco-editor>react-monaco-editor/react-monaco-editor</a><p>Monaco Editor for React.</p></li><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li><li><a href=https://github.com/CedarXi/All-in-one>CedarXi/All-in-one</a><p>A block-styled editor, Inspired by Notion</p></li></ul>
+<ul><li><a href=https://github.com/brilliant-js/brilliant>brilliant-js/brilliant</a><p>Brilliant is a WYSIWYG markdown editor with live preview support, based on Draft-js and React, implemented in TypeScript. It's compatible with popular browsers.</p></li><li><a href=https://github.com/makenotion/notion-sdk-js>makenotion/notion-sdk-js</a><p>Official Notion JavaScript Client</p></li><li><a href=https://github.com/editablejs/editable>editablejs/editable</a><p>An experimental rich text editor framework which aims to replace the native contenteditable attribute with a self-drawn cursor to provide richer and more stable editing capabilities.</p></li><li><a href=https://github.com/react-monaco-editor/react-monaco-editor>react-monaco-editor/react-monaco-editor</a><p>Monaco Editor for React.</p></li><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/KipSong/vite-chrome-extension>KipSong/vite-chrome-extension</a><p>又快又爽的开发 Chrome 扩展程序</p></li><li><a href=https://github.com/vercel/serve>vercel/serve</a><p>Static file serving and directory listing</p></li><li><a href=https://github.com/suemor233/nest-template>suemor233/nest-template</a><p>nestjs 模板</p></li><li><a href=https://github.com/applicazza/fastify-nextjs>applicazza/fastify-nextjs</a><p>Serve Next.js requests via Fastify</p></li><li><a href=https://github.com/TryGhost/Admin>TryGhost/Admin</a><p>Ghost's admin client</p></li></ul>
+<ul><li><a href=https://github.com/TryGhost/Admin>TryGhost/Admin</a><p>Ghost's admin client</p></li><li><a href=https://github.com/greedisgoood/botbay>greedisgoood/botbay</a><p>botbay-以生物多样性为命题的私有机器人赋能平台</p></li><li><a href=https://github.com/honzaap/GithubCity>honzaap/GithubCity</a><p>Create a 3D city from your GitHub contributions 🏙</p></li><li><a href=https://github.com/benbusby/whoogle-search>benbusby/whoogle-search</a><p>A self-hosted, ad-free, privacy-respecting metasearch engine</p></li><li><a href=https://github.com/CedarXi/All-in-one>CedarXi/All-in-one</a><p>A block-styled editor, Inspired by Notion</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/23/22, 2:24 PM<br>下一次刷新：7/23/22, 5:24 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/23/22, 5:18 PM<br>下一次刷新：7/23/22, 8:18 PM</p>
