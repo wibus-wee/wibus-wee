@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/benbusby/whoogle-search>benbusby/whoogle-search</a><p>A self-hosted, ad-free, privacy-respecting metasearch engine</p></li><li><a href=https://github.com/jsun969/react-hook-dialog>jsun969/react-hook-dialog</a><p>💬 React hook for master your dialog component</p></li><li><a href=https://github.com/Tencent/lemon-cleaner>Tencent/lemon-cleaner</a><p>腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。</p></li><li><a href=https://github.com/logto-io/logto>logto-io/logto</a><p>🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.</p></li><li><a href=https://github.com/lxieyang/chrome-extension-boilerplate-react>lxieyang/chrome-extension-boilerplate-react</a><p>A Chrome Extensions boilerplate using React 17 and Webpack 5.</p></li></ul>
+<ul><li><a href=https://github.com/react-monaco-editor/react-monaco-editor>react-monaco-editor/react-monaco-editor</a><p>Monaco Editor for React.</p></li><li><a href=https://github.com/fossabot/typoraCracker>fossabot/typoraCracker</a><p>A patch and keygen tools for typora.</p></li><li><a href=https://github.com/editablejs/editable>editablejs/editable</a><p>An experimental rich text editor framework which aims to replace the native contenteditable attribute with a self-drawn cursor to provide richer and more stable editing capabilities.</p></li><li><a href=https://github.com/greedisgoood/botbay>greedisgoood/botbay</a><p>botbay-以生物多样性为命题的私有机器人赋能平台</p></li><li><a href=https://github.com/StarkShang/vite-plugin-chrome-extension>StarkShang/vite-plugin-chrome-extension</a><p>A vite plugin to bundle chrome extensions for Manifest V3.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/24/22, 11:20 PM<br>下一次刷新：7/25/22, 2:20 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/25/22, 2:23 AM<br>下一次刷新：7/25/22, 5:23 AM</p>
