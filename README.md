@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/CedarXi/All-in-one>CedarXi/All-in-one</a><p>A block-styled editor, Inspired by Notion</p></li><li><a href=https://github.com/Saul-Mirone/milkdown>Saul-Mirone/milkdown</a><p>🍼 Plugin driven WYSIWYG markdown editor framework.</p></li><li><a href=https://github.com/TryGhost/Ghost>TryGhost/Ghost</a><p>Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.</p></li><li><a href=https://github.com/TryGhost/Admin>TryGhost/Admin</a><p>Ghost's admin client</p></li><li><a href=https://github.com/vercel/serve>vercel/serve</a><p>Static file serving and directory listing</p></li></ul>
+<ul><li><a href=https://github.com/Saul-Mirone/milkdown>Saul-Mirone/milkdown</a><p>🍼 Plugin driven WYSIWYG markdown editor framework.</p></li><li><a href=https://github.com/applicazza/fastify-nextjs>applicazza/fastify-nextjs</a><p>Serve Next.js requests via Fastify</p></li><li><a href=https://github.com/KipSong/vite-chrome-extension>KipSong/vite-chrome-extension</a><p>又快又爽的开发 Chrome 扩展程序</p></li><li><a href=https://github.com/TryGhost/Admin>TryGhost/Admin</a><p>Ghost's admin client</p></li><li><a href=https://github.com/fastify/point-of-view>fastify/point-of-view</a><p>Template rendering plugin for Fastify</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/24/22, 10:04 AM<br>下一次刷新：7/24/22, 1:04 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/24/22, 11:55 AM<br>下一次刷新：7/24/22, 2:55 PM</p>
