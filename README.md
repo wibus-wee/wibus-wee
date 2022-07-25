@@ -82,11 +82,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/BetaSu/big-react>BetaSu/big-react</a><p>跟着我，从0实现React18</p></li><li><a href=https://github.com/FormidableLabs/react-live>FormidableLabs/react-live</a><p>A flexible playground for live editing React components</p></li><li><a href=https://github.com/zikaari/webext-bridge>zikaari/webext-bridge</a><p>Messaging in Web Extensions made super easy. Out of the box.</p></li><li><a href=https://github.com/brilliant-js/brilliant>brilliant-js/brilliant</a><p>Brilliant is a WYSIWYG markdown editor with live preview support, based on Draft-js and React, implemented in TypeScript. It's compatible with popular browsers.</p></li><li><a href=https://github.com/makenotion/notion-sdk-js>makenotion/notion-sdk-js</a><p>Official Notion JavaScript Client</p></li></ul>
+<ul><li><a href=https://github.com/katspaugh/wavesurfer.js>katspaugh/wavesurfer.js</a><p>Navigable waveform built on Web Audio and Canvas</p></li><li><a href=https://github.com/BetaSu/big-react>BetaSu/big-react</a><p>跟着我，从0实现React18</p></li><li><a href=https://github.com/FormidableLabs/react-live>FormidableLabs/react-live</a><p>A flexible playground for live editing React components</p></li><li><a href=https://github.com/zikaari/webext-bridge>zikaari/webext-bridge</a><p>Messaging in Web Extensions made super easy. Out of the box.</p></li><li><a href=https://github.com/brilliant-js/brilliant>brilliant-js/brilliant</a><p>Brilliant is a WYSIWYG markdown editor with live preview support, based on Draft-js and React, implemented in TypeScript. It's compatible with popular browsers.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/nest-template>suemor233/nest-template</a><p>nestjs 模板</p></li><li><a href=https://github.com/vercel/serve>vercel/serve</a><p>Static file serving and directory listing</p></li><li><a href=https://github.com/unjs/unimport>unjs/unimport</a><p>Unified utils for auto importing APIs in modules.</p></li><li><a href=https://github.com/lxieyang/chrome-extension-boilerplate-react>lxieyang/chrome-extension-boilerplate-react</a><p>A Chrome Extensions boilerplate using React 17 and Webpack 5.</p></li><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li></ul>
+<ul><li><a href=https://github.com/applicazza/fastify-nextjs>applicazza/fastify-nextjs</a><p>Serve Next.js requests via Fastify</p></li><li><a href=https://github.com/antfu/.github>antfu/.github</a><p>The default community health files for all my repos on GitHub</p></li><li><a href=https://github.com/KipSong/vite-chrome-extension>KipSong/vite-chrome-extension</a><p>又快又爽的开发 Chrome 扩展程序</p></li><li><a href=https://github.com/konstantinmuenster/notion-clone>konstantinmuenster/notion-clone</a><p>Edit Notes like in Notion.so. Full-Stack App using React/Express.</p></li><li><a href=https://github.com/greedisgoood/botbay>greedisgoood/botbay</a><p>botbay-以生物多样性为命题的私有机器人赋能平台</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/25/22, 5:17 AM<br>下一次刷新：7/25/22, 8:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/25/22, 9:56 AM<br>下一次刷新：7/25/22, 12:56 PM</p>
