@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li><li><a href=https://github.com/StarkShang/vite-plugin-chrome-extension>StarkShang/vite-plugin-chrome-extension</a><p>A vite plugin to bundle chrome extensions for Manifest V3.</p></li><li><a href=https://github.com/Tencent/lemon-cleaner>Tencent/lemon-cleaner</a><p>腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。</p></li><li><a href=https://github.com/TryGhost/Themes>TryGhost/Themes</a><p>A monorepo for Ghost themes</p></li><li><a href=https://github.com/fossabot/typoraCracker>fossabot/typoraCracker</a><p>A patch and keygen tools for typora.</p></li></ul>
+<ul><li><a href=https://github.com/makenotion/notion-sdk-js>makenotion/notion-sdk-js</a><p>Official Notion JavaScript Client</p></li><li><a href=https://github.com/fastify/point-of-view>fastify/point-of-view</a><p>Template rendering plugin for Fastify</p></li><li><a href=https://github.com/KipSong/vite-chrome-extension>KipSong/vite-chrome-extension</a><p>又快又爽的开发 Chrome 扩展程序</p></li><li><a href=https://github.com/fossabot/typoraCracker>fossabot/typoraCracker</a><p>A patch and keygen tools for typora.</p></li><li><a href=https://github.com/zikaari/webext-bridge>zikaari/webext-bridge</a><p>Messaging in Web Extensions made super easy. Out of the box.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/26/22, 2:25 AM<br>下一次刷新：7/26/22, 5:25 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/26/22, 5:17 AM<br>下一次刷新：7/26/22, 8:17 AM</p>
