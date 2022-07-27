@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/fliptheweb/bash-shortcuts-cheat-sheet>fliptheweb/bash-shortcuts-cheat-sheet</a><p>Useful shortcuts for bash/zsh</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li><li><a href=https://github.com/Saul-Mirone/milkdown>Saul-Mirone/milkdown</a><p>🍼 Plugin driven WYSIWYG markdown editor framework.</p></li><li><a href=https://github.com/FormidableLabs/react-live>FormidableLabs/react-live</a><p>A flexible playground for live editing React components</p></li><li><a href=https://github.com/lxieyang/chrome-extension-boilerplate-react>lxieyang/chrome-extension-boilerplate-react</a><p>A Chrome Extensions boilerplate using React 17 and Webpack 5.</p></li></ul>
+<ul><li><a href=https://github.com/Tencent/lemon-cleaner>Tencent/lemon-cleaner</a><p>腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。</p></li><li><a href=https://github.com/Innei/rc-component-docs-site-boilerplate>Innei/rc-component-docs-site-boilerplate</a></li><li><a href=https://github.com/KipSong/vite-chrome-extension>KipSong/vite-chrome-extension</a><p>又快又爽的开发 Chrome 扩展程序</p></li><li><a href=https://github.com/Saul-Mirone/milkdown>Saul-Mirone/milkdown</a><p>🍼 Plugin driven WYSIWYG markdown editor framework.</p></li><li><a href=https://github.com/CedarXi/All-in-one>CedarXi/All-in-one</a><p>A block-styled editor, Inspired by Notion</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/22, 12:08 PM<br>下一次刷新：7/27/22, 3:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/22, 2:25 PM<br>下一次刷新：7/27/22, 5:25 PM</p>
