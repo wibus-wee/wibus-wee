@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/rc-component-docs-site-boilerplate>Innei/rc-component-docs-site-boilerplate</a></li><li><a href=https://github.com/ikcb/animated-tailwindcss>ikcb/animated-tailwindcss</a><p>A configuration to use Animate.css with Tailwind CSS.</p></li><li><a href=https://github.com/CedarXi/All-in-one>CedarXi/All-in-one</a><p>A block-styled editor, Inspired by Notion</p></li><li><a href=https://github.com/payloadcms/payload>payloadcms/payload</a><p>Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB</p></li><li><a href=https://github.com/FormidableLabs/react-swipeable>FormidableLabs/react-swipeable</a><p>React swipe event handler hook</p></li></ul>
+<ul><li><a href=https://github.com/FormidableLabs/react-live>FormidableLabs/react-live</a><p>A flexible playground for live editing React components</p></li><li><a href=https://github.com/TryGhost/Themes>TryGhost/Themes</a><p>A monorepo for Ghost themes</p></li><li><a href=https://github.com/katspaugh/wavesurfer.js>katspaugh/wavesurfer.js</a><p>Navigable waveform built on Web Audio and Canvas</p></li><li><a href=https://github.com/FormidableLabs/react-swipeable>FormidableLabs/react-swipeable</a><p>React swipe event handler hook</p></li><li><a href=https://github.com/konstantinmuenster/notion-clone>konstantinmuenster/notion-clone</a><p>Edit Notes like in Notion.so. Full-Stack App using React/Express.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/28/22, 11:20 PM<br>下一次刷新：7/29/22, 2:20 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/29/22, 2:26 AM<br>下一次刷新：7/29/22, 5:26 AM</p>
