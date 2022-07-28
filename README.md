@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Tencent/lemon-cleaner>Tencent/lemon-cleaner</a><p>腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。</p></li><li><a href=https://github.com/FormidableLabs/use-editable>FormidableLabs/use-editable</a><p>A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)</p></li><li><a href=https://github.com/katspaugh/wavesurfer.js>katspaugh/wavesurfer.js</a><p>Navigable waveform built on Web Audio and Canvas</p></li><li><a href=https://github.com/fliptheweb/bash-shortcuts-cheat-sheet>fliptheweb/bash-shortcuts-cheat-sheet</a><p>Useful shortcuts for bash/zsh</p></li><li><a href=https://github.com/konstantinmuenster/notion-clone>konstantinmuenster/notion-clone</a><p>Edit Notes like in Notion.so. Full-Stack App using React/Express.</p></li></ul>
+<ul><li><a href=https://github.com/StarkShang/vite-plugin-chrome-extension>StarkShang/vite-plugin-chrome-extension</a><p>A vite plugin to bundle chrome extensions for Manifest V3.</p></li><li><a href=https://github.com/suemor233/nest-template>suemor233/nest-template</a><p>nestjs 模板</p></li><li><a href=https://github.com/react-monaco-editor/react-monaco-editor>react-monaco-editor/react-monaco-editor</a><p>Monaco Editor for React.</p></li><li><a href=https://github.com/TryGhost/Themes>TryGhost/Themes</a><p>A monorepo for Ghost themes</p></li><li><a href=https://github.com/zikaari/webext-bridge>zikaari/webext-bridge</a><p>Messaging in Web Extensions made super easy. Out of the box.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/28/22, 12:02 PM<br>下一次刷新：7/28/22, 3:02 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/28/22, 2:25 PM<br>下一次刷新：7/28/22, 5:25 PM</p>
