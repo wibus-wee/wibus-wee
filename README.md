@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li><li><a href=https://github.com/lorry2018/minimajs>lorry2018/minimajs</a><p>MinimaJs is a OSGi-like, simple yet powerfull plugin framework based on NodeJS.</p></li><li><a href=https://github.com/FormidableLabs/react-live>FormidableLabs/react-live</a><p>A flexible playground for live editing React components</p></li><li><a href=https://github.com/fliptheweb/bash-shortcuts-cheat-sheet>fliptheweb/bash-shortcuts-cheat-sheet</a><p>Useful shortcuts for bash/zsh</p></li></ul>
+<ul><li><a href=https://github.com/ikcb/animated-tailwindcss>ikcb/animated-tailwindcss</a><p>A configuration to use Animate.css with Tailwind CSS.</p></li><li><a href=https://github.com/FormidableLabs/react-live>FormidableLabs/react-live</a><p>A flexible playground for live editing React components</p></li><li><a href=https://github.com/facebookexperimental/Recoil>facebookexperimental/Recoil</a><p>Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.</p></li><li><a href=https://github.com/FormidableLabs/use-editable>FormidableLabs/use-editable</a><p>A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)</p></li><li><a href=https://github.com/konstantinmuenster/notion-clone>konstantinmuenster/notion-clone</a><p>Edit Notes like in Notion.so. Full-Stack App using React/Express.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/22, 2:25 AM<br>下一次刷新：7/30/22, 5:25 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/22, 5:17 AM<br>下一次刷新：7/30/22, 8:17 AM</p>
