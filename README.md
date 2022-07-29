@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/TryGhost/Themes>TryGhost/Themes</a><p>A monorepo for Ghost themes</p></li><li><a href=https://github.com/craigary/nobelium>craigary/nobelium</a><p>A static blog build on top of Notion and NextJS, deployed on Vercel.</p></li><li><a href=https://github.com/konstantinmuenster/notion-clone>konstantinmuenster/notion-clone</a><p>Edit Notes like in Notion.so. Full-Stack App using React/Express.</p></li><li><a href=https://github.com/makenotion/notion-sdk-js>makenotion/notion-sdk-js</a><p>Official Notion JavaScript Client</p></li><li><a href=https://github.com/ethantw/Han>ethantw/Han</a><p>「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.</p></li></ul>
+<ul><li><a href=https://github.com/taowen/awesome-lowcode>taowen/awesome-lowcode</a><p>国内低代码平台从业者交流</p></li><li><a href=https://github.com/fliptheweb/bash-shortcuts-cheat-sheet>fliptheweb/bash-shortcuts-cheat-sheet</a><p>Useful shortcuts for bash/zsh</p></li><li><a href=https://github.com/makenotion/notion-sdk-js>makenotion/notion-sdk-js</a><p>Official Notion JavaScript Client</p></li><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li><li><a href=https://github.com/TryGhost/Themes>TryGhost/Themes</a><p>A monorepo for Ghost themes</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/29/22, 10:04 AM<br>下一次刷新：7/29/22, 1:04 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/29/22, 12:06 PM<br>下一次刷新：7/29/22, 3:06 PM</p>
