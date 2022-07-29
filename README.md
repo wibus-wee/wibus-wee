@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/zikaari/webext-bridge>zikaari/webext-bridge</a><p>Messaging in Web Extensions made super easy. Out of the box.</p></li><li><a href=https://github.com/brilliant-js/brilliant>brilliant-js/brilliant</a><p>Brilliant is a WYSIWYG markdown editor with live preview support, based on Draft-js and React, implemented in TypeScript. It's compatible with popular browsers.</p></li><li><a href=https://github.com/konstantinmuenster/notion-clone>konstantinmuenster/notion-clone</a><p>Edit Notes like in Notion.so. Full-Stack App using React/Express.</p></li><li><a href=https://github.com/makenotion/notion-sdk-js>makenotion/notion-sdk-js</a><p>Official Notion JavaScript Client</p></li><li><a href=https://github.com/lorry2018/minimajs>lorry2018/minimajs</a><p>MinimaJs is a OSGi-like, simple yet powerfull plugin framework based on NodeJS.</p></li></ul>
+<ul><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li><li><a href=https://github.com/lorry2018/minimajs>lorry2018/minimajs</a><p>MinimaJs is a OSGi-like, simple yet powerfull plugin framework based on NodeJS.</p></li><li><a href=https://github.com/FormidableLabs/react-live>FormidableLabs/react-live</a><p>A flexible playground for live editing React components</p></li><li><a href=https://github.com/fliptheweb/bash-shortcuts-cheat-sheet>fliptheweb/bash-shortcuts-cheat-sheet</a><p>Useful shortcuts for bash/zsh</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/29/22, 11:24 PM<br>下一次刷新：7/30/22, 2:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/22, 2:25 AM<br>下一次刷新：7/30/22, 5:25 AM</p>
