@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/zikaari/webext-bridge>zikaari/webext-bridge</a><p>Messaging in Web Extensions made super easy. Out of the box.</p></li><li><a href=https://github.com/BetaSu/big-react>BetaSu/big-react</a><p>跟着我，从0实现React18</p></li><li><a href=https://github.com/FormidableLabs/use-editable>FormidableLabs/use-editable</a><p>A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)</p></li><li><a href=https://github.com/ikcb/animated-tailwindcss>ikcb/animated-tailwindcss</a><p>A configuration to use Animate.css with Tailwind CSS.</p></li><li><a href=https://github.com/ethantw/Han>ethantw/Han</a><p>「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.</p></li></ul>
+<ul><li><a href=https://github.com/facebookexperimental/Recoil>facebookexperimental/Recoil</a><p>Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.</p></li><li><a href=https://github.com/foobaragency/foo-state>foobaragency/foo-state</a><p>A simple yet powerful library for managing global states with react</p></li><li><a href=https://github.com/vadimdemedes/ink>vadimdemedes/ink</a><p>🌈 React for interactive command-line apps</p></li><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li><li><a href=https://github.com/FormidableLabs/use-editable>FormidableLabs/use-editable</a><p>A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/22, 11:19 PM<br>下一次刷新：7/31/22, 2:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/22, 2:22 AM<br>下一次刷新：7/31/22, 5:22 AM</p>
