@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/facebookexperimental/Recoil>facebookexperimental/Recoil</a><p>Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.</p></li><li><a href=https://github.com/foobaragency/foo-state>foobaragency/foo-state</a><p>A simple yet powerful library for managing global states with react</p></li><li><a href=https://github.com/vadimdemedes/ink>vadimdemedes/ink</a><p>🌈 React for interactive command-line apps</p></li><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li><li><a href=https://github.com/FormidableLabs/use-editable>FormidableLabs/use-editable</a><p>A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)</p></li></ul>
+<ul><li><a href=https://github.com/Anjok07/ultimatevocalremovergui>Anjok07/ultimatevocalremovergui</a><p>GUI for a Vocal Remover that uses Deep Neural Networks.</p></li><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li><li><a href=https://github.com/lorry2018/minimajs>lorry2018/minimajs</a><p>MinimaJs is a OSGi-like, simple yet powerfull plugin framework based on NodeJS.</p></li><li><a href=https://github.com/craigary/nobelium>craigary/nobelium</a><p>A static blog build on top of Notion and NextJS, deployed on Vercel.</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/22, 2:22 AM<br>下一次刷新：7/31/22, 5:22 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/22, 5:16 AM<br>下一次刷新：7/31/22, 8:16 AM</p>
