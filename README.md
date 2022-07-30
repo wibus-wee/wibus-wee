@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/BetaSu/big-react>BetaSu/big-react</a><p>跟着我，从0实现React18</p></li><li><a href=https://github.com/ethantw/Han>ethantw/Han</a><p>「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.</p></li><li><a href=https://github.com/craigary/nobelium>craigary/nobelium</a><p>A static blog build on top of Notion and NextJS, deployed on Vercel.</p></li><li><a href=https://github.com/react-monaco-editor/react-monaco-editor>react-monaco-editor/react-monaco-editor</a><p>Monaco Editor for React.</p></li><li><a href=https://github.com/editablejs/editable>editablejs/editable</a><p>An experimental rich text editor framework which aims to replace the native contenteditable attribute with a self-drawn cursor to provide richer and more stable editing capabilities.</p></li></ul>
+<ul><li><a href=https://github.com/zikaari/webext-bridge>zikaari/webext-bridge</a><p>Messaging in Web Extensions made super easy. Out of the box.</p></li><li><a href=https://github.com/katspaugh/wavesurfer.js>katspaugh/wavesurfer.js</a><p>Navigable waveform built on Web Audio and Canvas</p></li><li><a href=https://github.com/fliptheweb/bash-shortcuts-cheat-sheet>fliptheweb/bash-shortcuts-cheat-sheet</a><p>Useful shortcuts for bash/zsh</p></li><li><a href=https://github.com/ethantw/Han>ethantw/Han</a><p>「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/22, 12:03 PM<br>下一次刷新：7/30/22, 3:03 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/22, 2:24 PM<br>下一次刷新：7/30/22, 5:24 PM</p>
