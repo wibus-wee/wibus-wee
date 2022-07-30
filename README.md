@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li><li><a href=https://github.com/FormidableLabs/react-live>FormidableLabs/react-live</a><p>A flexible playground for live editing React components</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li><li><a href=https://github.com/foobaragency/foo-state>foobaragency/foo-state</a><p>A simple yet powerful library for managing global states with react</p></li><li><a href=https://github.com/ikcb/animated-tailwindcss>ikcb/animated-tailwindcss</a><p>A configuration to use Animate.css with Tailwind CSS.</p></li></ul>
+<ul><li><a href=https://github.com/BetaSu/big-react>BetaSu/big-react</a><p>跟着我，从0实现React18</p></li><li><a href=https://github.com/ethantw/Han>ethantw/Han</a><p>「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.</p></li><li><a href=https://github.com/craigary/nobelium>craigary/nobelium</a><p>A static blog build on top of Notion and NextJS, deployed on Vercel.</p></li><li><a href=https://github.com/react-monaco-editor/react-monaco-editor>react-monaco-editor/react-monaco-editor</a><p>Monaco Editor for React.</p></li><li><a href=https://github.com/editablejs/editable>editablejs/editable</a><p>An experimental rich text editor framework which aims to replace the native contenteditable attribute with a self-drawn cursor to provide richer and more stable editing capabilities.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/22, 9:55 AM<br>下一次刷新：7/30/22, 12:55 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/22, 12:03 PM<br>下一次刷新：7/30/22, 3:03 PM</p>
