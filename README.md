@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li><li><a href=https://github.com/FormidableLabs/use-editable>FormidableLabs/use-editable</a><p>A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)</p></li><li><a href=https://github.com/craigary/nobelium>craigary/nobelium</a><p>A static blog build on top of Notion and NextJS, deployed on Vercel.</p></li><li><a href=https://github.com/katspaugh/wavesurfer.js>katspaugh/wavesurfer.js</a><p>Navigable waveform built on Web Audio and Canvas</p></li><li><a href=https://github.com/zikaari/webext-bridge>zikaari/webext-bridge</a><p>Messaging in Web Extensions made super easy. Out of the box.</p></li></ul>
+<ul><li><a href=https://github.com/FormidableLabs/react-live>FormidableLabs/react-live</a><p>A flexible playground for live editing React components</p></li><li><a href=https://github.com/ethantw/Han>ethantw/Han</a><p>「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.</p></li><li><a href=https://github.com/FormidableLabs/use-editable>FormidableLabs/use-editable</a><p>A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)</p></li><li><a href=https://github.com/craigary/nobelium>craigary/nobelium</a><p>A static blog build on top of Notion and NextJS, deployed on Vercel.</p></li><li><a href=https://github.com/vadimdemedes/ink>vadimdemedes/ink</a><p>🌈 React for interactive command-line apps</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/22, 5:17 PM<br>下一次刷新：7/31/22, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/22, 8:35 PM<br>下一次刷新：7/31/22, 11:35 PM</p>
