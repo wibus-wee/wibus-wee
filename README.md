@@ -82,11 +82,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/alan2207/bulletproof-react>alan2207/bulletproof-react</a><p>🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.</p></li><li><a href=https://github.com/unjs/ohmyfetch>unjs/ohmyfetch</a><p>A better fetch API. Works on node, browser and workers.</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li><li><a href=https://github.com/panva/jose>panva/jose</a><p>"JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.</p></li><li><a href=https://github.com/ronami/HypeScript>ronami/HypeScript</a><p>🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system</p></li></ul>
+<ul><li><a href=https://github.com/jorgef/engineeringladders>jorgef/engineeringladders</a><p>A framework for Engineering Managers</p></li><li><a href=https://github.com/yume-chan/ya-webadb>yume-chan/ya-webadb</a><p>ADB in your browser</p></li><li><a href=https://github.com/alan2207/bulletproof-react>alan2207/bulletproof-react</a><p>🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.</p></li><li><a href=https://github.com/unjs/ohmyfetch>unjs/ohmyfetch</a><p>A better fetch API. Works on node, browser and workers.</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Anjok07/ultimatevocalremovergui>Anjok07/ultimatevocalremovergui</a><p>GUI for a Vocal Remover that uses Deep Neural Networks.</p></li><li><a href=https://github.com/coniel/whim>coniel/whim</a><p>A highly customisable block based rich text editor inspired by Notion.</p></li><li><a href=https://github.com/lorry2018/minimajs>lorry2018/minimajs</a><p>MinimaJs is a OSGi-like, simple yet powerfull plugin framework based on NodeJS.</p></li><li><a href=https://github.com/craigary/nobelium>craigary/nobelium</a><p>A static blog build on top of Notion and NextJS, deployed on Vercel.</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li></ul>
+<ul><li><a href=https://github.com/ikcb/animated-tailwindcss>ikcb/animated-tailwindcss</a><p>A configuration to use Animate.css with Tailwind CSS.</p></li><li><a href=https://github.com/editablejs/editable>editablejs/editable</a><p>An experimental rich text editor framework which aims to replace the native contenteditable attribute with a self-drawn cursor to provide richer and more stable editing capabilities.</p></li><li><a href=https://github.com/craigary/nobelium>craigary/nobelium</a><p>A static blog build on top of Notion and NextJS, deployed on Vercel.</p></li><li><a href=https://github.com/AkaraChen/parentgenerator>AkaraChen/parentgenerator</a></li><li><a href=https://github.com/Innei/rc-component-docs-site-boilerplate>Innei/rc-component-docs-site-boilerplate</a></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/22, 5:16 AM<br>下一次刷新：7/31/22, 8:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/22, 10:10 AM<br>下一次刷新：7/31/22, 1:10 PM</p>
