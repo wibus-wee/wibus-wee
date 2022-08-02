@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ethantw/Han>ethantw/Han</a><p>「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.</p></li><li><a href=https://github.com/peng-zhihui/HelloWord-Keyboard>peng-zhihui/HelloWord-Keyboard</a></li><li><a href=https://github.com/facebookexperimental/Recoil>facebookexperimental/Recoil</a><p>Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.</p></li><li><a href=https://github.com/alan2207/bulletproof-react>alan2207/bulletproof-react</a><p>🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.</p></li><li><a href=https://github.com/craigary/nobelium>craigary/nobelium</a><p>A static blog build on top of Notion and NextJS, deployed on Vercel.</p></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/parentgenerator>AkaraChen/parentgenerator</a></li><li><a href=https://github.com/ronami/HypeScript>ronami/HypeScript</a><p>🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li><li><a href=https://github.com/yume-chan/ya-webadb>yume-chan/ya-webadb</a><p>ADB in your browser</p></li><li><a href=https://github.com/unjs/ohmyfetch>unjs/ohmyfetch</a><p>A better fetch API. Works on node, browser and workers.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/22, 5:17 AM<br>下一次刷新：8/2/22, 8:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/22, 10:13 AM<br>下一次刷新：8/2/22, 1:13 PM</p>
