@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li><li><a href=https://github.com/unjs/ohmyfetch>unjs/ohmyfetch</a><p>A better fetch API. Works on node, browser and workers.</p></li><li><a href=https://github.com/yume-chan/ya-webadb>yume-chan/ya-webadb</a><p>ADB in your browser</p></li><li><a href=https://github.com/nolimits4web/atropos>nolimits4web/atropos</a><p>Stunning touch-friendly 3D parallax hover effects</p></li><li><a href=https://github.com/lorry2018/minimajs>lorry2018/minimajs</a><p>MinimaJs is a OSGi-like, simple yet powerfull plugin framework based on NodeJS.</p></li></ul>
+<ul><li><a href=https://github.com/ronami/HypeScript>ronami/HypeScript</a><p>🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li><li><a href=https://github.com/peng-zhihui/HelloWord-Keyboard>peng-zhihui/HelloWord-Keyboard</a></li><li><a href=https://github.com/muety/wakapi>muety/wakapi</a><p>📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics</p></li><li><a href=https://github.com/IrosTheBeggar/mStream>IrosTheBeggar/mStream</a><p>The easiest music streaming server available</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/3/22, 2:24 AM<br>下一次刷新：8/3/22, 5:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/3/22, 5:17 AM<br>下一次刷新：8/3/22, 8:17 AM</p>
