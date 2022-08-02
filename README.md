@@ -82,11 +82,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/nearform/lyra>nearform/lyra</a><p>🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. Now in beta.</p></li><li><a href=https://github.com/Col0ring/react-router-guarded-routes>Col0ring/react-router-guarded-routes</a><p>A guard middleware for react-router v6</p></li><li><a href=https://github.com/nolimits4web/atropos>nolimits4web/atropos</a><p>Stunning touch-friendly 3D parallax hover effects</p></li><li><a href=https://github.com/IrosTheBeggar/mStream>IrosTheBeggar/mStream</a><p>The easiest music streaming server available</p></li><li><a href=https://github.com/muety/wakapi>muety/wakapi</a><p>📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics</p></li></ul>
+<ul><li><a href=https://github.com/remix-run/remix>remix-run/remix</a><p>Build Better Websites. Create modern, resilient user experiences with web fundamentals.</p></li><li><a href=https://github.com/nearform/lyra>nearform/lyra</a><p>🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. Now in beta.</p></li><li><a href=https://github.com/Col0ring/react-router-guarded-routes>Col0ring/react-router-guarded-routes</a><p>A guard middleware for react-router v6</p></li><li><a href=https://github.com/nolimits4web/atropos>nolimits4web/atropos</a><p>Stunning touch-friendly 3D parallax hover effects</p></li><li><a href=https://github.com/IrosTheBeggar/mStream>IrosTheBeggar/mStream</a><p>The easiest music streaming server available</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/parentgenerator>AkaraChen/parentgenerator</a></li><li><a href=https://github.com/ronami/HypeScript>ronami/HypeScript</a><p>🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li><li><a href=https://github.com/yume-chan/ya-webadb>yume-chan/ya-webadb</a><p>ADB in your browser</p></li><li><a href=https://github.com/unjs/ohmyfetch>unjs/ohmyfetch</a><p>A better fetch API. Works on node, browser and workers.</p></li></ul>
+<ul><li><a href=https://github.com/marcelodolza/iziToast>marcelodolza/iziToast</a><p>Elegant, responsive, flexible and lightweight notification plugin with no dependencies.</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li><li><a href=https://github.com/FormidableLabs/use-editable>FormidableLabs/use-editable</a><p>A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)</p></li><li><a href=https://github.com/fliptheweb/bash-shortcuts-cheat-sheet>fliptheweb/bash-shortcuts-cheat-sheet</a><p>Useful shortcuts for bash/zsh</p></li><li><a href=https://github.com/jorgef/engineeringladders>jorgef/engineeringladders</a><p>A framework for Engineering Managers</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/22, 10:13 AM<br>下一次刷新：8/2/22, 1:13 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/2/22, 12:26 PM<br>下一次刷新：8/2/22, 3:26 PM</p>
