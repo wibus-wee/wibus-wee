@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/peng-zhihui/HelloWord-Keyboard>peng-zhihui/HelloWord-Keyboard</a></li><li><a href=https://github.com/vadimdemedes/ink>vadimdemedes/ink</a><p>🌈 React for interactive command-line apps</p></li><li><a href=https://github.com/M-Izadmehr/deadfile>M-Izadmehr/deadfile</a><p>Simple util to find unused files in any JavaScript project (ES5, ES6, React, Vue, ...)</p></li><li><a href=https://github.com/marcelodolza/iziToast>marcelodolza/iziToast</a><p>Elegant, responsive, flexible and lightweight notification plugin with no dependencies.</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li></ul>
+<ul><li><a href=https://github.com/marcelodolza/iziToast>marcelodolza/iziToast</a><p>Elegant, responsive, flexible and lightweight notification plugin with no dependencies.</p></li><li><a href=https://github.com/facebookexperimental/Recoil>facebookexperimental/Recoil</a><p>Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.</p></li><li><a href=https://github.com/Kysolva/scadies>Kysolva/scadies</a><p>A Powerful Dynamic Blog System, Powered By TypeScript & Express.</p></li><li><a href=https://github.com/panva/jose>panva/jose</a><p>"JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/4/22, 11:56 AM<br>下一次刷新：8/4/22, 2:56 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/4/22, 2:27 PM<br>下一次刷新：8/4/22, 5:27 PM</p>
