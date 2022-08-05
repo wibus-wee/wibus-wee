@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/marcelodolza/iziToast>marcelodolza/iziToast</a><p>Elegant, responsive, flexible and lightweight notification plugin with no dependencies.</p></li><li><a href=https://github.com/shuding/tilg>shuding/tilg</a><p>A magical React Hook that helps you debug components.</p></li><li><a href=https://github.com/M-Izadmehr/deadfile>M-Izadmehr/deadfile</a><p>Simple util to find unused files in any JavaScript project (ES5, ES6, React, Vue, ...)</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li></ul>
+<ul><li><a href=https://github.com/jorgef/engineeringladders>jorgef/engineeringladders</a><p>A framework for Engineering Managers</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/M-Izadmehr/deadfile>M-Izadmehr/deadfile</a><p>Simple util to find unused files in any JavaScript project (ES5, ES6, React, Vue, ...)</p></li><li><a href=https://github.com/shuding/tilg>shuding/tilg</a><p>A magical React Hook that helps you debug components.</p></li><li><a href=https://github.com/nolimits4web/atropos>nolimits4web/atropos</a><p>Stunning touch-friendly 3D parallax hover effects</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/5/22, 5:19 PM<br>下一次刷新：8/5/22, 8:19 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/5/22, 8:39 PM<br>下一次刷新：8/5/22, 11:39 PM</p>
