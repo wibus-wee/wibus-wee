@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/unjs/ohmyfetch>unjs/ohmyfetch</a><p>A better fetch API. Works on node, browser and workers.</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li><li><a href=https://github.com/remix-run/remix>remix-run/remix</a><p>Build Better Websites. Create modern, resilient user experiences with web fundamentals.</p></li><li><a href=https://github.com/nolimits4web/atropos>nolimits4web/atropos</a><p>Stunning touch-friendly 3D parallax hover effects</p></li></ul>
+<ul><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li><li><a href=https://github.com/nearform/lyra>nearform/lyra</a><p>🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.</p></li><li><a href=https://github.com/remix-run/remix>remix-run/remix</a><p>Build Better Websites. Create modern, resilient user experiences with web fundamentals.</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/ethers-io/ethers.js>ethers-io/ethers.js</a><p>Complete Ethereum library and wallet implementation in JavaScript.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/6/22, 11:45 AM<br>下一次刷新：8/6/22, 2:45 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/6/22, 2:23 PM<br>下一次刷新：8/6/22, 5:23 PM</p>
