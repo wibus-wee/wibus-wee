@@ -82,11 +82,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Shopify/react-native-skia>Shopify/react-native-skia</a><p>High-performance React Native Graphics using Skia</p></li><li><a href=https://github.com/Pau1fitz/react-spotify>Pau1fitz/react-spotify</a><p>Spotify React / Redux 🎤🎺🎸🎷</p></li><li><a href=https://github.com/calebnance/expo-spotify>calebnance/expo-spotify</a><p>Spotify UI Clone with React Native & Expo</p></li><li><a href=https://github.com/bilibili-ayang/bilibili-live-helper>bilibili-ayang/bilibili-live-helper</a><p>一款小破站直播姬，方便您直播，帮助您更好的与观众互动！</p></li><li><a href=https://github.com/moyix/fauxpilot>moyix/fauxpilot</a><p>FauxPilot - an open-source GitHub Copilot server</p></li></ul>
+<ul><li><a href=https://github.com/bony2023/react-terminal>bony2023/react-terminal</a><p>🚀 React component that renders a Terminal 🖥</p></li><li><a href=https://github.com/Shopify/react-native-skia>Shopify/react-native-skia</a><p>High-performance React Native Graphics using Skia</p></li><li><a href=https://github.com/Pau1fitz/react-spotify>Pau1fitz/react-spotify</a><p>Spotify React / Redux 🎤🎺🎸🎷</p></li><li><a href=https://github.com/calebnance/expo-spotify>calebnance/expo-spotify</a><p>Spotify UI Clone with React Native & Expo</p></li><li><a href=https://github.com/bilibili-ayang/bilibili-live-helper>bilibili-ayang/bilibili-live-helper</a><p>一款小破站直播姬，方便您直播，帮助您更好的与观众互动！</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nearform/lyra>nearform/lyra</a><p>🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.</p></li><li><a href=https://github.com/iyear/searchx>iyear/searchx</a><p>🔍 Enhance Telegram Group/Channel Search In 5 Minutes</p></li><li><a href=https://github.com/wulkano/Kap>wulkano/Kap</a><p>An open-source screen recorder built with web technology</p></li><li><a href=https://github.com/muety/wakapi>muety/wakapi</a><p>📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics</p></li><li><a href=https://github.com/Lete114/cache-hash>Lete114/cache-hash</a><p>Create hash for static resources to break http cache</p></li></ul>
+<ul><li><a href=https://github.com/Lete114/cache-hash>Lete114/cache-hash</a><p>Create hash for static resources to break http cache</p></li><li><a href=https://github.com/Bowen7/regex-vis>Bowen7/regex-vis</a><p>🎨 Regex visualizer & editor</p></li><li><a href=https://github.com/shuding/tilg>shuding/tilg</a><p>A magical React Hook that helps you debug components.</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/unjs/ohmyfetch>unjs/ohmyfetch</a><p>A better fetch API. Works on node, browser and workers.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/6/22, 5:17 PM<br>下一次刷新：8/6/22, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/6/22, 8:32 PM<br>下一次刷新：8/6/22, 11:32 PM</p>
