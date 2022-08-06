@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lete114/cache-hash>Lete114/cache-hash</a><p>Create hash for static resources to break http cache</p></li><li><a href=https://github.com/nolimits4web/atropos>nolimits4web/atropos</a><p>Stunning touch-friendly 3D parallax hover effects</p></li><li><a href=https://github.com/nearform/lyra>nearform/lyra</a><p>🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.</p></li><li><a href=https://github.com/iyear/searchx>iyear/searchx</a><p>🔍 Enhance Telegram Group/Channel Search In 5 Minutes</p></li><li><a href=https://github.com/yume-chan/ya-webadb>yume-chan/ya-webadb</a><p>ADB in your browser</p></li></ul>
+<ul><li><a href=https://github.com/remix-run/remix>remix-run/remix</a><p>Build Better Websites. Create modern, resilient user experiences with web fundamentals.</p></li><li><a href=https://github.com/unjs/ohmyfetch>unjs/ohmyfetch</a><p>A better fetch API. Works on node, browser and workers.</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/shuding/tilg>shuding/tilg</a><p>A magical React Hook that helps you debug components.</p></li><li><a href=https://github.com/Lete114/cache-hash>Lete114/cache-hash</a><p>Create hash for static resources to break http cache</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/7/22, 2:23 AM<br>下一次刷新：8/7/22, 5:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/7/22, 5:17 AM<br>下一次刷新：8/7/22, 8:17 AM</p>
