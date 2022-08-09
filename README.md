@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Pau1fitz/react-spotify>Pau1fitz/react-spotify</a><p>Spotify React / Redux 🎤🎺🎸🎷</p></li><li><a href=https://github.com/Shopify/react-native-skia>Shopify/react-native-skia</a><p>High-performance React Native Graphics using Skia</p></li><li><a href=https://github.com/bilibili-ayang/bilibili-live-helper>bilibili-ayang/bilibili-live-helper</a><p>一款小破站直播姬，方便您直播，帮助您更好的与观众互动！</p></li><li><a href=https://github.com/peng-zhihui/HelloWord-Keyboard>peng-zhihui/HelloWord-Keyboard</a></li><li><a href=https://github.com/nolimits4web/atropos>nolimits4web/atropos</a><p>Stunning touch-friendly 3D parallax hover effects</p></li></ul>
+<ul><li><a href=https://github.com/peng-zhihui/HelloWord-Keyboard>peng-zhihui/HelloWord-Keyboard</a></li><li><a href=https://github.com/nearform/lyra>nearform/lyra</a><p>🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.</p></li><li><a href=https://github.com/nolimits4web/atropos>nolimits4web/atropos</a><p>Stunning touch-friendly 3D parallax hover effects</p></li><li><a href=https://github.com/aidenybai/million>aidenybai/million</a><p>Virtual DOM into the future! ✨🦁🚀✨</p></li><li><a href=https://github.com/remix-run/remix>remix-run/remix</a><p>Build Better Websites. Create modern, resilient user experiences with web fundamentals.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/9/22, 12:00 PM<br>下一次刷新：8/9/22, 3:00 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/9/22, 2:26 PM<br>下一次刷新：8/9/22, 5:26 PM</p>
