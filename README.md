@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bilibili-ayang/bilibili-live-helper>bilibili-ayang/bilibili-live-helper</a><p>一款小破站直播姬，方便您直播，帮助您更好的与观众互动！</p></li><li><a href=https://github.com/Pau1fitz/react-spotify>Pau1fitz/react-spotify</a><p>Spotify React / Redux 🎤🎺🎸🎷</p></li><li><a href=https://github.com/bony2023/react-terminal>bony2023/react-terminal</a><p>🚀 React component that renders a Terminal 🖥</p></li><li><a href=https://github.com/Col0ring/react-router-guarded-routes>Col0ring/react-router-guarded-routes</a><p>A guard middleware for react-router v6</p></li><li><a href=https://github.com/marcelodolza/iziToast>marcelodolza/iziToast</a><p>Elegant, responsive, flexible and lightweight notification plugin with no dependencies.</p></li></ul>
+<ul><li><a href=https://github.com/histoire-dev/histoire>histoire-dev/histoire</a><p>⚡ Fast and beautiful interactive component playgrounds, powered by Vite</p></li><li><a href=https://github.com/bony2023/react-terminal>bony2023/react-terminal</a><p>🚀 React component that renders a Terminal 🖥</p></li><li><a href=https://github.com/shuding/tilg>shuding/tilg</a><p>A magical React Hook that helps you debug components.</p></li><li><a href=https://github.com/nolimits4web/atropos>nolimits4web/atropos</a><p>Stunning touch-friendly 3D parallax hover effects</p></li><li><a href=https://github.com/M-Izadmehr/deadfile>M-Izadmehr/deadfile</a><p>Simple util to find unused files in any JavaScript project (ES5, ES6, React, Vue, ...)</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/9/22, 5:17 AM<br>下一次刷新：8/9/22, 8:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/9/22, 10:01 AM<br>下一次刷新：8/9/22, 1:01 PM</p>
