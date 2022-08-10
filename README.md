@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Pau1fitz/react-spotify>Pau1fitz/react-spotify</a><p>Spotify React / Redux 🎤🎺🎸🎷</p></li><li><a href=https://github.com/aidenybai/million>aidenybai/million</a><p>Virtual DOM into the future! ✨🦁🚀✨</p></li><li><a href=https://github.com/wulkano/Kap>wulkano/Kap</a><p>An open-source screen recorder built with web technology</p></li><li><a href=https://github.com/IrosTheBeggar/mStream>IrosTheBeggar/mStream</a><p>The easiest music streaming server available</p></li><li><a href=https://github.com/Col0ring/react-router-guarded-routes>Col0ring/react-router-guarded-routes</a><p>A guard middleware for react-router v6</p></li></ul>
+<ul><li><a href=https://github.com/ionic-team/ionic-framework>ionic-team/ionic-framework</a><p>A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.</p></li><li><a href=https://github.com/Lete114/cache-hash>Lete114/cache-hash</a><p>Create hash for static resources to break http cache</p></li><li><a href=https://github.com/sofn-xyz/mailing>sofn-xyz/mailing</a><p>Build, test, send emails with React</p></li><li><a href=https://github.com/wulkano/Kap>wulkano/Kap</a><p>An open-source screen recorder built with web technology</p></li><li><a href=https://github.com/aidenybai/million>aidenybai/million</a><p>Virtual DOM into the future! ✨🦁🚀✨</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/11/22, 2:23 AM<br>下一次刷新：8/11/22, 5:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/11/22, 5:17 AM<br>下一次刷新：8/11/22, 8:17 AM</p>
