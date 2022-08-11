@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/M-Izadmehr/deadfile>M-Izadmehr/deadfile</a><p>Simple util to find unused files in any JavaScript project (ES5, ES6, React, Vue, ...)</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/sofn-xyz/mailing>sofn-xyz/mailing</a><p>Build, test, send emails with React</p></li><li><a href=https://github.com/calebnance/expo-spotify>calebnance/expo-spotify</a><p>Spotify UI Clone with React Native & Expo</p></li><li><a href=https://github.com/Pau1fitz/react-spotify>Pau1fitz/react-spotify</a><p>Spotify React / Redux 🎤🎺🎸🎷</p></li></ul>
+<ul><li><a href=https://github.com/muety/wakapi>muety/wakapi</a><p>📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics</p></li><li><a href=https://github.com/nolimits4web/atropos>nolimits4web/atropos</a><p>Stunning touch-friendly 3D parallax hover effects</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/iyear/searchx>iyear/searchx</a><p>🔍 Enhance Telegram Group/Channel Search In 5 Minutes</p></li><li><a href=https://github.com/calebnance/expo-spotify>calebnance/expo-spotify</a><p>Spotify UI Clone with React Native & Expo</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/11/22, 9:47 AM<br>下一次刷新：8/11/22, 12:47 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/11/22, 11:47 AM<br>下一次刷新：8/11/22, 2:47 PM</p>
