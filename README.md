@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/react-component/upload>react-component/upload</a><p>React Upload</p></li><li><a href=https://github.com/geektutu/7days-golang>geektutu/7days-golang</a><p>7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列</p></li><li><a href=https://github.com/bony2023/react-terminal>bony2023/react-terminal</a><p>🚀 React component that renders a Terminal 🖥</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/ionic-team/ionic-framework>ionic-team/ionic-framework</a><p>A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.</p></li></ul>
+<ul><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/ionic-team/ionic-framework>ionic-team/ionic-framework</a><p>A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.</p></li><li><a href=https://github.com/M-Izadmehr/deadfile>M-Izadmehr/deadfile</a><p>Simple util to find unused files in any JavaScript project (ES5, ES6, React, Vue, ...)</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/bilibili-ayang/bilibili-live-helper>bilibili-ayang/bilibili-live-helper</a><p>一款小破站直播姬，方便您直播，帮助您更好的与观众互动！</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/12/22, 2:26 PM<br>下一次刷新：8/12/22, 5:26 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/12/22, 5:18 PM<br>下一次刷新：8/12/22, 8:18 PM</p>
