@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wulkano/Kap>wulkano/Kap</a><p>An open-source screen recorder built with web technology</p></li><li><a href=https://github.com/react-component/upload>react-component/upload</a><p>React Upload</p></li><li><a href=https://github.com/laurent22/joplin>laurent22/joplin</a><p>Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p></li><li><a href=https://github.com/Lete114/cache-hash>Lete114/cache-hash</a><p>Create hash for static resources to break http cache</p></li><li><a href=https://github.com/facebook/lexical>facebook/lexical</a><p>Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.</p></li></ul>
+<ul><li><a href=https://github.com/ethers-io/ethers.js>ethers-io/ethers.js</a><p>Complete Ethereum library and wallet implementation in JavaScript.</p></li><li><a href=https://github.com/iyear/searchx>iyear/searchx</a><p>🔍 Enhance Telegram Group/Channel Search In 5 Minutes (developing v0.2.0...)</p></li><li><a href=https://github.com/M-Izadmehr/deadfile>M-Izadmehr/deadfile</a><p>Simple util to find unused files in any JavaScript project (ES5, ES6, React, Vue, ...)</p></li><li><a href=https://github.com/Shopify/react-native-skia>Shopify/react-native-skia</a><p>High-performance React Native Graphics using Skia</p></li><li><a href=https://github.com/moyix/fauxpilot>moyix/fauxpilot</a><p>FauxPilot - an open-source GitHub Copilot server</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/14/22, 2:24 PM<br>下一次刷新：8/14/22, 5:24 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/14/22, 5:18 PM<br>下一次刷新：8/14/22, 8:18 PM</p>
