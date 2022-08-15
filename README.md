@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bilibili-ayang/bilibili-live-helper>bilibili-ayang/bilibili-live-helper</a><p>一款小破站直播姬，方便您直播，帮助您更好的与观众互动！</p></li><li><a href=https://github.com/Pau1fitz/react-spotify>Pau1fitz/react-spotify</a><p>Spotify React / Redux 🎤🎺🎸🎷</p></li><li><a href=https://github.com/Lete114/cache-hash>Lete114/cache-hash</a><p>Create hash for static resources to break http cache</p></li><li><a href=https://github.com/moyix/fauxpilot>moyix/fauxpilot</a><p>FauxPilot - an open-source GitHub Copilot server</p></li><li><a href=https://github.com/sofn-xyz/mailing>sofn-xyz/mailing</a><p>Build, test, send emails with React</p></li></ul>
+<ul><li><a href=https://github.com/laurent22/joplin>laurent22/joplin</a><p>Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p></li><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/nhn/tui.editor>nhn/tui.editor</a><p>🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/Lete114/cache-hash>Lete114/cache-hash</a><p>Create hash for static resources to break http cache</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/16/22, 2:25 AM<br>下一次刷新：8/16/22, 5:25 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/16/22, 5:17 AM<br>下一次刷新：8/16/22, 8:17 AM</p>
