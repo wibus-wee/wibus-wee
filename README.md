@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li><li><a href=https://github.com/react-component/upload>react-component/upload</a><p>React Upload</p></li><li><a href=https://github.com/Pau1fitz/react-spotify>Pau1fitz/react-spotify</a><p>Spotify React / Redux 🎤🎺🎸🎷</p></li><li><a href=https://github.com/sofn-xyz/mailing>sofn-xyz/mailing</a><p>Build, test, send emails with React</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li></ul>
+<ul><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li><li><a href=https://github.com/Shopify/react-native-skia>Shopify/react-native-skia</a><p>High-performance React Native Graphics using Skia</p></li><li><a href=https://github.com/Lete114/cache-hash>Lete114/cache-hash</a><p>Create hash for static resources to break http cache</p></li><li><a href=https://github.com/onderceylan/pwa-asset-generator>onderceylan/pwa-asset-generator</a><p>Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.</p></li><li><a href=https://github.com/ethers-io/ethers.js>ethers-io/ethers.js</a><p>Complete Ethereum library and wallet implementation in JavaScript.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/15/22, 8:40 PM<br>下一次刷新：8/15/22, 11:40 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/15/22, 11:22 PM<br>下一次刷新：8/16/22, 2:22 AM</p>
