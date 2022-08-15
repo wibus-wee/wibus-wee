@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/facebook/lexical>facebook/lexical</a><p>Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.</p></li><li><a href=https://github.com/CatsJuice/ssr-contributions-img>CatsJuice/ssr-contributions-img</a><p>Server side rendering of Github contribution wall API</p></li><li><a href=https://github.com/histoire-dev/histoire>histoire-dev/histoire</a><p>⚡ Fast and beautiful interactive component playgrounds, powered by Vite</p></li><li><a href=https://github.com/sofn-xyz/mailing>sofn-xyz/mailing</a><p>Build, test, send emails with React</p></li><li><a href=https://github.com/laurent22/joplin>laurent22/joplin</a><p>Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p></li></ul>
+<ul><li><a href=https://github.com/facebook/docusaurus>facebook/docusaurus</a><p>Easy to maintain open source documentation websites.</p></li><li><a href=https://github.com/bony2023/react-terminal>bony2023/react-terminal</a><p>🚀 React component that renders a Terminal 🖥</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/sofn-xyz/mailing>sofn-xyz/mailing</a><p>Build, test, send emails with React</p></li><li><a href=https://github.com/microsoft/fluentui-emoji>microsoft/fluentui-emoji</a></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/15/22, 10:02 AM<br>下一次刷新：8/15/22, 1:02 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/15/22, 12:14 PM<br>下一次刷新：8/15/22, 3:14 PM</p>
