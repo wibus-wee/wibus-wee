@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/arobase-che/remark-attr>arobase-che/remark-attr</a><p>Remark plugin to add support for custom attributes</p></li><li><a href=https://github.com/nhn/tui.editor>nhn/tui.editor</a><p>🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.</p></li><li><a href=https://github.com/vercel/hyper>vercel/hyper</a><p>A terminal built on web technologies</p></li><li><a href=https://github.com/Pau1fitz/react-spotify>Pau1fitz/react-spotify</a><p>Spotify React / Redux 🎤🎺🎸🎷</p></li><li><a href=https://github.com/link1st/go-stress-testing>link1st/go-stress-testing</a><p>go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】</p></li></ul>
+<ul><li><a href=https://github.com/onderceylan/pwa-asset-generator>onderceylan/pwa-asset-generator</a><p>Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.</p></li><li><a href=https://github.com/link1st/go-stress-testing>link1st/go-stress-testing</a><p>go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】</p></li><li><a href=https://github.com/microsoft/fluentui-emoji>microsoft/fluentui-emoji</a><p>A collection of familiar, friendly, and modern emoji from Microsoft</p></li><li><a href=https://github.com/laurent22/joplin>laurent22/joplin</a><p>Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p></li><li><a href=https://github.com/vercel/hyper>vercel/hyper</a><p>A terminal built on web technologies</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/18/22, 2:25 PM<br>下一次刷新：8/18/22, 5:25 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/18/22, 5:20 PM<br>下一次刷新：8/18/22, 8:20 PM</p>
