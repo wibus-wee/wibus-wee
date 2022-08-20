@@ -82,11 +82,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/sozonome/sznm.dev>sozonome/sznm.dev</a><p>My Personal Dev Site, built with Next.js and Chakra UI</p></li><li><a href=https://github.com/kifuan/helang>kifuan/helang</a><p>何语言，次世代赛博编程语言。</p></li><li><a href=https://github.com/fantasticit/ramiko>fantasticit/ramiko</a><p>nextjs + nest.js 构建页面可视化编辑器 -- Ramiko</p></li><li><a href=https://github.com/tajo/react-movable>tajo/react-movable</a><p>🔀 Drag and drop for your React lists and tables. Accessible. Tiny.</p></li><li><a href=https://github.com/nocobase/nocobase>nocobase/nocobase</a><p>NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.</p></li></ul>
+<ul><li><a href=https://github.com/dai-shi/react-hooks-fetch>dai-shi/react-hooks-fetch</a><p>Minimal data fetching library with React Suspense</p></li><li><a href=https://github.com/sozonome/sznm.dev>sozonome/sznm.dev</a><p>My Personal Dev Site, built with Next.js and Chakra UI</p></li><li><a href=https://github.com/kifuan/helang>kifuan/helang</a><p>何语言，次世代赛博编程语言。</p></li><li><a href=https://github.com/fantasticit/ramiko>fantasticit/ramiko</a><p>nextjs + nest.js 构建页面可视化编辑器 -- Ramiko</p></li><li><a href=https://github.com/tajo/react-movable>tajo/react-movable</a><p>🔀 Drag and drop for your React lists and tables. Accessible. Tiny.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/arobase-che/remark-attr>arobase-che/remark-attr</a><p>Remark plugin to add support for custom attributes</p></li><li><a href=https://github.com/Shopify/react-native-skia>Shopify/react-native-skia</a><p>High-performance React Native Graphics using Skia</p></li><li><a href=https://github.com/FlareSolverr/FlareSolverr>FlareSolverr/FlareSolverr</a><p>Proxy server to bypass Cloudflare protection</p></li><li><a href=https://github.com/link1st/go-stress-testing>link1st/go-stress-testing</a><p>go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】</p></li><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li></ul>
+<ul><li><a href=https://github.com/onderceylan/pwa-asset-generator>onderceylan/pwa-asset-generator</a><p>Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.</p></li><li><a href=https://github.com/link1st/go-stress-testing>link1st/go-stress-testing</a><p>go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】</p></li><li><a href=https://github.com/zurb/tribute>zurb/tribute</a><p>ES6 Native @mentions</p></li><li><a href=https://github.com/i18next/next-i18next>i18next/next-i18next</a><p>The easiest way to translate your NextJs apps.</p></li><li><a href=https://github.com/FlareSolverr/FlareSolverr>FlareSolverr/FlareSolverr</a><p>Proxy server to bypass Cloudflare protection</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/20/22, 2:23 PM<br>下一次刷新：8/20/22, 5:23 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/20/22, 5:18 PM<br>下一次刷新：8/20/22, 8:18 PM</p>
