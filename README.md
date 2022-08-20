@@ -86,7 +86,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/i18next/next-i18next>i18next/next-i18next</a><p>The easiest way to translate your NextJs apps.</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/bony2023/react-terminal>bony2023/react-terminal</a><p>🚀 React component that renders a Terminal 🖥</p></li><li><a href=https://github.com/microsoft/fluentui-emoji>microsoft/fluentui-emoji</a><p>A collection of familiar, friendly, and modern emoji from Microsoft</p></li><li><a href=https://github.com/laurent22/joplin>laurent22/joplin</a><p>Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p></li></ul>
+<ul><li><a href=https://github.com/arobase-che/remark-attr>arobase-che/remark-attr</a><p>Remark plugin to add support for custom attributes</p></li><li><a href=https://github.com/Shopify/react-native-skia>Shopify/react-native-skia</a><p>High-performance React Native Graphics using Skia</p></li><li><a href=https://github.com/FlareSolverr/FlareSolverr>FlareSolverr/FlareSolverr</a><p>Proxy server to bypass Cloudflare protection</p></li><li><a href=https://github.com/link1st/go-stress-testing>link1st/go-stress-testing</a><p>go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】</p></li><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -102,4 +102,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/20/22, 11:55 AM<br>下一次刷新：8/20/22, 2:55 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/20/22, 2:23 PM<br>下一次刷新：8/20/22, 5:23 PM</p>
