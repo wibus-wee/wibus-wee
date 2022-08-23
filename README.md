@@ -88,7 +88,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/facebook/lexical>facebook/lexical</a><p>Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.</p></li><li><a href=https://github.com/sozonome/sznm.dev>sozonome/sznm.dev</a><p>My Personal Dev Site, built with Next.js and Chakra UI</p></li><li><a href=https://github.com/arobase-che/remark-attr>arobase-che/remark-attr</a><p>Remark plugin to add support for custom attributes</p></li><li><a href=https://github.com/dai-shi/react-hooks-fetch>dai-shi/react-hooks-fetch</a><p>Minimal data fetching library with React Suspense</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li></ul>
+<ul><li><a href=https://github.com/kifuan/helang>kifuan/helang</a><p>何语言，次世代赛博编程语言。</p></li><li><a href=https://github.com/microsoft/fluentui-emoji>microsoft/fluentui-emoji</a><p>A collection of familiar, friendly, and modern emoji from Microsoft</p></li><li><a href=https://github.com/BrainJS/brain.js>BrainJS/brain.js</a><p>🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js</p></li><li><a href=https://github.com/react-component/upload>react-component/upload</a><p>React Upload</p></li><li><a href=https://github.com/tajo/react-movable>tajo/react-movable</a><p>🔀 Drag and drop for your React lists and tables. Accessible. Tiny.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/23/22, 8:38 PM<br>下一次刷新：8/23/22, 11:38 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/23/22, 11:20 PM<br>下一次刷新：8/24/22, 2:20 AM</p>
