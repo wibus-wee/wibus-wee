@@ -84,11 +84,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/fyupeng/distributed-blog-api>fyupeng/distributed-blog-api</a><p>分布式微服务博客后端接口api</p></li><li><a href=https://github.com/Truimo/Truimo>Truimo/Truimo</a><p>Config files for my GitHub profile.</p></li><li><a href=https://github.com/Caviar-X/data-generator>Caviar-X/data-generator</a><p>a simple DSL which allows you to create data simple and fast</p></li><li><a href=https://github.com/MiaoMint/MiaoHome>MiaoMint/MiaoHome</a><p>可能是个好看的主页</p></li><li><a href=https://github.com/YunYouJun/vitesse-h5>YunYouJun/vitesse-h5</a><p>📱 A H5 Template(Vite + Vue) inspired by Vitesse.</p></li></ul>
+<ul><li><a href=https://github.com/antfu/vite-rfcs-bot>antfu/vite-rfcs-bot</a></li><li><a href=https://github.com/fyupeng/distributed-blog-api>fyupeng/distributed-blog-api</a><p>分布式微服务博客后端接口api</p></li><li><a href=https://github.com/Truimo/Truimo>Truimo/Truimo</a><p>Config files for my GitHub profile.</p></li><li><a href=https://github.com/Caviar-X/data-generator>Caviar-X/data-generator</a><p>a simple DSL which allows you to create data simple and fast</p></li><li><a href=https://github.com/MiaoMint/MiaoHome>MiaoMint/MiaoHome</a><p>可能是个好看的主页</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sozonome/sznm.dev>sozonome/sznm.dev</a><p>My Personal Dev Site, built with Next.js and Chakra UI</p></li><li><a href=https://github.com/i18next/next-i18next>i18next/next-i18next</a><p>The easiest way to translate your NextJs apps.</p></li><li><a href=https://github.com/facebook/lexical>facebook/lexical</a><p>Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.</p></li><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li><li><a href=https://github.com/toeverything/AFFiNE>toeverything/AFFiNE</a><p>There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</p></li></ul>
+<ul><li><a href=https://github.com/microsoft/fluentui-emoji>microsoft/fluentui-emoji</a><p>A collection of familiar, friendly, and modern emoji from Microsoft</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/CatsJuice/ssr-contributions-img>CatsJuice/ssr-contributions-img</a><p>Server side rendering of Github contribution wall API</p></li><li><a href=https://github.com/link1st/go-stress-testing>link1st/go-stress-testing</a><p>go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】</p></li><li><a href=https://github.com/dai-shi/react-hooks-fetch>dai-shi/react-hooks-fetch</a><p>Minimal data fetching library with React Suspense</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/24/22, 2:27 PM<br>下一次刷新：8/24/22, 5:27 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/24/22, 5:19 PM<br>下一次刷新：8/24/22, 8:19 PM</p>
