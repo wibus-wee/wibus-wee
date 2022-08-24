@@ -88,7 +88,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/laurent22/joplin>laurent22/joplin</a><p>Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p></li><li><a href=https://github.com/Tencent/weui>Tencent/weui</a><p>A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.</p></li><li><a href=https://github.com/sozonome/sznm.dev>sozonome/sznm.dev</a><p>My Personal Dev Site, built with Next.js and Chakra UI</p></li><li><a href=https://github.com/FlareSolverr/FlareSolverr>FlareSolverr/FlareSolverr</a><p>Proxy server to bypass Cloudflare protection</p></li><li><a href=https://github.com/i18next/next-i18next>i18next/next-i18next</a><p>The easiest way to translate your NextJs apps.</p></li></ul>
+<ul><li><a href=https://github.com/Tencent/weui>Tencent/weui</a><p>A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.</p></li><li><a href=https://github.com/dai-shi/react-hooks-fetch>dai-shi/react-hooks-fetch</a><p>Minimal data fetching library with React Suspense</p></li><li><a href=https://github.com/react-component/upload>react-component/upload</a><p>React Upload</p></li><li><a href=https://github.com/FlareSolverr/FlareSolverr>FlareSolverr/FlareSolverr</a><p>Proxy server to bypass Cloudflare protection</p></li><li><a href=https://github.com/microsoft/fluentui-emoji>microsoft/fluentui-emoji</a><p>A collection of familiar, friendly, and modern emoji from Microsoft</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/24/22, 11:21 PM<br>下一次刷新：8/25/22, 2:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/25/22, 2:33 AM<br>下一次刷新：8/25/22, 5:33 AM</p>
