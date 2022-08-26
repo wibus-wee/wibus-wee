@@ -88,7 +88,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/arobase-che/remark-attr>arobase-che/remark-attr</a><p>Remark plugin to add support for custom attributes</p></li><li><a href=https://github.com/react-component/upload>react-component/upload</a><p>React Upload</p></li><li><a href=https://github.com/ixartz/Next-js-Blog-Boilerplate>ixartz/Next-js-Blog-Boilerplate</a><p>🚀 Nextjs Blog Boilerplate is starter code for your blog based on Next framework. ⚡️ Made with Nextjs 12, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS 3.</p></li><li><a href=https://github.com/onderceylan/pwa-asset-generator>onderceylan/pwa-asset-generator</a><p>Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.</p></li><li><a href=https://github.com/vercel/hyper>vercel/hyper</a><p>A terminal built on web technologies</p></li></ul>
+<ul><li><a href=https://github.com/BrainJS/brain.js>BrainJS/brain.js</a><p>🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js</p></li><li><a href=https://github.com/tajo/react-movable>tajo/react-movable</a><p>🔀 Drag and drop for your React lists and tables. Accessible. Tiny.</p></li><li><a href=https://github.com/nocobase/nocobase>nocobase/nocobase</a><p>NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.</p></li><li><a href=https://github.com/kifuan/helang>kifuan/helang</a><p>何语言，次世代赛博编程语言。</p></li><li><a href=https://github.com/toeverything/AFFiNE>toeverything/AFFiNE</a><p>There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/26/22, 11:23 PM<br>下一次刷新：8/27/22, 2:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/27/22, 2:24 AM<br>下一次刷新：8/27/22, 5:24 AM</p>
