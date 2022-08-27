@@ -2,7 +2,7 @@
 
 Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. 
 
-I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>*. Want to become a FSD (Full Stacks Developer)
+I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>*. Want to become a FSD (Full Stacks Developer). [Learn more in my personal page](https://iucky.cn)
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
@@ -88,7 +88,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/YunYouJun/vitesse-h5>YunYouJun/vitesse-h5</a><p>📱 A H5 Template(Vite + Vue) inspired by Vitesse.</p></li><li><a href=https://github.com/BrainJS/brain.js>BrainJS/brain.js</a><p>🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js</p></li><li><a href=https://github.com/toeverything/AFFiNE>toeverything/AFFiNE</a><p>There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</p></li><li><a href=https://github.com/nhn/tui.editor>nhn/tui.editor</a><p>🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.</p></li><li><a href=https://github.com/onderceylan/pwa-asset-generator>onderceylan/pwa-asset-generator</a><p>Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.</p></li></ul>
+<ul><li><a href=https://github.com/sozonome/sznm.dev>sozonome/sznm.dev</a><p>My Personal Dev Site, built with Next.js and Chakra UI</p></li><li><a href=https://github.com/BrainJS/brain.js>BrainJS/brain.js</a><p>🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js</p></li><li><a href=https://github.com/onderceylan/pwa-asset-generator>onderceylan/pwa-asset-generator</a><p>Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.</p></li><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li><li><a href=https://github.com/Tencent/weui>Tencent/weui</a><p>A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/27/22, 5:18 PM<br>下一次刷新：8/27/22, 8:18 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/27/22, 5:59 PM<br>下一次刷新：8/27/22, 8:59 PM</p>
