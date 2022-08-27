@@ -88,7 +88,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nocobase/nocobase>nocobase/nocobase</a><p>NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.</p></li><li><a href=https://github.com/FlareSolverr/FlareSolverr>FlareSolverr/FlareSolverr</a><p>Proxy server to bypass Cloudflare protection</p></li><li><a href=https://github.com/kifuan/helang>kifuan/helang</a><p>何语言，次世代赛博编程语言。</p></li><li><a href=https://github.com/fantasticit/ramiko>fantasticit/ramiko</a><p>nextjs + nest.js 构建页面可视化编辑器 -- Ramiko</p></li><li><a href=https://github.com/link1st/go-stress-testing>link1st/go-stress-testing</a><p>go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】</p></li></ul>
+<ul><li><a href=https://github.com/vercel/hyper>vercel/hyper</a><p>A terminal built on web technologies</p></li><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/MiaoMint/MiaoHome>MiaoMint/MiaoHome</a><p>可能是个好看的主页</p></li><li><a href=https://github.com/FlareSolverr/FlareSolverr>FlareSolverr/FlareSolverr</a><p>Proxy server to bypass Cloudflare protection</p></li><li><a href=https://github.com/toeverything/AFFiNE>toeverything/AFFiNE</a><p>There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/27/22, 8:37 PM<br>下一次刷新：8/27/22, 11:37 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/27/22, 11:19 PM<br>下一次刷新：8/28/22, 2:19 AM</p>
