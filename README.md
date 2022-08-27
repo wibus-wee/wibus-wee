@@ -88,7 +88,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/tajo/react-movable>tajo/react-movable</a><p>🔀 Drag and drop for your React lists and tables. Accessible. Tiny.</p></li><li><a href=https://github.com/Tencent/weui>Tencent/weui</a><p>A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.</p></li><li><a href=https://github.com/fantasticit/ramiko>fantasticit/ramiko</a><p>nextjs + nest.js 构建页面可视化编辑器 -- Ramiko</p></li><li><a href=https://github.com/microsoft/fluentui-emoji>microsoft/fluentui-emoji</a><p>A collection of familiar, friendly, and modern emoji from Microsoft</p></li></ul>
+<ul><li><a href=https://github.com/YunYouJun/vitesse-h5>YunYouJun/vitesse-h5</a><p>📱 A H5 Template(Vite + Vue) inspired by Vitesse.</p></li><li><a href=https://github.com/BrainJS/brain.js>BrainJS/brain.js</a><p>🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js</p></li><li><a href=https://github.com/toeverything/AFFiNE>toeverything/AFFiNE</a><p>There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.</p></li><li><a href=https://github.com/nhn/tui.editor>nhn/tui.editor</a><p>🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.</p></li><li><a href=https://github.com/onderceylan/pwa-asset-generator>onderceylan/pwa-asset-generator</a><p>Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/27/22, 2:24 PM<br>下一次刷新：8/27/22, 5:24 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/27/22, 5:18 PM<br>下一次刷新：8/27/22, 8:18 PM</p>
