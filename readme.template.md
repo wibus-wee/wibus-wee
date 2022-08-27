@@ -2,7 +2,7 @@
 
 Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. 
 
-I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>*. Want to become a FSD (Full Stacks Developer)
+I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>*. Want to become a FSD (Full Stacks Developer). [Learn more in my personal page](https://iucky.cn)
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
