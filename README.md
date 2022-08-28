@@ -88,7 +88,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nhn/tui.editor>nhn/tui.editor</a><p>🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.</p></li><li><a href=https://github.com/tajo/react-movable>tajo/react-movable</a><p>🔀 Drag and drop for your React lists and tables. Accessible. Tiny.</p></li><li><a href=https://github.com/sozonome/sznm.dev>sozonome/sznm.dev</a><p>My Personal Dev Site, built with Next.js and Chakra UI</p></li><li><a href=https://github.com/YunYouJun/vitesse-h5>YunYouJun/vitesse-h5</a><p>📱 A H5 Template(Vite + Vue) inspired by Vitesse.</p></li><li><a href=https://github.com/dai-shi/react-hooks-fetch>dai-shi/react-hooks-fetch</a><p>Minimal data fetching library with React Suspense</p></li></ul>
+<ul><li><a href=https://github.com/Truimo/Truimo>Truimo/Truimo</a><p>Config files for my GitHub profile.</p></li><li><a href=https://github.com/tajo/react-movable>tajo/react-movable</a><p>🔀 Drag and drop for your React lists and tables. Accessible. Tiny.</p></li><li><a href=https://github.com/sozonome/sznm.dev>sozonome/sznm.dev</a><p>My Personal Dev Site, built with Next.js and Chakra UI</p></li><li><a href=https://github.com/vercel/hyper>vercel/hyper</a><p>A terminal built on web technologies</p></li><li><a href=https://github.com/FlareSolverr/FlareSolverr>FlareSolverr/FlareSolverr</a><p>Proxy server to bypass Cloudflare protection</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/29/22, 2:23 AM<br>下一次刷新：8/29/22, 5:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/29/22, 5:19 AM<br>下一次刷新：8/29/22, 8:19 AM</p>
