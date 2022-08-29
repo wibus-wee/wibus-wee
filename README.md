@@ -88,7 +88,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/vitejs/rfcs-bot>vitejs/rfcs-bot</a><p>Automation of RFCs creation for vitejs/rfcs</p></li><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li><li><a href=https://github.com/Truimo/Truimo>Truimo/Truimo</a><p>Config files for my GitHub profile.</p></li><li><a href=https://github.com/BrainJS/brain.js>BrainJS/brain.js</a><p>🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js</p></li></ul>
+<ul><li><a href=https://github.com/MiaoMint/MiaoHome>MiaoMint/MiaoHome</a><p>可能是个好看的主页</p></li><li><a href=https://github.com/i18next/next-i18next>i18next/next-i18next</a><p>The easiest way to translate your NextJs apps.</p></li><li><a href=https://github.com/Tencent/weui>Tencent/weui</a><p>A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.</p></li><li><a href=https://github.com/fantasticit/ramiko>fantasticit/ramiko</a><p>nextjs + nest.js 构建页面可视化编辑器 -- Ramiko</p></li><li><a href=https://github.com/FlareSolverr/FlareSolverr>FlareSolverr/FlareSolverr</a><p>Proxy server to bypass Cloudflare protection</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/30/22, 2:24 AM<br>下一次刷新：8/30/22, 5:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/30/22, 5:18 AM<br>下一次刷新：8/30/22, 8:18 AM</p>
