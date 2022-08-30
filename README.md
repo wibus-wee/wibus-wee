@@ -88,7 +88,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pacocoursey/next-themes>pacocoursey/next-themes</a><p>Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing</p></li><li><a href=https://github.com/FlareSolverr/FlareSolverr>FlareSolverr/FlareSolverr</a><p>Proxy server to bypass Cloudflare protection</p></li><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li><li><a href=https://github.com/microsoft/fluentui-emoji>microsoft/fluentui-emoji</a><p>A collection of familiar, friendly, and modern emoji from Microsoft</p></li><li><a href=https://github.com/nhn/tui.editor>nhn/tui.editor</a><p>🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.</p></li></ul>
+<ul><li><a href=https://github.com/i18next/next-i18next>i18next/next-i18next</a><p>The easiest way to translate your NextJs apps.</p></li><li><a href=https://github.com/Truimo/Truimo>Truimo/Truimo</a><p>Config files for my GitHub profile.</p></li><li><a href=https://github.com/pacocoursey/cmdk>pacocoursey/cmdk</a><p>Fast, unstyled command menu React component.</p></li><li><a href=https://github.com/microsoft/fluentui-emoji>microsoft/fluentui-emoji</a><p>A collection of familiar, friendly, and modern emoji from Microsoft</p></li><li><a href=https://github.com/fantasticit/ramiko>fantasticit/ramiko</a><p>nextjs + nest.js 构建页面可视化编辑器 -- Ramiko</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/30/22, 10:21 AM<br>下一次刷新：8/30/22, 1:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/30/22, 12:50 PM<br>下一次刷新：8/30/22, 3:50 PM</p>
