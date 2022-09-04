@@ -84,11 +84,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/w4123/vits>w4123/vits</a><p>VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech</p></li><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><p>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</p></li><li><a href=https://github.com/hifun-team/hexo-theme-miracle>hifun-team/hexo-theme-miracle</a><p>:tada: A clean and lightweight single-column theme for Hexo.</p></li><li><a href=https://github.com/theevilbit/Shield>theevilbit/Shield</a><p>An app to protect against process injection and suspicious file links on macOS</p></li><li><a href=https://github.com/wangtunan/blog>wangtunan/blog</a><p>:memo: 记录个人博客，见证成长之路 https://wangtunan.github.io/blog/</p></li></ul>
+<ul><li><a href=https://github.com/floating-ui/floating-ui>floating-ui/floating-ui</a><p>A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more</p></li><li><a href=https://github.com/Innei/rakkas-seo>Innei/rakkas-seo</a></li><li><a href=https://github.com/discussjs/discuss>discussjs/discuss</a><p>一款简单，安全，免费的评论系统 | A simple, safe, free comment system</p></li><li><a href=https://github.com/w4123/vits>w4123/vits</a><p>VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech</p></li><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><p>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/withastro/astro>withastro/astro</a><p>Build faster websites with Astro's next-gen island architecture 🏝✨</p></li><li><a href=https://github.com/Caviar-X/data-generator>Caviar-X/data-generator</a><p>a simple DSL which allows you to create data simple and fast</p></li><li><a href=https://github.com/blueedgetechno/win11React>blueedgetechno/win11React</a><p>Windows 11 in React 💻🌈⚡</p></li><li><a href=https://github.com/tajo/react-movable>tajo/react-movable</a><p>🔀 Drag and drop for your React lists and tables. Accessible. Tiny.</p></li><li><a href=https://github.com/raphaelameaume/fragment>raphaelameaume/fragment</a><p>[alpha] A web development environment for creative coding</p></li></ul>
+<ul><li><a href=https://github.com/YunYouJun/vitesse-h5>YunYouJun/vitesse-h5</a><p>📱 A H5 Template(Vite + Vue) inspired by Vitesse.</p></li><li><a href=https://github.com/conventional-changelog/commitlint>conventional-changelog/commitlint</a><p>📓 Lint commit messages</p></li><li><a href=https://github.com/fyupeng/distributed-blog-api>fyupeng/distributed-blog-api</a><p>分布式微服务博客后端接口api</p></li><li><a href=https://github.com/raphaelameaume/fragment>raphaelameaume/fragment</a><p>[alpha] A web development environment for creative coding</p></li><li><a href=https://github.com/kelseyhightower/nocode>kelseyhightower/nocode</a><p>The best way to write secure and reliable applications. Write nothing; deploy nowhere.</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/4/22, 10:51 AM<br>下一次刷新：9/4/22, 1:51 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/5/22, 6:28 AM<br>下一次刷新：9/5/22, 9:28 AM</p>
