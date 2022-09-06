@@ -84,11 +84,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/ddiu8081/workspace>ddiu8081/workspace</a><p>Diu's tools for side-projects</p></li><li><a href=https://github.com/floating-ui/floating-ui>floating-ui/floating-ui</a><p>A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more</p></li><li><a href=https://github.com/Innei/rakkas-seo>Innei/rakkas-seo</a></li><li><a href=https://github.com/discussjs/discuss>discussjs/discuss</a><p>一款简单，安全，免费的评论系统 | A simple, safe, free comment system</p></li><li><a href=https://github.com/w4123/vits>w4123/vits</a><p>VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech</p></li></ul>
+<ul><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><p>Your repo reached a stars milestone? Celebrate with a video of your stargazers!</p></li><li><a href=https://github.com/ddiu8081/workspace>ddiu8081/workspace</a><p>Diu's tools for side-projects</p></li><li><a href=https://github.com/floating-ui/floating-ui>floating-ui/floating-ui</a><p>A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more</p></li><li><a href=https://github.com/Innei/rakkas-seo>Innei/rakkas-seo</a></li><li><a href=https://github.com/discussjs/discuss>discussjs/discuss</a><p>一款简单，安全，免费的评论系统 | A simple, safe, free comment system</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/conventional-changelog/commitlint>conventional-changelog/commitlint</a><p>📓 Lint commit messages</p></li><li><a href=https://github.com/wangtunan/blog>wangtunan/blog</a><p>:memo: 记录个人博客，见证成长之路 https://wangtunan.github.io/blog/</p></li><li><a href=https://github.com/fyupeng/distributed-blog-api>fyupeng/distributed-blog-api</a><p>分布式微服务博客后端接口api</p></li><li><a href=https://github.com/MiaoMint/MiaoHome>MiaoMint/MiaoHome</a><p>可能是个好看的主页</p></li><li><a href=https://github.com/tholman/cursor-effects>tholman/cursor-effects</a><p>Old-school cursor effects for your browser built with modern JavaScript</p></li></ul>
+<ul><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><p>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</p></li><li><a href=https://github.com/Caviar-X/data-generator>Caviar-X/data-generator</a><p>a simple DSL which allows you to create data simple and fast</p></li><li><a href=https://github.com/Truimo/Truimo>Truimo/Truimo</a><p>Config files for my GitHub profile.</p></li><li><a href=https://github.com/nadeesha/ts-prune>nadeesha/ts-prune</a><p>Find unused exports in a typescript project. 🛀</p></li><li><a href=https://github.com/dai-shi/react-hooks-fetch>dai-shi/react-hooks-fetch</a><p>Minimal data fetching library with React Suspense</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/6/22, 11:07 AM<br>下一次刷新：9/6/22, 2:07 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/7/22, 6:30 AM<br>下一次刷新：9/7/22, 9:30 AM</p>
