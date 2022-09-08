@@ -104,11 +104,6 @@ jobs:
       - name: Build project
         run: |
           npm run build
-          git config --global user.name "wibus-wee"
-          git config --global user.email "1596355173@qq.com"
-          git add README.md
-          git commit -m 'Update at '$(date +%Y-%m-%d)
-          git push
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
