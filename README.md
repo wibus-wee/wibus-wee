@@ -88,7 +88,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><p>Your repo reached a stars milestone? Celebrate with a video of your stargazers!</p></li><li><a href=https://github.com/YousefED/BlockNote>YousefED/BlockNote</a><p>A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.</p></li><li><a href=https://github.com/discussjs/discuss>discussjs/discuss</a><p>一款简单，安全，免费的评论系统 | A simple, safe, free comment system</p></li><li><a href=https://github.com/raphaelameaume/fragment>raphaelameaume/fragment</a><p>[alpha] A web development environment for creative coding</p></li><li><a href=https://github.com/withastro/astro>withastro/astro</a><p>Build faster websites with Astro's next-gen island architecture 🏝✨</p></li></ul>
+<ul><li><a href=https://github.com/w4123/vits>w4123/vits</a><p>VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech</p></li><li><a href=https://github.com/floating-ui/floating-ui>floating-ui/floating-ui</a><p>A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more</p></li><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><p>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</p></li><li><a href=https://github.com/alyssaxuu/motionity>alyssaxuu/motionity</a><p>The web-based motion graphics editor for everyone 📽</p></li><li><a href=https://github.com/ddiu8081/workspace>ddiu8081/workspace</a><p>Diu's tools for side-projects</p></li></ul>
 
 **互联网上的偶像**
 
@@ -104,4 +104,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/14/22, 11:02 AM<br>下一次刷新：9/14/22, 2:02 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/15/22, 6:32 AM<br>下一次刷新：9/15/22, 9:32 AM</p>
