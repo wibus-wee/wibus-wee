@@ -1,8 +1,10 @@
 # Wibus 👨‍💻
 
-Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. 
+> <u>*I am now in school, code time is usually on the weekend*</u>
 
-I am learning **TypeScript**, coding my personal blog space *<u>"next-space"</u>*. Want to become a FSD (Full Stacks Developer). [Learn more in my personal page](https://iucky.cn)
+Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. Learning **TypeScript**, coding my personal blog space *<u>"Mog"</u>*. Want to become a FSD (Full Stacks Developer).
+
+[Learn more in my personal page](https://iucky.cn)
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
@@ -84,11 +86,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/wagmi-dev/wagmi>wagmi-dev/wagmi</a><p>React Hooks for Ethereum</p></li><li><a href=https://github.com/tldraw/tldraw>tldraw/tldraw</a><p>A tiny little drawing app.</p></li><li><a href=https://github.com/facebookincubator/memlab>facebookincubator/memlab</a><p>A framework for finding JavaScript memory leaks and analyzing heap snapshots</p></li><li><a href=https://github.com/StreakingMan/solvable-sheep-game>StreakingMan/solvable-sheep-game</a><p>能够解出来的“羊了个羊”小游戏demo（react实现）</p></li><li><a href=https://github.com/education/GitHubGraduation-2022>education/GitHubGraduation-2022</a><p>Join the GitHub Graduation Yearbook and "walk the stage" on June 11.</p></li></ul>
+<ul><li><a href=https://github.com/any86/any-touch>any86/any-touch</a><p>:wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile</p></li><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li><li><a href=https://github.com/wagmi-dev/wagmi>wagmi-dev/wagmi</a><p>React Hooks for Ethereum</p></li><li><a href=https://github.com/tldraw/tldraw>tldraw/tldraw</a><p>A tiny little drawing app.</p></li><li><a href=https://github.com/facebookincubator/memlab>facebookincubator/memlab</a><p>A framework for finding JavaScript memory leaks and analyzing heap snapshots</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/imsyy/home>imsyy/home</a><p>我的个人主页，个人主页源码，主页模板，homepage</p></li><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><p>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</p></li><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><p>Your repo reached a stars milestone? Celebrate with a video of your stargazers!</p></li><li><a href=https://github.com/nadeesha/ts-prune>nadeesha/ts-prune</a><p>Find unused exports in a typescript project. 🛀</p></li><li><a href=https://github.com/WalletConnect/web3modal>WalletConnect/web3modal</a><p>A single Web3 provider solution for all Wallets</p></li></ul>
+<ul><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><p>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</p></li><li><a href=https://github.com/clauderic/dnd-kit>clauderic/dnd-kit</a><p>The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.</p></li><li><a href=https://github.com/nadeesha/ts-prune>nadeesha/ts-prune</a><p>Find unused exports in a typescript project. 🛀</p></li><li><a href=https://github.com/ddiu8081/workspace>ddiu8081/workspace</a><p>Diu's tools for side-projects</p></li><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><p>Your repo reached a stars milestone? Celebrate with a video of your stargazers!</p></li></ul>
 
 **互联网上的偶像**
 
@@ -97,11 +99,11 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 **捉迷藏**
 
 <p>
- <a href="https://github.com/mx-space" target="_blank"><img alt="NEXT" src='https://img.shields.io/badge/NEXT%20Space-white.svg?&style=for-the-badge&logo=&logoColor=white' /></a>
+ <a href="https://github.com/mogland" target="_blank"><img alt="Mog" src='https://img.shields.io/badge/Mog-white.svg?&style=for-the-badge&color=green' /></a>
 <a href="https://github.com/wibus-wee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://github.com/mx-space" target="_blank"><img alt="Innei" src='https://img.shields.io/badge/mx%20space-blue.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iNzkiIHZpZXdCb3g9IjAgMCA4MCA3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC43NTcpIiBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0zOS4xNyAwQzE3LjUzNiAwIDAgMTcuNTM3IDAgMzkuMTdjMCAyMS42MzIgMTcuNTM3IDM5LjE2OSAzOS4xNyAzOS4xNjkgMjEuNjMyIDAgMzkuMTY5LTE3LjUzNyAzOS4xNjktMzkuMTdDNzguMzM5IDE3LjUzNyA2MC44MDIgMCAzOS4xNjkgMHptMCA3My45ODZjLTE5LjIzIDAtMzQuODE4LTE1LjU4OC0zNC44MTgtMzQuODE3IDAtMTkuMjI4IDE1LjU4OS0zNC44MTcgMzQuODE3LTM0LjgxNyAxOS4yMjkgMCAzNC44MTcgMTUuNTg5IDM0LjgxNyAzNC44MTcgMCAxOS4yMjktMTUuNTg4IDM0LjgxNy0zNC44MTcgMzQuODE3eiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjM5LjE2OSIgY3k9IjM5LjE2OSIgcj0iMzEuNTI3Ii8+PC9nPjxwYXRoIGQ9Ik0zOS44MDEgNTkuMDQ3TDE5Ljc1NyAzOS4wNDUgMzkuOCAxOS4wMDFsMjAuMDAyIDIwLjAwMUwzOS44IDU5LjA0N3pNNTUuOTkgNDEuODg0bC03LjE0Ny02LjczNS05LjA0LTguNTJMMjMuNTcgNDEuODg0bTI0Ljc5LTUuNzJMMzMuMTA2IDUxLjQxOG0tMS45MDctMTUuMjU2TDQ2LjQ1NCA1MS40MiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjwvZz48L3N2Zz4=&logoColor=white' /></a>
 </p>
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/21/22, 11:13 AM<br>下一次刷新：9/21/22, 2:13 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/21/22, 11:09 PM<br>下一次刷新：9/22/22, 2:09 AM</p>
