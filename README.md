@@ -90,7 +90,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><p>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</p></li><li><a href=https://github.com/clauderic/dnd-kit>clauderic/dnd-kit</a><p>The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.</p></li><li><a href=https://github.com/nadeesha/ts-prune>nadeesha/ts-prune</a><p>Find unused exports in a typescript project. 🛀</p></li><li><a href=https://github.com/ddiu8081/workspace>ddiu8081/workspace</a><p>Diu's tools for side-projects</p></li><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><p>Your repo reached a stars milestone? Celebrate with a video of your stargazers!</p></li></ul>
+<ul><li><a href=https://github.com/bentzibentz/tailwindcss-animate.css>bentzibentz/tailwindcss-animate.css</a><p>Animate CSS plugin for Tailwind CSS</p></li><li><a href=https://github.com/plouc/nivo>plouc/nivo</a><p>nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries</p></li><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><p>Your repo reached a stars milestone? Celebrate with a video of your stargazers!</p></li><li><a href=https://github.com/clauderic/dnd-kit>clauderic/dnd-kit</a><p>The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.</p></li><li><a href=https://github.com/wangtunan/blog>wangtunan/blog</a><p>:memo: 记录个人博客，见证成长之路 https://wangtunan.github.io/blog/</p></li></ul>
 
 **互联网上的偶像**
 
@@ -106,4 +106,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/21/22, 11:09 PM<br>下一次刷新：9/22/22, 2:09 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/22/22, 6:34 AM<br>下一次刷新：9/22/22, 9:34 AM</p>
