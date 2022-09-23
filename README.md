@@ -86,11 +86,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/ilyashubin/scrollbooster>ilyashubin/scrollbooster</a><p>Enjoyable content drag-to-scroll library</p></li><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><p>Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</p></li><li><a href=https://github.com/any86/any-touch>any86/any-touch</a><p>:wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile</p></li><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li><li><a href=https://github.com/wagmi-dev/wagmi>wagmi-dev/wagmi</a><p>React Hooks for Ethereum</p></li></ul>
+<ul><li><a href=https://github.com/pmndrs/zustand>pmndrs/zustand</a><p>🐻 Bear necessities for state management in React</p></li><li><a href=https://github.com/ilyashubin/scrollbooster>ilyashubin/scrollbooster</a><p>Enjoyable content drag-to-scroll library</p></li><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><p>Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</p></li><li><a href=https://github.com/any86/any-touch>any86/any-touch</a><p>:wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile</p></li><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tldraw/tldraw>tldraw/tldraw</a><p>A tiny little drawing app.</p></li><li><a href=https://github.com/theevilbit/Shield>theevilbit/Shield</a><p>An app to protect against process injection and suspicious file links on macOS</p></li><li><a href=https://github.com/Truimo/home-page>Truimo/home-page</a><p>一个小小的主页</p></li><li><a href=https://github.com/opa334/TrollStore>opa334/TrollStore</a><p>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</p></li><li><a href=https://github.com/bentzibentz/tailwindcss-animate.css>bentzibentz/tailwindcss-animate.css</a><p>Animate CSS plugin for Tailwind CSS</p></li></ul>
+<ul><li><a href=https://github.com/Truimo/home-page>Truimo/home-page</a><p>一个小小的主页</p></li><li><a href=https://github.com/tldraw/tldraw>tldraw/tldraw</a><p>A tiny little drawing app.</p></li><li><a href=https://github.com/ddiu8081/workspace>ddiu8081/workspace</a><p>Diu's tools for side-projects</p></li><li><a href=https://github.com/facebookincubator/memlab>facebookincubator/memlab</a><p>A framework for finding JavaScript memory leaks and analyzing heap snapshots</p></li><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><p>Your repo reached a stars milestone? Celebrate with a video of your stargazers!</p></li></ul>
 
 **互联网上的偶像**
 
@@ -106,4 +106,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/23/22, 6:33 AM<br>下一次刷新：9/23/22, 9:33 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/23/22, 11:08 AM<br>下一次刷新：9/23/22, 2:08 PM</p>
