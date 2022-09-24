@@ -90,7 +90,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Truimo/home-page>Truimo/home-page</a><p>一个小小的主页</p></li><li><a href=https://github.com/YousefED/BlockNote>YousefED/BlockNote</a><p>A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.</p></li><li><a href=https://github.com/wagmi-dev/wagmi>wagmi-dev/wagmi</a><p>React Hooks for Ethereum</p></li><li><a href=https://github.com/alyssaxuu/motionity>alyssaxuu/motionity</a><p>The web-based motion graphics editor for everyone 📽</p></li><li><a href=https://github.com/ddiu8081/workspace>ddiu8081/workspace</a><p>Diu's tools for side-projects</p></li></ul>
+<ul><li><a href=https://github.com/alyssaxuu/motionity>alyssaxuu/motionity</a><p>The web-based motion graphics editor for everyone 📽</p></li><li><a href=https://github.com/tldraw/tldraw>tldraw/tldraw</a><p>A tiny little drawing app.</p></li><li><a href=https://github.com/pomber/stargazer>pomber/stargazer</a><p>Your repo reached a stars milestone? Celebrate with a video of your stargazers!</p></li><li><a href=https://github.com/Truimo/quickly-proxy>Truimo/quickly-proxy</a><p>简单的代理一些内容，使其能在大陆快速访问！</p></li><li><a href=https://github.com/Truimo/home-page>Truimo/home-page</a><p>一个小小的主页</p></li></ul>
 
 **互联网上的偶像**
 
@@ -106,4 +106,4 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/24/22, 6:35 AM<br>下一次刷新：9/24/22, 9:35 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/24/22, 11:07 AM<br>下一次刷新：9/24/22, 2:07 PM</p>
