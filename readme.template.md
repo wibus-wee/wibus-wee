@@ -13,15 +13,7 @@ Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. Learning **TypeScri
 </p>
 
 
-**Abilities**
-
-```
-NO PHP!          █████████████████████████
-Compose Music    ███████████████████████░░
-Writing Content  ███████████████░░░░░░░░░░
-Frontend         █████████████░░░░░░░░░░░░
-UI Design        █████████░░░░░░░░░░░░░░░░
-```
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
 **Stacks**
 
@@ -92,9 +84,6 @@ recent_posts_inject -->
 
 <!-- random_github_stars_inject -->
 
-**互联网上的偶像**
-
-Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌新”
 
 **捉迷藏**
 
@@ -107,3 +96,7 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 ------------
 
 <!-- footer_inject -->
+
+| Top Language by Repo                                         | My Stats                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wibus-wee&theme=vue" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wibus-wee&theme=vue" width="800"> |
