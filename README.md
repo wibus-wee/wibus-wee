@@ -13,15 +13,7 @@ Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. Learning **TypeScri
 </p>
 
 
-**Abilities**
-
-```
-NO PHP!          █████████████████████████
-Compose Music    ███████████████████████░░
-Writing Content  ███████████████░░░░░░░░░░
-Frontend         █████████████░░░░░░░░░░░░
-UI Design        █████████░░░░░░░░░░░░░░░░
-```
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
 **Stacks**
 
@@ -90,11 +82,8 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/w4123/vits>w4123/vits</a><p>VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech</p></li><li><a href=https://github.com/Truimo/quickly-proxy>Truimo/quickly-proxy</a><p>简单的代理一些内容，使其能在大陆快速访问！</p></li><li><a href=https://github.com/bentzibentz/tailwindcss-animate.css>bentzibentz/tailwindcss-animate.css</a><p>Animate CSS plugin for Tailwind CSS</p></li><li><a href=https://github.com/discussjs/discuss>discussjs/discuss</a><p>一款简单，安全，免费的评论系统 | A simple, safe, free comment system</p></li><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li></ul>
+<ul><li><a href=https://github.com/Innei/rakkas-seo>Innei/rakkas-seo</a></li><li><a href=https://github.com/StreakingMan/solvable-sheep-game>StreakingMan/solvable-sheep-game</a><p>能够解出来的“羊了个羊”小游戏demo（react实现）</p></li><li><a href=https://github.com/tldraw/tldraw>tldraw/tldraw</a><p>A tiny little drawing app.</p></li><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><p>Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</p></li><li><a href=https://github.com/any86/any-touch>any86/any-touch</a><p>:wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile</p></li></ul>
 
-**互联网上的偶像**
-
-Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌新”
 
 **捉迷藏**
 
@@ -106,4 +95,8 @@ Innei 🧑🏻‍💻 —— 热衷于探索全栈开发新事物的“初级萌
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/22, 11:04 AM<br>下一次刷新：9/25/22, 2:04 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/22, 12:08 PM<br>下一次刷新：9/25/22, 3:08 PM</p>
+
+| Top Language by Repo                                         | My Stats                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wibus-wee&theme=vue" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wibus-wee&theme=vue" width="800"> |
