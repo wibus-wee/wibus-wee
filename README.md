@@ -78,11 +78,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/matteobruni/tsparticles>matteobruni/tsparticles</a><p>tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.</p></li><li><a href=https://github.com/steven-tey/dub>steven-tey/dub</a><p>An open-source link shortener with built-in analytics + free custom domains.</p></li><li><a href=https://github.com/karanpratapsingh/system-design>karanpratapsingh/system-design</a><p>Learn how to design systems at scale and prepare for system design interviews</p></li><li><a href=https://github.com/pmndrs/zustand>pmndrs/zustand</a><p>🐻 Bear necessities for state management in React</p></li></ul>
+<ul><li><a href=https://github.com/tobe-fe-dalao/fastool>tobe-fe-dalao/fastool</a><p>一个"短小精悍"的现代JS工具库</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/matteobruni/tsparticles>matteobruni/tsparticles</a><p>tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.</p></li><li><a href=https://github.com/steven-tey/dub>steven-tey/dub</a><p>An open-source link shortener with built-in analytics + free custom domains.</p></li><li><a href=https://github.com/karanpratapsingh/system-design>karanpratapsingh/system-design</a><p>Learn how to design systems at scale and prepare for system design interviews</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/floating-ui/floating-ui>floating-ui/floating-ui</a><p>A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more</p></li><li><a href=https://github.com/bentzibentz/tailwindcss-animate.css>bentzibentz/tailwindcss-animate.css</a><p>Animate CSS plugin for Tailwind CSS</p></li><li><a href=https://github.com/ddiu8081/workspace>ddiu8081/workspace</a><p>Diu's tools for side-projects</p></li><li><a href=https://github.com/ilyashubin/scrollbooster>ilyashubin/scrollbooster</a><p>Enjoyable content drag-to-scroll library</p></li><li><a href=https://github.com/StreakingMan/solvable-sheep-game>StreakingMan/solvable-sheep-game</a><p>能够解出来的“羊了个羊”小游戏demo（react实现）</p></li></ul>
+<ul><li><a href=https://github.com/Truimo/home-page>Truimo/home-page</a><p>一个小小的主页</p></li><li><a href=https://github.com/Truimo/quickly-proxy>Truimo/quickly-proxy</a><p>简单的代理一些内容，使其能在大陆快速访问！</p></li><li><a href=https://github.com/facebookincubator/memlab>facebookincubator/memlab</a><p>A framework for finding JavaScript memory leaks and analyzing heap snapshots</p></li><li><a href=https://github.com/floating-ui/floating-ui>floating-ui/floating-ui</a><p>A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more</p></li><li><a href=https://github.com/ilyashubin/scrollbooster>ilyashubin/scrollbooster</a><p>Enjoyable content drag-to-scroll library</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/27/22, 6:33 AM<br>下一次刷新：9/27/22, 9:33 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/27/22, 10:51 AM<br>下一次刷新：9/27/22, 1:51 PM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
