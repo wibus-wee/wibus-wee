@@ -82,7 +82,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/karanpratapsingh/system-design>karanpratapsingh/system-design</a><p>Learn how to design systems at scale and prepare for system design interviews</p></li><li><a href=https://github.com/itgalaxy/favicons>itgalaxy/favicons</a><p>Favicons generator for Node.js</p></li><li><a href=https://github.com/bentzibentz/tailwindcss-animate.css>bentzibentz/tailwindcss-animate.css</a><p>Animate CSS plugin for Tailwind CSS</p></li><li><a href=https://github.com/remirror/remirror>remirror/remirror</a><p>ProseMirror toolkit for React 🎉</p></li><li><a href=https://github.com/steven-tey/dub>steven-tey/dub</a><p>An open-source link shortener with built-in analytics + free custom domains.</p></li></ul>
+<ul><li><a href=https://github.com/remotion-dev/remotion>remotion-dev/remotion</a><p>🎥 Make videos programmatically with React</p></li><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><p>Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</p></li><li><a href=https://github.com/bentzibentz/tailwindcss-animate.css>bentzibentz/tailwindcss-animate.css</a><p>Animate CSS plugin for Tailwind CSS</p></li><li><a href=https://github.com/Truimo/quickly-proxy>Truimo/quickly-proxy</a><p>简单的代理一些内容，使其能在大陆快速访问！</p></li><li><a href=https://github.com/clauderic/dnd-kit>clauderic/dnd-kit</a><p>The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/4/22, 10:37 AM<br>下一次刷新：10/4/22, 1:37 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/5/22, 6:34 AM<br>下一次刷新：10/5/22, 9:34 AM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
