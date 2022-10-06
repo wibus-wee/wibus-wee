@@ -82,7 +82,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><p>Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</p></li><li><a href=https://github.com/any86/any-touch>any86/any-touch</a><p>:wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile</p></li><li><a href=https://github.com/education/GitHubGraduation-2022>education/GitHubGraduation-2022</a><p>Join the GitHub Graduation Yearbook and "walk the stage" on June 11.</p></li><li><a href=https://github.com/bentzibentz/tailwindcss-animate.css>bentzibentz/tailwindcss-animate.css</a><p>Animate CSS plugin for Tailwind CSS</p></li><li><a href=https://github.com/steven-tey/dub>steven-tey/dub</a><p>An open-source link shortener with built-in analytics + free custom domains.</p></li></ul>
+<ul><li><a href=https://github.com/ilyashubin/scrollbooster>ilyashubin/scrollbooster</a><p>Enjoyable content drag-to-scroll library</p></li><li><a href=https://github.com/tldraw/tldraw>tldraw/tldraw</a><p>A tiny little drawing app.</p></li><li><a href=https://github.com/tobe-fe-dalao/fastool>tobe-fe-dalao/fastool</a><p>一个"短小精悍"的现代JS工具库</p></li><li><a href=https://github.com/pmndrs/zustand>pmndrs/zustand</a><p>🐻 Bear necessities for state management in React</p></li><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/6/22, 6:36 AM<br>下一次刷新：10/6/22, 9:36 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/6/22, 10:34 AM<br>下一次刷新：10/6/22, 1:34 PM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
