@@ -78,11 +78,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/codepunkt/css-spring>codepunkt/css-spring</a><p>Generate physics based css-keyframe animations for the css-in-js solution of your choice or plain css.</p></li><li><a href=https://github.com/webyang-male/nuxt3-edu>webyang-male/nuxt3-edu</a><p>Nuxt3+Vue3 actual combat online education SSR website. Nuxt3+Vue3实战在线教育SSR网站</p></li><li><a href=https://github.com/minimal-ui-kit/material-kit-react>minimal-ui-kit/material-kit-react</a><p>Minimal Dashboard - build with React Material UI components.</p></li><li><a href=https://github.com/samchon/nestia>samchon/nestia</a><p>Automatic SDK and Swagger generator for the NestJS</p></li><li><a href=https://github.com/MatchbookLab/nest-sdk-generator>MatchbookLab/nest-sdk-generator</a><p>Automatically generate an SDK from your Nest JS Controllers.</p></li></ul>
+<ul><li><a href=https://github.com/Ice-Cirno/HoshinoBot>Ice-Cirno/HoshinoBot</a><p>A qqbot for Princess Connect Re:Dive (and other usage :)</p></li><li><a href=https://github.com/codepunkt/css-spring>codepunkt/css-spring</a><p>Generate physics based css-keyframe animations for the css-in-js solution of your choice or plain css.</p></li><li><a href=https://github.com/webyang-male/nuxt3-edu>webyang-male/nuxt3-edu</a><p>Nuxt3+Vue3 actual combat online education SSR website. Nuxt3+Vue3实战在线教育SSR网站</p></li><li><a href=https://github.com/minimal-ui-kit/material-kit-react>minimal-ui-kit/material-kit-react</a><p>Minimal Dashboard - build with React Material UI components.</p></li><li><a href=https://github.com/samchon/nestia>samchon/nestia</a><p>Automatic SDK and Swagger generator for the NestJS</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ilyashubin/scrollbooster>ilyashubin/scrollbooster</a><p>Enjoyable content drag-to-scroll library</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/sxzz/unplugin-vue-macros>sxzz/unplugin-vue-macros</a><p>Explore and extend more macros and syntax sugar to Vue.</p></li><li><a href=https://github.com/clauderic/dnd-kit>clauderic/dnd-kit</a><p>The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.</p></li><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><p>Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</p></li></ul>
+<ul><li><a href=https://github.com/education/GitHubGraduation-2022>education/GitHubGraduation-2022</a><p>Join the GitHub Graduation Yearbook and "walk the stage" on June 11.</p></li><li><a href=https://github.com/clauderic/dnd-kit>clauderic/dnd-kit</a><p>The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.</p></li><li><a href=https://github.com/tldraw/tldraw>tldraw/tldraw</a><p>A tiny little drawing app.</p></li><li><a href=https://github.com/bentzibentz/tailwindcss-animate.css>bentzibentz/tailwindcss-animate.css</a><p>Animate CSS plugin for Tailwind CSS</p></li><li><a href=https://github.com/ReactiveX/RxSwift>ReactiveX/RxSwift</a><p>Reactive Programming in Swift</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/8/22, 10:30 AM<br>下一次刷新：10/8/22, 1:30 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/9/22, 6:33 AM<br>下一次刷新：10/9/22, 9:33 AM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
