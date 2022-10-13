@@ -78,11 +78,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><p>⚡️ WebExtension Vite Starter Template</p></li><li><a href=https://github.com/koishijs/novelai-bot>koishijs/novelai-bot</a><p>Generate images by NovelAI | 基于 NovelAI 的画图机器人</p></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><p>The react library to build dashboards fast.</p></li></ul>
+<ul><li><a href=https://github.com/wechaty/wechaty>wechaty/wechaty</a><p>Conversational RPA SDK for Chatbot Makers</p></li><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><p>⚡️ WebExtension Vite Starter Template</p></li><li><a href=https://github.com/koishijs/novelai-bot>koishijs/novelai-bot</a><p>Generate images by NovelAI | 基于 NovelAI 的画图机器人</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/samchon/nestia>samchon/nestia</a><p>Automatic SDK and Swagger generator for the NestJS</p></li><li><a href=https://github.com/webyang-male/nuxt3-edu>webyang-male/nuxt3-edu</a><p>Nuxt3+Vue3 actual combat online education SSR website. Nuxt3+Vue3实战在线教育SSR网站</p></li><li><a href=https://github.com/ilyashubin/scrollbooster>ilyashubin/scrollbooster</a><p>Enjoyable content drag-to-scroll library</p></li><li><a href=https://github.com/tobe-fe-dalao/fastool>tobe-fe-dalao/fastool</a><p>一个"短小精悍"的现代JS工具库</p></li><li><a href=https://github.com/ReactiveX/RxSwift>ReactiveX/RxSwift</a><p>Reactive Programming in Swift</p></li></ul>
+<ul><li><a href=https://github.com/sudongyuer/react-patterns>sudongyuer/react-patterns</a><p>☄️ React相关der设计模式 (翻译)</p></li><li><a href=https://github.com/alex8088/electron-vite>alex8088/electron-vite</a><p>Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护</p></li><li><a href=https://github.com/steven-tey/dub>steven-tey/dub</a><p>An open-source link shortener with built-in analytics + free custom domains.</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/samchon/nestia>samchon/nestia</a><p>Automatic SDK and Swagger generator for the NestJS</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/13/22, 6:34 AM<br>下一次刷新：10/13/22, 9:34 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/13/22, 11:02 AM<br>下一次刷新：10/13/22, 2:02 PM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
