@@ -82,7 +82,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/NginxProxyManager/nginx-proxy-manager>NginxProxyManager/nginx-proxy-manager</a><p>Docker container for managing Nginx proxy hosts with a simple, powerful interface</p></li><li><a href=https://github.com/any86/any-touch>any86/any-touch</a><p>:wave: Touch gesture library, 1kb~5kb, compatible with PC / mobile</p></li><li><a href=https://github.com/karanpratapsingh/system-design>karanpratapsingh/system-design</a><p>Learn how to design systems at scale and prepare for system design interviews</p></li><li><a href=https://github.com/ReactiveX/RxSwift>ReactiveX/RxSwift</a><p>Reactive Programming in Swift</p></li><li><a href=https://github.com/sxzz/unplugin-vue-macros>sxzz/unplugin-vue-macros</a><p>Explore and extend more macros and syntax sugar to Vue.</p></li></ul>
+<ul><li><a href=https://github.com/tobe-fe-dalao/fastool>tobe-fe-dalao/fastool</a><p>一个"短小精悍"的现代JS工具库</p></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><p>Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</p></li><li><a href=https://github.com/any86/any-scroll>any86/any-scroll</a><p>:rocket: 模拟scrollview, 支持pc/移动端, 让实现Tab/Slider等组件轻而易举.</p></li><li><a href=https://github.com/KichangKim/DeepDanbooru>KichangKim/DeepDanbooru</a><p>AI based multi-label girl image classification system, implemented by using TensorFlow.</p></li><li><a href=https://github.com/pmndrs/zustand>pmndrs/zustand</a><p>🐻 Bear necessities for state management in React</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/15/22, 6:34 AM<br>下一次刷新：10/15/22, 9:34 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/15/22, 11:05 AM<br>下一次刷新：10/15/22, 2:05 PM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
