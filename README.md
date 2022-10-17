@@ -82,7 +82,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tobe-fe-dalao/fastool>tobe-fe-dalao/fastool</a><p>一个"短小精悍"的现代JS工具库</p></li><li><a href=https://github.com/pmndrs/zustand>pmndrs/zustand</a><p>🐻 Bear necessities for state management in React</p></li><li><a href=https://github.com/samchon/nestia>samchon/nestia</a><p>Automatic SDK and Swagger generator for the NestJS</p></li><li><a href=https://github.com/ilyashubin/scrollbooster>ilyashubin/scrollbooster</a><p>Enjoyable content drag-to-scroll library</p></li><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li></ul>
+<ul><li><a href=https://github.com/ilyashubin/scrollbooster>ilyashubin/scrollbooster</a><p>Enjoyable content drag-to-scroll library</p></li><li><a href=https://github.com/karanpratapsingh/system-design>karanpratapsingh/system-design</a><p>Learn how to design systems at scale and prepare for system design interviews</p></li><li><a href=https://github.com/Ice-Cirno/HoshinoBot>Ice-Cirno/HoshinoBot</a><p>A qqbot for Princess Connect Re:Dive (and other usage :)</p></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><p>Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</p></li><li><a href=https://github.com/samchon/nestia>samchon/nestia</a><p>Automatic SDK and Swagger generator for the NestJS</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/17/22, 6:33 AM<br>下一次刷新：10/17/22, 9:33 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/17/22, 11:20 AM<br>下一次刷新：10/17/22, 2:20 PM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
