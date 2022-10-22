@@ -82,7 +82,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/steven-tey/dub>steven-tey/dub</a><p>An open-source link shortener with built-in analytics + free custom domains.</p></li><li><a href=https://github.com/vuejs/vue>vuejs/vue</a><p>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><p>⚡️ WebExtension Vite Starter Template</p></li><li><a href=https://github.com/NginxProxyManager/nginx-proxy-manager>NginxProxyManager/nginx-proxy-manager</a><p>Docker container for managing Nginx proxy hosts with a simple, powerful interface</p></li></ul>
+<ul><li><a href=https://github.com/KichangKim/DeepDanbooru>KichangKim/DeepDanbooru</a><p>AI based multi-label girl image classification system, implemented by using TensorFlow.</p></li><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/MatchbookLab/nest-sdk-generator>MatchbookLab/nest-sdk-generator</a><p>Automatically generate an SDK from your Nest JS Controllers.</p></li><li><a href=https://github.com/tobe-fe-dalao/fastool>tobe-fe-dalao/fastool</a><p>一个"短小精悍"的现代JS工具库</p></li><li><a href=https://github.com/wechaty/wechaty>wechaty/wechaty</a><p>Conversational RPA SDK for Chatbot Makers</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/21/22, 10:27 AM<br>下一次刷新：10/21/22, 1:27 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/22/22, 10:44 AM<br>下一次刷新：10/22/22, 1:44 PM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
