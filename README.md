@@ -78,11 +78,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/nuxt/movies>nuxt/movies</a><p>🍿 A TMDB client built with Nuxt 3</p></li><li><a href=https://github.com/webpro/knip>webpro/knip</a><p>Find unused files, dependencies and exports in your JS/TS project</p></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a><p>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</p></li><li><a href=https://github.com/wfjsw/danbooru-diffusion-prompt-builder>wfjsw/danbooru-diffusion-prompt-builder</a><p>Danbooru / NovelAI 标签超市</p></li><li><a href=https://github.com/li-jia-nan/my-blog>li-jia-nan/my-blog</a><p>个人技术博客，同步掘金，文章写在 Issues 里</p></li></ul>
+<ul><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><p>A nice code font</p></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a><p>🍿 A TMDB client built with Nuxt 3</p></li><li><a href=https://github.com/webpro/knip>webpro/knip</a><p>Find unused files, dependencies and exports in your JS/TS project</p></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a><p>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</p></li><li><a href=https://github.com/wfjsw/danbooru-diffusion-prompt-builder>wfjsw/danbooru-diffusion-prompt-builder</a><p>Danbooru / NovelAI 标签超市</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/KichangKim/DeepDanbooru>KichangKim/DeepDanbooru</a><p>AI based multi-label girl image classification system, implemented by using TensorFlow.</p></li><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/MatchbookLab/nest-sdk-generator>MatchbookLab/nest-sdk-generator</a><p>Automatically generate an SDK from your Nest JS Controllers.</p></li><li><a href=https://github.com/tobe-fe-dalao/fastool>tobe-fe-dalao/fastool</a><p>一个"短小精悍"的现代JS工具库</p></li><li><a href=https://github.com/wechaty/wechaty>wechaty/wechaty</a><p>Conversational RPA SDK for Chatbot Makers</p></li></ul>
+<ul><li><a href=https://github.com/vuejs/vue>vuejs/vue</a><p>🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</p></li><li><a href=https://github.com/tobe-fe-dalao/fastool>tobe-fe-dalao/fastool</a><p>一个"短小精悍"的现代JS工具库</p></li><li><a href=https://github.com/minimal-ui-kit/material-kit-react>minimal-ui-kit/material-kit-react</a><p>Minimal Dashboard - build with React Material UI components.</p></li><li><a href=https://github.com/Ice-Cirno/HoshinoBot>Ice-Cirno/HoshinoBot</a><p>A qqbot for Princess Connect Re:Dive (and other usage :)</p></li><li><a href=https://github.com/li-jia-nan/my-blog>li-jia-nan/my-blog</a><p>个人技术博客，同步掘金，文章写在 Issues 里</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/22/22, 10:44 AM<br>下一次刷新：10/22/22, 1:44 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/23/22, 6:34 AM<br>下一次刷新：10/23/22, 9:34 AM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
