@@ -78,11 +78,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/vuejs/theme>vuejs/theme</a><p>VitePress theme for vuejs.org.</p></li><li><a href=https://github.com/motiondivision/motionone>motiondivision/motionone</a></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><p>A nice code font</p></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a><p>🍿 A TMDB client built with Nuxt 3</p></li><li><a href=https://github.com/webpro/knip>webpro/knip</a><p>Find unused files, dependencies and exports in your JS/TS project</p></li></ul>
+<ul><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a><p>加功德</p></li><li><a href=https://github.com/vuejs/theme>vuejs/theme</a><p>VitePress theme for vuejs.org.</p></li><li><a href=https://github.com/motiondivision/motionone>motiondivision/motionone</a></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><p>A nice code font</p></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a><p>🍿 A TMDB client built with Nuxt 3</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li><li><a href=https://github.com/xinntao/Real-ESRGAN>xinntao/Real-ESRGAN</a><p>Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.</p></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><p>Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</p></li><li><a href=https://github.com/ReactiveX/RxSwift>ReactiveX/RxSwift</a><p>Reactive Programming in Swift</p></li><li><a href=https://github.com/koishijs/novelai-bot>koishijs/novelai-bot</a><p>Generate images by NovelAI | 基于 NovelAI 的画图机器人</p></li></ul>
+<ul><li><a href=https://github.com/webyang-male/nuxt3-edu>webyang-male/nuxt3-edu</a><p>Nuxt3+Vue3 actual combat online education SSR website. Nuxt3+Vue3实战在线教育SSR网站</p></li><li><a href=https://github.com/Ice-Cirno/HoshinoBot>Ice-Cirno/HoshinoBot</a><p>A qqbot for Princess Connect Re:Dive (and other usage :)</p></li><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><p>⚡️ WebExtension Vite Starter Template</p></li><li><a href=https://github.com/xinntao/Real-ESRGAN>xinntao/Real-ESRGAN</a><p>Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.</p></li><li><a href=https://github.com/Innei/dotfiles>Innei/dotfiles</a><p>Innei's dotfiles. nvim, zsh, fzf, git, ideavim, ranger</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/24/22, 11:18 AM<br>下一次刷新：10/24/22, 2:18 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/25/22, 6:35 AM<br>下一次刷新：10/25/22, 9:35 AM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
