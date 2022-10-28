@@ -82,7 +82,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><p>The react library to build dashboards fast.</p></li><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li><li><a href=https://github.com/sudongyuer/react-patterns>sudongyuer/react-patterns</a><p>☄️ React相关der设计模式 (翻译)</p></li><li><a href=https://github.com/KichangKim/DeepDanbooru>KichangKim/DeepDanbooru</a><p>AI based multi-label girl image classification system, implemented by using TensorFlow.</p></li><li><a href=https://github.com/wechaty/wechaty>wechaty/wechaty</a><p>Conversational RPA SDK for Chatbot Makers</p></li></ul>
+<ul><li><a href=https://github.com/koishijs/novelai-bot>koishijs/novelai-bot</a><p>Generate images by NovelAI | 基于 NovelAI 的画图机器人</p></li><li><a href=https://github.com/li-jia-nan/my-blog>li-jia-nan/my-blog</a><p>个人技术博客，同步掘金，文章写在 Issues 里</p></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><p>A nice code font</p></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a><p>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</p></li><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><p>⚡️ WebExtension Vite Starter Template</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/28/22, 6:31 AM<br>下一次刷新：10/28/22, 9:31 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/28/22, 10:43 AM<br>下一次刷新：10/28/22, 1:43 PM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
