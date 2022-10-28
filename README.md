@@ -78,11 +78,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a><p>An open source application built using the new router, server components and everything new in Next.js 13.</p></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a><p>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</p></li><li><a href=https://github.com/usememos/memos>usememos/memos</a><p>An open source, self-hosted knowledge base that works with a SQLite db file.</p></li><li><a href=https://github.com/BuilderIO/mitosis>BuilderIO/mitosis</a><p>Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.</p></li><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a><p>加功德</p></li></ul>
+<ul><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a><p>suemor 的博客</p></li><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a><p>An open source application built using the new router, server components and everything new in Next.js 13.</p></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a><p>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</p></li><li><a href=https://github.com/usememos/memos>usememos/memos</a><p>An open source, self-hosted knowledge base that works with a SQLite db file.</p></li><li><a href=https://github.com/BuilderIO/mitosis>BuilderIO/mitosis</a><p>Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/koishijs/novelai-bot>koishijs/novelai-bot</a><p>Generate images by NovelAI | 基于 NovelAI 的画图机器人</p></li><li><a href=https://github.com/li-jia-nan/my-blog>li-jia-nan/my-blog</a><p>个人技术博客，同步掘金，文章写在 Issues 里</p></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><p>A nice code font</p></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a><p>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</p></li><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><p>⚡️ WebExtension Vite Starter Template</p></li></ul>
+<ul><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><p>The react library to build dashboards fast.</p></li><li><a href=https://github.com/Ice-Cirno/HoshinoBot>Ice-Cirno/HoshinoBot</a><p>A qqbot for Princess Connect Re:Dive (and other usage :)</p></li><li><a href=https://github.com/codepunkt/css-spring>codepunkt/css-spring</a><p>Generate physics based css-keyframe animations for the css-in-js solution of your choice or plain css.</p></li><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a><p>加功德</p></li><li><a href=https://github.com/wfjsw/danbooru-diffusion-prompt-builder>wfjsw/danbooru-diffusion-prompt-builder</a><p>Danbooru / NovelAI 标签超市</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/28/22, 10:43 AM<br>下一次刷新：10/28/22, 1:43 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/29/22, 6:31 AM<br>下一次刷新：10/29/22, 9:31 AM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
