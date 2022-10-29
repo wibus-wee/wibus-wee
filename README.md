@@ -82,7 +82,7 @@ recent_posts_inject -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/NginxProxyManager/nginx-proxy-manager>NginxProxyManager/nginx-proxy-manager</a><p>Docker container for managing Nginx proxy hosts with a simple, powerful interface</p></li><li><a href=https://github.com/wfjsw/danbooru-diffusion-prompt-builder>wfjsw/danbooru-diffusion-prompt-builder</a><p>Danbooru / NovelAI 标签超市</p></li><li><a href=https://github.com/minimal-ui-kit/material-kit-react>minimal-ui-kit/material-kit-react</a><p>Minimal Dashboard - build with React Material UI components.</p></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a><p>The react library to build dashboards fast.</p></li><li><a href=https://github.com/cuixiaorui/mini-vue>cuixiaorui/mini-vue</a><p>实现最简 vue3 模型( Help you learn more efficiently vue3 source code )</p></li></ul>
+<ul><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><p>A nice code font</p></li><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><p>⚡️ WebExtension Vite Starter Template</p></li><li><a href=https://github.com/minimal-ui-kit/material-kit-react>minimal-ui-kit/material-kit-react</a><p>Minimal Dashboard - build with React Material UI components.</p></li><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a><p>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/29/22, 10:27 AM<br>下一次刷新：10/29/22, 1:27 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/30/22, 6:29 AM<br>下一次刷新：10/30/22, 9:29 AM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
