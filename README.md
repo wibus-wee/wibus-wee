@@ -78,11 +78,11 @@ recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/yyx990803/vite-vs-next-turbo-hmr>yyx990803/vite-vs-next-turbo-hmr</a><p>Benchmarking Vite vs. Next + turbopack HMR performance</p></li><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a><p>suemor 的博客</p></li><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a><p>An open source application built using the new router, server components and everything new in Next.js 13.</p></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a><p>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</p></li><li><a href=https://github.com/usememos/memos>usememos/memos</a><p>An open source, self-hosted knowledge base that works with a SQLite db file.</p></li></ul>
+<ul><li><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a><p>Sometype Mono / Monospaced font</p></li><li><a href=https://github.com/yyx990803/vite-vs-next-turbo-hmr>yyx990803/vite-vs-next-turbo-hmr</a><p>Benchmarking Vite vs. Next + turbopack HMR performance</p></li><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a><p>suemor 的博客</p></li><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a><p>An open source application built using the new router, server components and everything new in Next.js 13.</p></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a><p>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><p>A nice code font</p></li><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><p>⚡️ WebExtension Vite Starter Template</p></li><li><a href=https://github.com/minimal-ui-kit/material-kit-react>minimal-ui-kit/material-kit-react</a><p>Minimal Dashboard - build with React Material UI components.</p></li><li><a href=https://github.com/vercel/satori>vercel/satori</a><p>Enlightened library to convert HTML and CSS to SVG</p></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a><p>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</p></li></ul>
+<ul><li><a href=https://github.com/sudongyuer/react-patterns>sudongyuer/react-patterns</a><p>☄️ React相关der设计模式 (翻译)</p></li><li><a href=https://github.com/vuejs/theme>vuejs/theme</a><p>VitePress theme for vuejs.org.</p></li><li><a href=https://github.com/Ice-Cirno/HoshinoBot>Ice-Cirno/HoshinoBot</a><p>A qqbot for Princess Connect Re:Dive (and other usage :)</p></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><p>A nice code font</p></li><li><a href=https://github.com/xinntao/Real-ESRGAN>xinntao/Real-ESRGAN</a><p>Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.</p></li></ul>
 
 
 **捉迷藏**
@@ -95,7 +95,7 @@ recent_posts_inject -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/30/22, 6:29 AM<br>下一次刷新：10/30/22, 9:29 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/30/22, 10:48 AM<br>下一次刷新：10/30/22, 1:48 PM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
