@@ -1,6 +1,16 @@
 export const opensource = {
-  active: ['nx-space/core', 'nx-space/nx-admin', 'utmapp/UTM'],
-  gs: ['nx-space/core', 'nx-space/nx-admin', 'nx-space/nx-cli', 'nx-space/nx-A-My'],
+  active: [
+    'mogland/core',
+    'mogland/console',
+    'mogland/mog-docs',
+    'wibus-wee/wc-lantern',
+    'wibus-wee/iucky.cn',
+    'mogland/mog-theme-Single',
+    'mogland/mog-theme-tiny',
+    'wibus-wee/koishi-plugin-novel-ai-api',
+    'wibus-wee/Mix',
+    'utmapp/UTM',
+  ],
 }
 
 export const github = {

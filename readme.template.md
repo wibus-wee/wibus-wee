@@ -1,4 +1,13 @@
-# Wibus 👨‍💻
+<h1> Wibus 👨‍💻 &nbsp;&nbsp; ( &nbsp;
+<a href="mailto:wibus@qq.com" align="center">
+  <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
+</a>&nbsp;
+<a href="https://wpa.qq.com/msgrd?v=3&uin=1596355173&site=qq&menu=yes" align="center">
+  <img alt="My QQ Group, for Chinese visitors" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/qq.svg" />
+</a>&nbsp;
+<a href="https://twitter.com/wibus_wee" align="center">
+  <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
+</a> &nbsp;)</h1>
 
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
@@ -11,9 +20,6 @@ Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. Learning **TypeScri
 <a href="https://blog.iucky.cn" align="center"><img src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
 </p>
-
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
 **Stacks**
 
@@ -32,53 +38,28 @@ Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. Learning **TypeScri
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MySQL"
     src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=Mysql&logoColor=white" />
-</p>
-
-
-**DevOps**
-
-<p>
-  <img alt="github actions"
+      <img alt="github actions"
     src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
-
-**Environment**
-
-<p>
-  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
+      <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
 
-
-**Contant me?**
-
-<a href="mailto:wibus@qq.com" align="center">
-  <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
-</a>&nbsp;
-<a href="https://wpa.qq.com/msgrd?v=3&uin=1596355173&site=qq&menu=yes" align="center">
-  <img alt="My QQ Group, for Chinese visitors" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/qq.svg" />
-</a>&nbsp;
-<a href="https://twitter.com/wibus_wee" align="center">
-  <img alt="Eltrac on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
-</a>
-
-
-**喜欢在...**
+**我的开源项目**
 
 <!-- opensource_dashboard:active -->
 
-**目前在...**
 
-<!-- opensource_dashboard:gs -->
+<!-- **目前在...**
 
-<!-- **最近写了...**
+opensource_dashboard:gs -->
 
-recent_posts_inject -->
+
 
 **最近赞了...**
 
 <!-- recent_star_inject -->
+
 
 **曾经看了...**
 
@@ -96,6 +77,8 @@ recent_posts_inject -->
 ------------
 
 <!-- footer_inject -->
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
