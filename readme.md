@@ -1,13 +1,4 @@
-<h1> Wibus 👨‍💻 &nbsp;&nbsp; ( &nbsp;
-<a href="mailto:wibus@qq.com" align="center">
-  <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
-</a>&nbsp;
-<a href="https://wpa.qq.com/msgrd?v=3&uin=1596355173&site=qq&menu=yes" align="center">
-  <img alt="My QQ Group, for Chinese visitors" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/qq.svg" />
-</a>&nbsp;
-<a href="https://twitter.com/wibus_wee" align="center">
-  <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
-</a> &nbsp;)</h1>
+# Wibus 👨‍💻
 
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
@@ -20,6 +11,9 @@ Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. Learning **TypeScri
 <a href="https://blog.iucky.cn" align="center"><img src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
 </p>
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
 **Stacks**
 
@@ -38,35 +32,57 @@ Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. Learning **TypeScri
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MySQL"
     src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=Mysql&logoColor=white" />
-      <img alt="github actions"
+</p>
+
+
+**DevOps**
+
+<p>
+  <img alt="github actions"
     src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
+</p>
+
+**Environment**
+
+<p>
+  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
 
-**我的开源项目**
 
-|项目| 评分 |
-|:---:|:---:|
-| <table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td></tr></thead><tbody><tr><td><a href=https://github.com/mogland/core><b>mogland/core</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/core?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/core?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/core/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/core?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/core/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/core?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mogland/console><b>mogland/console</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/console?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/console?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/console/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/console?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/console/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/console?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mogland/mog-docs><b>mogland/mog-docs</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/mog-docs?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/mog-docs?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/mog-docs/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/mog-docs?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/mog-docs/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/mog-docs?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/wibus-wee/wc-lantern><b>wibus-wee/wc-lantern</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee/wc-lantern?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee/wc-lantern?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee/wc-lantern/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee/wc-lantern?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee/wc-lantern/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee/wc-lantern?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/wibus-wee/iucky.cn><b>wibus-wee/iucky.cn</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee/iucky.cn?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee/iucky.cn?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee/iucky.cn/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee/iucky.cn?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee/iucky.cn/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee/iucky.cn?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mogland/mog-theme-Single><b>mogland/mog-theme-Single</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/mog-theme-Single?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/mog-theme-Single?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/mog-theme-Single/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/mog-theme-Single?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/mog-theme-Single/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/mog-theme-Single?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mogland/mog-theme-tiny><b>mogland/mog-theme-tiny</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/mog-theme-tiny?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/mog-theme-tiny?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/mog-theme-tiny/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/mog-theme-tiny?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/mog-theme-tiny/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/mog-theme-tiny?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api><b>wibus-wee/koishi-plugin-novel-ai-api</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee/koishi-plugin-novel-ai-api?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee/koishi-plugin-novel-ai-api?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee/koishi-plugin-novel-ai-api?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee/koishi-plugin-novel-ai-api?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/wibus-wee/Mix><b>wibus-wee/Mix</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/wibus-wee/Mix?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/wibus-wee/Mix?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/wibus-wee/Mix/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/wibus-wee/Mix?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/wibus-wee/Mix/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/wibus-wee/Mix?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/utmapp/UTM><b>utmapp/UTM</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/utmapp/UTM?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/utmapp/UTM?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/utmapp/UTM/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/utmapp/UTM?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/utmapp/UTM/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/utmapp/UTM?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table> | ![](https://github-readme-stats.vercel.app/api?username=wibus-wee&count_private=true) |
+**Contant me?**
+
+<a href="mailto:wibus@qq.com" align="center">
+  <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
+</a>&nbsp;
+<a href="https://wpa.qq.com/msgrd?v=3&uin=1596355173&site=qq&menu=yes" align="center">
+  <img alt="My QQ Group, for Chinese visitors" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/qq.svg" />
+</a>&nbsp;
+<a href="https://twitter.com/wibus_wee" align="center">
+  <img alt="Eltrac on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
+</a>
 
 
+**喜欢在...**
 
-<!-- **目前在...**
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td></tr></thead><tbody><tr><td><a href=https://github.com/mogland/core><b>mogland/core</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/core?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/core?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/core/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/core?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/core/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/core?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mogland/console><b>mogland/console</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/console?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/console?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/console/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/console?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/console/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/console?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/utmapp/UTM><b>utmapp/UTM</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/utmapp/UTM?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/utmapp/UTM?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/utmapp/UTM/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/utmapp/UTM?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/utmapp/UTM/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/utmapp/UTM?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
 
-opensource_dashboard:gs -->
+**目前在...**
 
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td></tr></thead><tbody><tr><td><a href=https://github.com/mogland/core><b>mogland/core</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/core?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/core?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/core/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/core?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/core/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/core?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mogland/console><b>mogland/console</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/console?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/console?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/console/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/console?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/console/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/console?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mogland/mog-cli><b>mogland/mog-cli</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/mog-cli?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/mog-cli?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/mog-cli/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/mog-cli?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/mog-cli/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/mog-cli?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/mogland/mog-A-My><b>mogland/mog-A-My</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/mogland/mog-A-My?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/mogland/mog-A-My?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/mogland/mog-A-My/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/mogland/mog-A-My?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/mogland/mog-A-My/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/mogland/mog-A-My?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
 
+<!-- **最近写了...**
+
+recent_posts_inject -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui>AUTOMATIC1111/stable-diffusion-webui</a> -- <span>Stable Diffusion web UI</span></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a> -- <span>The message, Dialog, and Notice components are written in Pure TypeScript.</span></li><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li><li><a href=https://github.com/sql-js/sql.js>sql-js/sql.js</a> -- <span>A javascript library to run SQLite on the web.</span></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a> -- <span>Your self-hosted, globally interconnected microblogging community</span></li></ul>
-
+<ul><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>The message, Dialog, and Notice components are written in Pure TypeScript.</p></li><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a><p>The next generation component library based on web components.</p></li><li><a href=https://github.com/sql-js/sql.js>sql-js/sql.js</a><p>A javascript library to run SQLite on the web.</p></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a><p>Your self-hosted, globally interconnected microblogging community</p></li><li><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a><p>Sometype Mono / Monospaced font</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vuejs/theme>vuejs/theme</a> -- <span>VitePress theme for vuejs.org.</span></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a> -- <span>🍿 A TMDB client built with Nuxt 3</span></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a> -- <span>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</span></li><li><a href=https://github.com/koishijs/novelai-bot>koishijs/novelai-bot</a> -- <span>Generate images by NovelAI | 基于 NovelAI 的画图机器人</span></li><li><a href=https://github.com/xinntao/Real-ESRGAN>xinntao/Real-ESRGAN</a> -- <span>Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.</span></li></ul>
+<ul><li><a href=https://github.com/webpro/knip>webpro/knip</a><p>Find unused files, dependencies and exports in your JS/TS project</p></li><li><a href=https://github.com/motiondivision/motionone>motiondivision/motionone</a></li><li><a href=https://github.com/antfu/vitesse-webext>antfu/vitesse-webext</a><p>⚡️ WebExtension Vite Starter Template</p></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a><p>A nice code font</p></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a><p>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</p></li></ul>
 
 
 **捉迷藏**
@@ -79,9 +95,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2022/10/31 12:54<br>下一次刷新：2022/10/31 15:54</p>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/31/22, 10:46 AM<br>下一次刷新：10/31/22, 1:46 PM</p>
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
