@@ -58,12 +58,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui>AUTOMATIC1111/stable-diffusion-webui</a> -- <span>Stable Diffusion web UI</span></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a> -- <span>The message, Dialog, and Notice components are written in Pure TypeScript.</span></li><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li><li><a href=https://github.com/sql-js/sql.js>sql-js/sql.js</a> -- <span>A javascript library to run SQLite on the web.</span></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a> -- <span>Your self-hosted, globally interconnected microblogging community</span></li></ul>
+<ul><li><a href=https://github.com/egoist/dropcode>egoist/dropcode</a> -- <span>A simple and lightweight code snippet manager.</span></li><li><a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui>AUTOMATIC1111/stable-diffusion-webui</a> -- <span>Stable Diffusion web UI</span></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a> -- <span>The message, Dialog, and Notice components are written in Pure TypeScript.</span></li><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li><li><a href=https://github.com/sql-js/sql.js>sql-js/sql.js</a> -- <span>A javascript library to run SQLite on the web.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/webpro/knip>webpro/knip</a> -- <span>Find unused files, dependencies and exports in your JS/TS project</span></li><li><a href=https://github.com/usememos/memos>usememos/memos</a> -- <span>An open-source, self-hosted memo hub for knowledge management and collaboration.</span></li><li><a href=https://github.com/NginxProxyManager/nginx-proxy-manager>NginxProxyManager/nginx-proxy-manager</a> -- <span>Docker container for managing Nginx proxy hosts with a simple, powerful interface</span></li><li><a href=https://github.com/vercel/satori>vercel/satori</a> -- <span>Enlightened library to convert HTML and CSS to SVG</span></li><li><a href=https://github.com/yyx990803/vite-vs-next-turbo-hmr>yyx990803/vite-vs-next-turbo-hmr</a> -- <span>Benchmarking Vite vs. Next + turbopack HMR performance</span></li></ul>
+<ul><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a> -- <span>加功德</span></li><li><a href=https://github.com/vercel/satori>vercel/satori</a> -- <span>Enlightened library to convert HTML and CSS to SVG</span></li><li><a href=https://github.com/li-jia-nan/my-blog>li-jia-nan/my-blog</a> -- <span>个人技术博客，同步掘金，文章写在 Issues 里</span></li><li><a href=https://github.com/BuilderIO/mitosis>BuilderIO/mitosis</a> -- <span>Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.</span></li><li><a href=https://github.com/xinntao/Real-ESRGAN>xinntao/Real-ESRGAN</a> -- <span>Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.</span></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +76,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/31/22, 8:53 PM<br>下一次刷新：10/31/22, 11:53 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/31/22, 11:26 PM<br>下一次刷新：11/1/22, 2:26 AM</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
