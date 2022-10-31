@@ -63,7 +63,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a> -- <span>Sometype Mono / Monospaced font</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a> -- <span>A nice code font</span></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a> -- <span>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</span></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a> -- <span>The react library to build dashboards fast.</span></li><li><a href=https://github.com/vuejs/theme>vuejs/theme</a> -- <span>VitePress theme for vuejs.org.</span></li></ul>
+<ul><li><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a> -- <span>Sometype Mono / Monospaced font</span></li><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a> -- <span>suemor 的博客</span></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a> -- <span>🍿 A TMDB client built with Nuxt 3</span></li><li><a href=https://github.com/tremorlabs/tremor>tremorlabs/tremor</a> -- <span>The react library to build dashboards fast.</span></li><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a> -- <span>加功德</span></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +76,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/1/22, 2:32 AM<br>下一次刷新：11/1/22, 5:32 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/1/22, 5:22 AM<br>下一次刷新：11/1/22, 8:22 AM</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
