@@ -63,7 +63,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a> -- <span>suemor 的博客</span></li><li><a href=https://github.com/webpro/knip>webpro/knip</a> -- <span>Find unused files, dependencies and exports in your JS/TS project</span></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a> -- <span>🍿 A TMDB client built with Nuxt 3</span></li><li><a href=https://github.com/li-jia-nan/my-blog>li-jia-nan/my-blog</a> -- <span>个人技术博客，同步掘金，文章写在 Issues 里</span></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a> -- <span>Your self-hosted, globally interconnected microblogging community</span></li></ul>
+<ul><li><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a> -- <span>Sometype Mono / Monospaced font</span></li><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a> -- <span>An open source application built using the new router, server components and everything new in Next.js 13.</span></li><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a> -- <span>suemor 的博客</span></li><li><a href=https://github.com/vercel/satori>vercel/satori</a> -- <span>Enlightened library to convert HTML and CSS to SVG</span></li><li><a href=https://github.com/webpro/knip>webpro/knip</a> -- <span>Find unused files, dependencies and exports in your JS/TS project</span></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +76,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/1/22, 12:41 PM<br>下一次刷新：11/1/22, 3:41 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/1/22, 2:35 PM<br>下一次刷新：11/1/22, 5:35 PM</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
