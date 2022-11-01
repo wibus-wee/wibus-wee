@@ -63,7 +63,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wechaty/wechaty>wechaty/wechaty</a> -- <span>Conversational RPA SDK for Chatbot Makers</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a> -- <span>A nice code font</span></li><li><a href=https://github.com/motiondivision/motionone>motiondivision/motionone</a></li><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a> -- <span>suemor 的博客</span></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a> -- <span>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</span></li></ul>
+<ul><li><a href=https://github.com/wfjsw/danbooru-diffusion-prompt-builder>wfjsw/danbooru-diffusion-prompt-builder</a> -- <span>Danbooru / NovelAI 标签超市</span></li><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a> -- <span>加功德</span></li><li><a href=https://github.com/usememos/memos>usememos/memos</a> -- <span>An open-source, self-hosted memo hub for knowledge management and collaboration.</span></li><li><a href=https://github.com/li-jia-nan/my-blog>li-jia-nan/my-blog</a> -- <span>个人技术博客，同步掘金，文章写在 Issues 里</span></li><li><a href=https://github.com/vuejs/theme>vuejs/theme</a> -- <span>VitePress theme for vuejs.org.</span></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +76,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/1/22, 11:27 PM<br>下一次刷新：11/2/22, 2:27 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/2/22, 2:32 AM<br>下一次刷新：11/2/22, 5:32 AM</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
