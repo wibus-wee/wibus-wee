@@ -63,7 +63,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui>AUTOMATIC1111/stable-diffusion-webui</a> -- <span>Stable Diffusion web UI</span></li><li><a href=https://github.com/li-jia-nan/my-blog>li-jia-nan/my-blog</a> -- <span>个人技术博客，同步掘金，文章写在 Issues 里</span></li><li><a href=https://github.com/usememos/memos>usememos/memos</a> -- <span>An open-source, self-hosted memo hub for knowledge management and collaboration.</span></li><li><a href=https://github.com/vuejs/theme>vuejs/theme</a> -- <span>VitePress theme for vuejs.org.</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a> -- <span>A nice code font</span></li></ul>
+<ul><li><a href=https://github.com/egoist/dropcode>egoist/dropcode</a> -- <span>A simple and lightweight code snippet manager.</span></li><li><a href=https://github.com/sql-js/sql.js>sql-js/sql.js</a> -- <span>A javascript library to run SQLite on the web.</span></li><li><a href=https://github.com/blakesanie/React-Bubble-UI>blakesanie/React-Bubble-UI</a> -- <span>A highly configurable Bubble UI React.js component, similar to the iconic Apple Watch app layout.</span></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a> -- <span>🍿 A TMDB client built with Nuxt 3</span></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a> -- <span>Your self-hosted, globally interconnected microblogging community</span></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +76,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/2/22, 11:27 PM<br>下一次刷新：11/3/22, 2:27 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/22, 2:30 AM<br>下一次刷新：11/3/22, 5:30 AM</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
