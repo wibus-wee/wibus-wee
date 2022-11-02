@@ -63,7 +63,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/BuilderIO/mitosis>BuilderIO/mitosis</a> -- <span>Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.</span></li><li><a href=https://github.com/webpro/knip>webpro/knip</a> -- <span>Find unused files, dependencies and exports in your JS/TS project</span></li><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a> -- <span>suemor 的博客</span></li><li><a href=https://github.com/usememos/memos>usememos/memos</a> -- <span>An open-source, self-hosted memo hub for knowledge management and collaboration.</span></li><li><a href=https://github.com/egoist/dropcode>egoist/dropcode</a> -- <span>A simple and lightweight code snippet manager.</span></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a> -- <span>The message, Dialog, and Notice components are written in Pure TypeScript.</span></li><li><a href=https://github.com/artginzburg/sudo-touchid>artginzburg/sudo-touchid</a> -- <span> Permanent TouchID support 👆 for `sudo`.</span></li><li><a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui>AUTOMATIC1111/stable-diffusion-webui</a> -- <span>Stable Diffusion web UI</span></li><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a> -- <span>An open source application built using the new router, server components and everything new in Next.js 13.</span></li><li><a href=https://github.com/motiondivision/motionone>motiondivision/motionone</a></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +76,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/2/22, 5:24 PM<br>下一次刷新：11/2/22, 8:24 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/2/22, 8:54 PM<br>下一次刷新：11/2/22, 11:54 PM</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
