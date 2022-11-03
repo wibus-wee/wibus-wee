@@ -58,12 +58,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/hellof2e/quark-design>hellof2e/quark-design</a> -- <span>Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)</span></li><li><a href=https://github.com/zhaoyao91/react-view-cache>zhaoyao91/react-view-cache</a> -- <span>cache react views.</span></li><li><a href=https://github.com/hustcc/timeago.js>hustcc/timeago.js</a> -- <span>:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.</span></li><li><a href=https://github.com/vasanthk/how-web-works>vasanthk/how-web-works</a> -- <span>What happens behind the scenes when we type www.google.com in a browser?</span></li><li><a href=https://github.com/remusao/tldts>remusao/tldts</a> -- <span>JavaScript Library to work against complex domain names, subdomains and URIs.</span></li></ul>
+<ul><li><a href=https://github.com/LeetCode-OpenSource/rxjs-hooks>LeetCode-OpenSource/rxjs-hooks</a> -- <span>React hooks for RxJS</span></li><li><a href=https://github.com/stevegrunwell/asimov>stevegrunwell/asimov</a> -- <span>Automatically exclude development dependencies from Apple Time Machine backups</span></li><li><a href=https://github.com/fleksin/ikun>fleksin/ikun</a></li><li><a href=https://github.com/hellof2e/quark-design>hellof2e/quark-design</a> -- <span>Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)</span></li><li><a href=https://github.com/zhaoyao91/react-view-cache>zhaoyao91/react-view-cache</a> -- <span>cache react views.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sql-js/sql.js>sql-js/sql.js</a> -- <span>A javascript library to run SQLite on the web.</span></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a> -- <span>🍿 A TMDB client built with Nuxt 3</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a> -- <span>A nice code font</span></li><li><a href=https://github.com/motiondivision/motionone>motiondivision/motionone</a></li><li><a href=https://github.com/usememos/memos>usememos/memos</a> -- <span>An open-source, self-hosted memo hub for knowledge management and collaboration.</span></li></ul>
+<ul><li><a href=https://github.com/artginzburg/sudo-touchid>artginzburg/sudo-touchid</a> -- <span> Permanent TouchID support 👆 for `sudo`.</span></li><li><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a> -- <span>Sometype Mono / Monospaced font</span></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a> -- <span>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</span></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a> -- <span>Your self-hosted, globally interconnected microblogging community</span></li><li><a href=https://github.com/remusao/tldts>remusao/tldts</a> -- <span>JavaScript Library to work against complex domain names, subdomains and URIs.</span></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +76,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/22, 11:57 AM<br>下一次刷新：11/3/22, 2:57 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/22, 2:30 PM<br>下一次刷新：11/3/22, 5:30 PM</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
