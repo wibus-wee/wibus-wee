@@ -63,7 +63,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/li-jia-nan/my-blog>li-jia-nan/my-blog</a> -- <span>个人技术博客，同步掘金，文章写在 Issues 里</span></li><li><a href=https://github.com/motiondivision/motionone>motiondivision/motionone</a></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a> -- <span>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a> -- <span>A nice code font</span></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a> -- <span>The message, Dialog, and Notice components are written in Pure TypeScript.</span></li></ul>
+<ul><li><a href=https://github.com/li-jia-nan/my-blog>li-jia-nan/my-blog</a> -- <span>个人技术博客，同步掘金，文章写在 Issues 里</span></li><li><a href=https://github.com/tw93/Pake>tw93/Pake</a> -- <span>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a> -- <span>A nice code font</span></li><li><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a> -- <span>The HTML Presentation Framework</span></li><li><a href=https://github.com/artginzburg/sudo-touchid>artginzburg/sudo-touchid</a> -- <span> Permanent TouchID support 👆 for `sudo`.</span></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +76,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/22, 5:23 AM<br>下一次刷新：11/3/22, 8:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/22, 10:06 AM<br>下一次刷新：11/3/22, 1:06 PM</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
