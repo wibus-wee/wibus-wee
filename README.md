@@ -63,7 +63,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vercel/turbo>vercel/turbo</a> -- <span>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</span></li><li><a href=https://github.com/nuxt/movies>nuxt/movies</a> -- <span>🍿 A TMDB client built with Nuxt 3</span></li><li><a href=https://github.com/remusao/tldts>remusao/tldts</a> -- <span>JavaScript Library to work against complex domain names, subdomains and URIs.</span></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a> -- <span>Your self-hosted, globally interconnected microblogging community</span></li><li><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a> -- <span>The HTML Presentation Framework</span></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li><li><a href=https://github.com/remusao/tldts>remusao/tldts</a> -- <span>JavaScript Library to work against complex domain names, subdomains and URIs.</span></li><li><a href=https://github.com/sql-js/sql.js>sql-js/sql.js</a> -- <span>A javascript library to run SQLite on the web.</span></li><li><a href=https://github.com/artginzburg/sudo-touchid>artginzburg/sudo-touchid</a> -- <span> Permanent TouchID support 👆 for `sudo`.</span></li><li><a href=https://github.com/vasanthk/how-web-works>vasanthk/how-web-works</a> -- <span>What happens behind the scenes when we type www.google.com in a browser?</span></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +76,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/22, 8:49 PM<br>下一次刷新：11/3/22, 11:49 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/22, 11:31 PM<br>下一次刷新：11/4/22, 2:31 AM</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
