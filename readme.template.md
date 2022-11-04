@@ -11,9 +11,12 @@
 
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
-Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. Learning **TypeScript**, coding my personal blog space *<u>"Mog"</u>*. Want to become a FSD (Full Stacks Developer).
+Hi! I'm wibus! I am ... &nbsp;&nbsp;&nbsp; | [Home Page](https://iucky.cn) | [Blog (CN)](https://blog.iucky.cn) | [Twitter](https://twitter.com/@wibus_wee) |
 
-[Learn more in my personal page](https://iucky.cn)
+- A **Personal Piano Player & Singer～**.
+- Learning **TypeScript**.
+- [@mogland (Mog)](https://github.com/mogland/core) Founder & core team member
+- Want to become a FSD (Full Stacks Developer).
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
