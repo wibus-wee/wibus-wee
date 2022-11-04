@@ -78,8 +78,29 @@ opensource_dashboard:gs -->
 
 <!-- footer_inject -->
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
+<a href="https://github.com/renbaoshuo#gh-light-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
+</a>
+
+<a href="https://github.com/renbaoshuo#gh-dark-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github_dark" width="100%">
+</a>
+
+
+<a href="https://github.com/renbaoshuo#gh-light-mode-only">
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wibus-wee&theme=vue" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wibus-wee&theme=vue" width="800"> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wibus-wee&theme=github" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wibus-wee&theme=github" width="800"> |
+  
+</a>
+
+
+<a href="https://github.com/renbaoshuo#gh-dark-mode-only">
+  
+| Top Language by Repo                                         | My Stats                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wibus-wee&theme=github_dark" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wibus-wee&theme=github_dark" width="800"> |
+  
+  
+</a>
