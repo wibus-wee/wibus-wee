@@ -11,9 +11,12 @@
 
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
-Hi! I'm wibus! I am a **Personal Piano Player & Singer～**. Learning **TypeScript**, coding my personal blog space *<u>"Mog"</u>*. Want to become a FSD (Full Stacks Developer).
+Hi! I'm wibus! I am ... &nbsp;&nbsp;&nbsp; | [Home Page](https://iucky.cn) | [Blog (CN)](https://blog.iucky.cn) | [Twitter](https://twitter.com/@wibus_wee) |
 
-[Learn more in my personal page](https://iucky.cn)
+- A **Personal Piano Player & Singer～**.
+- Learning **TypeScript**.
+- [@mogland (Mog)](https://github.com/mogland/core) Founder & core team member
+- Want to become a FSD (Full Stacks Developer).
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
@@ -63,7 +66,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a> -- <span>Sometype Mono / Monospaced font</span></li><li><a href=https://github.com/vuejs/theme>vuejs/theme</a> -- <span>VitePress theme for vuejs.org.</span></li><li><a href=https://github.com/hustcc/timeago.js>hustcc/timeago.js</a> -- <span>:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.</span></li><li><a href=https://github.com/hellof2e/quark-design>hellof2e/quark-design</a> -- <span>Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)</span></li><li><a href=https://github.com/yyx990803/vite-vs-next-turbo-hmr>yyx990803/vite-vs-next-turbo-hmr</a> -- <span>Benchmarking Vite vs. Next + turbopack HMR performance</span></li></ul>
+<ul><li><a href=https://github.com/blakesanie/React-Bubble-UI>blakesanie/React-Bubble-UI</a> -- <span>A highly configurable Bubble UI React.js component, similar to the iconic Apple Watch app layout.</span></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a> -- <span>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</span></li><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li><li><a href=https://github.com/hustcc/timeago.js>hustcc/timeago.js</a> -- <span>:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.</span></li><li><a href=https://github.com/usememos/memos>usememos/memos</a> -- <span>An open-source, self-hosted memo hub for knowledge management and collaboration.</span></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +79,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/4/22, 11:27 PM<br>下一次刷新：11/5/22, 2:27 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/4/22, 11:31 PM<br>下一次刷新：11/5/22, 2:31 AM</p>
 
 <a href="https://github.com/renbaoshuo#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
