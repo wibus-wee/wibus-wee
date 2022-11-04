@@ -58,12 +58,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a> -- <span>🍐 The modern jQuery alternative</span></li><li><a href=https://github.com/LeetCode-OpenSource/rxjs-hooks>LeetCode-OpenSource/rxjs-hooks</a> -- <span>React hooks for RxJS</span></li><li><a href=https://github.com/stevegrunwell/asimov>stevegrunwell/asimov</a> -- <span>Automatically exclude development dependencies from Apple Time Machine backups</span></li><li><a href=https://github.com/fleksin/ikun>fleksin/ikun</a></li><li><a href=https://github.com/hellof2e/quark-design>hellof2e/quark-design</a> -- <span>Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)</span></li></ul>
+<ul><li><a href=https://github.com/fkhadra/react-toastify>fkhadra/react-toastify</a> -- <span>React notification made easy 🚀 !</span></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a> -- <span>🍐 The modern jQuery alternative</span></li><li><a href=https://github.com/LeetCode-OpenSource/rxjs-hooks>LeetCode-OpenSource/rxjs-hooks</a> -- <span>React hooks for RxJS</span></li><li><a href=https://github.com/stevegrunwell/asimov>stevegrunwell/asimov</a> -- <span>Automatically exclude development dependencies from Apple Time Machine backups</span></li><li><a href=https://github.com/fleksin/ikun>fleksin/ikun</a></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/blakesanie/React-Bubble-UI>blakesanie/React-Bubble-UI</a> -- <span>A highly configurable Bubble UI React.js component, similar to the iconic Apple Watch app layout.</span></li><li><a href=https://github.com/keyding/Operator-Mono>keyding/Operator-Mono</a> -- <span>A nice code font</span></li><li><a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui>AUTOMATIC1111/stable-diffusion-webui</a> -- <span>Stable Diffusion web UI</span></li><li><a href=https://github.com/artginzburg/sudo-touchid>artginzburg/sudo-touchid</a> -- <span> Permanent TouchID support 👆 for `sudo`.</span></li><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a> -- <span>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</span></li><li><a href=https://github.com/sql-js/sql.js>sql-js/sql.js</a> -- <span>A javascript library to run SQLite on the web.</span></li><li><a href=https://github.com/BuilderIO/mitosis>BuilderIO/mitosis</a> -- <span>Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.</span></li><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a> -- <span>suemor 的博客</span></li></ul>
 
 
 **捉迷藏**
@@ -76,7 +76,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/4/22, 2:31 PM<br>下一次刷新：11/4/22, 5:31 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/4/22, 5:21 PM<br>下一次刷新：11/4/22, 8:21 PM</p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=vue" width="100%">
 
