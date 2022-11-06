@@ -13,10 +13,10 @@
 
 Hi! I'm wibus! I am ... &nbsp;&nbsp;&nbsp; | [Home Page](https://iucky.cn) | [Blog (CN)](https://blog.iucky.cn) | [Twitter](https://twitter.com/@wibus_wee) |
 
-- A **Personal Piano Player & Singer～**.
-- Learning **TypeScript**.
-- [@mogland (Mog)](https://github.com/mogland/core) Founder & core team member
-- Want to become a FSD (Full Stacks Developer).
+- **🎹 个人钢琴演奏者 / 🎤 个人歌手和制作人**.
+- 正在学习 **TypeScript**. 很废物
+- [@mogland (Mog)](https://github.com/mogland/core) 核心开发者
+- 希望成为 FSD ( Full Stacks Developer ｜ 全栈开发者).
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
@@ -66,7 +66,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a> -- <span>suemor 的博客</span></li><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a> -- <span>An open source application built using the new router, server components and everything new in Next.js 13.</span></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a> -- <span>Your self-hosted, globally interconnected microblogging community</span></li><li><a href=https://github.com/LeetCode-OpenSource/rxjs-hooks>LeetCode-OpenSource/rxjs-hooks</a> -- <span>React hooks for RxJS</span></li></ul>
+<ul><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a> -- <span>An open source application built using the new router, server components and everything new in Next.js 13.</span></li><li><a href=https://github.com/hustcc/timeago.js>hustcc/timeago.js</a> -- <span>:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.</span></li><li><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a> -- <span>Sometype Mono / Monospaced font</span></li><li><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a> -- <span>The HTML Presentation Framework</span></li><li><a href=https://github.com/egoist/dropcode>egoist/dropcode</a> -- <span>A simple and lightweight code snippet manager.</span></li></ul>
 
 
 **捉迷藏**
@@ -79,7 +79,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/6/22, 11:24 PM<br>下一次刷新：11/7/22, 2:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/7/22, 12:02 AM<br>下一次刷新：11/7/22, 3:02 AM</p>
 
 <a href="https://github.com/renbaoshuo#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
