@@ -61,12 +61,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/AykutSarac/github-rater>AykutSarac/github-rater</a> -- <span>📊 Check your GitHub rating, view results and enhance your profile quality.</span></li><li><a href=https://github.com/FloatTech/AnimeAPI>FloatTech/AnimeAPI</a> -- <span>二次元相关API</span></li><li><a href=https://github.com/fkhadra/react-toastify>fkhadra/react-toastify</a> -- <span>React notification made easy 🚀 !</span></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a> -- <span>🍐 The modern jQuery alternative</span></li><li><a href=https://github.com/LeetCode-OpenSource/rxjs-hooks>LeetCode-OpenSource/rxjs-hooks</a> -- <span>React hooks for RxJS</span></li></ul>
+<ul><li><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a> -- <span>An elegant theme for VS Code</span></li><li><a href=https://github.com/AykutSarac/github-rater>AykutSarac/github-rater</a> -- <span>📊 Check your GitHub rating, view results and enhance your profile quality.</span></li><li><a href=https://github.com/FloatTech/AnimeAPI>FloatTech/AnimeAPI</a> -- <span>二次元相关API</span></li><li><a href=https://github.com/fkhadra/react-toastify>fkhadra/react-toastify</a> -- <span>React notification made easy 🚀 !</span></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a> -- <span>🍐 The modern jQuery alternative</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui>AUTOMATIC1111/stable-diffusion-webui</a> -- <span>Stable Diffusion web UI</span></li><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li><li><a href=https://github.com/vercel/turbo>vercel/turbo</a> -- <span>Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.</span></li><li><a href=https://github.com/zhaoyao91/react-view-cache>zhaoyao91/react-view-cache</a> -- <span>cache react views.</span></li><li><a href=https://github.com/remusao/tldts>remusao/tldts</a> -- <span>JavaScript Library to work against complex domain names, subdomains and URIs.</span></li></ul>
+<ul><li><a href=https://github.com/artginzburg/sudo-touchid>artginzburg/sudo-touchid</a> -- <span> Permanent TouchID support 👆 for `sudo`.</span></li><li><a href=https://github.com/MiaoMint/gongde>MiaoMint/gongde</a> -- <span>加功德</span></li><li><a href=https://github.com/egoist/dropcode>egoist/dropcode</a> -- <span>A simple and lightweight code snippet manager.</span></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a> -- <span>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</span></li><li><a href=https://github.com/vasanthk/how-web-works>vasanthk/how-web-works</a> -- <span>What happens behind the scenes when we type www.google.com in a browser?</span></li></ul>
 
 
 **捉迷藏**
@@ -79,7 +79,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/6/22, 11:50 AM<br>下一次刷新：11/6/22, 2:50 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/6/22, 2:27 PM<br>下一次刷新：11/6/22, 5:27 PM</p>
 
 <a href="https://github.com/renbaoshuo#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
