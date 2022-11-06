@@ -13,10 +13,10 @@
 
 Hi! I'm wibus! I am ... &nbsp;&nbsp;&nbsp; | [Home Page](https://iucky.cn) | [Blog (CN)](https://blog.iucky.cn) | [Twitter](https://twitter.com/@wibus_wee) |
 
-- A **Personal Piano Player & Singer～**.
-- Learning **TypeScript**.
-- [@mogland (Mog)](https://github.com/mogland/core) Founder & core team member
-- Want to become a FSD (Full Stacks Developer).
+- **🎹 个人钢琴演奏者 / 🎤 个人歌手和制作人**.
+- 正在学习 **TypeScript**. 很废物
+- [@mogland (Mog)](https://github.com/mogland/core) 核心开发者
+- 希望成为 FSD ( Full Stacks Developer ｜ 全栈开发者).
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
