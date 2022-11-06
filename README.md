@@ -66,7 +66,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a> -- <span>An open source application built using the new router, server components and everything new in Next.js 13.</span></li><li><a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui>AUTOMATIC1111/stable-diffusion-webui</a> -- <span>Stable Diffusion web UI</span></li><li><a href=https://github.com/vasanthk/how-web-works>vasanthk/how-web-works</a> -- <span>What happens behind the scenes when we type www.google.com in a browser?</span></li><li><a href=https://github.com/usememos/memos>usememos/memos</a> -- <span>An open-source, self-hosted memo hub for knowledge management and collaboration.</span></li><li><a href=https://github.com/artginzburg/sudo-touchid>artginzburg/sudo-touchid</a> -- <span> Permanent TouchID support 👆 for `sudo`.</span></li></ul>
+<ul><li><a href=https://github.com/dharmatype/Sometype-Mono>dharmatype/Sometype-Mono</a> -- <span>Sometype Mono / Monospaced font</span></li><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a> -- <span>An open source application built using the new router, server components and everything new in Next.js 13.</span></li><li><a href=https://github.com/motiondivision/motionone>motiondivision/motionone</a></li><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a> -- <span>suemor 的博客</span></li><li><a href=https://github.com/artginzburg/sudo-touchid>artginzburg/sudo-touchid</a> -- <span> Permanent TouchID support 👆 for `sudo`.</span></li></ul>
 
 
 **捉迷藏**
@@ -79,7 +79,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/6/22, 5:19 AM<br>下一次刷新：11/6/22, 8:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/6/22, 10:08 AM<br>下一次刷新：11/6/22, 1:08 PM</p>
 
 <a href="https://github.com/renbaoshuo#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
