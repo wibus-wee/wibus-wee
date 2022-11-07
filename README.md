@@ -61,12 +61,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/jsun969/rubbish-yingxiaohao>jsun969/rubbish-yingxiaohao</a> -- <span>打击营销号插件，营销号名单大全</span></li><li><a href=https://github.com/rpearce/react-medium-image-zoom>rpearce/react-medium-image-zoom</a> -- <span>🔎 🏞 The original medium.com-inspired image zooming library for React</span></li><li><a href=https://github.com/elrumo/macOS_Big_Sur_icons_replacements>elrumo/macOS_Big_Sur_icons_replacements</a> -- <span>Replacement icons for popular apps in the style of macOS Big Sur</span></li><li><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a> -- <span>An elegant theme for VS Code</span></li><li><a href=https://github.com/AykutSarac/github-rater>AykutSarac/github-rater</a> -- <span>📊 Check your GitHub rating, view results and enhance your profile quality.</span></li></ul>
+<ul><li><a href=https://github.com/jsun969/rubbish-liyupi>jsun969/rubbish-liyupi</a> -- <span>打击营销号插件，营销号名单大全</span></li><li><a href=https://github.com/rpearce/react-medium-image-zoom>rpearce/react-medium-image-zoom</a> -- <span>🔎 🏞 The original medium.com-inspired image zooming library for React</span></li><li><a href=https://github.com/elrumo/macOS_Big_Sur_icons_replacements>elrumo/macOS_Big_Sur_icons_replacements</a> -- <span>Replacement icons for popular apps in the style of macOS Big Sur</span></li><li><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a> -- <span>An elegant theme for VS Code</span></li><li><a href=https://github.com/AykutSarac/github-rater>AykutSarac/github-rater</a> -- <span>📊 Check your GitHub rating, view results and enhance your profile quality.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/suemor233/suemor-blog>suemor233/suemor-blog</a> -- <span>suemor 的博客</span></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a> -- <span>🍐 The modern jQuery alternative</span></li><li><a href=https://github.com/LeetCode-OpenSource/rxjs-hooks>LeetCode-OpenSource/rxjs-hooks</a> -- <span>React hooks for RxJS</span></li><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li><li><a href=https://github.com/stevegrunwell/asimov>stevegrunwell/asimov</a> -- <span>Automatically exclude development dependencies from Apple Time Machine backups</span></li></ul>
+<ul><li><a href=https://github.com/hellof2e/quark-design>hellof2e/quark-design</a> -- <span>Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)</span></li><li><a href=https://github.com/remusao/tldts>remusao/tldts</a> -- <span>JavaScript Library to work against complex domain names, subdomains and URIs.</span></li><li><a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui>AUTOMATIC1111/stable-diffusion-webui</a> -- <span>Stable Diffusion web UI</span></li><li><a href=https://github.com/artginzburg/sudo-touchid>artginzburg/sudo-touchid</a> -- <span> Permanent TouchID support 👆 for `sudo`.</span></li><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li></ul>
 
 
 **捉迷藏**
@@ -79,7 +79,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/7/22, 10:01 AM<br>下一次刷新：11/7/22, 1:01 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/7/22, 12:01 PM<br>下一次刷新：11/7/22, 3:01 PM</p>
 
 <a href="https://github.com/renbaoshuo#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
