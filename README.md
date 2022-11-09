@@ -66,7 +66,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/seaweed>AkaraChen/seaweed</a> -- <span>The next generation component library based on web components.</span></li><li><a href=https://github.com/egoist/dropcode>egoist/dropcode</a> -- <span>A simple and lightweight code snippet manager.</span></li><li><a href=https://github.com/fleksin/ikun>fleksin/ikun</a></li><li><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a> -- <span>The HTML Presentation Framework</span></li><li><a href=https://github.com/yyx990803/vite-vs-next-turbo-hmr>yyx990803/vite-vs-next-turbo-hmr</a> -- <span>Benchmarking Vite vs. Next + turbopack HMR performance</span></li></ul>
+<ul><li><a href=https://github.com/shadcn/taxonomy>shadcn/taxonomy</a> -- <span>An open source application built using the new router, server components and everything new in Next.js 13.</span></li><li><a href=https://github.com/AUTOMATIC1111/stable-diffusion-webui>AUTOMATIC1111/stable-diffusion-webui</a> -- <span>Stable Diffusion web UI</span></li><li><a href=https://github.com/hellof2e/quark-design>hellof2e/quark-design</a> -- <span>Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)</span></li><li><a href=https://github.com/zhaoyao91/react-view-cache>zhaoyao91/react-view-cache</a> -- <span>cache react views.</span></li><li><a href=https://github.com/hustcc/timeago.js>hustcc/timeago.js</a> -- <span>:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.</span></li></ul>
 
 
 **捉迷藏**
@@ -79,7 +79,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/9/22, 5:23 PM<br>下一次刷新：11/9/22, 8:23 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/9/22, 8:52 PM<br>下一次刷新：11/9/22, 11:52 PM</p>
 
 <a href="https://github.com/renbaoshuo#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
