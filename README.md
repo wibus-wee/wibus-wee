@@ -66,7 +66,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jsun969/rubbish-liyupi>jsun969/rubbish-liyupi</a> -- <span>详见分支article</span></li><li><a href=https://github.com/github/hubot-sans>github/hubot-sans</a> -- <span>Hubot Sans, a variable font from GitHub</span></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li><li><a href=https://github.com/vasanthk/how-web-works>vasanthk/how-web-works</a> -- <span>What happens behind the scenes when we type www.google.com in a browser?</span></li><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li></ul>
+<ul><li><a href=https://github.com/rpearce/react-medium-image-zoom>rpearce/react-medium-image-zoom</a> -- <span>🔎 🏞 The original medium.com-inspired image zooming library for React</span></li><li><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a> -- <span>The HTML Presentation Framework</span></li><li><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a> -- <span>🌸 An elegant theme for VS Code.</span></li><li><a href=https://github.com/elrumo/macOS_Big_Sur_icons_replacements>elrumo/macOS_Big_Sur_icons_replacements</a> -- <span>Replacement icons for popular apps in the style of macOS Big Sur</span></li><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li></ul>
 
 
 **捉迷藏**
@@ -79,7 +79,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/13/22, 11:23 PM<br>下一次刷新：11/14/22, 2:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/14/22, 2:27 AM<br>下一次刷新：11/14/22, 5:27 AM</p>
 
 <a href="https://github.com/renbaoshuo#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
