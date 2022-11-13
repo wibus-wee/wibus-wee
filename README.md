@@ -66,7 +66,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rpearce/react-medium-image-zoom>rpearce/react-medium-image-zoom</a> -- <span>🔎 🏞 The original medium.com-inspired image zooming library for React</span></li><li><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a> -- <span>The HTML Presentation Framework</span></li><li><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a> -- <span>🌸 An elegant theme for VS Code.</span></li><li><a href=https://github.com/elrumo/macOS_Big_Sur_icons_replacements>elrumo/macOS_Big_Sur_icons_replacements</a> -- <span>Replacement icons for popular apps in the style of macOS Big Sur</span></li><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li></ul>
+<ul><li><a href=https://github.com/rpearce/react-medium-image-zoom>rpearce/react-medium-image-zoom</a> -- <span>🔎 🏞 The original medium.com-inspired image zooming library for React</span></li><li><a href=https://github.com/blakesanie/React-Bubble-UI>blakesanie/React-Bubble-UI</a> -- <span>A highly configurable Bubble UI React.js component, similar to the iconic Apple Watch app layout.</span></li><li><a href=https://github.com/parcel-bundler/parcel>parcel-bundler/parcel</a> -- <span>The zero configuration build tool for the web. 📦🚀</span></li><li><a href=https://github.com/stevegrunwell/asimov>stevegrunwell/asimov</a> -- <span>Automatically exclude development dependencies from Apple Time Machine backups</span></li><li><a href=https://github.com/LeetCode-OpenSource/rxjs-hooks>LeetCode-OpenSource/rxjs-hooks</a> -- <span>React hooks for RxJS</span></li></ul>
 
 
 **捉迷藏**
@@ -79,7 +79,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/14/22, 2:27 AM<br>下一次刷新：11/14/22, 5:27 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/14/22, 5:19 AM<br>下一次刷新：11/14/22, 8:19 AM</p>
 
 <a href="https://github.com/renbaoshuo#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
