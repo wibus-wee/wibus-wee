@@ -12,7 +12,6 @@
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
 
-
 <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
 Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of [🏖 @mogland](https://github.com/mogland/core). 
@@ -37,6 +36,8 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 </p>
 
 ---
+
+<br />
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
