@@ -46,7 +46,9 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 
 <a href="https://github.com/wibus-wee#gh-dark-mode-only">
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
-  </a>
+</a>
+
+<br />
 
 **Stacks**
 
@@ -90,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/LeetCode-OpenSource/rxjs-hooks>LeetCode-OpenSource/rxjs-hooks</a> -- <span>React hooks for RxJS</span></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li><li><a href=https://github.com/fkhadra/react-toastify>fkhadra/react-toastify</a> -- <span>React notification made easy 🚀 !</span></li><li><a href=https://github.com/zhaoyao91/react-view-cache>zhaoyao91/react-view-cache</a> -- <span>cache react views.</span></li><li><a href=https://github.com/hustcc/timeago.js>hustcc/timeago.js</a> -- <span>:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.</span></li></ul>
+<ul><li><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a> -- <span>The HTML Presentation Framework</span></li><li><a href=https://github.com/elrumo/macOS_Big_Sur_icons_replacements>elrumo/macOS_Big_Sur_icons_replacements</a> -- <span>Replacement icons for popular apps in the style of macOS Big Sur</span></li><li><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a> -- <span>🌸 An elegant theme for VS Code.</span></li><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li><li><a href=https://github.com/FloatTech/AnimeAPI>FloatTech/AnimeAPI</a> -- <span>二次元相关API</span></li></ul>
 
 
 **捉迷藏**
@@ -103,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/15/22, 2:27 PM<br>下一次刷新：11/15/22, 5:27 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/15/22, 3:56 PM<br>下一次刷新：11/15/22, 6:56 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
