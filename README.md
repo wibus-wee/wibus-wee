@@ -11,7 +11,9 @@
 
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
 Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of [🏖 @mogland](https://github.com/mogland/core). 
 
@@ -35,6 +37,8 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 </p>
 
 ---
+
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
 **Stacks**
 
@@ -78,7 +82,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li><li><a href=https://github.com/blakesanie/React-Bubble-UI>blakesanie/React-Bubble-UI</a> -- <span>A highly configurable Bubble UI React.js component, similar to the iconic Apple Watch app layout.</span></li><li><a href=https://github.com/hakimel/reveal.js>hakimel/reveal.js</a> -- <span>The HTML Presentation Framework</span></li><li><a href=https://github.com/hustcc/timeago.js>hustcc/timeago.js</a> -- <span>:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.</span></li><li><a href=https://github.com/yisar/asta>yisar/asta</a> -- <span>:octopus: Resumable SSR framework.</span></li></ul>
+<ul><li><a href=https://github.com/hustcc/timeago.js>hustcc/timeago.js</a> -- <span>:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.</span></li><li><a href=https://github.com/rpearce/react-medium-image-zoom>rpearce/react-medium-image-zoom</a> -- <span>🔎 🏞 The original medium.com-inspired image zooming library for React</span></li><li><a href=https://github.com/elrumo/macOS_Big_Sur_icons_replacements>elrumo/macOS_Big_Sur_icons_replacements</a> -- <span>Replacement icons for popular apps in the style of macOS Big Sur</span></li><li><a href=https://github.com/remusao/tldts>remusao/tldts</a> -- <span>JavaScript Library to work against complex domain names, subdomains and URIs.</span></li><li><a href=https://github.com/artginzburg/sudo-touchid>artginzburg/sudo-touchid</a> -- <span> Permanent TouchID support 👆 for `sudo`.</span></li></ul>
 
 
 **捉迷藏**
@@ -91,7 +95,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/15/22, 9:58 AM<br>下一次刷新：11/15/22, 12:58 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/15/22, 11:44 AM<br>下一次刷新：11/15/22, 2:44 PM</p>
 
 <a href="https://github.com/renbaoshuo#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
