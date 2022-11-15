@@ -11,18 +11,30 @@
 
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
-Hi! I'm wibus! I am ... &nbsp;&nbsp;&nbsp; | [Home Page](https://iucky.cn) | [Blog (CN)](https://blog.iucky.cn) | [Twitter](https://twitter.com/@wibus_wee) |
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
-- **🎹 个人钢琴演奏者 / 🎤 个人歌手和制作人**.
-- 正在学习 **TypeScript**. 很废物
-- [@mogland (Mog)](https://github.com/mogland/core) 核心开发者
-- 希望成为 FSD ( Full Stacks Developer ｜ 全栈开发者).
+Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of [🏖 @mogland](https://github.com/mogland/core). 
+
+I love myself, love the world, and always love my family. I hope I can become a FSD ( Full Stacks Developer ｜ 全栈开发者) oneday.
+
+I have been contributed to the **`Typecho`** ecosystem, and now I am working in **`Mog`** development.
+
+I began to learn vocal music and piano since I was a child, and I have won many first prizes in domestic and international competitions
+
+- 🔭 I’m currently working on a breakthrough blogging system 🏖 [@mogland](https://github.com/mogland/core)
+- 🌱 I’m currently learning 🧵 web design, and so on.
+- 🤔 I’m looking for help with 🥚 MicroService Module design.
+- 📫 How to reach me: 🏠 [Home Page](https://iucky.cn) | ✍️ [Blog (CN)](https://blog.iucky.cn) | 🐦 [Twitter](https://twitter.com/@wibus_wee)
+- ⚡ Fun fact: Like sleeping. 💤
+- 🎵 I am currently focusing on the combination of 🇨🇳 Chinese style music and 💡 modern electronic music, and 🎹 piano music in the Baroque period.
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
 <a href="https://blog.iucky.cn" align="center"><img src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
 </p>
+
+---
 
 **Stacks**
 
