@@ -38,7 +38,17 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 
 ---
 
+<a href="https://github.com/wibus-wee#gh-light-mode-only">
+
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+  
+  <a href="https://github.com/wibus-wee#gh-light-mode-only">
+
+<a href="https://github.com/wibus-wee#gh-dark-mode-only">
+
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
+  
+  <a href="https://github.com/wibus-wee#gh-dark-mode-only">
 
 **Stacks**
 
@@ -97,16 +107,16 @@ opensource_dashboard:gs -->
 
 <!-- footer_inject -->
 
-<a href="https://github.com/renbaoshuo#gh-light-mode-only">
+<a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
 </a>
 
-<a href="https://github.com/renbaoshuo#gh-dark-mode-only">
+<a href="https://github.com/wibus-wee#gh-dark-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github_dark" width="100%">
 </a>
 
 
-<a href="https://github.com/renbaoshuo#gh-light-mode-only">
+<a href="https://github.com/wibus-wee#gh-light-mode-only">
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
@@ -115,7 +125,7 @@ opensource_dashboard:gs -->
 </a>
 
 
-<a href="https://github.com/renbaoshuo#gh-dark-mode-only">
+<a href="https://github.com/wibus-wee#gh-dark-mode-only">
   
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
