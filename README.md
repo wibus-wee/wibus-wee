@@ -11,18 +11,30 @@
 
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
-Hi! I'm wibus! I am ... &nbsp;&nbsp;&nbsp; | [Home Page](https://iucky.cn) | [Blog (CN)](https://blog.iucky.cn) | [Twitter](https://twitter.com/@wibus_wee) |
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
-- **🎹 个人钢琴演奏者 / 🎤 个人歌手和制作人**.
-- 正在学习 **TypeScript**. 很废物
-- [@mogland (Mog)](https://github.com/mogland/core) 核心开发者
-- 希望成为 FSD ( Full Stacks Developer ｜ 全栈开发者).
+Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of [🏖 @mogland](https://github.com/mogland/core). 
+
+I love myself, love the world, and always love my family. I hope I can become a FSD ( Full Stacks Developer ｜ 全栈开发者) oneday.
+
+I have been contributed to the **`Typecho`** ecosystem, and now I am working in **`Mog`** development.
+
+I began to learn vocal music and piano since I was a child, and I have won many first prizes in domestic and international competitions
+
+- 🔭 I’m currently working on a breakthrough blogging system 🏖 [@mogland](https://github.com/mogland/core)
+- 🌱 I’m currently learning 🧵 web design, and so on.
+- 🤔 I’m looking for help with 🥚 MicroService Module design.
+- 📫 How to reach me: 🏠 [Home Page](https://iucky.cn) | ✍️ [Blog (CN)](https://blog.iucky.cn) | 🐦 [Twitter](https://twitter.com/@wibus_wee)
+- ⚡ Fun fact: Like sleeping. 💤
+- 🎵 I am currently focusing on the combination of 🇨🇳 Chinese style music and 💡 modern electronic music, and 🎹 piano music in the Baroque period.
 
 <p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
 <a href="https://blog.iucky.cn" align="center"><img src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
 </p>
+
+---
 
 **Stacks**
 
@@ -61,12 +73,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a> -- <span>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</span></li><li><a href=https://github.com/jsdom/jsdom>jsdom/jsdom</a> -- <span>A JavaScript implementation of various web standards, for use with Node.js</span></li><li><a href=https://github.com/sudongyuer/tiny-svelte>sudongyuer/tiny-svelte</a> -- <span>🐈 Tiny svelte implement</span></li><li><a href=https://github.com/WX-DongXing/unplugin-web-components>WX-DongXing/unplugin-web-components</a> -- <span>Building vue3 components to webComponents on vite</span></li><li><a href=https://github.com/mapbox/jsxtreme-markdown>mapbox/jsxtreme-markdown</a> -- <span>Transform Markdown into JSX or React component modules</span></li></ul>
+<ul><li><a href=https://github.com/mli/autocut>mli/autocut</a> -- <span>用文本编辑器剪视频</span></li><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a> -- <span>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</span></li><li><a href=https://github.com/jsdom/jsdom>jsdom/jsdom</a> -- <span>A JavaScript implementation of various web standards, for use with Node.js</span></li><li><a href=https://github.com/sudongyuer/tiny-svelte>sudongyuer/tiny-svelte</a> -- <span>🐈 Tiny svelte implement</span></li><li><a href=https://github.com/WX-DongXing/unplugin-web-components>WX-DongXing/unplugin-web-components</a> -- <span>Building vue3 components to webComponents on vite</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/fleksin/ikun>fleksin/ikun</a></li><li><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a> -- <span>🌸 An elegant theme for VS Code.</span></li><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li><li><a href=https://github.com/elrumo/macOS_Big_Sur_icons_replacements>elrumo/macOS_Big_Sur_icons_replacements</a> -- <span>Replacement icons for popular apps in the style of macOS Big Sur</span></li></ul>
+<ul><li><a href=https://github.com/mapbox/jsxtreme-markdown>mapbox/jsxtreme-markdown</a> -- <span>Transform Markdown into JSX or React component modules</span></li><li><a href=https://github.com/fkhadra/react-toastify>fkhadra/react-toastify</a> -- <span>React notification made easy 🚀 !</span></li><li><a href=https://github.com/hustcc/timeago.js>hustcc/timeago.js</a> -- <span>:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.</span></li><li><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a> -- <span>🌸 An elegant theme for VS Code.</span></li><li><a href=https://github.com/stevegrunwell/asimov>stevegrunwell/asimov</a> -- <span>Automatically exclude development dependencies from Apple Time Machine backups</span></li></ul>
 
 
 **捉迷藏**
@@ -79,7 +91,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/15/22, 5:21 AM<br>下一次刷新：11/15/22, 8:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/15/22, 8:58 AM<br>下一次刷新：11/15/22, 11:58 AM</p>
 
 <a href="https://github.com/renbaoshuo#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
