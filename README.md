@@ -12,7 +12,6 @@
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
 
-
 <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
 Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of [🏖 @mogland](https://github.com/mogland/core). 
@@ -37,6 +36,8 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 </p>
 
 ---
+
+<br />
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
@@ -89,7 +90,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jsun969/rubbish-liyupi>jsun969/rubbish-liyupi</a> -- <span>详见分支article</span></li><li><a href=https://github.com/elrumo/macOS_Big_Sur_icons_replacements>elrumo/macOS_Big_Sur_icons_replacements</a> -- <span>Replacement icons for popular apps in the style of macOS Big Sur</span></li><li><a href=https://github.com/mapbox/jsxtreme-markdown>mapbox/jsxtreme-markdown</a> -- <span>Transform Markdown into JSX or React component modules</span></li><li><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a> -- <span>🌸 An elegant theme for VS Code.</span></li><li><a href=https://github.com/hustcc/timeago.js>hustcc/timeago.js</a> -- <span>:clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.</span></li></ul>
+<ul><li><a href=https://github.com/stevegrunwell/asimov>stevegrunwell/asimov</a> -- <span>Automatically exclude development dependencies from Apple Time Machine backups</span></li><li><a href=https://github.com/rpearce/react-medium-image-zoom>rpearce/react-medium-image-zoom</a> -- <span>🔎 🏞 The original medium.com-inspired image zooming library for React</span></li><li><a href=https://github.com/FloatTech/AnimeAPI>FloatTech/AnimeAPI</a> -- <span>二次元相关API</span></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a> -- <span>🍐 The modern jQuery alternative</span></li><li><a href=https://github.com/moegi-design/vscode-theme>moegi-design/vscode-theme</a> -- <span>🌸 An elegant theme for VS Code.</span></li></ul>
 
 
 **捉迷藏**
@@ -102,7 +103,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/15/22, 12:16 PM<br>下一次刷新：11/15/22, 3:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/15/22, 12:38 PM<br>下一次刷新：11/15/22, 3:38 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
