@@ -87,12 +87,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a> -- <span>得意黑 Smiley Sans</span></li><li><a href=https://github.com/mli/autocut>mli/autocut</a> -- <span>用文本编辑器剪视频</span></li><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a> -- <span>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</span></li><li><a href=https://github.com/jsdom/jsdom>jsdom/jsdom</a> -- <span>A JavaScript implementation of various web standards, for use with Node.js</span></li><li><a href=https://github.com/sudongyuer/tiny-svelte>sudongyuer/tiny-svelte</a> -- <span>🐈 Tiny svelte implement</span></li></ul>
+<ul><li><a href=https://github.com/tangly1024/NotionNext>tangly1024/NotionNext</a> -- <span>一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。</span></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a> -- <span>得意黑 Smiley Sans</span></li><li><a href=https://github.com/mli/autocut>mli/autocut</a> -- <span>用文本编辑器剪视频</span></li><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a> -- <span>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</span></li><li><a href=https://github.com/jsdom/jsdom>jsdom/jsdom</a> -- <span>A JavaScript implementation of various web standards, for use with Node.js</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/parcel-bundler/parcel>parcel-bundler/parcel</a> -- <span>The zero configuration build tool for the web. 📦🚀</span></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a> -- <span>🍐 The modern jQuery alternative</span></li><li><a href=https://github.com/AykutSarac/github-rater>AykutSarac/github-rater</a> -- <span>📊 Check your GitHub rating, view results and enhance your profile quality.</span></li><li><a href=https://github.com/remusao/tldts>remusao/tldts</a> -- <span>JavaScript Library to work against complex domain names, subdomains and URIs.</span></li></ul>
+<ul><li><a href=https://github.com/AykutSarac/github-rater>AykutSarac/github-rater</a> -- <span>📊 Check your GitHub rating, view results and enhance your profile quality.</span></li><li><a href=https://github.com/vasanthk/how-web-works>vasanthk/how-web-works</a> -- <span>What happens behind the scenes when we type www.google.com in a browser?</span></li><li><a href=https://github.com/yisar/asta>yisar/asta</a> -- <span>:octopus: Resumable SSR framework.</span></li><li><a href=https://github.com/elrumo/macOS_Big_Sur_icons_replacements>elrumo/macOS_Big_Sur_icons_replacements</a> -- <span>Replacement icons for popular apps in the style of macOS Big Sur</span></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/16/22, 5:19 AM<br>下一次刷新：11/16/22, 8:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/16/22, 9:58 AM<br>下一次刷新：11/16/22, 12:58 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
