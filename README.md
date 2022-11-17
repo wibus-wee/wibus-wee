@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tangly1024/NotionNext>tangly1024/NotionNext</a> -- <span>一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。</span></li><li><a href=https://github.com/parcel-bundler/parcel>parcel-bundler/parcel</a> -- <span>The zero configuration build tool for the web. 📦🚀</span></li><li><a href=https://github.com/WX-DongXing/unplugin-web-components>WX-DongXing/unplugin-web-components</a> -- <span>Building vue3 components to webComponents on vite</span></li><li><a href=https://github.com/mapbox/jsxtreme-markdown>mapbox/jsxtreme-markdown</a> -- <span>Transform Markdown into JSX or React component modules</span></li><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a> -- <span>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</span></li></ul>
+<ul><li><a href=https://github.com/rpearce/react-medium-image-zoom>rpearce/react-medium-image-zoom</a> -- <span>🔎 🏞 The original medium.com-inspired image zooming library for React</span></li><li><a href=https://github.com/stevegrunwell/asimov>stevegrunwell/asimov</a> -- <span>Automatically exclude development dependencies from Apple Time Machine backups</span></li><li><a href=https://github.com/jsun969/rubbish-liyupi>jsun969/rubbish-liyupi</a> -- <span>详见分支article</span></li><li><a href=https://github.com/sudongyuer/tiny-svelte>sudongyuer/tiny-svelte</a> -- <span>🐈 Tiny svelte implement</span></li><li><a href=https://github.com/yisar/asta>yisar/asta</a> -- <span>:octopus: Resumable SSR framework.</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/17/22, 11:23 PM<br>下一次刷新：11/18/22, 2:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/18/22, 2:26 AM<br>下一次刷新：11/18/22, 5:26 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
