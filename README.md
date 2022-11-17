@@ -87,12 +87,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/grafana/grafana>grafana/grafana</a> -- <span>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</span></li><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li><li><a href=https://github.com/nuxt-themes/docus>nuxt-themes/docus</a> -- <span>Write beautiful documentations with Nuxt 3.</span></li><li><a href=https://github.com/Matt-Esch/virtual-dom>Matt-Esch/virtual-dom</a> -- <span>A Virtual DOM and diffing algorithm</span></li><li><a href=https://github.com/wu-component/web-component-plus>wu-component/web-component-plus</a> -- <span>采用WebComponent方式重写ElementUI, 仓库中包含核心包以及UI组件库,包括底层逻辑npm包以及UI实现</span></li></ul>
+<ul><li><a href=https://github.com/invoke-ai/InvokeAI>invoke-ai/InvokeAI</a> -- <span>This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.</span></li><li><a href=https://github.com/grafana/grafana>grafana/grafana</a> -- <span>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</span></li><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li><li><a href=https://github.com/nuxt-themes/docus>nuxt-themes/docus</a> -- <span>Write beautiful documentations with Nuxt 3.</span></li><li><a href=https://github.com/Matt-Esch/virtual-dom>Matt-Esch/virtual-dom</a> -- <span>A Virtual DOM and diffing algorithm</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sudongyuer/tiny-svelte>sudongyuer/tiny-svelte</a> -- <span>🐈 Tiny svelte implement</span></li><li><a href=https://github.com/mli/autocut>mli/autocut</a> -- <span>用文本编辑器剪视频</span></li><li><a href=https://github.com/yisar/asta>yisar/asta</a> -- <span>:octopus: Resumable SSR framework.</span></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a> -- <span>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</span></li><li><a href=https://github.com/AykutSarac/github-rater>AykutSarac/github-rater</a> -- <span>📊 Check your GitHub rating, view results and enhance your profile quality.</span></li></ul>
+<ul><li><a href=https://github.com/elrumo/macOS_Big_Sur_icons_replacements>elrumo/macOS_Big_Sur_icons_replacements</a> -- <span>Replacement icons for popular apps in the style of macOS Big Sur</span></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a> -- <span>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</span></li><li><a href=https://github.com/github/hubot-sans>github/hubot-sans</a> -- <span>Hubot Sans, a variable font from GitHub</span></li><li><a href=https://github.com/jsdom/jsdom>jsdom/jsdom</a> -- <span>A JavaScript implementation of various web standards, for use with Node.js</span></li><li><a href=https://github.com/FloatTech/AnimeAPI>FloatTech/AnimeAPI</a> -- <span>二次元相关API</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/17/22, 2:27 PM<br>下一次刷新：11/17/22, 5:27 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/17/22, 5:21 PM<br>下一次刷新：11/17/22, 8:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
