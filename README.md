@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/WX-DongXing/unplugin-web-components>WX-DongXing/unplugin-web-components</a> -- <span>Building vue3 components to webComponents on vite</span></li><li><a href=https://github.com/mli/autocut>mli/autocut</a> -- <span>用文本编辑器剪视频</span></li><li><a href=https://github.com/jsdom/jsdom>jsdom/jsdom</a> -- <span>A JavaScript implementation of various web standards, for use with Node.js</span></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li></ul>
+<ul><li><a href=https://github.com/wu-component/web-component-plus>wu-component/web-component-plus</a> -- <span>采用WebComponent方式重写ElementUI, 仓库中包含核心包以及UI组件库,包括底层逻辑npm包以及UI实现</span></li><li><a href=https://github.com/FloatTech/AnimeAPI>FloatTech/AnimeAPI</a> -- <span>二次元相关API</span></li><li><a href=https://github.com/sudongyuer/tiny-svelte>sudongyuer/tiny-svelte</a> -- <span>🐈 Tiny svelte implement</span></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li><li><a href=https://github.com/fleksin/ikun>fleksin/ikun</a></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/18/22, 11:43 AM<br>下一次刷新：11/18/22, 2:43 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/18/22, 2:28 PM<br>下一次刷新：11/18/22, 5:28 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
