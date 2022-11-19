@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a> -- <span>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</span></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a> -- <span>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</span></li><li><a href=https://github.com/LeetCode-OpenSource/rxjs-hooks>LeetCode-OpenSource/rxjs-hooks</a> -- <span>React hooks for RxJS</span></li><li><a href=https://github.com/mapbox/jsxtreme-markdown>mapbox/jsxtreme-markdown</a> -- <span>Transform Markdown into JSX or React component modules</span></li><li><a href=https://github.com/github/hubot-sans>github/hubot-sans</a> -- <span>Hubot Sans, a variable font from GitHub</span></li></ul>
+<ul><li><a href=https://github.com/tangly1024/NotionNext>tangly1024/NotionNext</a> -- <span>一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。</span></li><li><a href=https://github.com/jsun969/rubbish-liyupi>jsun969/rubbish-liyupi</a> -- <span>详见分支article</span></li><li><a href=https://github.com/mli/autocut>mli/autocut</a> -- <span>用文本编辑器剪视频</span></li><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li><li><a href=https://github.com/nuxt-themes/docus>nuxt-themes/docus</a> -- <span>Write beautiful documentations with Nuxt 3.</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/19/22, 9:54 AM<br>下一次刷新：11/19/22, 12:54 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/19/22, 11:41 AM<br>下一次刷新：11/19/22, 2:41 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
