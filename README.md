@@ -87,12 +87,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Innei/swr>Innei/swr</a></li><li><a href=https://github.com/midwayjs/midway>midwayjs/midway</a> -- <span>🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈</span></li><li><a href=https://github.com/alexeyraspopov/picocolors>alexeyraspopov/picocolors</a> -- <span>The tiniest and the fastest library for terminal output formatting with ANSI colors</span></li><li><a href=https://github.com/justin-schroeder/arrow-js>justin-schroeder/arrow-js</a> -- <span>Reactivity without the framework</span></li><li><a href=https://github.com/invoke-ai/InvokeAI>invoke-ai/InvokeAI</a> -- <span>This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.</span></li></ul>
+<ul><li><a href=https://github.com/naptha/tesseract.js>naptha/tesseract.js</a> -- <span>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</span></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li><li><a href=https://github.com/midwayjs/midway>midwayjs/midway</a> -- <span>🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈</span></li><li><a href=https://github.com/alexeyraspopov/picocolors>alexeyraspopov/picocolors</a> -- <span>The tiniest and the fastest library for terminal output formatting with ANSI colors</span></li><li><a href=https://github.com/justin-schroeder/arrow-js>justin-schroeder/arrow-js</a> -- <span>Reactivity without the framework</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/github/hubot-sans>github/hubot-sans</a> -- <span>Hubot Sans, a variable font from GitHub</span></li><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li><li><a href=https://github.com/rpearce/react-medium-image-zoom>rpearce/react-medium-image-zoom</a> -- <span>🔎 🏞 The original medium.com-inspired image zooming library for React</span></li><li><a href=https://github.com/WX-DongXing/unplugin-web-components>WX-DongXing/unplugin-web-components</a> -- <span>Building vue3 components to webComponents on vite</span></li></ul>
+<ul><li><a href=https://github.com/parcel-bundler/parcel>parcel-bundler/parcel</a> -- <span>The zero configuration build tool for the web. 📦🚀</span></li><li><a href=https://github.com/jsun969/rubbish-liyupi>jsun969/rubbish-liyupi</a> -- <span>详见分支article</span></li><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li><li><a href=https://github.com/AykutSarac/github-rater>AykutSarac/github-rater</a> -- <span>📊 Check your GitHub rating, view results and enhance your profile quality.</span></li><li><a href=https://github.com/jsdom/jsdom>jsdom/jsdom</a> -- <span>A JavaScript implementation of various web standards, for use with Node.js</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/20/22, 2:26 PM<br>下一次刷新：11/20/22, 5:26 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/20/22, 5:20 PM<br>下一次刷新：11/20/22, 8:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
