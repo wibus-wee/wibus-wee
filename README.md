@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a> -- <span>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</span></li><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li><li><a href=https://github.com/github/hubot-sans>github/hubot-sans</a> -- <span>Hubot Sans, a variable font from GitHub</span></li><li><a href=https://github.com/jsun969/rubbish-liyupi>jsun969/rubbish-liyupi</a> -- <span>详见分支article</span></li></ul>
+<ul><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a> -- <span>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</span></li><li><a href=https://github.com/invoke-ai/InvokeAI>invoke-ai/InvokeAI</a> -- <span>This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.</span></li><li><a href=https://github.com/AykutSarac/github-rater>AykutSarac/github-rater</a> -- <span>📊 Check your GitHub rating, view results and enhance your profile quality.</span></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/20/22, 8:38 PM<br>下一次刷新：11/20/22, 11:38 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/20/22, 11:21 PM<br>下一次刷新：11/21/22, 2:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
