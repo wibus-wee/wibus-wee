@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li><li><a href=https://github.com/mapbox/jsxtreme-markdown>mapbox/jsxtreme-markdown</a> -- <span>Transform Markdown into JSX or React component modules</span></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li><li><a href=https://github.com/jsun969/rubbish-liyupi>jsun969/rubbish-liyupi</a> -- <span>详见分支article</span></li><li><a href=https://github.com/invoke-ai/InvokeAI>invoke-ai/InvokeAI</a> -- <span>This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.</span></li></ul>
+<ul><li><a href=https://github.com/invoke-ai/InvokeAI>invoke-ai/InvokeAI</a> -- <span>This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.</span></li><li><a href=https://github.com/Matt-Esch/virtual-dom>Matt-Esch/virtual-dom</a> -- <span>A Virtual DOM and diffing algorithm</span></li><li><a href=https://github.com/yisar/asta>yisar/asta</a> -- <span>:octopus: Resumable SSR framework.</span></li><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/21/22, 11:50 AM<br>下一次刷新：11/21/22, 2:50 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/21/22, 2:29 PM<br>下一次刷新：11/21/22, 5:29 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
