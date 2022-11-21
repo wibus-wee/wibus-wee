@@ -87,12 +87,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a> -- <span>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言</span></li><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a> -- <span>Vue 哲学</span></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a> -- <span>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</span></li><li><a href=https://github.com/naptha/tesseract.js>naptha/tesseract.js</a> -- <span>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</span></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li></ul>
+<ul><li><a href=https://github.com/misskey-dev/misskey>misskey-dev/misskey</a> -- <span>🌎 An interplanetary microblogging platform 🚀</span></li><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a> -- <span>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言</span></li><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a> -- <span>Vue 哲学</span></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a> -- <span>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</span></li><li><a href=https://github.com/naptha/tesseract.js>naptha/tesseract.js</a> -- <span>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/invoke-ai/InvokeAI>invoke-ai/InvokeAI</a> -- <span>This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.</span></li><li><a href=https://github.com/Matt-Esch/virtual-dom>Matt-Esch/virtual-dom</a> -- <span>A Virtual DOM and diffing algorithm</span></li><li><a href=https://github.com/yisar/asta>yisar/asta</a> -- <span>:octopus: Resumable SSR framework.</span></li><li><a href=https://github.com/Clansty/icalingua>Clansty/icalingua</a></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li></ul>
+<ul><li><a href=https://github.com/mli/autocut>mli/autocut</a> -- <span>用文本编辑器剪视频</span></li><li><a href=https://github.com/jsdom/jsdom>jsdom/jsdom</a> -- <span>A JavaScript implementation of various web standards, for use with Node.js</span></li><li><a href=https://github.com/alexeyraspopov/picocolors>alexeyraspopov/picocolors</a> -- <span>The tiniest and the fastest library for terminal output formatting with ANSI colors</span></li><li><a href=https://github.com/grafana/grafana>grafana/grafana</a> -- <span>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</span></li><li><a href=https://github.com/nek0peko/Mix>nek0peko/Mix</a> -- <span>Demo: https://nek0peko.com/</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/21/22, 2:29 PM<br>下一次刷新：11/21/22, 5:29 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/21/22, 5:22 PM<br>下一次刷新：11/21/22, 8:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
