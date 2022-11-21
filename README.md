@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a> -- <span>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</span></li><li><a href=https://github.com/wu-component/web-component-plus>wu-component/web-component-plus</a> -- <span>采用WebComponent方式重写ElementUI, 仓库中包含核心包以及UI组件库,包括底层逻辑npm包以及UI实现</span></li><li><a href=https://github.com/alexeyraspopov/picocolors>alexeyraspopov/picocolors</a> -- <span>The tiniest and the fastest library for terminal output formatting with ANSI colors</span></li><li><a href=https://github.com/mli/autocut>mli/autocut</a> -- <span>用文本编辑器剪视频</span></li><li><a href=https://github.com/grafana/grafana>grafana/grafana</a> -- <span>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</span></li></ul>
+<ul><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a> -- <span>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</span></li><li><a href=https://github.com/wu-component/web-component-plus>wu-component/web-component-plus</a> -- <span>采用WebComponent方式重写ElementUI, 仓库中包含核心包以及UI组件库,包括底层逻辑npm包以及UI实现</span></li><li><a href=https://github.com/naptha/tesseract.js>naptha/tesseract.js</a> -- <span>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</span></li><li><a href=https://github.com/Matt-Esch/virtual-dom>Matt-Esch/virtual-dom</a> -- <span>A Virtual DOM and diffing algorithm</span></li><li><a href=https://github.com/parcel-bundler/parcel>parcel-bundler/parcel</a> -- <span>The zero configuration build tool for the web. 📦🚀</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/21/22, 11:23 PM<br>下一次刷新：11/22/22, 2:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/22/22, 2:27 AM<br>下一次刷新：11/22/22, 5:27 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
