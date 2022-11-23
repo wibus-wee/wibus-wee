@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a> -- <span>Vue 哲学</span></li><li><a href=https://github.com/nuxt-themes/docus>nuxt-themes/docus</a> -- <span>Write beautiful documentations with Nuxt 3.</span></li><li><a href=https://github.com/juliencrn/usehooks-ts>juliencrn/usehooks-ts</a> -- <span>React hook library, ready to use, written in Typescript.</span></li><li><a href=https://github.com/justin-schroeder/arrow-js>justin-schroeder/arrow-js</a> -- <span>Reactivity without the framework</span></li><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li></ul>
+<ul><li><a href=https://github.com/grafana/grafana>grafana/grafana</a> -- <span>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</span></li><li><a href=https://github.com/nastyox/Repo-Roster>nastyox/Repo-Roster</a> -- <span>Shout-out supporters in your GitHub README file.</span></li><li><a href=https://github.com/justin-schroeder/arrow-js>justin-schroeder/arrow-js</a> -- <span>Reactivity without the framework</span></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/24/22, 2:25 AM<br>下一次刷新：11/24/22, 5:25 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/24/22, 5:17 AM<br>下一次刷新：11/24/22, 8:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
