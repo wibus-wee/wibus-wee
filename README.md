@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li><li><a href=https://github.com/naptha/tesseract.js>naptha/tesseract.js</a> -- <span>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</span></li><li><a href=https://github.com/nuxt-themes/docus>nuxt-themes/docus</a> -- <span>Write beautiful documentations with Nuxt 3.</span></li><li><a href=https://github.com/isolcat/babel-plugin-testdev>isolcat/babel-plugin-testdev</a> -- <span>The babel plugin for hiding your test code</span></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a> -- <span>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</span></li></ul>
+<ul><li><a href=https://github.com/isolcat/babel-plugin-testdev>isolcat/babel-plugin-testdev</a> -- <span>The babel plugin for hiding your test code</span></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li><li><a href=https://github.com/nanostores/nanostores>nanostores/nanostores</a> -- <span>A tiny (258 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</span></li><li><a href=https://github.com/gmrchk/blobity>gmrchk/blobity</a> -- <span>The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀</span></li><li><a href=https://github.com/yihui/hugo-ivy>yihui/hugo-ivy</a> -- <span>A Hugo theme ported from Ivy</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/24/22, 9:50 AM<br>下一次刷新：11/24/22, 12:50 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/24/22, 11:29 AM<br>下一次刷新：11/24/22, 2:29 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
