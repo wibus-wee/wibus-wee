@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/grafana/grafana>grafana/grafana</a> -- <span>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</span></li><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a> -- <span>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言</span></li><li><a href=https://github.com/tangly1024/NotionNext>tangly1024/NotionNext</a> -- <span>一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。</span></li><li><a href=https://github.com/mancuoj/CS50x>mancuoj/CS50x</a> -- <span>Harvard CS50x — 2022 Solutions 🙌</span></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a> -- <span>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</span></li></ul>
+<ul><li><a href=https://github.com/atelier-anchor/smiley-sans>atelier-anchor/smiley-sans</a> -- <span>得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体</span></li><li><a href=https://github.com/naptha/tesseract.js>naptha/tesseract.js</a> -- <span>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</span></li><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a> -- <span>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言</span></li><li><a href=https://github.com/juliencrn/usehooks-ts>juliencrn/usehooks-ts</a> -- <span>React hook library, ready to use, written in Typescript.</span></li><li><a href=https://github.com/invoke-ai/InvokeAI>invoke-ai/InvokeAI</a> -- <span>This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/25/22, 8:39 PM<br>下一次刷新：11/25/22, 11:39 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/25/22, 11:21 PM<br>下一次刷新：11/26/22, 2:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
