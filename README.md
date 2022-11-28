@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/invoke-ai/InvokeAI>invoke-ai/InvokeAI</a> -- <span>This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.</span></li><li><a href=https://github.com/naptha/tesseract.js>naptha/tesseract.js</a> -- <span>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</span></li><li><a href=https://github.com/midwayjs/midway>midwayjs/midway</a> -- <span>🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈</span></li><li><a href=https://github.com/Matt-Esch/virtual-dom>Matt-Esch/virtual-dom</a> -- <span>A Virtual DOM and diffing algorithm</span></li><li><a href=https://github.com/thebaselab/codeapp>thebaselab/codeapp</a> -- <span>Building a full-fledged code editor for iPad</span></li></ul>
+<ul><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li><li><a href=https://github.com/Matt-Esch/virtual-dom>Matt-Esch/virtual-dom</a> -- <span>A Virtual DOM and diffing algorithm</span></li><li><a href=https://github.com/juliencrn/usehooks-ts>juliencrn/usehooks-ts</a> -- <span>React hook library, ready to use, written in Typescript.</span></li><li><a href=https://github.com/nastyox/Repo-Roster>nastyox/Repo-Roster</a> -- <span>Shout-out supporters in your GitHub README file.</span></li><li><a href=https://github.com/k88hudson/git-flight-rules>k88hudson/git-flight-rules</a> -- <span>Flight rules for git</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/28/22, 11:31 AM<br>下一次刷新：11/28/22, 2:31 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/28/22, 2:26 PM<br>下一次刷新：11/28/22, 5:26 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
