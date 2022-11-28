@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/angus-c/just>angus-c/just</a> -- <span>A library of dependency-free JavaScript utilities that do just one thing.</span></li><li><a href=https://github.com/mancuoj/CS50x>mancuoj/CS50x</a> -- <span>Harvard CS50x — 2022 Solutions 🙌</span></li><li><a href=https://github.com/atlassian/react-beautiful-dnd>atlassian/react-beautiful-dnd</a> -- <span>Beautiful and accessible drag and drop for lists with React</span></li><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a> -- <span>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言</span></li><li><a href=https://github.com/juliencrn/usehooks-ts>juliencrn/usehooks-ts</a> -- <span>React hook library, ready to use, written in Typescript.</span></li></ul>
+<ul><li><a href=https://github.com/NativeScript/NativeScript>NativeScript/NativeScript</a> -- <span>⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.</span></li><li><a href=https://github.com/grafana/grafana>grafana/grafana</a> -- <span>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</span></li><li><a href=https://github.com/nastyox/Repo-Roster>nastyox/Repo-Roster</a> -- <span>Shout-out supporters in your GitHub README file.</span></li><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a> -- <span>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言</span></li><li><a href=https://github.com/thebaselab/codeapp>thebaselab/codeapp</a> -- <span>Building a full-fledged code editor for iPad</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/28/22, 5:20 PM<br>下一次刷新：11/28/22, 8:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/28/22, 8:39 PM<br>下一次刷新：11/28/22, 11:39 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
