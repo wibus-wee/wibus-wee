@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/invoke-ai/InvokeAI>invoke-ai/InvokeAI</a> -- <span>This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.</span></li><li><a href=https://github.com/NativeScript/NativeScript>NativeScript/NativeScript</a> -- <span>⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.</span></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a> -- <span>This project still work in progress.</span></li><li><a href=https://github.com/ProxymanApp/Proxyman>ProxymanApp/Proxyman</a> -- <span>Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️</span></li></ul>
+<ul><li><a href=https://github.com/ProxymanApp/Proxyman>ProxymanApp/Proxyman</a> -- <span>Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️</span></li><li><a href=https://github.com/k88hudson/git-flight-rules>k88hudson/git-flight-rules</a> -- <span>Flight rules for git</span></li><li><a href=https://github.com/justin-schroeder/arrow-js>justin-schroeder/arrow-js</a> -- <span>Reactivity without the framework</span></li><li><a href=https://github.com/mancuoj/CS50x>mancuoj/CS50x</a> -- <span>Harvard CS50x — 2022 Solutions 🙌</span></li><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a> -- <span>Vue 哲学</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/29/22, 5:18 AM<br>下一次刷新：11/29/22, 8:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/29/22, 9:45 AM<br>下一次刷新：11/29/22, 12:45 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
