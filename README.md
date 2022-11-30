@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/thebaselab/codeapp>thebaselab/codeapp</a> -- <span>Building a full-fledged code editor for iPad</span></li><li><a href=https://github.com/iamadamdev/bypass-paywalls-chrome>iamadamdev/bypass-paywalls-chrome</a> -- <span>Bypass Paywalls web browser extension for Chrome and Firefox.</span></li><li><a href=https://github.com/yihui/hugo-ivy>yihui/hugo-ivy</a> -- <span>A Hugo theme ported from Ivy</span></li><li><a href=https://github.com/NativeScript/NativeScript>NativeScript/NativeScript</a> -- <span>⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.</span></li><li><a href=https://github.com/naptha/tesseract.js>naptha/tesseract.js</a> -- <span>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</span></li></ul>
+<ul><li><a href=https://github.com/juliencrn/usehooks-ts>juliencrn/usehooks-ts</a> -- <span>React hook library, ready to use, written in Typescript.</span></li><li><a href=https://github.com/NativeScript/NativeScript>NativeScript/NativeScript</a> -- <span>⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.</span></li><li><a href=https://github.com/iamadamdev/bypass-paywalls-chrome>iamadamdev/bypass-paywalls-chrome</a> -- <span>Bypass Paywalls web browser extension for Chrome and Firefox.</span></li><li><a href=https://github.com/yihui/hugo-ivy>yihui/hugo-ivy</a> -- <span>A Hugo theme ported from Ivy</span></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/30/22, 11:22 PM<br>下一次刷新：12/1/22, 2:22 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/1/22, 2:26 AM<br>下一次刷新：12/1/22, 5:26 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
