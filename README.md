@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/isolcat/babel-plugin-testdev>isolcat/babel-plugin-testdev</a> -- <span>The babel plugin for hiding your test code</span></li><li><a href=https://github.com/yihui/hugo-ivy>yihui/hugo-ivy</a> -- <span>A Hugo theme ported from Ivy</span></li><li><a href=https://github.com/thebaselab/codeapp>thebaselab/codeapp</a> -- <span>Building a full-fledged code editor for iPad</span></li><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a> -- <span>This project still work in progress.</span></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li></ul>
+<ul><li><a href=https://github.com/alexeyraspopov/picocolors>alexeyraspopov/picocolors</a> -- <span>The tiniest and the fastest library for terminal output formatting with ANSI colors</span></li><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a> -- <span>This project still work in progress.</span></li><li><a href=https://github.com/yihui/hugo-ivy>yihui/hugo-ivy</a> -- <span>A Hugo theme ported from Ivy</span></li><li><a href=https://github.com/k88hudson/git-flight-rules>k88hudson/git-flight-rules</a> -- <span>Flight rules for git</span></li><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a> -- <span>Vue 哲学</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/30/22, 5:18 AM<br>下一次刷新：11/30/22, 8:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/30/22, 9:46 AM<br>下一次刷新：11/30/22, 12:46 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
