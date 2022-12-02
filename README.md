@@ -87,12 +87,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/pmndrs/react-three-fiber>pmndrs/react-three-fiber</a> -- <span>🇨🇭 A React renderer for Three.js</span></li><li><a href=https://github.com/webfansplz/vtui-repl>webfansplz/vtui-repl</a> -- <span>Node.js REPL Terminal.</span></li><li><a href=https://github.com/master-co/css>master-co/css</a> -- <span>A Virtual CSS language with enhanced syntax ~13KB</span></li><li><a href=https://github.com/pomber/didact>pomber/didact</a> -- <span>A DIY guide to build your own React</span></li><li><a href=https://github.com/xiaoluoboding/bookmark.style>xiaoluoboding/bookmark.style</a> -- <span>🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.</span></li></ul>
+<ul><li><a href=https://github.com/apple/ml-stable-diffusion>apple/ml-stable-diffusion</a> -- <span>Stable Diffusion with Core ML on Apple Silicon</span></li><li><a href=https://github.com/pmndrs/react-three-fiber>pmndrs/react-three-fiber</a> -- <span>🇨🇭 A React renderer for Three.js</span></li><li><a href=https://github.com/webfansplz/vtui-repl>webfansplz/vtui-repl</a> -- <span>Node.js REPL Terminal.</span></li><li><a href=https://github.com/master-co/css>master-co/css</a> -- <span>A Virtual CSS language with enhanced syntax ~13KB</span></li><li><a href=https://github.com/pomber/didact>pomber/didact</a> -- <span>A DIY guide to build your own React</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/naptha/tesseract.js>naptha/tesseract.js</a> -- <span>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</span></li><li><a href=https://github.com/juliencrn/usehooks-ts>juliencrn/usehooks-ts</a> -- <span>React hook library, ready to use, written in Typescript.</span></li><li><a href=https://github.com/midwayjs/midway>midwayjs/midway</a> -- <span>🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈</span></li><li><a href=https://github.com/mancuoj/CS50x>mancuoj/CS50x</a> -- <span>Harvard CS50x — 2022 Solutions 🙌</span></li><li><a href=https://github.com/isolcat/babel-plugin-testdev>isolcat/babel-plugin-testdev</a> -- <span>The babel plugin for hiding your test code</span></li></ul>
+<ul><li><a href=https://github.com/xiaoluoboding/bookmark.style>xiaoluoboding/bookmark.style</a> -- <span>🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.</span></li><li><a href=https://github.com/angus-c/just>angus-c/just</a> -- <span>A library of dependency-free JavaScript utilities that do just one thing.</span></li><li><a href=https://github.com/thebaselab/codeapp>thebaselab/codeapp</a> -- <span>Building a full-fledged code editor for iPad</span></li><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a> -- <span>Vue 哲学</span></li><li><a href=https://github.com/NativeScript/NativeScript>NativeScript/NativeScript</a> -- <span>⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/2/22, 2:24 PM<br>下一次刷新：12/2/22, 5:24 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/2/22, 5:18 PM<br>下一次刷新：12/2/22, 8:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
