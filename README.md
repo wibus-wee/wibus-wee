@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/NativeScript/NativeScript>NativeScript/NativeScript</a> -- <span>⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.</span></li><li><a href=https://github.com/thebaselab/codeapp>thebaselab/codeapp</a> -- <span>Building a full-fledged code editor for iPad</span></li><li><a href=https://github.com/midwayjs/midway>midwayjs/midway</a> -- <span>🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈</span></li><li><a href=https://github.com/misskey-dev/misskey>misskey-dev/misskey</a> -- <span>🌎 An interplanetary microblogging platform 🚀</span></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li></ul>
+<ul><li><a href=https://github.com/naptha/tesseract.js>naptha/tesseract.js</a> -- <span>Pure Javascript OCR for more than 100 Languages 📖🎉🖥</span></li><li><a href=https://github.com/NativeScript/NativeScript>NativeScript/NativeScript</a> -- <span>⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.</span></li><li><a href=https://github.com/isolcat/babel-plugin-testdev>isolcat/babel-plugin-testdev</a> -- <span>The babel plugin for hiding your test code</span></li><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a> -- <span>This project still work in progress.</span></li><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a> -- <span>Vue 哲学</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/3/22, 11:20 AM<br>下一次刷新：12/3/22, 2:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/3/22, 5:17 PM<br>下一次刷新：12/3/22, 8:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
