@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/iamadamdev/bypass-paywalls-chrome>iamadamdev/bypass-paywalls-chrome</a> -- <span>Bypass Paywalls web browser extension for Chrome and Firefox.</span></li><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a> -- <span>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言</span></li><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a> -- <span>Vue 哲学</span></li><li><a href=https://github.com/ProxymanApp/Proxyman>ProxymanApp/Proxyman</a> -- <span>Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️</span></li><li><a href=https://github.com/thebaselab/codeapp>thebaselab/codeapp</a> -- <span>Building a full-fledged code editor for iPad</span></li></ul>
+<ul><li><a href=https://github.com/iamadamdev/bypass-paywalls-chrome>iamadamdev/bypass-paywalls-chrome</a> -- <span>Bypass Paywalls web browser extension for Chrome and Firefox.</span></li><li><a href=https://github.com/ProxymanApp/Proxyman>ProxymanApp/Proxyman</a> -- <span>Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️</span></li><li><a href=https://github.com/nastyox/Repo-Roster>nastyox/Repo-Roster</a> -- <span>Shout-out supporters in your GitHub README file.</span></li><li><a href=https://github.com/Innei/swr>Innei/swr</a></li><li><a href=https://github.com/thebaselab/codeapp>thebaselab/codeapp</a> -- <span>Building a full-fledged code editor for iPad</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/4/22, 8:35 PM<br>下一次刷新：12/4/22, 11:35 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/4/22, 11:18 PM<br>下一次刷新：12/5/22, 2:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
