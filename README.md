@@ -87,12 +87,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/apple/ml-stable-diffusion>apple/ml-stable-diffusion</a> -- <span>Stable Diffusion with Core ML on Apple Silicon</span></li><li><a href=https://github.com/pmndrs/react-three-fiber>pmndrs/react-three-fiber</a> -- <span>🇨🇭 A React renderer for Three.js</span></li><li><a href=https://github.com/webfansplz/vtui-repl>webfansplz/vtui-repl</a> -- <span>Node.js REPL Terminal.</span></li><li><a href=https://github.com/master-co/css>master-co/css</a> -- <span>A Virtual CSS language with enhanced syntax ~13KB</span></li><li><a href=https://github.com/pomber/didact>pomber/didact</a> -- <span>A DIY guide to build your own React</span></li></ul>
+<ul><li><a href=https://github.com/forrestchang/gptlang>forrestchang/gptlang</a> -- <span>A new programming language running in ChatGPT</span></li><li><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a> -- <span>A client for QQ and more.:electron:</span></li><li><a href=https://github.com/apple/ml-stable-diffusion>apple/ml-stable-diffusion</a> -- <span>Stable Diffusion with Core ML on Apple Silicon</span></li><li><a href=https://github.com/pmndrs/react-three-fiber>pmndrs/react-three-fiber</a> -- <span>🇨🇭 A React renderer for Three.js</span></li><li><a href=https://github.com/webfansplz/vtui-repl>webfansplz/vtui-repl</a> -- <span>Node.js REPL Terminal.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/isolcat/babel-plugin-testdev>isolcat/babel-plugin-testdev</a> -- <span>The babel plugin for hiding your test code</span></li><li><a href=https://github.com/alexeyraspopov/picocolors>alexeyraspopov/picocolors</a> -- <span>The tiniest and the fastest library for terminal output formatting with ANSI colors</span></li><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a> -- <span>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言</span></li><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a> -- <span>Vue 哲学</span></li><li><a href=https://github.com/isomorphic-git/isomorphic-git>isomorphic-git/isomorphic-git</a> -- <span>A pure JavaScript implementation of git for node and browsers!</span></li></ul>
+<ul><li><a href=https://github.com/iamadamdev/bypass-paywalls-chrome>iamadamdev/bypass-paywalls-chrome</a> -- <span>Bypass Paywalls web browser extension for Chrome and Firefox.</span></li><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a> -- <span>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言</span></li><li><a href=https://github.com/NiceLabs/vue-way>NiceLabs/vue-way</a> -- <span>Vue 哲学</span></li><li><a href=https://github.com/ProxymanApp/Proxyman>ProxymanApp/Proxyman</a> -- <span>Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️</span></li><li><a href=https://github.com/thebaselab/codeapp>thebaselab/codeapp</a> -- <span>Building a full-fledged code editor for iPad</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/4/22, 5:17 PM<br>下一次刷新：12/4/22, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/4/22, 8:35 PM<br>下一次刷新：12/4/22, 11:35 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
