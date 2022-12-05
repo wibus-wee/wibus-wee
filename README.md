@@ -92,7 +92,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/iamadamdev/bypass-paywalls-chrome>iamadamdev/bypass-paywalls-chrome</a> -- <span>Bypass Paywalls web browser extension for Chrome and Firefox.</span></li><li><a href=https://github.com/misskey-dev/misskey>misskey-dev/misskey</a> -- <span>🌎 An interplanetary microblogging platform 🚀</span></li><li><a href=https://github.com/nastyox/Repo-Roster>nastyox/Repo-Roster</a> -- <span>Shout-out supporters in your GitHub README file.</span></li><li><a href=https://github.com/taowen/modularization-examples>taowen/modularization-examples</a> -- <span>代码防腐实用技术</span></li><li><a href=https://github.com/juliencrn/usehooks-ts>juliencrn/usehooks-ts</a> -- <span>React hook library, ready to use, written in Typescript.</span></li></ul>
+<ul><li><a href=https://github.com/apple/ml-stable-diffusion>apple/ml-stable-diffusion</a> -- <span>Stable Diffusion with Core ML on Apple Silicon</span></li><li><a href=https://github.com/Innei/markdown-to-jsx-vue3>Innei/markdown-to-jsx-vue3</a></li><li><a href=https://github.com/xiaoluoboding/bookmark.style>xiaoluoboding/bookmark.style</a> -- <span>🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.</span></li><li><a href=https://github.com/master-co/css>master-co/css</a> -- <span>A Virtual CSS language with enhanced syntax ~13KB</span></li><li><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a> -- <span>A client for QQ and more.:electron:</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/6/22, 2:24 AM<br>下一次刷新：12/6/22, 5:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/6/22, 5:17 AM<br>下一次刷新：12/6/22, 8:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
