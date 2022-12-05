@@ -87,12 +87,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/forrestchang/gptlang>forrestchang/gptlang</a> -- <span>A new programming language running in ChatGPT</span></li><li><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a> -- <span>A client for QQ and more.:electron:</span></li><li><a href=https://github.com/apple/ml-stable-diffusion>apple/ml-stable-diffusion</a> -- <span>Stable Diffusion with Core ML on Apple Silicon</span></li><li><a href=https://github.com/pmndrs/react-three-fiber>pmndrs/react-three-fiber</a> -- <span>🇨🇭 A React renderer for Three.js</span></li><li><a href=https://github.com/webfansplz/vtui-repl>webfansplz/vtui-repl</a> -- <span>Node.js REPL Terminal.</span></li></ul>
+<ul><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a> -- <span>Showcase your skills on your Github readme or resumé with ease ✨</span></li><li><a href=https://github.com/forrestchang/gptlang>forrestchang/gptlang</a> -- <span>A new programming language running in ChatGPT</span></li><li><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a> -- <span>A client for QQ and more.:electron:</span></li><li><a href=https://github.com/apple/ml-stable-diffusion>apple/ml-stable-diffusion</a> -- <span>Stable Diffusion with Core ML on Apple Silicon</span></li><li><a href=https://github.com/pmndrs/react-three-fiber>pmndrs/react-three-fiber</a> -- <span>🇨🇭 A React renderer for Three.js</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/gmrchk/blobity>gmrchk/blobity</a> -- <span>The cursor is the heart of any interaction with the web. Why not take it to the next level? 🚀</span></li><li><a href=https://github.com/NativeScript/NativeScript>NativeScript/NativeScript</a> -- <span>⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.</span></li><li><a href=https://github.com/pomber/didact>pomber/didact</a> -- <span>A DIY guide to build your own React</span></li><li><a href=https://github.com/k88hudson/git-flight-rules>k88hudson/git-flight-rules</a> -- <span>Flight rules for git</span></li><li><a href=https://github.com/juliencrn/usehooks-ts>juliencrn/usehooks-ts</a> -- <span>React hook library, ready to use, written in Typescript.</span></li></ul>
+<ul><li><a href=https://github.com/isomorphic-git/isomorphic-git>isomorphic-git/isomorphic-git</a> -- <span>A pure JavaScript implementation of git for node and browsers!</span></li><li><a href=https://github.com/thebaselab/codeapp>thebaselab/codeapp</a> -- <span>Building a full-fledged code editor for iPad</span></li><li><a href=https://github.com/NativeScript/NativeScript>NativeScript/NativeScript</a> -- <span>⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.</span></li><li><a href=https://github.com/taowen/modularization-examples>taowen/modularization-examples</a> -- <span>代码防腐实用技术</span></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a> -- <span>Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +105,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/5/22, 2:22 AM<br>下一次刷新：12/5/22, 5:22 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/5/22, 9:39 AM<br>下一次刷新：12/5/22, 12:39 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
