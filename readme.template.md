@@ -11,6 +11,21 @@
 
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
+<details>
+  <summary>
+    Oops...
+  </summary>
+  
+  <br>
+
+> 现在环境愈加恶劣，我随时可能无法访问 `*.github.com` 了，如果我突然完全没有了 commit 的话，那大概率就是我无法继续访问了
+>
+> The environment is becoming increasingly harsh, and I may not be able to access `*.github.com` at any time. If I suddenly have no commits, it is likely that I will no longer be able to access it.
+  
+<br>
+<hr>
+
+</details>
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
