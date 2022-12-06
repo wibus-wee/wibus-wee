@@ -11,6 +11,21 @@
 
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
+<details>
+  <summary>
+    Oops...
+  </summary>
+  
+  <br>
+
+> 现在环境愈加恶劣，我随时可能无法访问 `*.github.com` 了，如果我突然完全没有了 commit 的话，那大概率就是我无法继续访问了
+>
+> The environment is becoming increasingly harsh, and I may not be able to access `*.github.com` at any time. If I suddenly have no commits, it is likely that I will no longer be able to access it.
+  
+<br>
+<hr>
+
+</details>
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
@@ -87,12 +102,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/XboxYan/xy-ui>XboxYan/xy-ui</a> -- <span>🎨面向未来的原生 web components UI组件库</span></li><li><a href=https://github.com/43081j/postcss-lit>43081j/postcss-lit</a> -- <span>PostCSS syntax for extracting CSS from template literals inside JS/TS files</span></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a> -- <span>Lucy's Ver.1.50 Designed with Zerobot-Plugin Project.</span></li><li><a href=https://github.com/streamich/memfs>streamich/memfs</a> -- <span>In-memory filesystem with Node's API</span></li><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a> -- <span>Showcase your skills on your Github readme or resumé with ease ✨</span></li></ul>
+<ul><li><a href=https://github.com/jgm/djot>jgm/djot</a> -- <span>A light markup language</span></li><li><a href=https://github.com/XboxYan/xy-ui>XboxYan/xy-ui</a> -- <span>🎨面向未来的原生 web components UI组件库</span></li><li><a href=https://github.com/43081j/postcss-lit>43081j/postcss-lit</a> -- <span>PostCSS syntax for extracting CSS from template literals inside JS/TS files</span></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a> -- <span>Lucy's Ver.1.50 Designed with Zerobot-Plugin Project.</span></li><li><a href=https://github.com/streamich/memfs>streamich/memfs</a> -- <span>In-memory filesystem with Node's API</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a> -- <span>A Fast, Small & Powerful Blog Template For Developer.</span></li><li><a href=https://github.com/isomorphic-git/isomorphic-git>isomorphic-git/isomorphic-git</a> -- <span>A pure JavaScript implementation of git for node and browsers!</span></li><li><a href=https://github.com/forrestchang/gptlang>forrestchang/gptlang</a> -- <span>A new programming language running in ChatGPT</span></li><li><a href=https://github.com/NativeScript/NativeScript>NativeScript/NativeScript</a> -- <span>⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.</span></li><li><a href=https://github.com/ProxymanApp/Proxyman>ProxymanApp/Proxyman</a> -- <span>Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️</span></li></ul>
+<ul><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a> -- <span>Showcase your skills on your Github readme or resumé with ease ✨</span></li><li><a href=https://github.com/forrestchang/gptlang>forrestchang/gptlang</a> -- <span>A new programming language running in ChatGPT</span></li><li><a href=https://github.com/NekoChanTaiwan/astro-blog>NekoChanTaiwan/astro-blog</a> -- <span>A Fast, Small & Powerful Blog Template For Developer.</span></li><li><a href=https://github.com/angus-c/just>angus-c/just</a> -- <span>A library of dependency-free JavaScript utilities that do just one thing.</span></li><li><a href=https://github.com/k88hudson/git-flight-rules>k88hudson/git-flight-rules</a> -- <span>Flight rules for git</span></li></ul>
 
 
 **捉迷藏**
@@ -105,7 +120,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/6/22, 5:18 PM<br>下一次刷新：12/6/22, 8:18 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/6/22, 7:17 PM<br>下一次刷新：12/6/22, 10:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
