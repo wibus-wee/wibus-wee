@@ -1,13 +1,10 @@
 export const opensource = {
   active: [
     'mogland/core',
-    'mogland/console',
-    'mogland/mog-docs',
     'wibus-wee/wc-lantern',
     'wibus-wee/iucky.cn',
-    'mogland/mog-theme-Single',
-    'mogland/mog-theme-tiny',
-    'wibus-wee/koishi-plugin-novel-ai-api',
+    'wibus-wee/chatgpt-bing-extension',
+    'wibus-wee/github-event-discord-listener',
     'wibus-wee/Mix',
     'utmapp/UTM',
   ],
