@@ -107,7 +107,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/isomorphic-git/isomorphic-git>isomorphic-git/isomorphic-git</a> -- <span>A pure JavaScript implementation of git for node and browsers!</span></li><li><a href=https://github.com/XboxYan/xy-ui>XboxYan/xy-ui</a> -- <span>🎨面向未来的原生 web components UI组件库</span></li><li><a href=https://github.com/apple/ml-stable-diffusion>apple/ml-stable-diffusion</a> -- <span>Stable Diffusion with Core ML on Apple Silicon</span></li><li><a href=https://github.com/xiaoluoboding/bookmark.style>xiaoluoboding/bookmark.style</a> -- <span>🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.</span></li><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a> -- <span>Node.js client for the unofficial ChatGPT API.</span></li></ul>
+<ul><li><a href=https://github.com/jgm/djot>jgm/djot</a> -- <span>A light markup language</span></li><li><a href=https://github.com/XboxYan/xy-ui>XboxYan/xy-ui</a> -- <span>🎨面向未来的原生 web components UI组件库</span></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a> -- <span>Lucy's Ver.1.50 Designed with Zerobot-Plugin Project.</span></li><li><a href=https://github.com/pomber/didact>pomber/didact</a> -- <span>A DIY guide to build your own React</span></li><li><a href=https://github.com/ProxymanApp/Proxyman>ProxymanApp/Proxyman</a> -- <span>Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️</span></li></ul>
 
 
 **捉迷藏**
@@ -120,7 +120,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/8/22, 2:24 AM<br>下一次刷新：12/8/22, 5:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/8/22, 5:17 AM<br>下一次刷新：12/8/22, 8:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
