@@ -107,7 +107,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/iamadamdev/bypass-paywalls-chrome>iamadamdev/bypass-paywalls-chrome</a> -- <span>Bypass Paywalls web browser extension for Chrome and Firefox.</span></li><li><a href=https://github.com/pomber/didact>pomber/didact</a> -- <span>A DIY guide to build your own React</span></li><li><a href=https://github.com/streamich/memfs>streamich/memfs</a> -- <span>In-memory filesystem with Node's API</span></li><li><a href=https://github.com/jgm/djot>jgm/djot</a> -- <span>A light markup language</span></li><li><a href=https://github.com/43081j/postcss-lit>43081j/postcss-lit</a> -- <span>PostCSS syntax for extracting CSS from template literals inside JS/TS files</span></li></ul>
+<ul><li><a href=https://github.com/ZohaibAhmed/ChatGPT-Google>ZohaibAhmed/ChatGPT-Google</a> -- <span>Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search</span></li><li><a href=https://github.com/jgm/djot>jgm/djot</a> -- <span>A light markup language</span></li><li><a href=https://github.com/pmndrs/react-three-fiber>pmndrs/react-three-fiber</a> -- <span>🇨🇭 A React renderer for Three.js</span></li><li><a href=https://github.com/angus-c/just>angus-c/just</a> -- <span>A library of dependency-free JavaScript utilities that do just one thing.</span></li><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a> -- <span>Node.js client for the unofficial ChatGPT API. 🔥</span></li></ul>
 
 
 **捉迷藏**
@@ -120,7 +120,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/9/22, 2:23 PM<br>下一次刷新：12/9/22, 5:23 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/9/22, 5:18 PM<br>下一次刷新：12/9/22, 8:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
