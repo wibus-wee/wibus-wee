@@ -107,7 +107,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/master-co/css>master-co/css</a> -- <span>A Virtual CSS language with enhanced syntax ~13KB</span></li><li><a href=https://github.com/webfansplz/vtui-repl>webfansplz/vtui-repl</a> -- <span>Node.js REPL Terminal.</span></li><li><a href=https://github.com/Hacker-C/reactease>Hacker-C/reactease</a> -- <span>React + Unocss template starter</span></li><li><a href=https://github.com/pomber/didact>pomber/didact</a> -- <span>A DIY guide to build your own React</span></li><li><a href=https://github.com/xiaoluoboding/bookmark.style>xiaoluoboding/bookmark.style</a> -- <span>🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.</span></li></ul>
+<ul><li><a href=https://github.com/forrestchang/gptlang>forrestchang/gptlang</a> -- <span>A new programming language running in ChatGPT</span></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a> -- <span>Lucy's Ver.1.50 Designed with Zerobot-Plugin Project.</span></li><li><a href=https://github.com/master-co/css>master-co/css</a> -- <span>A Virtual CSS language with enhanced syntax ~13KB</span></li><li><a href=https://github.com/wibus-wee/chatgpt-bing-extension>wibus-wee/chatgpt-bing-extension</a> -- <span>Display ChatGPT response alongside Bing Search results</span></li><li><a href=https://github.com/xiaoluoboding/bookmark.style>xiaoluoboding/bookmark.style</a> -- <span>🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.</span></li></ul>
 
 
 **捉迷藏**
@@ -120,7 +120,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/11/22, 8:35 PM<br>下一次刷新：12/11/22, 11:35 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/11/22, 11:18 PM<br>下一次刷新：12/12/22, 2:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
