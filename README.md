@@ -107,7 +107,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/master-co/css>master-co/css</a> -- <span>A Virtual CSS language with enhanced syntax ~13KB</span></li><li><a href=https://github.com/zenorocha/react-email>zenorocha/react-email</a> -- <span>💌 Build and send emails using React</span></li><li><a href=https://github.com/wibus-wee/chatgpt-bing-extension>wibus-wee/chatgpt-bing-extension</a> -- <span>Display ChatGPT response alongside Bing Search results</span></li><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a> -- <span>Node.js client for the unofficial ChatGPT API. 🔥</span></li><li><a href=https://github.com/ZohaibAhmed/ChatGPT-Google>ZohaibAhmed/ChatGPT-Google</a> -- <span>Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search</span></li></ul>
+<ul><li><a href=https://github.com/xiaoluoboding/bookmark.style>xiaoluoboding/bookmark.style</a> -- <span>🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.</span></li><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a> -- <span>Node.js client for the unofficial ChatGPT API. 🔥</span></li><li><a href=https://github.com/wibus-wee/chatgpt-bing-extension>wibus-wee/chatgpt-bing-extension</a> -- <span>Display ChatGPT response alongside Bing Search results</span></li><li><a href=https://github.com/zenorocha/react-email>zenorocha/react-email</a> -- <span>💌 Build and send emails using React</span></li><li><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a> -- <span>A client for QQ and more.:electron:</span></li></ul>
 
 
 **捉迷藏**
@@ -120,7 +120,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/11/22, 5:16 AM<br>下一次刷新：12/11/22, 8:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/11/22, 9:46 AM<br>下一次刷新：12/11/22, 12:46 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
