@@ -102,12 +102,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Jinjiang/zhlint>Jinjiang/zhlint</a> -- <span>A linting tool for Chinese language.</span></li><li><a href=https://github.com/vitejs/vite-plugin-react-swc>vitejs/vite-plugin-react-swc</a> -- <span>Speed up your Vite dev server with SWC</span></li><li><a href=https://github.com/shuding/nextra>shuding/nextra</a> -- <span>Simple, powerful and flexible site generation framework with everything you love from Next.js.</span></li><li><a href=https://github.com/OBQun/full-stack-toys>OBQun/full-stack-toys</a></li><li><a href=https://github.com/uiwjs/react-color>uiwjs/react-color</a> -- <span>🎨 Is a tiny color picker widget component for React apps.</span></li></ul>
+<ul><li><a href=https://github.com/AutumnWhj/ChatGPT-wechat-bot>AutumnWhj/ChatGPT-wechat-bot</a> -- <span>ChatGPT for wechat</span></li><li><a href=https://github.com/Jinjiang/zhlint>Jinjiang/zhlint</a> -- <span>A linting tool for Chinese language.</span></li><li><a href=https://github.com/vitejs/vite-plugin-react-swc>vitejs/vite-plugin-react-swc</a> -- <span>Speed up your Vite dev server with SWC</span></li><li><a href=https://github.com/shuding/nextra>shuding/nextra</a> -- <span>Simple, powerful and flexible site generation framework with everything you love from Next.js.</span></li><li><a href=https://github.com/OBQun/full-stack-toys>OBQun/full-stack-toys</a></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pomber/didact>pomber/didact</a> -- <span>A DIY guide to build your own React</span></li><li><a href=https://github.com/webfansplz/vtui-repl>webfansplz/vtui-repl</a> -- <span>Node.js REPL Terminal.</span></li><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a> -- <span>Showcase your skills on your Github readme or resumé with ease ✨</span></li><li><a href=https://github.com/Hacker-C/60s>Hacker-C/60s</a> -- <span>每天 60 秒读懂世界 API</span></li><li><a href=https://github.com/master-co/css>master-co/css</a> -- <span>A Virtual CSS language with enhanced syntax ~13KB</span></li></ul>
+<ul><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a> -- <span>Node.js client for the unofficial ChatGPT API. 🔥</span></li><li><a href=https://github.com/jgm/djot>jgm/djot</a> -- <span>A light markup language</span></li><li><a href=https://github.com/XboxYan/xy-ui>XboxYan/xy-ui</a> -- <span>🎨面向未来的原生 web components UI组件库</span></li><li><a href=https://github.com/uiwjs/react-color>uiwjs/react-color</a> -- <span>🎨 Is a tiny color picker widget component for React apps.</span></li><li><a href=https://github.com/43081j/postcss-lit>43081j/postcss-lit</a> -- <span>PostCSS syntax for extracting CSS from template literals inside JS/TS files</span></li></ul>
 
 
 **捉迷藏**
@@ -120,7 +120,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/11/22, 11:24 AM<br>下一次刷新：12/11/22, 2:24 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/11/22, 2:23 PM<br>下一次刷新：12/11/22, 5:23 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
