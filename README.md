@@ -107,7 +107,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/OBQun/full-stack-toys>OBQun/full-stack-toys</a></li><li><a href=https://github.com/unjs/nypm>unjs/nypm</a> -- <span>🌈 Unified Package Manager for Node.js</span></li><li><a href=https://github.com/shuding/nextra>shuding/nextra</a> -- <span>Simple, powerful and flexible site generation framework with everything you love from Next.js.</span></li><li><a href=https://github.com/zenorocha/react-email>zenorocha/react-email</a> -- <span>💌 Build and send emails using React</span></li><li><a href=https://github.com/vitejs/vite-plugin-react-swc>vitejs/vite-plugin-react-swc</a> -- <span>Speed up your Vite dev server with SWC</span></li></ul>
+<ul><li><a href=https://github.com/Hacker-C/60s>Hacker-C/60s</a> -- <span>每天 60 秒读懂世界 API</span></li><li><a href=https://github.com/Hacker-C/reactease>Hacker-C/reactease</a> -- <span>React + Unocss template starter</span></li><li><a href=https://github.com/shuding/nextra>shuding/nextra</a> -- <span>Simple, powerful and flexible site generation framework with everything you love from Next.js.</span></li><li><a href=https://github.com/vitejs/vite-plugin-react-swc>vitejs/vite-plugin-react-swc</a> -- <span>Speed up your Vite dev server with SWC</span></li><li><a href=https://github.com/ZohaibAhmed/ChatGPT-Google>ZohaibAhmed/ChatGPT-Google</a> -- <span>Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search</span></li></ul>
 
 
 **捉迷藏**
@@ -120,7 +120,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/14/22, 11:24 AM<br>下一次刷新：12/14/22, 2:24 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/14/22, 2:25 PM<br>下一次刷新：12/14/22, 5:25 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
