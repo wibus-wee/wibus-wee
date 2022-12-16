@@ -107,7 +107,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Jinjiang/zhlint>Jinjiang/zhlint</a> -- <span>A linting tool for Chinese language.</span></li><li><a href=https://github.com/43081j/postcss-lit>43081j/postcss-lit</a> -- <span>PostCSS syntax for extracting CSS from template literals inside JS/TS files</span></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a> -- <span>Lucy's Ver.1.50 Designed with Zerobot-Plugin Project.</span></li><li><a href=https://github.com/uiwjs/react-color>uiwjs/react-color</a> -- <span>🎨 Is a tiny color picker widget component for React apps.</span></li><li><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a> -- <span>A client for QQ and more.:electron:</span></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/chatgpt-bing-extension>wibus-wee/chatgpt-bing-extension</a> -- <span>Display ChatGPT response alongside Bing Search results</span></li><li><a href=https://github.com/uiwjs/react-color>uiwjs/react-color</a> -- <span>🎨 Is a tiny color picker widget component for React apps.</span></li><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a> -- <span>Showcase your skills on your Github readme or resumé with ease ✨</span></li><li><a href=https://github.com/forrestchang/gptlang>forrestchang/gptlang</a> -- <span>A new programming language running in ChatGPT</span></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a> -- <span>Lucy's Ver.1.50 Designed with Zerobot-Plugin Project.</span></li></ul>
 
 
 **捉迷藏**
@@ -120,7 +120,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/16/22, 11:20 PM<br>下一次刷新：12/17/22, 2:20 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/17/22, 2:22 AM<br>下一次刷新：12/17/22, 5:22 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
