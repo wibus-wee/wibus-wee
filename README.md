@@ -107,7 +107,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/hashicorp/nextjs-bundle-analysis>hashicorp/nextjs-bundle-analysis</a> -- <span>A github action that provides detailed bundle analysis on PRs for next.js apps</span></li><li><a href=https://github.com/XboxYan/xy-ui>XboxYan/xy-ui</a> -- <span>🎨面向未来的原生 web components UI组件库</span></li><li><a href=https://github.com/AutumnWhj/ChatGPT-wechat-bot>AutumnWhj/ChatGPT-wechat-bot</a> -- <span>ChatGPT for wechat</span></li><li><a href=https://github.com/shuding/nextra>shuding/nextra</a> -- <span>Simple, powerful and flexible site generation framework with everything you love from Next.js.</span></li><li><a href=https://github.com/Hacker-C/reactease>Hacker-C/reactease</a> -- <span>React + Unocss template starter</span></li></ul>
+<ul><li><a href=https://github.com/Jinjiang/zhlint>Jinjiang/zhlint</a> -- <span>A linting tool for Chinese language.</span></li><li><a href=https://github.com/wibus-wee/chatgpt-bing-extension>wibus-wee/chatgpt-bing-extension</a> -- <span>Display ChatGPT response alongside Bing Search results</span></li><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a> -- <span>Showcase your skills on your Github readme or resumé with ease ✨</span></li><li><a href=https://github.com/Hacker-C/reactease>Hacker-C/reactease</a> -- <span>React + Unocss template starter</span></li><li><a href=https://github.com/jgm/djot>jgm/djot</a> -- <span>A light markup language</span></li></ul>
 
 
 **捉迷藏**
@@ -120,7 +120,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/19/22, 9:25 AM<br>下一次刷新：12/19/22, 12:25 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/19/22, 11:20 AM<br>下一次刷新：12/19/22, 2:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
