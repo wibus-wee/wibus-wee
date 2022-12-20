@@ -107,7 +107,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/hashicorp/nextjs-bundle-analysis>hashicorp/nextjs-bundle-analysis</a> -- <span>A github action that provides detailed bundle analysis on PRs for next.js apps</span></li><li><a href=https://github.com/uiwjs/react-color>uiwjs/react-color</a> -- <span>🎨 Is a tiny color picker widget component for React apps.</span></li><li><a href=https://github.com/AutumnWhj/ChatGPT-wechat-bot>AutumnWhj/ChatGPT-wechat-bot</a> -- <span>ChatGPT for wechat</span></li><li><a href=https://github.com/Hacker-C/60s>Hacker-C/60s</a> -- <span>每天 60 秒读懂世界 API</span></li><li><a href=https://github.com/43081j/postcss-lit>43081j/postcss-lit</a> -- <span>PostCSS syntax for extracting CSS from template literals inside JS/TS files</span></li></ul>
+<ul><li><a href=https://github.com/transitive-bullshit/chatgpt-api>transitive-bullshit/chatgpt-api</a> -- <span>Node.js client for the unofficial ChatGPT API. 🔥</span></li><li><a href=https://github.com/wibus-wee/chatgpt-bing-extension>wibus-wee/chatgpt-bing-extension</a> -- <span>Display ChatGPT response alongside Bing Search results</span></li><li><a href=https://github.com/MiaoMint/Bukkit-WebChat>MiaoMint/Bukkit-WebChat</a> -- <span>bukkit插件 网页互通聊天</span></li><li><a href=https://github.com/43081j/postcss-lit>43081j/postcss-lit</a> -- <span>PostCSS syntax for extracting CSS from template literals inside JS/TS files</span></li><li><a href=https://github.com/uiwjs/react-color>uiwjs/react-color</a> -- <span>🎨 Is a tiny color picker widget component for React apps.</span></li></ul>
 
 
 **捉迷藏**
@@ -120,7 +120,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/20/22, 5:16 AM<br>下一次刷新：12/20/22, 8:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/20/22, 9:35 AM<br>下一次刷新：12/20/22, 12:35 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
