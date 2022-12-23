@@ -2,9 +2,6 @@
 <a href="mailto:wibus@qq.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>&nbsp;
-<a href="https://wpa.qq.com/msgrd?v=3&uin=1596355173&site=qq&menu=yes" align="center">
-  <img alt="My QQ Group, for Chinese visitors" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/qq.svg" />
-</a>&nbsp;
 <a href="https://twitter.com/wibus_wee" align="center">
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;)</h1>
@@ -18,8 +15,6 @@
   
   <br>
 
-> 现在环境愈加恶劣，我随时可能无法访问 `*.github.com` 了，如果我突然完全没有了 commit 的话，那大概率就是我无法继续访问了
->
 > The environment is becoming increasingly harsh, and I may not be able to access `*.github.com` at any time. If I suddenly have no commits, it is likely that I will no longer be able to access it.
   
 <br>
@@ -29,15 +24,15 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
-Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of [🏖 @mogland](https://github.com/mogland/core). 
+Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of 🔨 [@jwcjs](https://github.com/jwcjs/core) and 🏖 [@mogland](https://github.com/mogland/core) 
 
 I love myself, love the world, and always love my family. I hope I can become a FSD ( Full Stacks Developer ｜ 全栈开发者) oneday.
 
-I have been contributed to the **`Typecho`** ecosystem, and now I am working in **`Mog`** development.
+I have been contributed to the **`Typecho`** ecosystem, and now I am working in **`Mog`** & **`Jwc.js`** development.
 
 I began to learn vocal music and piano since I was a child, and I have won many first prizes in domestic and international competitions
 
-- 🔭 I’m currently working on a breakthrough blogging system 🏖 [@mogland](https://github.com/mogland/core)
+- 🔭 I’m currently working on a breakthrough blogging system 🏖 [@mogland](https://github.com/mogland/core) and web component framework 🔨 [@jwcjs](https://github.com/jwcjs/core) 
 - 🌱 I’m currently learning 🧵 web design, and so on.
 - 🤔 I’m looking for help with 🥚 MicroService Module design.
 - 📫 How to reach me: 🏠 [Home Page](https://iucky.cn) | ✍️ [Blog (CN)](https://blog.iucky.cn) | 🐦 [Twitter](https://twitter.com/@wibus_wee)
@@ -102,12 +97,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a> -- <span>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</span></li><li><a href=https://github.com/bvaughn/react-resizable-panels>bvaughn/react-resizable-panels</a></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a> -- <span>Simple React Component That Makes Titles More Readable</span></li><li><a href=https://github.com/TapXWorld/Math>TapXWorld/Math</a> -- <span>人教版小学到大学数学</span></li><li><a href=https://github.com/AkaraChen/bump-version>AkaraChen/bump-version</a> -- <span>Yet another bump version cli for npm packages, but written in Go.</span></li></ul>
+<ul><li><a href=https://github.com/front-end-monitor/front-end-monitor-sdk>front-end-monitor/front-end-monitor-sdk</a> -- <span>监控SDK</span></li><li><a href=https://github.com/btahir/uselesshooks>btahir/uselesshooks</a> -- <span>A Collection of Useless React Hooks to impress your coworkers</span></li><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a> -- <span>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</span></li><li><a href=https://github.com/bvaughn/react-resizable-panels>bvaughn/react-resizable-panels</a></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a> -- <span>Simple React Component That Makes Titles More Readable</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Hacker-C/60s>Hacker-C/60s</a> -- <span>每天 60 秒读懂世界 API</span></li><li><a href=https://github.com/lonestone/nest-sdk-generator>lonestone/nest-sdk-generator</a> -- <span>A REST SDK generator for NestJS. Strictly type your frontend's API calls :rocket:</span></li><li><a href=https://github.com/wibus-wee/chatgpt-bing-extension>wibus-wee/chatgpt-bing-extension</a> -- <span>Display ChatGPT response alongside Bing Search results</span></li><li><a href=https://github.com/rehooks/awesome-react-hooks>rehooks/awesome-react-hooks</a> -- <span>Awesome React Hooks</span></li><li><a href=https://github.com/hashicorp/nextjs-bundle-analysis>hashicorp/nextjs-bundle-analysis</a> -- <span>A github action that provides detailed bundle analysis on PRs for next.js apps</span></li></ul>
+<ul><li><a href=https://github.com/TapXWorld/Math>TapXWorld/Math</a> -- <span>人教版小学到大学数学</span></li><li><a href=https://github.com/OBQun/full-stack-toys>OBQun/full-stack-toys</a></li><li><a href=https://github.com/rehooks/awesome-react-hooks>rehooks/awesome-react-hooks</a> -- <span>Awesome React Hooks</span></li><li><a href=https://github.com/madyankin/postcss-modules>madyankin/postcss-modules</a> -- <span>PostCSS plugin to use CSS Modules everywhere</span></li><li><a href=https://github.com/riccardoperra/codeimage>riccardoperra/codeimage</a> -- <span>A tool to beautify your code screenshots. Built with SolidJS</span></li></ul>
 
 
 **捉迷藏**
@@ -120,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/23/22, 5:17 PM<br>下一次刷新：12/23/22, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/23/22, 10:09 PM<br>下一次刷新：12/24/22, 1:09 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
