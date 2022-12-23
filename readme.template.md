@@ -2,9 +2,6 @@
 <a href="mailto:wibus@qq.com" align="center">
   <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
 </a>&nbsp;
-<a href="https://wpa.qq.com/msgrd?v=3&uin=1596355173&site=qq&menu=yes" align="center">
-  <img alt="My QQ Group, for Chinese visitors" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/qq.svg" />
-</a>&nbsp;
 <a href="https://twitter.com/wibus_wee" align="center">
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;)</h1>
@@ -18,8 +15,6 @@
   
   <br>
 
-> 现在环境愈加恶劣，我随时可能无法访问 `*.github.com` 了，如果我突然完全没有了 commit 的话，那大概率就是我无法继续访问了
->
 > The environment is becoming increasingly harsh, and I may not be able to access `*.github.com` at any time. If I suddenly have no commits, it is likely that I will no longer be able to access it.
   
 <br>
@@ -29,15 +24,15 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
-Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of [🏖 @mogland](https://github.com/mogland/core). 
+Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of 🔨 [@jwcjs](https://github.com/jwcjs/core) and 🏖 [@mogland](https://github.com/mogland/core) 
 
 I love myself, love the world, and always love my family. I hope I can become a FSD ( Full Stacks Developer ｜ 全栈开发者) oneday.
 
-I have been contributed to the **`Typecho`** ecosystem, and now I am working in **`Mog`** development.
+I have been contributed to the **`Typecho`** ecosystem, and now I am working in **`Mog`** & **`Jwc.js`** development.
 
 I began to learn vocal music and piano since I was a child, and I have won many first prizes in domestic and international competitions
 
-- 🔭 I’m currently working on a breakthrough blogging system 🏖 [@mogland](https://github.com/mogland/core)
+- 🔭 I’m currently working on a breakthrough blogging system 🏖 [@mogland](https://github.com/mogland/core) and web component framework 🔨 [@jwcjs](https://github.com/jwcjs/core) 
 - 🌱 I’m currently learning 🧵 web design, and so on.
 - 🤔 I’m looking for help with 🥚 MicroService Module design.
 - 📫 How to reach me: 🏠 [Home Page](https://iucky.cn) | ✍️ [Blog (CN)](https://blog.iucky.cn) | 🐦 [Twitter](https://twitter.com/@wibus_wee)
