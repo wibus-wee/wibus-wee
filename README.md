@@ -97,12 +97,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/huacnlee/autocorrect>huacnlee/autocorrect</a> -- <span>A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).</span></li><li><a href=https://github.com/rxliuli/translate-and-copy>rxliuli/translate-and-copy</a> -- <span>Convert the selected text on the webpage to another language, and then copy it to the clipboard for easy pasting. The main purpose is to reply to messages in other languages, so we can only rely on machine translation.</span></li><li><a href=https://github.com/front-end-monitor/front-end-monitor-sdk>front-end-monitor/front-end-monitor-sdk</a> -- <span>监控SDK</span></li><li><a href=https://github.com/btahir/uselesshooks>btahir/uselesshooks</a> -- <span>A Collection of Useless React Hooks to impress your coworkers</span></li><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a> -- <span>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</span></li></ul>
+<ul><li><a href=https://github.com/adamhaile/S>adamhaile/S</a> -- <span>S.js - Simple, Clean, Fast Reactive Programming in Javascript</span></li><li><a href=https://github.com/huacnlee/autocorrect>huacnlee/autocorrect</a> -- <span>A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).</span></li><li><a href=https://github.com/rxliuli/translate-and-copy>rxliuli/translate-and-copy</a> -- <span>Convert the selected text on the webpage to another language, and then copy it to the clipboard for easy pasting. The main purpose is to reply to messages in other languages, so we can only rely on machine translation.</span></li><li><a href=https://github.com/front-end-monitor/front-end-monitor-sdk>front-end-monitor/front-end-monitor-sdk</a> -- <span>监控SDK</span></li><li><a href=https://github.com/btahir/uselesshooks>btahir/uselesshooks</a> -- <span>A Collection of Useless React Hooks to impress your coworkers</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wessberg/rollup-plugin-ts>wessberg/rollup-plugin-ts</a> -- <span>A TypeScript Rollup plugin that bundles declarations, respects Browserslists, and enables seamless integration with transpilers such as babel and swc</span></li><li><a href=https://github.com/withastro/houston-vscode>withastro/houston-vscode</a> -- <span>Visual Studio Code theme featuring cool blues, minty greens, and soft purples</span></li><li><a href=https://github.com/madyankin/postcss-modules>madyankin/postcss-modules</a> -- <span>PostCSS plugin to use CSS Modules everywhere</span></li><li><a href=https://github.com/shuding/react-wrap-balancer>shuding/react-wrap-balancer</a> -- <span>Simple React Component That Makes Titles More Readable</span></li><li><a href=https://github.com/vitejs/vite-plugin-react-swc>vitejs/vite-plugin-react-swc</a> -- <span>Speed up your Vite dev server with SWC</span></li></ul>
+<ul><li><a href=https://github.com/SpeedyOrc-C/Hoyo-Glyphs>SpeedyOrc-C/Hoyo-Glyphs</a> -- <span>Constructed scripts by HoYoverse 米哈游的架空文字</span></li><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a> -- <span>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</span></li><li><a href=https://github.com/riccardoperra/codeimage>riccardoperra/codeimage</a> -- <span>A tool to beautify your code screenshots. Built with SolidJS</span></li><li><a href=https://github.com/wessberg/rollup-plugin-ts>wessberg/rollup-plugin-ts</a> -- <span>A TypeScript Rollup plugin that bundles declarations, respects Browserslists, and enables seamless integration with transpilers such as babel and swc</span></li><li><a href=https://github.com/Jinjiang/zhlint>Jinjiang/zhlint</a> -- <span>A linting tool for Chinese language.</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/24/22, 8:32 PM<br>下一次刷新：12/24/22, 11:32 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/25/22, 2:21 AM<br>下一次刷新：12/25/22, 5:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
