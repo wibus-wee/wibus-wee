@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vitejs/vite-plugin-react-swc>vitejs/vite-plugin-react-swc</a> -- <span>Speed up your Vite dev server with SWC</span></li><li><a href=https://github.com/SpeedyOrc-C/Hoyo-Glyphs>SpeedyOrc-C/Hoyo-Glyphs</a> -- <span>Constructed scripts by HoYoverse 米哈游的架空文字</span></li><li><a href=https://github.com/underthestars-zhy/IconChanger>underthestars-zhy/IconChanger</a> -- <span>Simply change your app's icon on macOS. Just a click.</span></li><li><a href=https://github.com/hashicorp/nextjs-bundle-analysis>hashicorp/nextjs-bundle-analysis</a> -- <span>A github action that provides detailed bundle analysis on PRs for next.js apps</span></li><li><a href=https://github.com/AutumnWhj/ChatGPT-wechat-bot>AutumnWhj/ChatGPT-wechat-bot</a> -- <span>ChatGPT for wechat</span></li></ul>
+<ul><li><a href=https://github.com/isolcat/CatIsol-UI>isolcat/CatIsol-UI</a> -- <span>😹CatIsol is a mini version of a component library based on vite development.</span></li><li><a href=https://github.com/HongxuanG/taro-iconfont-svg>HongxuanG/taro-iconfont-svg</a> -- <span>让Taro也能使用阿里矢量图标库的SVG</span></li><li><a href=https://github.com/hashicorp/nextjs-bundle-analysis>hashicorp/nextjs-bundle-analysis</a> -- <span>A github action that provides detailed bundle analysis on PRs for next.js apps</span></li><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a> -- <span>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</span></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a> -- <span>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/25/22, 5:16 PM<br>下一次刷新：12/25/22, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/25/22, 8:32 PM<br>下一次刷新：12/25/22, 11:32 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
