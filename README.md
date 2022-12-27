@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a> -- <span>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</span></li><li><a href=https://github.com/huacnlee/autocorrect>huacnlee/autocorrect</a> -- <span>A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).</span></li><li><a href=https://github.com/cjh0613/tencent-sensitive-words>cjh0613/tencent-sensitive-words</a> -- <span>腾讯的离线敏感词库</span></li><li><a href=https://github.com/rxliuli/translate-and-copy>rxliuli/translate-and-copy</a> -- <span>Convert the selected text on the webpage to another language, and then copy it to the clipboard for easy pasting. The main purpose is to reply to messages in other languages, so we can only rely on machine translation.</span></li><li><a href=https://github.com/so1ve/clerc>so1ve/clerc</a> -- <span>🖖🏻 Clerc: The full-featured cli framework.</span></li></ul>
+<ul><li><a href=https://github.com/huacnlee/autocorrect>huacnlee/autocorrect</a> -- <span>A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).</span></li><li><a href=https://github.com/subframe7536/Maple-font>subframe7536/Maple-font</a> -- <span>Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体</span></li><li><a href=https://github.com/wessberg/rollup-plugin-ts>wessberg/rollup-plugin-ts</a> -- <span>A TypeScript Rollup plugin that bundles declarations, respects Browserslists, and enables seamless integration with transpilers such as babel and swc</span></li><li><a href=https://github.com/HongxuanG/taro-iconfont-svg>HongxuanG/taro-iconfont-svg</a> -- <span>让Taro也能使用阿里矢量图标库的SVG</span></li><li><a href=https://github.com/webpack/tapable>webpack/tapable</a> -- <span>Just a little module for plugins.</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/28/22, 2:22 AM<br>下一次刷新：12/28/22, 5:22 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/28/22, 5:15 AM<br>下一次刷新：12/28/22, 8:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
