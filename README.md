@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rehooks/awesome-react-hooks>rehooks/awesome-react-hooks</a> -- <span>Awesome React Hooks</span></li><li><a href=https://github.com/subframe7536/Maple-font>subframe7536/Maple-font</a> -- <span>Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体</span></li><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a> -- <span>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</span></li><li><a href=https://github.com/jwcjs/core>jwcjs/core</a> -- <span>🎨 Jwc.js is a JavaScript framework for using JSX to write web components on the web.</span></li><li><a href=https://github.com/bvaughn/react-resizable-panels>bvaughn/react-resizable-panels</a></li></ul>
+<ul><li><a href=https://github.com/rxliuli/translate-and-copy>rxliuli/translate-and-copy</a> -- <span>Convert the selected text on the webpage to another language, and then copy it to the clipboard for easy pasting. The main purpose is to reply to messages in other languages, so we can only rely on machine translation.</span></li><li><a href=https://github.com/huacnlee/autocorrect>huacnlee/autocorrect</a> -- <span>A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).</span></li><li><a href=https://github.com/subframe7536/Maple-font>subframe7536/Maple-font</a> -- <span>Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体</span></li><li><a href=https://github.com/riccardoperra/codeimage>riccardoperra/codeimage</a> -- <span>A tool to beautify your code screenshots. Built with SolidJS</span></li><li><a href=https://github.com/front-end-monitor/front-end-monitor-sdk>front-end-monitor/front-end-monitor-sdk</a> -- <span>监控SDK</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/28/22, 9:33 AM<br>下一次刷新：12/28/22, 12:33 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/28/22, 11:20 AM<br>下一次刷新：12/28/22, 2:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
