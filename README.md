@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/btahir/uselesshooks>btahir/uselesshooks</a> -- <span>A Collection of Useless React Hooks to impress your coworkers</span></li><li><a href=https://github.com/artf/grapesjs>artf/grapesjs</a> -- <span>Free and Open source Web Builder Framework. Next generation tool for building templates without coding</span></li><li><a href=https://github.com/dsherret/ts-morph>dsherret/ts-morph</a> -- <span>TypeScript Compiler API wrapper for static analysis and programmatic code changes.</span></li><li><a href=https://github.com/AkaraChen/fresh>AkaraChen/fresh</a> -- <span>A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.</span></li><li><a href=https://github.com/microsoft/ts-gyb>microsoft/ts-gyb</a> -- <span>Generating native code interfaces from TypeScript</span></li></ul>
+<ul><li><a href=https://github.com/microsoft/ts-gyb>microsoft/ts-gyb</a> -- <span>Generating native code interfaces from TypeScript</span></li><li><a href=https://github.com/rxliuli/translate-and-copy>rxliuli/translate-and-copy</a> -- <span>Convert the selected text on the webpage to another language, and then copy it to the clipboard for easy pasting. The main purpose is to reply to messages in other languages, so we can only rely on machine translation.</span></li><li><a href=https://github.com/SpeedyOrc-C/Hoyo-Glyphs>SpeedyOrc-C/Hoyo-Glyphs</a> -- <span>Constructed scripts by HoYoverse 米哈游的架空文字</span></li><li><a href=https://github.com/so1ve/clerc>so1ve/clerc</a> -- <span>🖖🏻 Clerc: The full-featured cli framework.</span></li><li><a href=https://github.com/terkelg/prompts>terkelg/prompts</a> -- <span>❯ Lightweight, beautiful and user-friendly interactive prompts</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/29/22, 11:20 AM<br>下一次刷新：12/29/22, 2:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/29/22, 2:22 PM<br>下一次刷新：12/29/22, 5:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
