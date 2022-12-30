@@ -97,12 +97,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Innei/animate-uri>Innei/animate-uri</a> -- <span>Animate your url transitions for that extra flair. 🔨👴</span></li><li><a href=https://github.com/Innei/simple-clock>Innei/simple-clock</a></li><li><a href=https://github.com/Codennnn/Green-Wall>Codennnn/Green-Wall</a> -- <span>:white_large_square: 🟩 GitHub Contributions Graph Generator. :octocat:</span></li><li><a href=https://github.com/yihong0618/blue>yihong0618/blue</a> -- <span>新的 PR(Issue) 来了来了来了!</span></li><li><a href=https://github.com/adamyi/wechrome>adamyi/wechrome</a> -- <span>Chrome extension to unblock web wechat</span></li></ul>
+<ul><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a> -- <span>The missing Github Copilot Xcode Source Editor Extension</span></li><li><a href=https://github.com/Innei/animate-uri>Innei/animate-uri</a> -- <span>Animate your url transitions for that extra flair. 🔨👴</span></li><li><a href=https://github.com/Innei/simple-clock>Innei/simple-clock</a></li><li><a href=https://github.com/Codennnn/Green-Wall>Codennnn/Green-Wall</a> -- <span>:white_large_square: 🟩 GitHub Contributions Graph Generator. :octocat:</span></li><li><a href=https://github.com/yihong0618/blue>yihong0618/blue</a> -- <span>新的 PR(Issue) 来了来了来了!</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jd-solanki/anu>jd-solanki/anu</a> -- <span>Anu - DX focused utility based vue component library built on top of UnoCSS & VueUse ⚡️🔥</span></li><li><a href=https://github.com/terkelg/prompts>terkelg/prompts</a> -- <span>❯ Lightweight, beautiful and user-friendly interactive prompts</span></li><li><a href=https://github.com/so1ve/clerc>so1ve/clerc</a> -- <span>🖖🏻 Clerc: The full-featured cli framework.</span></li><li><a href=https://github.com/adamhaile/S>adamhaile/S</a> -- <span>S.js - Simple, Clean, Fast Reactive Programming in Javascript</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a> -- <span>💠 BlockSuite provides building blocks for collaborative applications.</span></li></ul>
+<ul><li><a href=https://github.com/chyroc/netease-music-controller>chyroc/netease-music-controller</a> -- <span>Control NeteaseMusic Play/Pause/Next/etc...</span></li><li><a href=https://github.com/huacnlee/autocorrect>huacnlee/autocorrect</a> -- <span>A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a> -- <span>💠 BlockSuite provides building blocks for collaborative applications.</span></li><li><a href=https://github.com/adamyi/wechrome>adamyi/wechrome</a> -- <span>Chrome extension to unblock web wechat</span></li><li><a href=https://github.com/chr15m/DoodleCSS>chr15m/DoodleCSS</a> -- <span>A simple hand drawn HTML/CSS theme</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/30/22, 5:16 AM<br>下一次刷新：12/30/22, 8:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/30/22, 9:36 AM<br>下一次刷新：12/30/22, 12:36 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
