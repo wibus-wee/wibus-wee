@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rxliuli/translate-and-copy>rxliuli/translate-and-copy</a> -- <span>Convert the selected text on the webpage to another language, and then copy it to the clipboard for easy pasting. The main purpose is to reply to messages in other languages, so we can only rely on machine translation.</span></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a> -- <span>Shared data types for building collaborative software</span></li><li><a href=https://github.com/Dreamer-Paul/Single>Dreamer-Paul/Single</a> -- <span>🎈 一个简洁大气，含夜间模式的 Typecho 博客主题</span></li><li><a href=https://github.com/microsoft/ts-gyb>microsoft/ts-gyb</a> -- <span>Generating native code interfaces from TypeScript</span></li><li><a href=https://github.com/chr15m/DoodleCSS>chr15m/DoodleCSS</a> -- <span>A simple hand drawn HTML/CSS theme</span></li></ul>
+<ul><li><a href=https://github.com/rxliuli/translate-and-copy>rxliuli/translate-and-copy</a> -- <span>Convert the selected text on the webpage to another language, and then copy it to the clipboard for easy pasting. The main purpose is to reply to messages in other languages, so we can only rely on machine translation.</span></li><li><a href=https://github.com/so1ve/clerc>so1ve/clerc</a> -- <span>🖖🏻 Clerc: The full-featured cli framework.</span></li><li><a href=https://github.com/chr15m/DoodleCSS>chr15m/DoodleCSS</a> -- <span>A simple hand drawn HTML/CSS theme</span></li><li><a href=https://github.com/terkelg/prompts>terkelg/prompts</a> -- <span>❯ Lightweight, beautiful and user-friendly interactive prompts</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a> -- <span>💠 BlockSuite provides building blocks for collaborative applications.</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/31/22, 11:17 PM<br>下一次刷新：1/1/23, 2:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/1/23, 2:21 AM<br>下一次刷新：1/1/23, 5:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
