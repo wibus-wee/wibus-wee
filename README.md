@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/adamyi/wechrome>adamyi/wechrome</a> -- <span>Chrome extension to unblock web wechat</span></li><li><a href=https://github.com/dsherret/ts-morph>dsherret/ts-morph</a> -- <span>TypeScript Compiler API wrapper for static analysis and programmatic code changes.</span></li><li><a href=https://github.com/so1ve/clerc>so1ve/clerc</a> -- <span>🖖🏻 Clerc: The full-featured cli framework.</span></li><li><a href=https://github.com/terkelg/prompts>terkelg/prompts</a> -- <span>❯ Lightweight, beautiful and user-friendly interactive prompts</span></li><li><a href=https://github.com/zhuowei/WDBFontOverwrite>zhuowei/WDBFontOverwrite</a> -- <span>Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.</span></li></ul>
+<ul><li><a href=https://github.com/Innei/animate-uri>Innei/animate-uri</a> -- <span>Animate your url transitions for that extra flair. 🔨👴</span></li><li><a href=https://github.com/rxliuli/translate-and-copy>rxliuli/translate-and-copy</a> -- <span>Convert the selected text on the webpage to another language, and then copy it to the clipboard for easy pasting. The main purpose is to reply to messages in other languages, so we can only rely on machine translation.</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a> -- <span>💠 BlockSuite provides building blocks for collaborative applications.</span></li><li><a href=https://github.com/CodeEditApp/codeedit.app>CodeEditApp/codeedit.app</a></li><li><a href=https://github.com/chr15m/DoodleCSS>chr15m/DoodleCSS</a> -- <span>A simple hand drawn HTML/CSS theme</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/31/22, 5:16 PM<br>下一次刷新：12/31/22, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/31/22, 8:32 PM<br>下一次刷新：12/31/22, 11:32 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
