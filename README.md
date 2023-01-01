@@ -97,12 +97,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/nanojsx/nano>nanojsx/nano</a> -- <span>🎯 SSR first, lightweight 1kB JSX library.</span></li><li><a href=https://github.com/feross/clipboard-copy>feross/clipboard-copy</a> -- <span>Lightweight copy to clipboard for the web</span></li><li><a href=https://github.com/anbackup/anbackup-cli>anbackup/anbackup-cli</a> -- <span>这是一个能备份Android数据到PC上的命令行工具。</span></li><li><a href=https://github.com/Yiyuiii/nonebot-plugin-moegoe>Yiyuiii/nonebot-plugin-moegoe</a> -- <span>日韩中 VITS 模型拟声</span></li><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a> -- <span>The missing Github Copilot Xcode Source Editor Extension</span></li></ul>
+<ul><li><a href=https://github.com/ldrolez/free-midi-chords>ldrolez/free-midi-chords</a> -- <span>A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101</span></li><li><a href=https://github.com/nanojsx/nano>nanojsx/nano</a> -- <span>🎯 SSR first, lightweight 1kB JSX library.</span></li><li><a href=https://github.com/feross/clipboard-copy>feross/clipboard-copy</a> -- <span>Lightweight copy to clipboard for the web</span></li><li><a href=https://github.com/anbackup/anbackup-cli>anbackup/anbackup-cli</a> -- <span>这是一个能备份Android数据到PC上的命令行工具。</span></li><li><a href=https://github.com/Yiyuiii/nonebot-plugin-moegoe>Yiyuiii/nonebot-plugin-moegoe</a> -- <span>日韩中 VITS 模型拟声</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/adamyi/wechrome>adamyi/wechrome</a> -- <span>Chrome extension to unblock web wechat</span></li><li><a href=https://github.com/rxliuli/translate-and-copy>rxliuli/translate-and-copy</a> -- <span>Convert the selected text on the webpage to another language, and then copy it to the clipboard for easy pasting. The main purpose is to reply to messages in other languages, so we can only rely on machine translation.</span></li><li><a href=https://github.com/webpack/tapable>webpack/tapable</a> -- <span>Just a little module for plugins.</span></li><li><a href=https://github.com/Dreamer-Paul/Single>Dreamer-Paul/Single</a> -- <span>🎈 一个简洁大气，含夜间模式的 Typecho 博客主题</span></li><li><a href=https://github.com/jd-solanki/anu>jd-solanki/anu</a> -- <span>Anu - DX focused utility based vue component library built on top of UnoCSS & VueUse ⚡️🔥</span></li></ul>
+<ul><li><a href=https://github.com/so1ve/clerc>so1ve/clerc</a> -- <span>🖖🏻 Clerc: The full-featured cli framework.</span></li><li><a href=https://github.com/adamyi/wechrome>adamyi/wechrome</a> -- <span>Chrome extension to unblock web wechat</span></li><li><a href=https://github.com/terkelg/prompts>terkelg/prompts</a> -- <span>❯ Lightweight, beautiful and user-friendly interactive prompts</span></li><li><a href=https://github.com/btahir/uselesshooks>btahir/uselesshooks</a> -- <span>A Collection of Useless React Hooks to impress your coworkers</span></li><li><a href=https://github.com/yihong0618/blue>yihong0618/blue</a> -- <span>新的 PR(Issue) 来了来了来了!</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/1/23, 5:16 PM<br>下一次刷新：1/1/23, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/1/23, 11:17 PM<br>下一次刷新：1/2/23, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
