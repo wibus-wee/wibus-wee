@@ -97,12 +97,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/rbren/rss-parser>rbren/rss-parser</a> -- <span>A lightweight RSS parser, for Node and the browser</span></li><li><a href=https://github.com/steventroughtonsmith/CatalystEffectViewChrome>steventroughtonsmith/CatalystEffectViewChrome</a> -- <span>Catalyst example using an AppKit-provided NSVisualEffectView to provide a translucent blurred window</span></li><li><a href=https://github.com/libre-tube/LibreTube>libre-tube/LibreTube</a> -- <span>An alternative frontend for YouTube, for Android.</span></li><li><a href=https://github.com/MYXXTS/Chevereto-Upload>MYXXTS/Chevereto-Upload</a></li><li><a href=https://github.com/microsoft/fluentui>microsoft/fluentui</a> -- <span>Fluent UI web represents a collection of utilities, React components, and web components for building web applications.</span></li></ul>
+<ul><li><a href=https://github.com/CodeEditApp/CodeEditKit>CodeEditApp/CodeEditKit</a> -- <span>CodeEditKit is an interface between CodeEdit and extensions</span></li><li><a href=https://github.com/rbren/rss-parser>rbren/rss-parser</a> -- <span>A lightweight RSS parser, for Node and the browser</span></li><li><a href=https://github.com/steventroughtonsmith/CatalystEffectViewChrome>steventroughtonsmith/CatalystEffectViewChrome</a> -- <span>Catalyst example using an AppKit-provided NSVisualEffectView to provide a translucent blurred window</span></li><li><a href=https://github.com/libre-tube/LibreTube>libre-tube/LibreTube</a> -- <span>An alternative frontend for YouTube, for Android.</span></li><li><a href=https://github.com/MYXXTS/Chevereto-Upload>MYXXTS/Chevereto-Upload</a></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/feross/clipboard-copy>feross/clipboard-copy</a> -- <span>Lightweight copy to clipboard for the web</span></li><li><a href=https://github.com/yihong0618/blue>yihong0618/blue</a> -- <span>新的 PR(Issue) 来了来了来了!</span></li><li><a href=https://github.com/jd-solanki/anu>jd-solanki/anu</a> -- <span>Anu - DX focused utility based vue component library built on top of UnoCSS & VueUse ⚡️🔥</span></li><li><a href=https://github.com/adamyi/wechrome>adamyi/wechrome</a> -- <span>Chrome extension to unblock web wechat</span></li><li><a href=https://github.com/anbackup/anbackup-cli>anbackup/anbackup-cli</a> -- <span>这是一个能直接备份Android数据到PC上的命令行工具。</span></li></ul>
+<ul><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a> -- <span>💠 BlockSuite provides building blocks for collaborative applications.</span></li><li><a href=https://github.com/microsoft/ts-gyb>microsoft/ts-gyb</a> -- <span>Generating native code interfaces from TypeScript</span></li><li><a href=https://github.com/terkelg/prompts>terkelg/prompts</a> -- <span>❯ Lightweight, beautiful and user-friendly interactive prompts</span></li><li><a href=https://github.com/microsoft/fluentui>microsoft/fluentui</a> -- <span>Fluent UI web represents a collection of utilities, React components, and web components for building web applications.</span></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a> -- <span>Shared data types for building collaborative software</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/5/23, 2:22 PM<br>下一次刷新：1/5/23, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/5/23, 5:19 PM<br>下一次刷新：1/5/23, 8:19 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
