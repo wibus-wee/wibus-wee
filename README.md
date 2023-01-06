@@ -97,12 +97,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/CodeEditApp/CodeEditKit>CodeEditApp/CodeEditKit</a> -- <span>CodeEditKit is an interface between CodeEdit and extensions</span></li><li><a href=https://github.com/rbren/rss-parser>rbren/rss-parser</a> -- <span>A lightweight RSS parser, for Node and the browser</span></li><li><a href=https://github.com/steventroughtonsmith/CatalystEffectViewChrome>steventroughtonsmith/CatalystEffectViewChrome</a> -- <span>Catalyst example using an AppKit-provided NSVisualEffectView to provide a translucent blurred window</span></li><li><a href=https://github.com/libre-tube/LibreTube>libre-tube/LibreTube</a> -- <span>An alternative frontend for YouTube, for Android.</span></li><li><a href=https://github.com/MYXXTS/Chevereto-Upload>MYXXTS/Chevereto-Upload</a></li></ul>
+<ul><li><a href=https://github.com/serhii-londar/open-source-mac-os-apps>serhii-londar/open-source-mac-os-apps</a> -- <span>🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps</span></li><li><a href=https://github.com/CodeEditApp/CodeEditKit>CodeEditApp/CodeEditKit</a> -- <span>CodeEditKit is an interface between CodeEdit and extensions</span></li><li><a href=https://github.com/rbren/rss-parser>rbren/rss-parser</a> -- <span>A lightweight RSS parser, for Node and the browser</span></li><li><a href=https://github.com/steventroughtonsmith/CatalystEffectViewChrome>steventroughtonsmith/CatalystEffectViewChrome</a> -- <span>Catalyst example using an AppKit-provided NSVisualEffectView to provide a translucent blurred window</span></li><li><a href=https://github.com/libre-tube/LibreTube>libre-tube/LibreTube</a> -- <span>An alternative frontend for YouTube, for Android.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/terkelg/prompts>terkelg/prompts</a> -- <span>❯ Lightweight, beautiful and user-friendly interactive prompts</span></li><li><a href=https://github.com/artf/grapesjs>artf/grapesjs</a> -- <span>Free and Open source Web Builder Framework. Next generation tool for building templates without coding</span></li><li><a href=https://github.com/CodeEditApp/codeedit.app>CodeEditApp/codeedit.app</a></li><li><a href=https://github.com/microsoft/ts-gyb>microsoft/ts-gyb</a> -- <span>Generating native code interfaces from TypeScript</span></li><li><a href=https://github.com/Dreamer-Paul/Single>Dreamer-Paul/Single</a> -- <span>🎈 一个简洁大气，含夜间模式的 Typecho 博客主题</span></li></ul>
+<ul><li><a href=https://github.com/microsoft/ts-gyb>microsoft/ts-gyb</a> -- <span>Generating native code interfaces from TypeScript</span></li><li><a href=https://github.com/MYXXTS/Chevereto-Upload>MYXXTS/Chevereto-Upload</a></li><li><a href=https://github.com/t3-oss/create-t3-app>t3-oss/create-t3-app</a> -- <span>The best way to start a full-stack, typesafe Next.js app</span></li><li><a href=https://github.com/Innei/simple-clock>Innei/simple-clock</a></li><li><a href=https://github.com/artf/grapesjs>artf/grapesjs</a> -- <span>Free and Open source Web Builder Framework. Next generation tool for building templates without coding</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/6/23, 9:39 AM<br>下一次刷新：1/6/23, 12:39 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/6/23, 2:23 PM<br>下一次刷新：1/6/23, 5:23 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
