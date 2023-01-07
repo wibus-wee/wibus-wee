@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jd-solanki/anu>jd-solanki/anu</a> -- <span>Anu - DX focused utility based vue component library built on top of UnoCSS & VueUse ⚡️🔥</span></li><li><a href=https://github.com/chyroc/netease-music-controller>chyroc/netease-music-controller</a> -- <span>Control NeteaseMusic Play/Pause/Next/etc...</span></li><li><a href=https://github.com/Dreamer-Paul/Single>Dreamer-Paul/Single</a> -- <span>🎈 一个简洁大气，含夜间模式的 Typecho 博客主题</span></li><li><a href=https://github.com/CodeEditApp/codeedit.app>CodeEditApp/codeedit.app</a></li><li><a href=https://github.com/solidjs/solid>solidjs/solid</a> -- <span>A declarative, efficient, and flexible JavaScript library for building user interfaces.</span></li></ul>
+<ul><li><a href=https://github.com/CodeEditApp/codeedit.app>CodeEditApp/codeedit.app</a></li><li><a href=https://github.com/Innei/simple-clock>Innei/simple-clock</a></li><li><a href=https://github.com/yihong0618/blue>yihong0618/blue</a> -- <span>新的 PR(Issue) 来了来了来了!</span></li><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a> -- <span>The missing Github Copilot Xcode Source Editor Extension</span></li><li><a href=https://github.com/MYXXTS/Chevereto-Upload>MYXXTS/Chevereto-Upload</a></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/7/23, 2:21 PM<br>下一次刷新：1/7/23, 5:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/7/23, 5:16 PM<br>下一次刷新：1/7/23, 8:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
