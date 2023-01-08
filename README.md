@@ -97,12 +97,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/seemoo-lab/opendrop>seemoo-lab/opendrop</a> -- <span>An open Apple AirDrop implementation written in Python</span></li><li><a href=https://github.com/serhii-londar/open-source-mac-os-apps>serhii-londar/open-source-mac-os-apps</a> -- <span>🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps</span></li><li><a href=https://github.com/CodeEditApp/CodeEditKit>CodeEditApp/CodeEditKit</a> -- <span>CodeEditKit is an interface between CodeEdit and extensions</span></li><li><a href=https://github.com/rbren/rss-parser>rbren/rss-parser</a> -- <span>A lightweight RSS parser, for Node and the browser</span></li><li><a href=https://github.com/steventroughtonsmith/CatalystEffectViewChrome>steventroughtonsmith/CatalystEffectViewChrome</a> -- <span>Catalyst example using an AppKit-provided NSVisualEffectView to provide a translucent blurred window</span></li></ul>
+<ul><li><a href=https://github.com/chanshiyucx/zero>chanshiyucx/zero</a> -- <span>Nya~</span></li><li><a href=https://github.com/seemoo-lab/opendrop>seemoo-lab/opendrop</a> -- <span>An open Apple AirDrop implementation written in Python</span></li><li><a href=https://github.com/serhii-londar/open-source-mac-os-apps>serhii-londar/open-source-mac-os-apps</a> -- <span>🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps</span></li><li><a href=https://github.com/CodeEditApp/CodeEditKit>CodeEditApp/CodeEditKit</a> -- <span>CodeEditKit is an interface between CodeEdit and extensions</span></li><li><a href=https://github.com/rbren/rss-parser>rbren/rss-parser</a> -- <span>A lightweight RSS parser, for Node and the browser</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/artf/grapesjs>artf/grapesjs</a> -- <span>Free and Open source Web Builder Framework. Next generation tool for building templates without coding</span></li><li><a href=https://github.com/anbackup/anbackup-cli>anbackup/anbackup-cli</a> -- <span>这是一个能直接备份Android数据到PC上的命令行工具。</span></li><li><a href=https://github.com/solidjs/solid>solidjs/solid</a> -- <span>A declarative, efficient, and flexible JavaScript library for building user interfaces.</span></li><li><a href=https://github.com/adamyi/wechrome>adamyi/wechrome</a> -- <span>Chrome extension to unblock web wechat</span></li><li><a href=https://github.com/Yiyuiii/nonebot-plugin-moegoe>Yiyuiii/nonebot-plugin-moegoe</a> -- <span>日韩中 VITS 模型拟声</span></li></ul>
+<ul><li><a href=https://github.com/Innei/animate-uri>Innei/animate-uri</a> -- <span>Animate your url transitions for that extra flair. 🔨👴</span></li><li><a href=https://github.com/anbackup/anbackup-cli>anbackup/anbackup-cli</a> -- <span>这是一个能直接备份Android数据到PC上的命令行工具。</span></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a> -- <span>Shared data types for building collaborative software</span></li><li><a href=https://github.com/chyroc/netease-music-controller>chyroc/netease-music-controller</a> -- <span>Control NeteaseMusic Play/Pause/Next/etc...</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a> -- <span>💠 BlockSuite is an open-source editor project behind the AFFiNE knowledge base.</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/8/23, 11:19 AM<br>下一次刷新：1/8/23, 2:19 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/8/23, 8:34 PM<br>下一次刷新：1/8/23, 11:34 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
