@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/animate-uri>Innei/animate-uri</a> -- <span>Animate your url transitions for that extra flair. 🔨👴</span></li><li><a href=https://github.com/anbackup/anbackup-cli>anbackup/anbackup-cli</a> -- <span>这是一个能直接备份Android数据到PC上的命令行工具。</span></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a> -- <span>Shared data types for building collaborative software</span></li><li><a href=https://github.com/chyroc/netease-music-controller>chyroc/netease-music-controller</a> -- <span>Control NeteaseMusic Play/Pause/Next/etc...</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a> -- <span>💠 BlockSuite is an open-source editor project behind the AFFiNE knowledge base.</span></li></ul>
+<ul><li><a href=https://github.com/chyroc/netease-music-controller>chyroc/netease-music-controller</a> -- <span>Control NeteaseMusic Play/Pause/Next/etc...</span></li><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a> -- <span>The missing Github Copilot Xcode Source Editor Extension</span></li><li><a href=https://github.com/adamyi/wechrome>adamyi/wechrome</a> -- <span>Chrome extension to unblock web wechat</span></li><li><a href=https://github.com/yjs/yjs>yjs/yjs</a> -- <span>Shared data types for building collaborative software</span></li><li><a href=https://github.com/t3-oss/create-t3-app>t3-oss/create-t3-app</a> -- <span>The best way to start a full-stack, typesafe Next.js app</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/8/23, 8:34 PM<br>下一次刷新：1/8/23, 11:34 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/8/23, 11:18 PM<br>下一次刷新：1/9/23, 2:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
