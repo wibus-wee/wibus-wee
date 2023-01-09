@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Yiyuiii/nonebot-plugin-moegoe>Yiyuiii/nonebot-plugin-moegoe</a> -- <span>日韩中 VITS 模型拟声</span></li><li><a href=https://github.com/Innei/animate-uri>Innei/animate-uri</a> -- <span>Animate your url transitions for that extra flair. 🔨👴</span></li><li><a href=https://github.com/Codennnn/Green-Wall>Codennnn/Green-Wall</a> -- <span>:white_large_square: 🟩 GitHub Contributions Graph Generator. :octocat:</span></li><li><a href=https://github.com/MYXXTS/Chevereto-Upload>MYXXTS/Chevereto-Upload</a></li><li><a href=https://github.com/artf/grapesjs>artf/grapesjs</a> -- <span>Free and Open source Web Builder Framework. Next generation tool for building templates without coding</span></li></ul>
+<ul><li><a href=https://github.com/adamyi/wechrome>adamyi/wechrome</a> -- <span>Chrome extension to unblock web wechat</span></li><li><a href=https://github.com/chyroc/netease-music-controller>chyroc/netease-music-controller</a> -- <span>Control NeteaseMusic Play/Pause/Next/etc...</span></li><li><a href=https://github.com/artf/grapesjs>artf/grapesjs</a> -- <span>Free and Open source Web Builder Framework. Next generation tool for building templates without coding</span></li><li><a href=https://github.com/anbackup/anbackup-cli>anbackup/anbackup-cli</a> -- <span>这是一个能直接备份Android数据到PC上的命令行工具。</span></li><li><a href=https://github.com/steventroughtonsmith/CatalystEffectViewChrome>steventroughtonsmith/CatalystEffectViewChrome</a> -- <span>Catalyst example using an AppKit-provided NSVisualEffectView to provide a translucent blurred window</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/9/23, 5:15 AM<br>下一次刷新：1/9/23, 8:15 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/9/23, 11:20 AM<br>下一次刷新：1/9/23, 2:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
