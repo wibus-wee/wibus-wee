@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/simple-clock>Innei/simple-clock</a></li><li><a href=https://github.com/feross/clipboard-copy>feross/clipboard-copy</a> -- <span>Lightweight copy to clipboard for the web</span></li><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a> -- <span>The missing Github Copilot Xcode Source Editor Extension</span></li><li><a href=https://github.com/MYXXTS/Chevereto-Upload>MYXXTS/Chevereto-Upload</a></li><li><a href=https://github.com/libre-tube/LibreTube>libre-tube/LibreTube</a> -- <span>An alternative frontend for YouTube, for Android.</span></li></ul>
+<ul><li><a href=https://github.com/Dreamer-Paul/Single>Dreamer-Paul/Single</a> -- <span>🎈 一个简洁大气，含夜间模式的 Typecho 博客主题</span></li><li><a href=https://github.com/steventroughtonsmith/CatalystEffectViewChrome>steventroughtonsmith/CatalystEffectViewChrome</a> -- <span>Catalyst example using an AppKit-provided NSVisualEffectView to provide a translucent blurred window</span></li><li><a href=https://github.com/Innei/animate-uri>Innei/animate-uri</a> -- <span>Animate your url transitions for that extra flair. 🔨👴</span></li><li><a href=https://github.com/anbackup/anbackup-cli>anbackup/anbackup-cli</a> -- <span>这是一个能直接备份Android数据到PC上的命令行工具。</span></li><li><a href=https://github.com/nanojsx/nano>nanojsx/nano</a> -- <span>🎯 SSR first, lightweight 1kB JSX library.</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/10/23, 5:17 AM<br>下一次刷新：1/10/23, 8:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/10/23, 9:41 AM<br>下一次刷新：1/10/23, 12:41 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
