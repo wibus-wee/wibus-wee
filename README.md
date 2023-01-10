@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/animate-uri>Innei/animate-uri</a> -- <span>Animate your url transitions for that extra flair. 🔨👴</span></li><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a> -- <span>The missing Github Copilot Xcode Source Editor Extension</span></li><li><a href=https://github.com/rbren/rss-parser>rbren/rss-parser</a> -- <span>A lightweight RSS parser, for Node and the browser</span></li><li><a href=https://github.com/dsherret/ts-morph>dsherret/ts-morph</a> -- <span>TypeScript Compiler API wrapper for static analysis and programmatic code changes.</span></li><li><a href=https://github.com/Yiyuiii/nonebot-plugin-moegoe>Yiyuiii/nonebot-plugin-moegoe</a> -- <span>日韩中 VITS 模型拟声</span></li></ul>
+<ul><li><a href=https://github.com/adamyi/wechrome>adamyi/wechrome</a> -- <span>Chrome extension to unblock web wechat</span></li><li><a href=https://github.com/solidjs/solid>solidjs/solid</a> -- <span>A declarative, efficient, and flexible JavaScript library for building user interfaces.</span></li><li><a href=https://github.com/toeverything/blocksuite>toeverything/blocksuite</a> -- <span>💠 BlockSuite is an open-source collaborative editor project behind the AFFiNE knowledge base.</span></li><li><a href=https://github.com/Codennnn/Green-Wall>Codennnn/Green-Wall</a> -- <span>:white_large_square: 🟩 GitHub Contributions Graph Generator. :octocat:</span></li><li><a href=https://github.com/dsherret/ts-morph>dsherret/ts-morph</a> -- <span>TypeScript Compiler API wrapper for static analysis and programmatic code changes.</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/11/23, 2:23 AM<br>下一次刷新：1/11/23, 5:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/11/23, 5:17 AM<br>下一次刷新：1/11/23, 8:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
