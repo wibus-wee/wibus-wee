@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/libre-tube/LibreTube>libre-tube/LibreTube</a> -- <span>An alternative frontend for YouTube, for Android.</span></li><li><a href=https://github.com/zhaoolee/ins>zhaoolee/ins</a> -- <span>🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度</span></li><li><a href=https://github.com/microsoft/fluentui>microsoft/fluentui</a> -- <span>Fluent UI web represents a collection of utilities, React components, and web components for building web applications.</span></li><li><a href=https://github.com/chanshiyucx/zero>chanshiyucx/zero</a> -- <span>Nya~</span></li><li><a href=https://github.com/yihong0618/blue>yihong0618/blue</a> -- <span>新的 PR(Issue) 来了来了来了!</span></li></ul>
+<ul><li><a href=https://github.com/rbren/rss-parser>rbren/rss-parser</a> -- <span>A lightweight RSS parser, for Node and the browser</span></li><li><a href=https://github.com/seemoo-lab/opendrop>seemoo-lab/opendrop</a> -- <span>An open Apple AirDrop implementation written in Python</span></li><li><a href=https://github.com/MYXXTS/Chevereto-Upload>MYXXTS/Chevereto-Upload</a></li><li><a href=https://github.com/Innei/animate-uri>Innei/animate-uri</a> -- <span>Animate your url transitions for that extra flair. 🔨👴</span></li><li><a href=https://github.com/Codennnn/Green-Wall>Codennnn/Green-Wall</a> -- <span>:white_large_square: 🟩 GitHub Contributions Graph Generator. :octocat:</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/14/23, 5:16 AM<br>下一次刷新：1/14/23, 8:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/14/23, 9:26 AM<br>下一次刷新：1/14/23, 12:26 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
