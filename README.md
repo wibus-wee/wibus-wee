@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ldrolez/free-midi-chords>ldrolez/free-midi-chords</a> -- <span>A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101</span></li><li><a href=https://github.com/avgupta456/github-trends>avgupta456/github-trends</a> -- <span>🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!</span></li><li><a href=https://github.com/feross/clipboard-copy>feross/clipboard-copy</a> -- <span>Lightweight copy to clipboard for the web</span></li><li><a href=https://github.com/MYXXTS/Chevereto-Upload>MYXXTS/Chevereto-Upload</a></li><li><a href=https://github.com/seemoo-lab/opendrop>seemoo-lab/opendrop</a> -- <span>An open Apple AirDrop implementation written in Python</span></li></ul>
+<ul><li><a href=https://github.com/rbren/rss-parser>rbren/rss-parser</a> -- <span>A lightweight RSS parser, for Node and the browser</span></li><li><a href=https://github.com/Yiyuiii/nonebot-plugin-moegoe>Yiyuiii/nonebot-plugin-moegoe</a> -- <span>日韩中 VITS 模型拟声</span></li><li><a href=https://github.com/yihong0618/blue>yihong0618/blue</a> -- <span>新的 PR(Issue) 来了来了来了!</span></li><li><a href=https://github.com/CodeEditApp/CodeEditKit>CodeEditApp/CodeEditKit</a> -- <span>CodeEditKit is an interface between CodeEdit and extensions</span></li><li><a href=https://github.com/wibus-wee/bump-monorepo>wibus-wee/bump-monorepo</a> -- <span>A Command Line Tool to bump monorepo packages.</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/15/23, 9:42 AM<br>下一次刷新：1/15/23, 12:42 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/15/23, 11:19 AM<br>下一次刷新：1/15/23, 2:19 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
