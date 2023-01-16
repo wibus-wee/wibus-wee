@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Yiyuiii/nonebot-plugin-moegoe>Yiyuiii/nonebot-plugin-moegoe</a> -- <span>日韩中 VITS 模型拟声</span></li><li><a href=https://github.com/ldrolez/free-midi-chords>ldrolez/free-midi-chords</a> -- <span>A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101</span></li><li><a href=https://github.com/miru-project/miru>miru-project/miru</a> -- <span>Miru</span></li><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a> -- <span>The missing Github Copilot Xcode Source Editor Extension</span></li><li><a href=https://github.com/serhii-londar/open-source-mac-os-apps>serhii-londar/open-source-mac-os-apps</a> -- <span>🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps</span></li></ul>
+<ul><li><a href=https://github.com/avgupta456/github-trends>avgupta456/github-trends</a> -- <span>🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!</span></li><li><a href=https://github.com/microsoft/fluentui>microsoft/fluentui</a> -- <span>Fluent UI web represents a collection of utilities, React components, and web components for building web applications.</span></li><li><a href=https://github.com/intitni/CopilotForXcode>intitni/CopilotForXcode</a> -- <span>The missing Github Copilot Xcode Source Editor Extension</span></li><li><a href=https://github.com/seemoo-lab/opendrop>seemoo-lab/opendrop</a> -- <span>An open Apple AirDrop implementation written in Python</span></li><li><a href=https://github.com/nest-modules/mailer>nest-modules/mailer</a> -- <span>📨 A mailer module for Nest framework (node.js)</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/16/23, 5:19 PM<br>下一次刷新：1/16/23, 8:19 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/16/23, 8:38 PM<br>下一次刷新：1/16/23, 11:38 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
