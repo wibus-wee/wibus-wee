@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/steventroughtonsmith/CatalystEffectViewChrome>steventroughtonsmith/CatalystEffectViewChrome</a> -- <span>Catalyst example using an AppKit-provided NSVisualEffectView to provide a translucent blurred window</span></li><li><a href=https://github.com/Vanessa219/vditor>Vanessa219/vditor</a> -- <span>♏ 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text), Instant Rendering (Typora-like) and Split View modes.</span></li><li><a href=https://github.com/serhii-londar/open-source-mac-os-apps>serhii-londar/open-source-mac-os-apps</a> -- <span>🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps</span></li><li><a href=https://github.com/nest-modules/mailer>nest-modules/mailer</a> -- <span>📨 A mailer module for Nest framework (node.js)</span></li><li><a href=https://github.com/libre-tube/LibreTube>libre-tube/LibreTube</a> -- <span>An alternative frontend for YouTube, for Android.</span></li></ul>
+<ul><li><a href=https://github.com/zhaoolee/ins>zhaoolee/ins</a> -- <span>🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度</span></li><li><a href=https://github.com/ldrolez/free-midi-chords>ldrolez/free-midi-chords</a> -- <span>A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101</span></li><li><a href=https://github.com/nest-modules/mailer>nest-modules/mailer</a> -- <span>📨 A mailer module for Nest framework (node.js)</span></li><li><a href=https://github.com/elk-zone/elk>elk-zone/elk</a> -- <span>A nimble Mastodon web client</span></li><li><a href=https://github.com/rbren/rss-parser>rbren/rss-parser</a> -- <span>A lightweight RSS parser, for Node and the browser</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/17/23, 2:23 PM<br>下一次刷新：1/17/23, 5:23 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/17/23, 5:18 PM<br>下一次刷新：1/17/23, 8:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
