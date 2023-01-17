@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/serhii-londar/open-source-mac-os-apps>serhii-londar/open-source-mac-os-apps</a> -- <span>🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps</span></li><li><a href=https://github.com/ldrolez/free-midi-chords>ldrolez/free-midi-chords</a> -- <span>A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101</span></li><li><a href=https://github.com/nanojsx/nano>nanojsx/nano</a> -- <span>🎯 SSR first, lightweight 1kB JSX library.</span></li><li><a href=https://github.com/iglance/iGlance>iglance/iGlance</a> -- <span>Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.</span></li><li><a href=https://github.com/steventroughtonsmith/CatalystEffectViewChrome>steventroughtonsmith/CatalystEffectViewChrome</a> -- <span>Catalyst example using an AppKit-provided NSVisualEffectView to provide a translucent blurred window</span></li></ul>
+<ul><li><a href=https://github.com/steventroughtonsmith/CatalystEffectViewChrome>steventroughtonsmith/CatalystEffectViewChrome</a> -- <span>Catalyst example using an AppKit-provided NSVisualEffectView to provide a translucent blurred window</span></li><li><a href=https://github.com/feross/clipboard-copy>feross/clipboard-copy</a> -- <span>Lightweight copy to clipboard for the web</span></li><li><a href=https://github.com/nest-modules/mailer>nest-modules/mailer</a> -- <span>📨 A mailer module for Nest framework (node.js)</span></li><li><a href=https://github.com/avgupta456/github-trends>avgupta456/github-trends</a> -- <span>🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!</span></li><li><a href=https://github.com/chanshiyucx/zero>chanshiyucx/zero</a> -- <span>Nya~</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/18/23, 2:23 AM<br>下一次刷新：1/18/23, 5:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/18/23, 5:21 AM<br>下一次刷新：1/18/23, 8:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
