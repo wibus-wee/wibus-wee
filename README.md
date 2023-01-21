@@ -102,7 +102,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vinta/pangu.js>vinta/pangu.js</a> -- <span>Paranoid text spacing in JavaScript</span></li><li><a href=https://github.com/bytedance/bytemd>bytedance/bytemd</a> -- <span>Hackable Markdown Editor and Viewer</span></li><li><a href=https://github.com/chanshiyucx/zero>chanshiyucx/zero</a> -- <span>Nya~</span></li><li><a href=https://github.com/seemoo-lab/opendrop>seemoo-lab/opendrop</a> -- <span>An open Apple AirDrop implementation written in Python</span></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a> -- <span>Hide people with certain emoji in their twitter id.</span></li></ul>
+<ul><li><a href=https://github.com/DanielXMoore/Civet>DanielXMoore/Civet</a> -- <span>The modern way to write TypeScript</span></li><li><a href=https://github.com/Vanessa219/vditor>Vanessa219/vditor</a> -- <span>♏ 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text), Instant Rendering (Typora-like) and Split View modes.</span></li><li><a href=https://github.com/wibus-wee/bump-monorepo>wibus-wee/bump-monorepo</a> -- <span>A Command Line Tool to bump monorepo packages.</span></li><li><a href=https://github.com/CodeEditApp/CodeEditKit>CodeEditApp/CodeEditKit</a> -- <span>CodeEditKit is an interface between CodeEdit and extensions</span></li><li><a href=https://github.com/gluon-framework/gluon>gluon-framework/gluon</a> -- <span>A new framework for creating desktop apps from websites, using system installed browsers and NodeJS</span></li></ul>
 
 
 **捉迷藏**
@@ -115,7 +115,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/22/23, 2:21 AM<br>下一次刷新：1/22/23, 5:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/22/23, 5:15 AM<br>下一次刷新：1/22/23, 8:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
