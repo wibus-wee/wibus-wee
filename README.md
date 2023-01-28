@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/DanielXMoore/Civet>DanielXMoore/Civet</a> -- <span>The modern way to write TypeScript</span></li><li><a href=https://github.com/losfair/v8-serde>losfair/v8-serde</a> -- <span>[WIP] Pure-JavaScript implementation of the V8 value serializer</span></li><li><a href=https://github.com/lishaobos/magic-img>lishaobos/magic-img</a> -- <span>让图片加载更加优雅</span></li><li><a href=https://github.com/gluon-framework/gluon>gluon-framework/gluon</a> -- <span>A new framework for creating desktop apps from websites, using system installed browsers and NodeJS</span></li><li><a href=https://github.com/ueberdosis/hocuspocus>ueberdosis/hocuspocus</a> -- <span>The Y.js WebSocket backend</span></li></ul>
+<ul><li><a href=https://github.com/avgupta456/github-trends>avgupta456/github-trends</a> -- <span>🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!</span></li><li><a href=https://github.com/zhaoolee/ins>zhaoolee/ins</a> -- <span>🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度</span></li><li><a href=https://github.com/vinta/pangu.js>vinta/pangu.js</a> -- <span>Paranoid text spacing in JavaScript</span></li><li><a href=https://github.com/iglance/iGlance>iglance/iGlance</a> -- <span>Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.</span></li><li><a href=https://github.com/losfair/v8-serde>losfair/v8-serde</a> -- <span>[WIP] Pure-JavaScript implementation of the V8 value serializer</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/28/23, 10:44 PM<br>下一次刷新：1/29/23, 1:44 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/28/23, 11:18 PM<br>下一次刷新：1/29/23, 2:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
