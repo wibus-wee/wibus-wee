@@ -8,20 +8,6 @@
 
 > <u>*I am now in school, code time is usually on the weekend*</u>
 
-<details>
-  <summary>
-    Oops...
-  </summary>
-  
-  <br>
-
-> The environment is becoming increasingly harsh, and I may not be able to access `*.github.com` at any time. If I suddenly have no commits, it is likely that I will no longer be able to access it.
-  
-<br>
-<hr>
-
-</details>
-
 <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
 Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of 🔨 [@jwcjs](https://github.com/jwcjs/core) and 🏖 [@mogland](https://github.com/mogland/core) 
@@ -35,7 +21,7 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 - 🔭 I’m currently working on a breakthrough blogging system 🏖 [@mogland](https://github.com/mogland/core) and web component framework 🔨 [@jwcjs](https://github.com/jwcjs/core) 
 - 🌱 I’m currently learning 🧵 web design, and so on.
 - 🤔 I’m looking for help with 🥚 MicroService Module design.
-- 📫 How to reach me: 🏠 [Home Page](https://iucky.cn) | ✍️ [Blog (CN)](https://blog.iucky.cn) | 🐦 [Twitter](https://twitter.com/@wibus_wee)
+- 📫 How to reach me: 🏠 [Home Page](https://wibus.ren) | ✍️ [Blog (CN)](https://blog.wibus.ren) | 🐦 [Twitter](https://twitter.com/@wibus_wee)
 - ⚡ Fun fact: Like sleeping. 💤
 - 🎵 I am currently focusing on the combination of 🇨🇳 Chinese style music and 💡 modern electronic music, and 🎹 piano music in the Baroque period.
 
