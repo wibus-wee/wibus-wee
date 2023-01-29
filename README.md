@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lishaobos/magic-img>lishaobos/magic-img</a> -- <span>让图片加载更加优雅</span></li><li><a href=https://github.com/fiduswriter/diffDOM>fiduswriter/diffDOM</a> -- <span>A diff for DOM elements, as client-side JavaScript code. Gets all modifications, insertions and removals between two DOM fragments.</span></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a> -- <span>Hide people with certain emoji in their twitter id.</span></li><li><a href=https://github.com/zhaoolee/ins>zhaoolee/ins</a> -- <span>🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度</span></li><li><a href=https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar>QC2168/vite-plugin-vitepress-auto-sidebar</a> -- <span>The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress</span></li></ul>
+<ul><li><a href=https://github.com/antfu/pnpm-patch-i>antfu/pnpm-patch-i</a> -- <span>A better and interactive pnpm patch</span></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a> -- <span>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</span></li><li><a href=https://github.com/fiduswriter/diffDOM>fiduswriter/diffDOM</a> -- <span>A diff for DOM elements, as client-side JavaScript code. Gets all modifications, insertions and removals between two DOM fragments.</span></li><li><a href=https://github.com/gluon-framework/gluon>gluon-framework/gluon</a> -- <span>A new framework for creating desktop apps from websites, using system installed browsers and NodeJS</span></li><li><a href=https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar>QC2168/vite-plugin-vitepress-auto-sidebar</a> -- <span>The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/29/23, 5:15 AM<br>下一次刷新：1/29/23, 8:15 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/29/23, 9:43 AM<br>下一次刷新：1/29/23, 12:43 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
