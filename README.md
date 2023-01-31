@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/miru-project/miru>miru-project/miru</a> -- <span>Miru 一个支持扩展视频源的在线影视播放器</span></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a> -- <span>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</span></li><li><a href=https://github.com/DanielXMoore/Civet>DanielXMoore/Civet</a> -- <span>The modern way to write TypeScript</span></li><li><a href=https://github.com/vinta/pangu.js>vinta/pangu.js</a> -- <span>Paranoid text spacing in JavaScript</span></li><li><a href=https://github.com/H-M-H/Weylus>H-M-H/Weylus</a> -- <span>Use your tablet as graphic tablet/touch screen on your computer.</span></li></ul>
+<ul><li><a href=https://github.com/miru-project/miru>miru-project/miru</a> -- <span>Miru 一个支持扩展视频源的在线影视播放器</span></li><li><a href=https://github.com/bytedance/bytemd>bytedance/bytemd</a> -- <span>Hackable Markdown Editor and Viewer</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a> -- <span>Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a> -- <span>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</span></li><li><a href=https://github.com/iglance/iGlance>iglance/iGlance</a> -- <span>Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/23, 2:23 AM<br>下一次刷新：2/1/23, 5:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/23, 5:16 AM<br>下一次刷新：2/1/23, 8:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
