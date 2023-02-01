@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/criszz77/luna>criszz77/luna</a> -- <span>Luna - a React Native + Next.js template. Built with TypeScript :heart:</span></li><li><a href=https://github.com/sindresorhus/p-queue>sindresorhus/p-queue</a> -- <span>Promise queue with concurrency control</span></li><li><a href=https://github.com/actions-cool/issues-helper>actions-cool/issues-helper</a> -- <span>🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.</span></li><li><a href=https://github.com/fiduswriter/diffDOM>fiduswriter/diffDOM</a> -- <span>A diff for DOM elements, as client-side JavaScript code. Gets all modifications, insertions and removals between two DOM fragments.</span></li><li><a href=https://github.com/DanielXMoore/Civet>DanielXMoore/Civet</a> -- <span>The modern way to write TypeScript</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a> -- <span>Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/losfair/v8-serde>losfair/v8-serde</a> -- <span>[WIP] Pure-JavaScript implementation of the V8 value serializer</span></li><li><a href=https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar>QC2168/vite-plugin-vitepress-auto-sidebar</a> -- <span>The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress</span></li><li><a href=https://github.com/vanilla-extract-css/vanilla-extract>vanilla-extract-css/vanilla-extract</a> -- <span>Zero-runtime Stylesheets-in-TypeScript</span></li><li><a href=https://github.com/iglance/iGlance>iglance/iGlance</a> -- <span>Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/23, 2:23 AM<br>下一次刷新：2/2/23, 5:23 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/23, 5:16 AM<br>下一次刷新：2/2/23, 8:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
