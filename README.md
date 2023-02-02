@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/fz6m/auto-typings-css-loader>fz6m/auto-typings-css-loader</a> -- <span>全自动处理 css module 生成对应 .d.ts 类型文件，不受规则限制的 webpack loader</span></li><li><a href=https://github.com/lucidrains/musiclm-pytorch>lucidrains/musiclm-pytorch</a> -- <span>Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch</span></li><li><a href=https://github.com/shadcn/ui>shadcn/ui</a> -- <span>Beautifully designed components built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/wave-charts/avatar-gen>wave-charts/avatar-gen</a> -- <span>一个随机头像生成器的纯前端实现</span></li><li><a href=https://github.com/AuroraTea/control-panel>AuroraTea/control-panel</a> -- <span>The Control Panel is intended as an alternative to the Windows Control Panel in certain situations.</span></li></ul>
+<ul><li><a href=https://github.com/localsend/localsend>localsend/localsend</a> -- <span>An open source cross-platform alternative to AirDrop</span></li><li><a href=https://github.com/fz6m/auto-typings-css-loader>fz6m/auto-typings-css-loader</a> -- <span>全自动处理 css module 生成对应 .d.ts 类型文件，不受规则限制的 webpack loader</span></li><li><a href=https://github.com/lucidrains/musiclm-pytorch>lucidrains/musiclm-pytorch</a> -- <span>Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch</span></li><li><a href=https://github.com/shadcn/ui>shadcn/ui</a> -- <span>Beautifully designed components built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/wave-charts/avatar-gen>wave-charts/avatar-gen</a> -- <span>一个随机头像生成器的纯前端实现</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/H-M-H/Weylus>H-M-H/Weylus</a> -- <span>Use your tablet as graphic tablet/touch screen on your computer.</span></li><li><a href=https://github.com/vinta/pangu.js>vinta/pangu.js</a> -- <span>Paranoid text spacing in JavaScript</span></li><li><a href=https://github.com/sindresorhus/p-queue>sindresorhus/p-queue</a> -- <span>Promise queue with concurrency control</span></li><li><a href=https://github.com/Innei/tsup-template>Innei/tsup-template</a></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a> -- <span>Hide people with certain emoji in their twitter id.</span></li></ul>
+<ul><li><a href=https://github.com/lishaobos/magic-img>lishaobos/magic-img</a> -- <span>让图片加载更加优雅</span></li><li><a href=https://github.com/wbhob/nest-middlewares>wbhob/nest-middlewares</a> -- <span>Common, injectable middlewares for NestJS</span></li><li><a href=https://github.com/denysdovhan/wtfjs>denysdovhan/wtfjs</a> -- <span>🤪 A list of funny and tricky JavaScript examples</span></li><li><a href=https://github.com/vanilla-extract-css/vanilla-extract>vanilla-extract-css/vanilla-extract</a> -- <span>Zero-runtime Stylesheets-in-TypeScript</span></li><li><a href=https://github.com/ueberdosis/hocuspocus>ueberdosis/hocuspocus</a> -- <span>The Y.js WebSocket backend</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/23, 8:38 PM<br>下一次刷新：2/2/23, 11:38 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/23, 11:19 PM<br>下一次刷新：2/3/23, 2:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
