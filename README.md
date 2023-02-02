@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/shadcn/ui>shadcn/ui</a> -- <span>Beautifully designed components built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/wave-charts/avatar-gen>wave-charts/avatar-gen</a> -- <span>一个随机头像生成器的纯前端实现</span></li><li><a href=https://github.com/AuroraTea/control-panel>AuroraTea/control-panel</a> -- <span>The Control Panel is intended as an alternative to the Windows Control Panel in certain situations.</span></li><li><a href=https://github.com/jgm/djot.js>jgm/djot.js</a> -- <span>JavaScript implementation of djot</span></li><li><a href=https://github.com/Innei/tsup-template>Innei/tsup-template</a></li></ul>
+<ul><li><a href=https://github.com/lucidrains/musiclm-pytorch>lucidrains/musiclm-pytorch</a> -- <span>Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch</span></li><li><a href=https://github.com/shadcn/ui>shadcn/ui</a> -- <span>Beautifully designed components built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/wave-charts/avatar-gen>wave-charts/avatar-gen</a> -- <span>一个随机头像生成器的纯前端实现</span></li><li><a href=https://github.com/AuroraTea/control-panel>AuroraTea/control-panel</a> -- <span>The Control Panel is intended as an alternative to the Windows Control Panel in certain situations.</span></li><li><a href=https://github.com/jgm/djot.js>jgm/djot.js</a> -- <span>JavaScript implementation of djot</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a> -- <span>Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/losfair/v8-serde>losfair/v8-serde</a> -- <span>[WIP] Pure-JavaScript implementation of the V8 value serializer</span></li><li><a href=https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar>QC2168/vite-plugin-vitepress-auto-sidebar</a> -- <span>The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress</span></li><li><a href=https://github.com/vanilla-extract-css/vanilla-extract>vanilla-extract-css/vanilla-extract</a> -- <span>Zero-runtime Stylesheets-in-TypeScript</span></li><li><a href=https://github.com/iglance/iGlance>iglance/iGlance</a> -- <span>Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.</span></li></ul>
+<ul><li><a href=https://github.com/iglance/iGlance>iglance/iGlance</a> -- <span>Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.</span></li><li><a href=https://github.com/antfu/pnpm-patch-i>antfu/pnpm-patch-i</a> -- <span>A better and interactive pnpm patch</span></li><li><a href=https://github.com/Innei/tsup-template>Innei/tsup-template</a></li><li><a href=https://github.com/sindresorhus/p-queue>sindresorhus/p-queue</a> -- <span>Promise queue with concurrency control</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a> -- <span>Kimis is a client for Misskey built with pure UIKit for quality.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/23, 5:16 AM<br>下一次刷新：2/2/23, 8:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/2/23, 9:41 AM<br>下一次刷新：2/2/23, 12:41 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
