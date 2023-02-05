@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a> -- <span>Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a> -- <span>Hide people with certain emoji in their twitter id.</span></li><li><a href=https://github.com/lishaobos/magic-img>lishaobos/magic-img</a> -- <span>让图片加载更加优雅</span></li><li><a href=https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar>QC2168/vite-plugin-vitepress-auto-sidebar</a> -- <span>The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress</span></li><li><a href=https://github.com/gluon-framework/gluon>gluon-framework/gluon</a> -- <span>A new framework for creating desktop apps from websites, using system installed browsers and NodeJS</span></li></ul>
+<ul><li><a href=https://github.com/crxjs/chrome-extension-tools>crxjs/chrome-extension-tools</a> -- <span>Bundling Chrome Extensions can be pretty complex. It doesn't have to be.</span></li><li><a href=https://github.com/H-M-H/Weylus>H-M-H/Weylus</a> -- <span>Use your tablet as graphic tablet/touch screen on your computer.</span></li><li><a href=https://github.com/bytedance/bytemd>bytedance/bytemd</a> -- <span>Hackable Markdown Editor and Viewer</span></li><li><a href=https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar>QC2168/vite-plugin-vitepress-auto-sidebar</a> -- <span>The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress</span></li><li><a href=https://github.com/antfu/pnpm-patch-i>antfu/pnpm-patch-i</a> -- <span>A better and interactive pnpm patch</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/5/23, 11:23 AM<br>下一次刷新：2/5/23, 2:23 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/5/23, 2:22 PM<br>下一次刷新：2/5/23, 5:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
