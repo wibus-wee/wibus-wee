@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/localsend/localsend>localsend/localsend</a> -- <span>An open source cross-platform alternative to AirDrop</span></li><li><a href=https://github.com/fz6m/auto-typings-css-loader>fz6m/auto-typings-css-loader</a> -- <span>全自动处理 css module 生成对应 .d.ts 类型文件，不受规则限制的 webpack loader</span></li><li><a href=https://github.com/lucidrains/musiclm-pytorch>lucidrains/musiclm-pytorch</a> -- <span>Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch</span></li><li><a href=https://github.com/shadcn/ui>shadcn/ui</a> -- <span>Beautifully designed components built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/wave-charts/avatar-gen>wave-charts/avatar-gen</a> -- <span>一个随机头像生成器的纯前端实现</span></li></ul>
+<ul><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a> -- <span>ChatGPT 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Searching| 📷Multi-modal/Image Understanding | 💐Self-maintained LLM Framework|ChatGPT Like</span></li><li><a href=https://github.com/localsend/localsend>localsend/localsend</a> -- <span>An open source cross-platform alternative to AirDrop</span></li><li><a href=https://github.com/fz6m/auto-typings-css-loader>fz6m/auto-typings-css-loader</a> -- <span>全自动处理 css module 生成对应 .d.ts 类型文件，不受规则限制的 webpack loader</span></li><li><a href=https://github.com/lucidrains/musiclm-pytorch>lucidrains/musiclm-pytorch</a> -- <span>Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch</span></li><li><a href=https://github.com/shadcn/ui>shadcn/ui</a> -- <span>Beautifully designed components built with Radix UI and Tailwind CSS.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/DanielXMoore/Civet>DanielXMoore/Civet</a> -- <span>The modern way to write TypeScript</span></li><li><a href=https://github.com/jgm/djot.js>jgm/djot.js</a> -- <span>JavaScript implementation of djot</span></li><li><a href=https://github.com/Innei/tsup-template>Innei/tsup-template</a></li><li><a href=https://github.com/lishaobos/magic-img>lishaobos/magic-img</a> -- <span>让图片加载更加优雅</span></li><li><a href=https://github.com/AuroraTea/control-panel>AuroraTea/control-panel</a> -- <span>The Control Panel is intended as an alternative to the Windows Control Panel in certain situations.</span></li></ul>
+<ul><li><a href=https://github.com/Mokshit06/typewind>Mokshit06/typewind</a> -- <span>The safety of Typescript with the magic of Tailwind.</span></li><li><a href=https://github.com/lima-vm/lima>lima-vm/lima</a> -- <span>Linux virtual machines, typically on macOS, for running containerd</span></li><li><a href=https://github.com/wave-charts/avatar-gen>wave-charts/avatar-gen</a> -- <span>一个随机头像生成器的纯前端实现</span></li><li><a href=https://github.com/sindresorhus/p-queue>sindresorhus/p-queue</a> -- <span>Promise queue with concurrency control</span></li><li><a href=https://github.com/criszz77/luna>criszz77/luna</a> -- <span>Luna - a React Native + Next.js template. Built with TypeScript :heart:</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/7/23, 8:37 PM<br>下一次刷新：2/7/23, 11:37 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/7/23, 11:20 PM<br>下一次刷新：2/8/23, 2:20 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
