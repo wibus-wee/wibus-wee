@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vinta/pangu.js>vinta/pangu.js</a> -- <span>Paranoid text spacing in JavaScript</span></li><li><a href=https://github.com/Mokshit06/typewind>Mokshit06/typewind</a> -- <span>The safety of Typescript with the magic of Tailwind.</span></li><li><a href=https://github.com/mintlify/writer>mintlify/writer</a> -- <span>✍️ AI powered documentation writer</span></li><li><a href=https://github.com/ueberdosis/hocuspocus>ueberdosis/hocuspocus</a> -- <span>The Y.js WebSocket backend</span></li><li><a href=https://github.com/criszz77/luna>criszz77/luna</a> -- <span>Luna - a React Native + Next.js template. Built with TypeScript :heart:</span></li></ul>
+<ul><li><a href=https://github.com/AuroraTea/control-panel>AuroraTea/control-panel</a> -- <span>The Control Panel is intended as an alternative to the Windows Control Panel in certain situations.</span></li><li><a href=https://github.com/crxjs/chrome-extension-tools>crxjs/chrome-extension-tools</a> -- <span>Bundling Chrome Extensions can be pretty complex. It doesn't have to be.</span></li><li><a href=https://github.com/criszz77/luna>criszz77/luna</a> -- <span>Luna - a React Native + Next.js template. Built with TypeScript :heart:</span></li><li><a href=https://github.com/H-M-H/Weylus>H-M-H/Weylus</a> -- <span>Use your tablet as graphic tablet/touch screen on your computer.</span></li><li><a href=https://github.com/lishaobos/magic-img>lishaobos/magic-img</a> -- <span>让图片加载更加优雅</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/8/23, 5:16 AM<br>下一次刷新：2/8/23, 8:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/8/23, 9:42 AM<br>下一次刷新：2/8/23, 12:42 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
