@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a> -- <span>Hide people with certain emoji in their twitter id.</span></li><li><a href=https://github.com/Innei/tsup-template>Innei/tsup-template</a></li><li><a href=https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar>QC2168/vite-plugin-vitepress-auto-sidebar</a> -- <span>The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress</span></li><li><a href=https://github.com/antfu/pnpm-patch-i>antfu/pnpm-patch-i</a> -- <span>A better and interactive pnpm patch</span></li><li><a href=https://github.com/DanielXMoore/Civet>DanielXMoore/Civet</a> -- <span>The modern way to write TypeScript</span></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a> -- <span>Hide people with certain emoji in their twitter id.</span></li><li><a href=https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar>QC2168/vite-plugin-vitepress-auto-sidebar</a> -- <span>The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress</span></li><li><a href=https://github.com/Innei/tsup-template>Innei/tsup-template</a></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a> -- <span>Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/AuroraTea/control-panel>AuroraTea/control-panel</a> -- <span>The Control Panel is intended as an alternative to the Windows Control Panel in certain situations.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/10/23, 2:24 AM<br>下一次刷新：2/10/23, 5:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/10/23, 5:17 AM<br>下一次刷新：2/10/23, 8:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
