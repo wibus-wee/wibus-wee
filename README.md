@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/dai-shi/react-suspense-fetch>dai-shi/react-suspense-fetch</a> -- <span>A low-level library for React Suspense for Data Fetching</span></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a> -- <span>ChatGPT 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Searching| 📷Multi-modal/Image Understanding | 💐Self-maintained LLM Framework|ChatGPT Like</span></li><li><a href=https://github.com/localsend/localsend>localsend/localsend</a> -- <span>An open source cross-platform alternative to AirDrop</span></li><li><a href=https://github.com/fz6m/auto-typings-css-loader>fz6m/auto-typings-css-loader</a> -- <span>全自动处理 css module 生成对应 .d.ts 类型文件，不受规则限制的 webpack loader</span></li><li><a href=https://github.com/lucidrains/musiclm-pytorch>lucidrains/musiclm-pytorch</a> -- <span>Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch</span></li></ul>
+<ul><li><a href=https://github.com/githubnext/blocks>githubnext/blocks</a> -- <span>A set of files to use as input for Blocks.</span></li><li><a href=https://github.com/githubnext/universe-blocks-demo>githubnext/universe-blocks-demo</a></li><li><a href=https://github.com/google/blockly>google/blockly</a> -- <span>The web-based visual programming editor.</span></li><li><a href=https://github.com/dai-shi/react-suspense-fetch>dai-shi/react-suspense-fetch</a> -- <span>A low-level library for React Suspense for Data Fetching</span></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a> -- <span>ChatGPT 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Searching| 📷Multi-modal/Image Understanding | 💐Self-maintained LLM Framework|ChatGPT Like</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sindresorhus/p-queue>sindresorhus/p-queue</a> -- <span>Promise queue with concurrency control</span></li><li><a href=https://github.com/Innei/tsup-template>Innei/tsup-template</a></li><li><a href=https://github.com/jgm/djot.js>jgm/djot.js</a> -- <span>JavaScript implementation of djot</span></li><li><a href=https://github.com/bytedance/bytemd>bytedance/bytemd</a> -- <span>Hackable Markdown Editor and Viewer</span></li><li><a href=https://github.com/mintlify/writer>mintlify/writer</a> -- <span>✍️ AI powered documentation writer</span></li></ul>
+<ul><li><a href=https://github.com/localsend/localsend>localsend/localsend</a> -- <span>An open source cross-platform alternative to AirDrop</span></li><li><a href=https://github.com/wave-charts/avatar-gen>wave-charts/avatar-gen</a> -- <span>一个随机头像生成器的纯前端实现</span></li><li><a href=https://github.com/losfair/v8-serde>losfair/v8-serde</a> -- <span>[WIP] Pure-JavaScript implementation of the V8 value serializer</span></li><li><a href=https://github.com/Mokshit06/typewind>Mokshit06/typewind</a> -- <span>The safety of Typescript with the magic of Tailwind.</span></li><li><a href=https://github.com/antfu/pnpm-patch-i>antfu/pnpm-patch-i</a> -- <span>A better and interactive pnpm patch</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/23, 5:16 AM<br>下一次刷新：2/11/23, 8:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/23, 11:20 AM<br>下一次刷新：2/11/23, 2:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
