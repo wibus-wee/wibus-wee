@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/localsend/localsend>localsend/localsend</a> -- <span>An open source cross-platform alternative to AirDrop</span></li><li><a href=https://github.com/lishaobos/magic-img>lishaobos/magic-img</a> -- <span>让图片加载更加优雅</span></li><li><a href=https://github.com/wave-charts/avatar-gen>wave-charts/avatar-gen</a> -- <span>一个随机头像生成器的纯前端实现</span></li><li><a href=https://github.com/Innei/tsup-template>Innei/tsup-template</a></li><li><a href=https://github.com/criszz77/luna>criszz77/luna</a> -- <span>Luna - a React Native + Next.js template. Built with TypeScript :heart:</span></li></ul>
+<ul><li><a href=https://github.com/fz6m/auto-typings-css-loader>fz6m/auto-typings-css-loader</a> -- <span>全自动处理 css module 生成对应 .d.ts 类型文件，不受规则限制的 webpack loader</span></li><li><a href=https://github.com/Innei/tsup-template>Innei/tsup-template</a></li><li><a href=https://github.com/vanilla-extract-css/vanilla-extract>vanilla-extract-css/vanilla-extract</a> -- <span>Zero-runtime Stylesheets-in-TypeScript</span></li><li><a href=https://github.com/Mokshit06/typewind>Mokshit06/typewind</a> -- <span>The safety of Typescript with the magic of Tailwind.</span></li><li><a href=https://github.com/lishaobos/magic-img>lishaobos/magic-img</a> -- <span>让图片加载更加优雅</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/13/23, 2:25 PM<br>下一次刷新：2/13/23, 5:25 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/13/23, 5:20 PM<br>下一次刷新：2/13/23, 8:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
