@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li><li><a href=https://github.com/githubnext/blocks>githubnext/blocks</a> -- <span>A set of files to use as input for Blocks.</span></li><li><a href=https://github.com/githubnext/universe-blocks-demo>githubnext/universe-blocks-demo</a></li><li><a href=https://github.com/google/blockly>google/blockly</a> -- <span>The web-based visual programming editor.</span></li><li><a href=https://github.com/dai-shi/react-suspense-fetch>dai-shi/react-suspense-fetch</a> -- <span>A low-level library for React Suspense for Data Fetching</span></li></ul>
+<ul><li><a href=https://github.com/natemoo-re/clack>natemoo-re/clack</a> -- <span>Effortlessly build beautiful command-line apps</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li><li><a href=https://github.com/githubnext/blocks>githubnext/blocks</a> -- <span>A set of files to use as input for Blocks.</span></li><li><a href=https://github.com/githubnext/universe-blocks-demo>githubnext/universe-blocks-demo</a></li><li><a href=https://github.com/google/blockly>google/blockly</a> -- <span>The web-based visual programming editor.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wave-charts/avatar-gen>wave-charts/avatar-gen</a> -- <span>一个随机头像生成器的纯前端实现</span></li><li><a href=https://github.com/lima-vm/lima>lima-vm/lima</a> -- <span>Linux virtual machines, typically on macOS, for running containerd</span></li><li><a href=https://github.com/criszz77/luna>criszz77/luna</a> -- <span>Luna - a React Native + Next.js template. Built with TypeScript :heart:</span></li><li><a href=https://github.com/bytedance/bytemd>bytedance/bytemd</a> -- <span>Hackable Markdown Editor and Viewer</span></li><li><a href=https://github.com/losfair/v8-serde>losfair/v8-serde</a> -- <span>[WIP] Pure-JavaScript implementation of the V8 value serializer</span></li></ul>
+<ul><li><a href=https://github.com/losfair/v8-serde>losfair/v8-serde</a> -- <span>[WIP] Pure-JavaScript implementation of the V8 value serializer</span></li><li><a href=https://github.com/mintlify/writer>mintlify/writer</a> -- <span>✍️ AI powered documentation writer</span></li><li><a href=https://github.com/AuroraTea/control-panel>AuroraTea/control-panel</a> -- <span>The Control Panel is intended as an alternative to the Windows Control Panel in certain situations.</span></li><li><a href=https://github.com/antfu/pnpm-patch-i>antfu/pnpm-patch-i</a> -- <span>A better and interactive pnpm patch</span></li><li><a href=https://github.com/lima-vm/lima>lima-vm/lima</a> -- <span>Linux virtual machines, typically on macOS, for running containerd</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/13/23, 8:38 PM<br>下一次刷新：2/13/23, 11:38 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/13/23, 11:21 PM<br>下一次刷新：2/14/23, 2:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
