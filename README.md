@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vanilla-extract-css/vanilla-extract>vanilla-extract-css/vanilla-extract</a> -- <span>Zero-runtime Stylesheets-in-TypeScript</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a> -- <span>Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar>QC2168/vite-plugin-vitepress-auto-sidebar</a> -- <span>The vite plugin that automatically generates sidebar data by scanning directories, based on vitepress</span></li><li><a href=https://github.com/lucidrains/musiclm-pytorch>lucidrains/musiclm-pytorch</a> -- <span>Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch</span></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a> -- <span>ChatGPTresurrect 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Searching| 📷Multi-modal/Image Understanding | 💐Self-maintained LLM Framework|ChatGPT Like</span></li></ul>
+<ul><li><a href=https://github.com/sindresorhus/p-queue>sindresorhus/p-queue</a> -- <span>Promise queue with concurrency control</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li><li><a href=https://github.com/Mokshit06/typewind>Mokshit06/typewind</a> -- <span>The safety of Typescript with the magic of Tailwind.</span></li><li><a href=https://github.com/wave-charts/avatar-gen>wave-charts/avatar-gen</a> -- <span>一个随机头像生成器的纯前端实现</span></li><li><a href=https://github.com/bytedance/bytemd>bytedance/bytemd</a> -- <span>Hackable Markdown Editor and Viewer</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/15/23, 9:45 AM<br>下一次刷新：2/15/23, 12:45 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/15/23, 11:24 AM<br>下一次刷新：2/15/23, 2:24 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
