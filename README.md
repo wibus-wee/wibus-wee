@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/fast-average-color/fast-average-color>fast-average-color/fast-average-color</a> -- <span>🍏🍊🍅 Fast Average Color</span></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a> -- <span>基于 Nextjs 开发仿掘金站点</span></li><li><a href=https://github.com/google/blockly>google/blockly</a> -- <span>The web-based visual programming editor.</span></li><li><a href=https://github.com/shadcn/ui>shadcn/ui</a> -- <span>Beautifully designed components built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li></ul>
+<ul><li><a href=https://github.com/githubnext/universe-blocks-demo>githubnext/universe-blocks-demo</a></li><li><a href=https://github.com/liriliri/eruda>liriliri/eruda</a> -- <span>Console for mobile browsers</span></li><li><a href=https://github.com/boringdesigners/boring-avatars>boringdesigners/boring-avatars</a> -- <span>Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.</span></li><li><a href=https://github.com/commaai/openpilot>commaai/openpilot</a> -- <span>openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.</span></li><li><a href=https://github.com/lwouis/alt-tab-macos>lwouis/alt-tab-macos</a> -- <span>Windows alt-tab on macOS</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/23, 9:43 AM<br>下一次刷新：2/27/23, 12:43 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/23, 11:24 AM<br>下一次刷新：2/27/23, 2:24 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
