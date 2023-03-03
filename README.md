@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a> -- <span>Gpt-3.5-turbo/ChatGPT Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Searching| 📷Multi-modal/Image Understanding | 💐Self-maintained LLM Framework</span></li><li><a href=https://github.com/githubnext/universe-blocks-demo>githubnext/universe-blocks-demo</a></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li><li><a href=https://github.com/liriliri/eruda>liriliri/eruda</a> -- <span>Console for mobile browsers</span></li><li><a href=https://github.com/shadcn/ui>shadcn/ui</a> -- <span>Beautifully designed components built with Radix UI and Tailwind CSS.</span></li></ul>
+<ul><li><a href=https://github.com/fz6m/auto-typings-css-loader>fz6m/auto-typings-css-loader</a> -- <span>全自动处理 css module 生成对应 .d.ts 类型文件，不受规则限制的 webpack loader</span></li><li><a href=https://github.com/hydroxide-js/hydroxide>hydroxide-js/hydroxide</a> -- <span>Next Generation Reactive JavaScript Framework</span></li><li><a href=https://github.com/shinsenter/defer.js>shinsenter/defer.js</a> -- <span>🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.</span></li><li><a href=https://github.com/dai-shi/react-suspense-fetch>dai-shi/react-suspense-fetch</a> -- <span>A low-level library for React Suspense for Data Fetching</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/23, 5:19 PM<br>下一次刷新：3/3/23, 8:19 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/23, 8:36 PM<br>下一次刷新：3/3/23, 11:36 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
