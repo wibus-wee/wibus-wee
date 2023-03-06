@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Nutlope/roomGPT>Nutlope/roomGPT</a> -- <span>Upload a photo of your room to generate your dream room with AI.</span></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a> -- <span>An opinionated toast component for React.</span></li><li><a href=https://github.com/kohya-ss/sd-scripts>kohya-ss/sd-scripts</a></li><li><a href=https://github.com/civitai/civitai>civitai/civitai</a> -- <span>A repository of models, textual inversions, and more</span></li><li><a href=https://github.com/ddPn08/kohya-sd-scripts-webui>ddPn08/kohya-sd-scripts-webui</a> -- <span>Gradio wrapper for sd-scripts by kohya</span></li></ul>
+<ul><li><a href=https://github.com/danielroe/magic-regexp>danielroe/magic-regexp</a> -- <span>A compiled-away, type-safe, readable RegExp alternative</span></li><li><a href=https://github.com/Nutlope/roomGPT>Nutlope/roomGPT</a> -- <span>Upload a photo of your room to generate your dream room with AI.</span></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a> -- <span>An opinionated toast component for React.</span></li><li><a href=https://github.com/kohya-ss/sd-scripts>kohya-ss/sd-scripts</a></li><li><a href=https://github.com/civitai/civitai>civitai/civitai</a> -- <span>A repository of models, textual inversions, and more</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a> -- <span>基于 Nextjs 开发仿掘金站点</span></li><li><a href=https://github.com/codesandbox/nodebox-runtime>codesandbox/nodebox-runtime</a> -- <span>Nodebox is a runtime for executing Node.js modules in the browser.</span></li><li><a href=https://github.com/natemoo-re/clack>natemoo-re/clack</a> -- <span>Effortlessly build beautiful command-line apps</span></li><li><a href=https://github.com/hydroxide-js/hydroxide>hydroxide-js/hydroxide</a> -- <span>Next Generation Reactive JavaScript Framework</span></li><li><a href=https://github.com/fz6m/auto-typings-css-loader>fz6m/auto-typings-css-loader</a> -- <span>全自动处理 css module 生成对应 .d.ts 类型文件，不受规则限制的 webpack loader</span></li></ul>
+<ul><li><a href=https://github.com/lwouis/alt-tab-macos>lwouis/alt-tab-macos</a> -- <span>Windows alt-tab on macOS</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li><li><a href=https://github.com/Akegarasu/lora-scripts>Akegarasu/lora-scripts</a> -- <span>LoRA training scripts use kohya-ss's trainer, for diffusion model.</span></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a> -- <span>基于 Nextjs 开发仿掘金站点</span></li><li><a href=https://github.com/lucidrains/musiclm-pytorch>lucidrains/musiclm-pytorch</a> -- <span>Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/6/23, 2:22 AM<br>下一次刷新：3/6/23, 5:22 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/6/23, 9:45 AM<br>下一次刷新：3/6/23, 12:45 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
