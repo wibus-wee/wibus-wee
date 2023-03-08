@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rxdrag/designable-react18>rxdrag/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li><li><a href=https://github.com/fz6m/auto-typings-css-loader>fz6m/auto-typings-css-loader</a> -- <span>全自动处理 css module 生成对应 .d.ts 类型文件，不受规则限制的 webpack loader</span></li><li><a href=https://github.com/liriliri/eruda>liriliri/eruda</a> -- <span>Console for mobile browsers</span></li><li><a href=https://github.com/dai-shi/react-suspense-fetch>dai-shi/react-suspense-fetch</a> -- <span>A low-level library for React Suspense for Data Fetching</span></li></ul>
+<ul><li><a href=https://github.com/fast-average-color/fast-average-color>fast-average-color/fast-average-color</a> -- <span>🍏🍊🍅 Fast Average Color</span></li><li><a href=https://github.com/githubnext/universe-blocks-demo>githubnext/universe-blocks-demo</a></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a> -- <span>A CLI tool to run multiple npm-scripts in parallel or sequential.</span></li><li><a href=https://github.com/shinsenter/defer.js>shinsenter/defer.js</a> -- <span>🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.</span></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a> -- <span>基于 Nextjs 开发仿掘金站点</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/8/23, 2:25 AM<br>下一次刷新：3/8/23, 5:25 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/8/23, 11:26 AM<br>下一次刷新：3/8/23, 2:26 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
