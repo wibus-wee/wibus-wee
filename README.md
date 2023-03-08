@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/kohya-ss/sd-scripts>kohya-ss/sd-scripts</a></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a> -- <span>A CLI tool to run multiple npm-scripts in parallel or sequential.</span></li><li><a href=https://github.com/localsend/localsend>localsend/localsend</a> -- <span>An open source cross-platform alternative to AirDrop</span></li><li><a href=https://github.com/dai-shi/react-suspense-fetch>dai-shi/react-suspense-fetch</a> -- <span>A low-level library for React Suspense for Data Fetching</span></li><li><a href=https://github.com/boringdesigners/boring-avatars>boringdesigners/boring-avatars</a> -- <span>Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.</span></li></ul>
+<ul><li><a href=https://github.com/Akegarasu/lora-scripts>Akegarasu/lora-scripts</a> -- <span>LoRA training scripts use kohya-ss's trainer, for diffusion model.</span></li><li><a href=https://github.com/natemoo-re/clack>natemoo-re/clack</a> -- <span>Effortlessly build beautiful command-line apps</span></li><li><a href=https://github.com/githubnext/blocks>githubnext/blocks</a> -- <span>A set of files to use as input for Blocks.</span></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a> -- <span>A CLI tool to run multiple npm-scripts in parallel or sequential.</span></li><li><a href=https://github.com/rxdrag/designable-react18>rxdrag/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/8/23, 11:21 PM<br>下一次刷新：3/9/23, 2:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/9/23, 2:25 AM<br>下一次刷新：3/9/23, 5:25 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
