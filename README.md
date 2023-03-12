@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/boringdesigners/boring-avatars>boringdesigners/boring-avatars</a> -- <span>Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.</span></li><li><a href=https://github.com/natemoo-re/clack>natemoo-re/clack</a> -- <span>Effortlessly build beautiful command-line apps</span></li><li><a href=https://github.com/kohya-ss/sd-scripts>kohya-ss/sd-scripts</a></li><li><a href=https://github.com/hydroxide-js/hydroxide>hydroxide-js/hydroxide</a> -- <span>Next Generation Reactive JavaScript Framework</span></li><li><a href=https://github.com/google/blockly>google/blockly</a> -- <span>The web-based visual programming editor.</span></li></ul>
+<ul><li><a href=https://github.com/shinsenter/defer.js>shinsenter/defer.js</a> -- <span>🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.</span></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a> -- <span>An opinionated toast component for React.</span></li><li><a href=https://github.com/rxdrag/designable-react18>rxdrag/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li><li><a href=https://github.com/dai-shi/react-suspense-fetch>dai-shi/react-suspense-fetch</a> -- <span>A low-level library for React Suspense for Data Fetching</span></li><li><a href=https://github.com/lwouis/alt-tab-macos>lwouis/alt-tab-macos</a> -- <span>Windows alt-tab on macOS</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/12/23, 5:17 PM<br>下一次刷新：3/12/23, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/12/23, 8:34 PM<br>下一次刷新：3/12/23, 11:34 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
