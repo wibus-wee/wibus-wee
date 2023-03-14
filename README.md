@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/localsend/localsend>localsend/localsend</a> -- <span>An open source cross-platform alternative to AirDrop</span></li><li><a href=https://github.com/commaai/openpilot>commaai/openpilot</a> -- <span>openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.</span></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a> -- <span>Gpt-3.5-turbo ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌 API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Searching| 📷 Multi-modal/Image Understanding | 💐 Self-maintained LLM Framework</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li><li><a href=https://github.com/lwouis/alt-tab-macos>lwouis/alt-tab-macos</a> -- <span>Windows alt-tab on macOS</span></li></ul>
+<ul><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a> -- <span>基于 Nextjs 开发仿掘金站点</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li><li><a href=https://github.com/zloirock/core-js>zloirock/core-js</a> -- <span>Standard Library</span></li><li><a href=https://github.com/codesandbox/nodebox-runtime>codesandbox/nodebox-runtime</a> -- <span>Nodebox is a runtime for executing Node.js modules in the browser.</span></li><li><a href=https://github.com/waterlrx/designable-react18>waterlrx/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/15/23, 2:29 AM<br>下一次刷新：3/15/23, 5:29 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/15/23, 5:16 AM<br>下一次刷新：3/15/23, 8:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
