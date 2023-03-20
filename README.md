@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/zloirock/core-js>zloirock/core-js</a> -- <span>Standard Library</span></li><li><a href=https://github.com/codebdy/designable-react18>codebdy/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li><li><a href=https://github.com/shinsenter/defer.js>shinsenter/defer.js</a> -- <span>🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.</span></li><li><a href=https://github.com/hnmr293/sd-webui-llul>hnmr293/sd-webui-llul</a> -- <span>LLuL - Local Latent upscaLer</span></li><li><a href=https://github.com/kohya-ss/sd-scripts>kohya-ss/sd-scripts</a></li></ul>
+<ul><li><a href=https://github.com/ddPn08/kohya-sd-scripts-webui>ddPn08/kohya-sd-scripts-webui</a> -- <span>Gradio wrapper for sd-scripts by kohya</span></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a> -- <span>An opinionated toast component for React.</span></li><li><a href=https://github.com/codebdy/designable-react18>codebdy/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li><li><a href=https://github.com/civitai/civitai>civitai/civitai</a> -- <span>A repository of models, textual inversions, and more</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/23, 5:19 PM<br>下一次刷新：3/20/23, 8:19 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/23, 8:38 PM<br>下一次刷新：3/20/23, 11:38 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
