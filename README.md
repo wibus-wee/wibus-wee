@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a> -- <span>An opinionated toast component for React.</span></li><li><a href=https://github.com/liriliri/eruda>liriliri/eruda</a> -- <span>Console for mobile browsers</span></li><li><a href=https://github.com/Nutlope/roomGPT>Nutlope/roomGPT</a> -- <span>Upload a photo of your room to generate your dream room with AI.</span></li><li><a href=https://github.com/hydroxide-js/hydroxide>hydroxide-js/hydroxide</a> -- <span>Next Generation Reactive JavaScript Framework</span></li><li><a href=https://github.com/codebdy/designable-react18>codebdy/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li></ul>
+<ul><li><a href=https://github.com/codebdy/designable-react18>codebdy/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li><li><a href=https://github.com/boringdesigners/boring-avatars>boringdesigners/boring-avatars</a> -- <span>Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li><li><a href=https://github.com/githubnext/blocks>githubnext/blocks</a> -- <span>A set of files to use as input for Blocks.</span></li><li><a href=https://github.com/Nutlope/roomGPT>Nutlope/roomGPT</a> -- <span>Upload a photo of your room to generate your dream room with AI.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/22/23, 5:17 PM<br>下一次刷新：3/22/23, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/22/23, 8:35 PM<br>下一次刷新：3/22/23, 11:35 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
