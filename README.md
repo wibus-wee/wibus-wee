@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/ddiu8081/chatgpt-demo>ddiu8081/chatgpt-demo</a> -- <span>A demo repo based on OpenAI API (gpt-3.5-turbo)</span></li><li><a href=https://github.com/Himself65/data-viewer>Himself65/data-viewer</a> -- <span>React Component for Data Viewer</span></li><li><a href=https://github.com/eatmoreapple/openwechat>eatmoreapple/openwechat</a> -- <span>golang微信SDK</span></li><li><a href=https://github.com/TypeStrong/typedoc>TypeStrong/typedoc</a> -- <span>Documentation generator for TypeScript projects.</span></li><li><a href=https://github.com/sindresorhus/DockProgress>sindresorhus/DockProgress</a> -- <span>Show progress in your app's Dock icon</span></li></ul>
+<ul><li><a href=https://github.com/ddiu8081/chatgpt-demo>ddiu8081/chatgpt-demo</a> -- <span>A demo repo based on OpenAI API.</span></li><li><a href=https://github.com/Himself65/data-viewer>Himself65/data-viewer</a> -- <span>React Component for Data Viewer</span></li><li><a href=https://github.com/eatmoreapple/openwechat>eatmoreapple/openwechat</a> -- <span>golang微信SDK</span></li><li><a href=https://github.com/TypeStrong/typedoc>TypeStrong/typedoc</a> -- <span>Documentation generator for TypeScript projects.</span></li><li><a href=https://github.com/sindresorhus/DockProgress>sindresorhus/DockProgress</a> -- <span>Show progress in your app's Dock icon</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/farm-fe/farm>farm-fe/farm</a> -- <span>Super fast web build tool written in Rust</span></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a> -- <span>基于 Nextjs 开发仿掘金站点</span></li><li><a href=https://github.com/githubnext/universe-blocks-demo>githubnext/universe-blocks-demo</a></li><li><a href=https://github.com/codesandbox/nodebox-runtime>codesandbox/nodebox-runtime</a> -- <span>Nodebox is a runtime for executing Node.js modules in the browser.</span></li><li><a href=https://github.com/liriliri/eruda>liriliri/eruda</a> -- <span>Console for mobile browsers</span></li></ul>
+<ul><li><a href=https://github.com/Nutlope/roomGPT>Nutlope/roomGPT</a> -- <span>Upload a photo of your room to generate your dream room with AI.</span></li><li><a href=https://github.com/Akegarasu/lora-scripts>Akegarasu/lora-scripts</a> -- <span>LoRA training scripts use kohya-ss's trainer, for diffusion model.</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a> -- <span>A CLI tool to run multiple npm-scripts in parallel or sequential.</span></li><li><a href=https://github.com/danielroe/magic-regexp>danielroe/magic-regexp</a> -- <span>A compiled-away, type-safe, readable RegExp alternative</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/24/23, 11:18 AM<br>下一次刷新：3/24/23, 2:18 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/24/23, 2:23 PM<br>下一次刷新：3/24/23, 5:23 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
