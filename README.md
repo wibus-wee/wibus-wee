@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/hnmr293/sd-webui-llul>hnmr293/sd-webui-llul</a> -- <span>LLuL - Local Latent upscaLer</span></li><li><a href=https://github.com/commaai/openpilot>commaai/openpilot</a> -- <span>openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.</span></li><li><a href=https://github.com/ddPn08/kohya-sd-scripts-webui>ddPn08/kohya-sd-scripts-webui</a> -- <span>Gradio wrapper for sd-scripts by kohya</span></li><li><a href=https://github.com/farm-fe/farm>farm-fe/farm</a> -- <span>Super fast web build tool written in Rust</span></li><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a> -- <span>基于 Nextjs 开发仿掘金站点</span></li></ul>
+<ul><li><a href=https://github.com/zloirock/core-js>zloirock/core-js</a> -- <span>Standard Library</span></li><li><a href=https://github.com/fast-average-color/fast-average-color>fast-average-color/fast-average-color</a> -- <span>🍏🍊🍅 Fast Average Color</span></li><li><a href=https://github.com/liriliri/eruda>liriliri/eruda</a> -- <span>Console for mobile browsers</span></li><li><a href=https://github.com/commaai/openpilot>commaai/openpilot</a> -- <span>openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.</span></li><li><a href=https://github.com/emilkowalski/sonner>emilkowalski/sonner</a> -- <span>An opinionated toast component for React.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/26/23, 9:39 AM<br>下一次刷新：3/26/23, 12:39 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/26/23, 11:21 AM<br>下一次刷新：3/26/23, 2:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
