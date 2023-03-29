@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Helixform/CodeCursor>Helixform/CodeCursor</a> -- <span>An extension for using Cursor in Visual Studio Code.</span></li><li><a href=https://github.com/ddiu8081/chatgpt-demo>ddiu8081/chatgpt-demo</a> -- <span>A demo repo based on OpenAI API.</span></li><li><a href=https://github.com/Himself65/data-viewer>Himself65/data-viewer</a> -- <span>React Component for Data Viewer</span></li><li><a href=https://github.com/eatmoreapple/openwechat>eatmoreapple/openwechat</a> -- <span>golang微信SDK</span></li><li><a href=https://github.com/TypeStrong/typedoc>TypeStrong/typedoc</a> -- <span>Documentation generator for TypeScript projects.</span></li></ul>
+<ul><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a> -- <span>一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.</span></li><li><a href=https://github.com/Helixform/CodeCursor>Helixform/CodeCursor</a> -- <span>An extension for using Cursor in Visual Studio Code.</span></li><li><a href=https://github.com/ddiu8081/chatgpt-demo>ddiu8081/chatgpt-demo</a> -- <span>A demo repo based on OpenAI API.</span></li><li><a href=https://github.com/Himself65/data-viewer>Himself65/data-viewer</a> -- <span>React Component for Data Viewer</span></li><li><a href=https://github.com/eatmoreapple/openwechat>eatmoreapple/openwechat</a> -- <span>golang微信SDK</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/shinsenter/defer.js>shinsenter/defer.js</a> -- <span>🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.</span></li><li><a href=https://github.com/danielroe/magic-regexp>danielroe/magic-regexp</a> -- <span>A compiled-away, type-safe, readable RegExp alternative</span></li><li><a href=https://github.com/codebdy/designable-react18>codebdy/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li><li><a href=https://github.com/zloirock/core-js>zloirock/core-js</a> -- <span>Standard Library</span></li><li><a href=https://github.com/codesandbox/nodebox-runtime>codesandbox/nodebox-runtime</a> -- <span>Nodebox is a runtime for executing Node.js modules in the browser.</span></li></ul>
+<ul><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a> -- <span>基于 Nextjs 开发仿掘金站点</span></li><li><a href=https://github.com/sindresorhus/DockProgress>sindresorhus/DockProgress</a> -- <span>Show progress in your app's Dock icon</span></li><li><a href=https://github.com/ddPn08/kohya-sd-scripts-webui>ddPn08/kohya-sd-scripts-webui</a> -- <span>Gradio wrapper for sd-scripts by kohya</span></li><li><a href=https://github.com/natemoo-re/clack>natemoo-re/clack</a> -- <span>Effortlessly build beautiful command-line apps</span></li><li><a href=https://github.com/samchon/typia>samchon/typia</a> -- <span>Super-fast Runtime validator (type checker) with only one line</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/29/23, 5:15 AM<br>下一次刷新：3/29/23, 8:15 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/29/23, 9:41 AM<br>下一次刷新：3/29/23, 12:41 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
