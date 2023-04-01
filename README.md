@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Bocchi-Developers/juejin>Bocchi-Developers/juejin</a> -- <span>基于 Nextjs 开发仿掘金站点</span></li><li><a href=https://github.com/codebdy/designable-react18>codebdy/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li><li><a href=https://github.com/ddiu8081/chatgpt-demo>ddiu8081/chatgpt-demo</a> -- <span>A demo repo based on OpenAI API.</span></li><li><a href=https://github.com/lwouis/alt-tab-macos>lwouis/alt-tab-macos</a> -- <span>Windows alt-tab on macOS</span></li><li><a href=https://github.com/Akegarasu/lora-scripts>Akegarasu/lora-scripts</a> -- <span>LoRA training scripts use kohya-ss's trainer, for diffusion model.</span></li></ul>
+<ul><li><a href=https://github.com/ddiu8081/chatgpt-demo>ddiu8081/chatgpt-demo</a> -- <span>A demo repo based on OpenAI API.</span></li><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a> -- <span>A CLI tool to run multiple npm-scripts in parallel or sequential.</span></li><li><a href=https://github.com/liriliri/eruda>liriliri/eruda</a> -- <span>Console for mobile browsers</span></li><li><a href=https://github.com/kohya-ss/sd-scripts>kohya-ss/sd-scripts</a></li><li><a href=https://github.com/farm-fe/farm>farm-fe/farm</a> -- <span>Super fast web build tool written in Rust - 基于 Rust 的极速 web 构建引擎</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/1/23, 5:15 PM<br>下一次刷新：4/1/23, 8:15 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/1/23, 8:30 PM<br>下一次刷新：4/1/23, 11:30 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
