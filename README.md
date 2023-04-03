@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ourongxing/chatgpt-vercel>ourongxing/chatgpt-vercel</a> -- <span>Elegant and Powerfull. Powered by OpenAI and Vercel.</span></li><li><a href=https://github.com/sindresorhus/DockProgress>sindresorhus/DockProgress</a> -- <span>Show progress in your app's Dock icon</span></li><li><a href=https://github.com/Helixform/CodeCursor>Helixform/CodeCursor</a> -- <span>An extension for using Cursor in Visual Studio Code.</span></li><li><a href=https://github.com/eatmoreapple/openwechat>eatmoreapple/openwechat</a> -- <span>golang微信SDK</span></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a> -- <span>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</span></li></ul>
+<ul><li><a href=https://github.com/mysticatea/npm-run-all>mysticatea/npm-run-all</a> -- <span>A CLI tool to run multiple npm-scripts in parallel or sequential.</span></li><li><a href=https://github.com/eatmoreapple/openwechat>eatmoreapple/openwechat</a> -- <span>golang微信SDK</span></li><li><a href=https://github.com/Akegarasu/lora-scripts>Akegarasu/lora-scripts</a> -- <span>LoRA training scripts use kohya-ss's trainer, for diffusion model.</span></li><li><a href=https://github.com/kohya-ss/sd-scripts>kohya-ss/sd-scripts</a></li><li><a href=https://github.com/hnmr293/sd-webui-llul>hnmr293/sd-webui-llul</a> -- <span>LLuL - Local Latent upscaLer</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/3/23, 11:17 PM<br>下一次刷新：4/4/23, 2:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/4/23, 2:21 AM<br>下一次刷新：4/4/23, 5:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
