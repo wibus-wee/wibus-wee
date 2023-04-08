@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/react-component/util>react-component/util</a> -- <span>Common Utils For React Component</span></li><li><a href=https://github.com/microsoft/JARVIS>microsoft/JARVIS</a> -- <span>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</span></li><li><a href=https://github.com/Zabriskije/CoreML-VAEs>Zabriskije/CoreML-VAEs</a> -- <span>Ready to use Core ML VAEs in MLMODELC format</span></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a> -- <span>The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a> -- <span>The first on-chain and open-source blogging platform for everyone.</span></li></ul>
+<ul><li><a href=https://github.com/baiwusanyu-c/pr-checker>baiwusanyu-c/pr-checker</a> -- <span>🌷 Detect and update your Pull Requests in batches</span></li><li><a href=https://github.com/react-component/util>react-component/util</a> -- <span>Common Utils For React Component</span></li><li><a href=https://github.com/microsoft/JARVIS>microsoft/JARVIS</a> -- <span>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</span></li><li><a href=https://github.com/Zabriskije/CoreML-VAEs>Zabriskije/CoreML-VAEs</a> -- <span>Ready to use Core ML VAEs in MLMODELC format</span></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a> -- <span>The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/farm-fe/farm>farm-fe/farm</a> -- <span>Super fast web build tool written in Rust - 基于 Rust 的极速 web 构建引擎</span></li><li><a href=https://github.com/hnmr293/sd-webui-llul>hnmr293/sd-webui-llul</a> -- <span>LLuL - Local Latent upscaLer</span></li><li><a href=https://github.com/Nutlope/roomGPT>Nutlope/roomGPT</a> -- <span>Upload a photo of your room to generate your dream room with AI.</span></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a> -- <span>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</span></li><li><a href=https://github.com/codebdy/designable-react18>codebdy/designable-react18</a> -- <span>Desinable 移植到react18，添加ts严格模式，基于Create react app</span></li></ul>
+<ul><li><a href=https://github.com/Helixform/CodeCursor>Helixform/CodeCursor</a> -- <span>An extension for using Cursor in Visual Studio Code.</span></li><li><a href=https://github.com/godly-devotion/MochiDiffusion>godly-devotion/MochiDiffusion</a> -- <span>Run Stable Diffusion on Mac natively</span></li><li><a href=https://github.com/danielroe/magic-regexp>danielroe/magic-regexp</a> -- <span>A compiled-away, type-safe, readable RegExp alternative</span></li><li><a href=https://github.com/ourongxing/chatgpt-vercel>ourongxing/chatgpt-vercel</a> -- <span>Elegant and Powerfull. Powered by OpenAI and Vercel.</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a> -- <span>The first on-chain and open-source blogging platform for everyone.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/8/23, 5:14 AM<br>下一次刷新：4/8/23, 8:14 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/8/23, 9:19 AM<br>下一次刷新：4/8/23, 12:19 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
