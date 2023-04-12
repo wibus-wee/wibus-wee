@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ddiu8081/chatgpt-demo>ddiu8081/chatgpt-demo</a> -- <span>A demo repo based on OpenAI API.</span></li><li><a href=https://github.com/microsoft/JARVIS>microsoft/JARVIS</a> -- <span>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</span></li><li><a href=https://github.com/ddPn08/kohya-sd-scripts-webui>ddPn08/kohya-sd-scripts-webui</a> -- <span>Gradio wrapper for sd-scripts by kohya</span></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a> -- <span>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</span></li><li><a href=https://github.com/Nutlope/roomGPT>Nutlope/roomGPT</a> -- <span>Upload a photo of your room to generate your dream room with AI.</span></li></ul>
+<ul><li><a href=https://github.com/eatmoreapple/openwechat>eatmoreapple/openwechat</a> -- <span>golang微信SDK</span></li><li><a href=https://github.com/Zabriskije/CoreML-VAEs>Zabriskije/CoreML-VAEs</a> -- <span>Ready to use Core ML VAEs in MLMODELC format</span></li><li><a href=https://github.com/hnmr293/sd-webui-llul>hnmr293/sd-webui-llul</a> -- <span>LLuL - Local Latent upscaLer</span></li><li><a href=https://github.com/microsoft/JARVIS>microsoft/JARVIS</a> -- <span>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</span></li><li><a href=https://github.com/Helixform/CodeCursor>Helixform/CodeCursor</a> -- <span>An extension for using Cursor in Visual Studio Code.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/12/23, 11:17 AM<br>下一次刷新：4/12/23, 2:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/12/23, 2:22 PM<br>下一次刷新：4/12/23, 5:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
