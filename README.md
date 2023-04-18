@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a> -- <span>The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏</span></li><li><a href=https://github.com/ourongxing/chatgpt-vercel>ourongxing/chatgpt-vercel</a> -- <span>Elegant and Powerfull. Powered by OpenAI and Vercel.</span></li><li><a href=https://github.com/hnmr293/sd-webui-llul>hnmr293/sd-webui-llul</a> -- <span>LLuL - Local Latent upscaLer</span></li><li><a href=https://github.com/react-component/util>react-component/util</a> -- <span>Common Utils For React Component</span></li><li><a href=https://github.com/TypeStrong/typedoc>TypeStrong/typedoc</a> -- <span>Documentation generator for TypeScript projects.</span></li></ul>
+<ul><li><a href=https://github.com/TypeStrong/typedoc>TypeStrong/typedoc</a> -- <span>Documentation generator for TypeScript projects.</span></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a> -- <span>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</span></li><li><a href=https://github.com/Zabriskije/CoreML-VAEs>Zabriskije/CoreML-VAEs</a> -- <span>Ready to use Core ML VAEs in MLMODELC format</span></li><li><a href=https://github.com/ddiu8081/chatgpt-demo>ddiu8081/chatgpt-demo</a> -- <span>A demo repo based on OpenAI API.</span></li><li><a href=https://github.com/danielroe/magic-regexp>danielroe/magic-regexp</a> -- <span>A compiled-away, type-safe, readable RegExp alternative</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/23, 8:34 PM<br>下一次刷新：4/18/23, 11:34 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/23, 11:20 PM<br>下一次刷新：4/19/23, 2:20 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
