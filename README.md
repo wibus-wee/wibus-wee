@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a> -- <span>One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。</span></li><li><a href=https://github.com/kohya-ss/sd-scripts>kohya-ss/sd-scripts</a></li><li><a href=https://github.com/Helixform/CodeCursor>Helixform/CodeCursor</a> -- <span>An extension for using Cursor in Visual Studio Code.</span></li><li><a href=https://github.com/baiwusanyu-c/pr-checker>baiwusanyu-c/pr-checker</a> -- <span>🌷 Detect and update your Pull Requests in batches</span></li><li><a href=https://github.com/microsoft/JARVIS>microsoft/JARVIS</a> -- <span>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</span></li></ul>
+<ul><li><a href=https://github.com/baiwusanyu-c/pr-checker>baiwusanyu-c/pr-checker</a> -- <span>🌷 Detect and update your Pull Requests in batches</span></li><li><a href=https://github.com/eatmoreapple/openwechat>eatmoreapple/openwechat</a> -- <span>golang微信SDK</span></li><li><a href=https://github.com/danielroe/magic-regexp>danielroe/magic-regexp</a> -- <span>A compiled-away, type-safe, readable RegExp alternative</span></li><li><a href=https://github.com/microsoft/JARVIS>microsoft/JARVIS</a> -- <span>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</span></li><li><a href=https://github.com/Col0ring/low-code-platform>Col0ring/low-code-platform</a> -- <span>低代码平台，前端 react + typescript，后端 nest.js</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/23, 2:22 AM<br>下一次刷新：4/19/23, 5:22 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/23, 5:15 AM<br>下一次刷新：4/19/23, 8:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
