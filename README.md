@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ourongxing/chatgpt-vercel>ourongxing/chatgpt-vercel</a> -- <span>Elegant and Powerfull. Powered by OpenAI and Vercel.</span></li><li><a href=https://github.com/sindresorhus/DockProgress>sindresorhus/DockProgress</a> -- <span>Show progress in your app's Dock icon</span></li><li><a href=https://github.com/Himself65/rich-data>Himself65/rich-data</a> -- <span>Data Viewer</span></li><li><a href=https://github.com/Helixform/CodeCursor>Helixform/CodeCursor</a> -- <span>An extension for using Cursor in Visual Studio Code.</span></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a> -- <span>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</span></li></ul>
+<ul><li><a href=https://github.com/kevmo314/magic-copy>kevmo314/magic-copy</a> -- <span>Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.</span></li><li><a href=https://github.com/microsoft/JARVIS>microsoft/JARVIS</a> -- <span>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</span></li><li><a href=https://github.com/danielroe/magic-regexp>danielroe/magic-regexp</a> -- <span>A compiled-away, type-safe, readable RegExp alternative</span></li><li><a href=https://github.com/godly-devotion/MochiDiffusion>godly-devotion/MochiDiffusion</a> -- <span>Run Stable Diffusion on Mac natively</span></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a> -- <span>The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/23, 5:17 PM<br>下一次刷新：4/19/23, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/23, 8:34 PM<br>下一次刷新：4/19/23, 11:34 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
