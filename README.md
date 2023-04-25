@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/miru-project/miru-next>miru-project/miru-next</a> -- <span>🥪支持、视频、漫画、小说扩展源的多功能在线播放器</span></li><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a> -- <span>One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。</span></li><li><a href=https://github.com/baiwusanyu-c/pr-checker>baiwusanyu-c/pr-checker</a> -- <span>🌷 Detect and update your Pull Requests in batches</span></li><li><a href=https://github.com/sindresorhus/DockProgress>sindresorhus/DockProgress</a> -- <span>Show progress in your app's Dock icon</span></li><li><a href=https://github.com/Significant-Gravitas/Auto-GPT>Significant-Gravitas/Auto-GPT</a> -- <span>An experimental open-source attempt to make GPT-4 fully autonomous.</span></li></ul>
+<ul><li><a href=https://github.com/Helixform/CodeCursor>Helixform/CodeCursor</a> -- <span>An extension for using Cursor in Visual Studio Code.</span></li><li><a href=https://github.com/twitter/the-algorithm>twitter/the-algorithm</a> -- <span>Source code for Twitter's Recommendation Algorithm</span></li><li><a href=https://github.com/baiwusanyu-c/pr-checker>baiwusanyu-c/pr-checker</a> -- <span>🌷 Detect and update your Pull Requests in batches</span></li><li><a href=https://github.com/ddiu8081/chatgpt-demo>ddiu8081/chatgpt-demo</a> -- <span>Optimized UI for ChatGPT, DALL-E and Stable Diffusion.</span></li><li><a href=https://github.com/hnmr293/sd-webui-llul>hnmr293/sd-webui-llul</a> -- <span>LLuL - Local Latent upscaLer</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/25/23, 2:22 PM<br>下一次刷新：4/25/23, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/25/23, 5:17 PM<br>下一次刷新：4/25/23, 8:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
