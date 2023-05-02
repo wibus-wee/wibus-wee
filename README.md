@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lucaong/minisearch>lucaong/minisearch</a> -- <span>Tiny and powerful JavaScript full-text search engine for browser and Node</span></li><li><a href=https://github.com/timolins/react-hot-toast>timolins/react-hot-toast</a> -- <span>Smoking Hot React Notifications 🔥</span></li><li><a href=https://github.com/QiuChenly/QQFlacMusicDownloader>QiuChenly/QQFlacMusicDownloader</a> -- <span>[秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/miru-project/miru-next>miru-project/miru-next</a> -- <span>✨支持、视频、漫画、小说扩展源的多功能在线播放器</span></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a> -- <span>a better universal ui system</span></li></ul>
+<ul><li><a href=https://github.com/twitter/the-algorithm>twitter/the-algorithm</a> -- <span>Source code for Twitter's Recommendation Algorithm</span></li><li><a href=https://github.com/minht11/local-music-pwa>minht11/local-music-pwa</a> -- <span>Lightweight on device music player PWA.</span></li><li><a href=https://github.com/lxsmnsyc/forgetti>lxsmnsyc/forgetti</a> -- <span>Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.</span></li><li><a href=https://github.com/kevmo314/magic-copy>kevmo314/magic-copy</a> -- <span>Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.</span></li><li><a href=https://github.com/microsoft/JARVIS>microsoft/JARVIS</a> -- <span>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/2/23, 2:22 PM<br>下一次刷新：5/2/23, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/2/23, 5:17 PM<br>下一次刷新：5/2/23, 8:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
