@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/microsoft/JARVIS>microsoft/JARVIS</a> -- <span>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</span></li><li><a href=https://github.com/react-component/util>react-component/util</a> -- <span>Common Utils For React Component</span></li><li><a href=https://github.com/kevmo314/magic-copy>kevmo314/magic-copy</a> -- <span>Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.</span></li><li><a href=https://github.com/timolins/react-hot-toast>timolins/react-hot-toast</a> -- <span>Smoking Hot React Notifications 🔥</span></li><li><a href=https://github.com/Significant-Gravitas/Auto-GPT>Significant-Gravitas/Auto-GPT</a> -- <span>An experimental open-source attempt to make GPT-4 fully autonomous.</span></li></ul>
+<ul><li><a href=https://github.com/anse-app/anse>anse-app/anse</a> -- <span>Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li><li><a href=https://github.com/twitter/the-algorithm>twitter/the-algorithm</a> -- <span>Source code for Twitter's Recommendation Algorithm</span></li><li><a href=https://github.com/Yidadaa/ChatGPT-Next-Web>Yidadaa/ChatGPT-Next-Web</a> -- <span>One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。</span></li><li><a href=https://github.com/Helixform/CodeCursor>Helixform/CodeCursor</a> -- <span>An extension for using Cursor in Visual Studio Code.</span></li><li><a href=https://github.com/Significant-Gravitas/Auto-GPT>Significant-Gravitas/Auto-GPT</a> -- <span>An experimental open-source attempt to make GPT-4 fully autonomous.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/5/23, 11:17 PM<br>下一次刷新：5/6/23, 2:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/6/23, 2:20 AM<br>下一次刷新：5/6/23, 5:20 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
