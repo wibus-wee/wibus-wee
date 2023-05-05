@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/minht11/local-music-pwa>minht11/local-music-pwa</a> -- <span>Lightweight on device music player PWA.</span></li><li><a href=https://github.com/ourongxing/chatgpt-vercel>ourongxing/chatgpt-vercel</a> -- <span>Elegant and Powerfull. Powered by OpenAI and Vercel.</span></li><li><a href=https://github.com/Zabriskije/CoreML-VAEs>Zabriskije/CoreML-VAEs</a> -- <span>Ready to use Core ML VAEs in MLMODELC format</span></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a> -- <span>a better universal ui system</span></li><li><a href=https://github.com/Bowen7/react-rough-fiber>Bowen7/react-rough-fiber</a> -- <span>A React renderer for rendering hand-drawn SVGs.</span></li></ul>
+<ul><li><a href=https://github.com/QiuChenly/QQFlacMusicDownloader>QiuChenly/QQFlacMusicDownloader</a> -- <span>[秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/Significant-Gravitas/Auto-GPT>Significant-Gravitas/Auto-GPT</a> -- <span>An experimental open-source attempt to make GPT-4 fully autonomous.</span></li><li><a href=https://github.com/lucaong/minisearch>lucaong/minisearch</a> -- <span>Tiny and powerful JavaScript full-text search engine for browser and Node</span></li><li><a href=https://github.com/ourongxing/chatgpt-vercel>ourongxing/chatgpt-vercel</a> -- <span>Elegant and Powerfull. Powered by OpenAI and Vercel.</span></li><li><a href=https://github.com/lxsmnsyc/forgetti>lxsmnsyc/forgetti</a> -- <span>Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/5/23, 9:18 AM<br>下一次刷新：5/5/23, 12:18 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/5/23, 11:18 AM<br>下一次刷新：5/5/23, 2:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
