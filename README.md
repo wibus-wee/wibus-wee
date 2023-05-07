@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/microsoft/JARVIS>microsoft/JARVIS</a> -- <span>JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf</span></li><li><a href=https://github.com/lucaong/minisearch>lucaong/minisearch</a> -- <span>Tiny and powerful JavaScript full-text search engine for browser and Node</span></li><li><a href=https://github.com/anse-app/anse>anse-app/anse</a> -- <span>Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li><li><a href=https://github.com/e0ipso/plugnplay>e0ipso/plugnplay</a> -- <span>🤖 Plugin system for reusable code in node.js</span></li><li><a href=https://github.com/minht11/local-music-pwa>minht11/local-music-pwa</a> -- <span>Lightweight on device music player PWA.</span></li></ul>
+<ul><li><a href=https://github.com/lxsmnsyc/forgetti>lxsmnsyc/forgetti</a> -- <span>Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.</span></li><li><a href=https://github.com/e0ipso/plugnplay>e0ipso/plugnplay</a> -- <span>🤖 Plugin system for reusable code in node.js</span></li><li><a href=https://github.com/lucaong/minisearch>lucaong/minisearch</a> -- <span>Tiny and powerful JavaScript full-text search engine for browser and Node</span></li><li><a href=https://github.com/timolins/react-hot-toast>timolins/react-hot-toast</a> -- <span>Smoking Hot React Notifications 🔥</span></li><li><a href=https://github.com/ourongxing/chatgpt-vercel>ourongxing/chatgpt-vercel</a> -- <span>Elegant and Powerfull. Powered by OpenAI and Vercel.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/7/23, 11:16 PM<br>下一次刷新：5/8/23, 2:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/8/23, 2:19 AM<br>下一次刷新：5/8/23, 5:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
