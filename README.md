@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MauriceNino/dashdot>MauriceNino/dashdot</a> -- <span>A simple, modern server dashboard, primarily used by smaller private servers</span></li><li><a href=https://github.com/godly-devotion/MochiDiffusion>godly-devotion/MochiDiffusion</a> -- <span>Run Stable Diffusion on Mac natively</span></li><li><a href=https://github.com/QiuChenly/QQFlacMusicDownloader>QiuChenly/QQFlacMusicDownloader</a> -- <span>[秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a> -- <span>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</span></li><li><a href=https://github.com/baiwusanyu-c/pr-checker>baiwusanyu-c/pr-checker</a> -- <span>🌷 Detect and update your Pull Requests in batches</span></li></ul>
+<ul><li><a href=https://github.com/anse-app/anse>anse-app/anse</a> -- <span>Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li><li><a href=https://github.com/react-component/util>react-component/util</a> -- <span>Common Utils For React Component</span></li><li><a href=https://github.com/timolins/react-hot-toast>timolins/react-hot-toast</a> -- <span>Smoking Hot React Notifications 🔥</span></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a> -- <span>🪽 The best on-chain and open-source blogging community for everyone.</span></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a> -- <span>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/8/23, 11:18 PM<br>下一次刷新：5/9/23, 2:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/9/23, 2:20 AM<br>下一次刷新：5/9/23, 5:20 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
