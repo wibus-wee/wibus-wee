@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Bowen7/react-rough-fiber>Bowen7/react-rough-fiber</a> -- <span>A React renderer for rendering hand-drawn SVGs.</span></li><li><a href=https://github.com/Zabriskije/CoreML-VAEs>Zabriskije/CoreML-VAEs</a> -- <span>Ready to use Core ML VAEs in MLMODELC format</span></li><li><a href=https://github.com/Col0ring/low-code-platform>Col0ring/low-code-platform</a> -- <span>低代码平台，前端 react + typescript，后端 nest.js</span></li><li><a href=https://github.com/tamagui/tamagui>tamagui/tamagui</a> -- <span>a better universal ui system</span></li><li><a href=https://github.com/liaocp666/Jasmine>liaocp666/Jasmine</a> -- <span>Jasmine 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。</span></li></ul>
+<ul><li><a href=https://github.com/kevmo314/magic-copy>kevmo314/magic-copy</a> -- <span>Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.</span></li><li><a href=https://github.com/liaocp666/Jasmine>liaocp666/Jasmine</a> -- <span>Jasmine 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。</span></li><li><a href=https://github.com/Zabriskije/CoreML-VAEs>Zabriskije/CoreML-VAEs</a> -- <span>Ready to use Core ML VAEs in MLMODELC format</span></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a> -- <span>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</span></li><li><a href=https://github.com/miru-project/miru-next>miru-project/miru-next</a> -- <span>✨支持、视频、漫画、小说扩展源的多功能在线播放器</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/11/23, 9:24 AM<br>下一次刷新：5/11/23, 12:24 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/11/23, 11:17 AM<br>下一次刷新：5/11/23, 2:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
