@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/QiuChenly/QQFlacMusicDownloader>QiuChenly/QQFlacMusicDownloader</a> -- <span>[秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/Himself65/affine-minimum>Himself65/affine-minimum</a> -- <span>build AFFiNE in minimum code and the most modern way</span></li><li><a href=https://github.com/anse-app/anse>anse-app/anse</a> -- <span>Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li><li><a href=https://github.com/Significant-Gravitas/Auto-GPT>Significant-Gravitas/Auto-GPT</a> -- <span>An experimental open-source attempt to make GPT-4 fully autonomous.</span></li><li><a href=https://github.com/e0ipso/plugnplay>e0ipso/plugnplay</a> -- <span>🤖 Plugin system for reusable code in node.js</span></li></ul>
+<ul><li><a href=https://github.com/miru-project/miru-next>miru-project/miru-next</a> -- <span>✨支持、视频、漫画、小说扩展源的多功能在线播放器</span></li><li><a href=https://github.com/vercel-labs/react-tweet>vercel-labs/react-tweet</a> -- <span>Embedded and static tweets for React applications</span></li><li><a href=https://github.com/e0ipso/plugnplay>e0ipso/plugnplay</a> -- <span>🤖 Plugin system for reusable code in node.js</span></li><li><a href=https://github.com/anse-app/anse>anse-app/anse</a> -- <span>Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li><li><a href=https://github.com/QiuChenly/QQFlacMusicDownloader>QiuChenly/QQFlacMusicDownloader</a> -- <span>[秋城落叶] QQ 音乐源无损歌曲下载</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/12/23, 8:32 PM<br>下一次刷新：5/12/23, 11:32 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/12/23, 11:17 PM<br>下一次刷新：5/13/23, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
