@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Col0ring/low-code-platform>Col0ring/low-code-platform</a> -- <span>低代码平台，前端 react + typescript，后端 nest.js</span></li><li><a href=https://github.com/Significant-Gravitas/Auto-GPT>Significant-Gravitas/Auto-GPT</a> -- <span>An experimental open-source attempt to make GPT-4 fully autonomous.</span></li><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a> -- <span>A very compact representation of a placeholder for an image.</span></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a> -- <span>Add dark mode support with just one class</span></li><li><a href=https://github.com/stackblitz/webcontainer-core>stackblitz/webcontainer-core</a> -- <span>Dev environments. In your web app.</span></li></ul>
+<ul><li><a href=https://github.com/stackblitz/webcontainer-core>stackblitz/webcontainer-core</a> -- <span>Dev environments. In your web app.</span></li><li><a href=https://github.com/kevmo314/magic-copy>kevmo314/magic-copy</a> -- <span>Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.</span></li><li><a href=https://github.com/Himself65/affine-minimum>Himself65/affine-minimum</a> -- <span>build AFFiNE in minimum code and the most modern way</span></li><li><a href=https://github.com/Bowen7/react-rough-fiber>Bowen7/react-rough-fiber</a> -- <span>A React renderer for rendering hand-drawn SVGs.</span></li><li><a href=https://github.com/minht11/local-music-pwa>minht11/local-music-pwa</a> -- <span>Lightweight on device music player PWA.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/20/23, 11:15 PM<br>下一次刷新：5/21/23, 2:15 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/21/23, 2:19 AM<br>下一次刷新：5/21/23, 5:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
