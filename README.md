@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/liaocp666/Jasmine>liaocp666/Jasmine</a> -- <span>Jasmine 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。</span></li><li><a href=https://github.com/e0ipso/plugnplay>e0ipso/plugnplay</a> -- <span>🤖 Plugin system for reusable code in node.js</span></li><li><a href=https://github.com/anse-app/anse>anse-app/anse</a> -- <span>Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li><li><a href=https://github.com/timolins/react-hot-toast>timolins/react-hot-toast</a> -- <span>Smoking Hot React Notifications 🔥</span></li><li><a href=https://github.com/QiuChenly/QQFlacMusicDownloader>QiuChenly/QQFlacMusicDownloader</a> -- <span>[秋城落叶] QQ 音乐源无损歌曲下载</span></li></ul>
+<ul><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a></li><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a> -- <span>Add watermark to your text,writing in go</span></li><li><a href=https://github.com/shigma/cordis>shigma/cordis</a> -- <span>AOP Framework for Modern JavaScript Applications</span></li><li><a href=https://github.com/XingangPan/DragGAN>XingangPan/DragGAN</a> -- <span>Code for DragGAN (SIGGRAPH 2023)</span></li><li><a href=https://github.com/stackblitz/webcontainer-core>stackblitz/webcontainer-core</a> -- <span>Dev environments. In your web app.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/26/23, 5:14 AM<br>下一次刷新：5/26/23, 8:14 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/26/23, 9:25 AM<br>下一次刷新：5/26/23, 12:25 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
