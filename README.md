@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/actuallymentor/battery>actuallymentor/battery</a> -- <span>CLI for managing the battery charging status for M1 Macs</span></li><li><a href=https://github.com/liaocp666/Jasmine>liaocp666/Jasmine</a> -- <span>Jasmine 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。</span></li><li><a href=https://github.com/Himself65/affine-minimum>Himself65/affine-minimum</a> -- <span>build AFFiNE in minimum code and the most modern way</span></li><li><a href=https://github.com/XingangPan/DragGAN>XingangPan/DragGAN</a> -- <span>Code for DragGAN (SIGGRAPH 2023)</span></li><li><a href=https://github.com/anse-app/anse>anse-app/anse</a> -- <span>Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.</span></li></ul>
+<ul><li><a href=https://github.com/megaease/Remembering-Haoel>megaease/Remembering-Haoel</a> -- <span>记录您对左耳朵耗子（陈皓）的点滴回忆</span></li><li><a href=https://github.com/lxsmnsyc/forgetti>lxsmnsyc/forgetti</a> -- <span>Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.</span></li><li><a href=https://github.com/XingangPan/DragGAN>XingangPan/DragGAN</a> -- <span>Code for DragGAN (SIGGRAPH 2023)</span></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a> -- <span>Add dark mode support with just one class</span></li><li><a href=https://github.com/MauriceNino/dashdot>MauriceNino/dashdot</a> -- <span>A simple, modern server dashboard, primarily used by smaller private servers</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/28/23, 5:16 PM<br>下一次刷新：5/28/23, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/28/23, 8:30 PM<br>下一次刷新：5/28/23, 11:30 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
