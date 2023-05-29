@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lxsmnsyc/forgetti>lxsmnsyc/forgetti</a> -- <span>Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.</span></li><li><a href=https://github.com/QiuChenly/QQFlacMusicDownloader>QiuChenly/QQFlacMusicDownloader</a> -- <span>[秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a> -- <span>A very compact representation of a placeholder for an image.</span></li><li><a href=https://github.com/actuallymentor/battery>actuallymentor/battery</a> -- <span>CLI for managing the battery charging status for M1 Macs</span></li><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a></li></ul>
+<ul><li><a href=https://github.com/e0ipso/plugnplay>e0ipso/plugnplay</a> -- <span>🤖 Plugin system for reusable code in node.js</span></li><li><a href=https://github.com/lucaong/minisearch>lucaong/minisearch</a> -- <span>Tiny and powerful JavaScript full-text search engine for browser and Node</span></li><li><a href=https://github.com/fregie/pho>fregie/pho</a> -- <span>A serverless application for viewing and synchronizing photos to cloud storage</span></li><li><a href=https://github.com/Himself65/affine-minimum>Himself65/affine-minimum</a> -- <span>build AFFiNE in minimum code and the most modern way</span></li><li><a href=https://github.com/QiuChenly/QQFlacMusicDownloader>QiuChenly/QQFlacMusicDownloader</a> -- <span>[秋城落叶] QQ 音乐源无损歌曲下载</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/29/23, 2:22 PM<br>下一次刷新：5/29/23, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/29/23, 5:17 PM<br>下一次刷新：5/29/23, 8:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
