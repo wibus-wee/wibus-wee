@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Himself65/affine-minimum>Himself65/affine-minimum</a> -- <span>build AFFiNE in minimum code and the most modern way</span></li><li><a href=https://github.com/vercel-labs/react-tweet>vercel-labs/react-tweet</a> -- <span>Embedded and static tweets for React applications</span></li><li><a href=https://github.com/vadimdemedes/pastel>vadimdemedes/pastel</a> -- <span>🎨 Next.js-like framework for CLIs made with Ink</span></li><li><a href=https://github.com/hepengwei/visualization-collection>hepengwei/visualization-collection</a> -- <span>🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）</span></li><li><a href=https://github.com/megaease/Remembering-Haoel>megaease/Remembering-Haoel</a> -- <span>记录您对左耳朵耗子（陈皓）的点滴回忆</span></li></ul>
+<ul><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a> -- <span>Add dark mode support with just one class</span></li><li><a href=https://github.com/MauriceNino/dashdot>MauriceNino/dashdot</a> -- <span>A simple, modern server dashboard, primarily used by smaller private servers</span></li><li><a href=https://github.com/nbudin/react-blockly>nbudin/react-blockly</a> -- <span>A React component that embeds a Blockly visual programming editor.</span></li><li><a href=https://github.com/QiuChenly/QQFlacMusicDownloader>QiuChenly/QQFlacMusicDownloader</a> -- <span>[秋城落叶] QQ 音乐源无损歌曲下载</span></li><li><a href=https://github.com/e0ipso/plugnplay>e0ipso/plugnplay</a> -- <span>🤖 Plugin system for reusable code in node.js</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/23, 10:06 AM<br>下一次刷新：6/1/23, 1:06 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/23, 2:22 PM<br>下一次刷新：6/1/23, 5:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
