@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a> -- <span>A very compact representation of a placeholder for an image.</span></li><li><a href=https://github.com/antfu/icones>antfu/icones</a> -- <span>⚡️ Icon Explorer with Instant searching, powered by Iconify</span></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a> -- <span>Add dark mode support with just one class</span></li><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a> -- <span>Add watermark to your text,writing in go</span></li><li><a href=https://github.com/MauriceNino/dashdot>MauriceNino/dashdot</a> -- <span>A simple, modern server dashboard, primarily used by smaller private servers</span></li></ul>
+<ul><li><a href=https://github.com/megaease/Remembering-Haoel>megaease/Remembering-Haoel</a> -- <span>记录您对左耳朵耗子（陈皓）的点滴回忆</span></li><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a></li><li><a href=https://github.com/vercel-labs/react-tweet>vercel-labs/react-tweet</a> -- <span>Embedded and static tweets for React applications</span></li><li><a href=https://github.com/liaocp666/Jasmine>liaocp666/Jasmine</a> -- <span>Jasmine 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。</span></li><li><a href=https://github.com/nbudin/react-blockly>nbudin/react-blockly</a> -- <span>A React component that embeds a Blockly visual programming editor.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/2/23, 8:35 PM<br>下一次刷新：6/2/23, 11:35 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/2/23, 11:17 PM<br>下一次刷新：6/3/23, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
