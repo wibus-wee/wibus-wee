@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/e0ipso/plugnplay>e0ipso/plugnplay</a> -- <span>🤖 Plugin system for reusable code in node.js</span></li><li><a href=https://github.com/mintlify/components>mintlify/components</a> -- <span>UI components for documentation made with React and TailwindCSS.</span></li><li><a href=https://github.com/CaliCastle/cali.so>CaliCastle/cali.so</a> -- <span>Cali 的个人官网开源项目</span></li><li><a href=https://github.com/seemoo-lab/owl>seemoo-lab/owl</a> -- <span>An open Apple Wireless Direct Link (AWDL) implementation written in C</span></li><li><a href=https://github.com/XingangPan/DragGAN>XingangPan/DragGAN</a> -- <span>Code for DragGAN (SIGGRAPH 2023)</span></li></ul>
+<ul><li><a href=https://github.com/antfu/icones>antfu/icones</a> -- <span>⚡️ Icon Explorer with Instant searching, powered by Iconify</span></li><li><a href=https://github.com/e0ipso/plugnplay>e0ipso/plugnplay</a> -- <span>🤖 Plugin system for reusable code in node.js</span></li><li><a href=https://github.com/vadimdemedes/pastel>vadimdemedes/pastel</a> -- <span>🎨 Next.js-like framework for CLIs made with Ink</span></li><li><a href=https://github.com/umpox/zero-width-detection>umpox/zero-width-detection</a> -- <span>Invisibly inserting usernames into text with Zero-Width Characters</span></li><li><a href=https://github.com/vercel-labs/react-tweet>vercel-labs/react-tweet</a> -- <span>Embedded and static tweets for React applications</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/6/23, 5:16 PM<br>下一次刷新：6/6/23, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/6/23, 8:35 PM<br>下一次刷新：6/6/23, 11:35 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
