@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/XingangPan/DragGAN>XingangPan/DragGAN</a> -- <span>Code for DragGAN (SIGGRAPH 2023)</span></li><li><a href=https://github.com/wbkd/react-flow>wbkd/react-flow</a> -- <span>Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram</span></li><li><a href=https://github.com/makeplane/plane>makeplane/plane</a> -- <span>🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.</span></li><li><a href=https://github.com/fregie/pho>fregie/pho</a> -- <span>A serverless application for viewing and synchronizing photos to cloud storage</span></li><li><a href=https://github.com/mintlify/components>mintlify/components</a> -- <span>UI components for documentation made with React and TailwindCSS.</span></li></ul>
+<ul><li><a href=https://github.com/hepengwei/visualization-collection>hepengwei/visualization-collection</a> -- <span>🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、人工智能应用等上百个案例（持续更新）</span></li><li><a href=https://github.com/fregie/pho>fregie/pho</a> -- <span>A serverless application for viewing and synchronizing photos to cloud storage</span></li><li><a href=https://github.com/nbudin/react-blockly>nbudin/react-blockly</a> -- <span>A React component that embeds a Blockly visual programming editor.</span></li><li><a href=https://github.com/actuallymentor/battery>actuallymentor/battery</a> -- <span>CLI for managing the battery charging status for M1 Macs</span></li><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a> -- <span>Add watermark to your text,writing in go</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/7/23, 11:17 PM<br>下一次刷新：6/8/23, 2:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/23, 2:21 AM<br>下一次刷新：6/8/23, 5:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
