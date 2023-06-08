@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a> -- <span>A very compact representation of a placeholder for an image.</span></li><li><a href=https://github.com/antfu/icones>antfu/icones</a> -- <span>⚡️ Icon Explorer with Instant searching, powered by Iconify</span></li><li><a href=https://github.com/uidotdev/usehooks>uidotdev/usehooks</a> -- <span>A collection of modern, server-safe React hooks – from the ui.dev team</span></li><li><a href=https://github.com/megaease/Remembering-Haoel>megaease/Remembering-Haoel</a> -- <span>记录您对左耳朵耗子（陈皓）的点滴回忆</span></li><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a> -- <span>Add watermark to your text,writing in go</span></li></ul>
+<ul><li><a href=https://github.com/rsuite/rsuite>rsuite/rsuite</a> -- <span>🧱 A suite of React components .</span></li><li><a href=https://github.com/antfu/icones>antfu/icones</a> -- <span>⚡️ Icon Explorer with Instant searching, powered by Iconify</span></li><li><a href=https://github.com/Jurredr/github-widgetbox>Jurredr/github-widgetbox</a> -- <span>[✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)</span></li><li><a href=https://github.com/fregie/pho>fregie/pho</a> -- <span>A serverless application for viewing and synchronizing photos to cloud storage</span></li><li><a href=https://github.com/vadimdemedes/pastel>vadimdemedes/pastel</a> -- <span>🎨 Next.js-like framework for CLIs made with Ink</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/23, 11:20 AM<br>下一次刷新：6/8/23, 2:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/23, 2:22 PM<br>下一次刷新：6/8/23, 5:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
