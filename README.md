@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/IsaacMarovitz/Whisky>IsaacMarovitz/Whisky</a> -- <span>A modern Wine wrapper for macOS built with SwiftUI</span></li><li><a href=https://github.com/davidjerleke/embla-carousel>davidjerleke/embla-carousel</a> -- <span>www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.</span></li><li><a href=https://github.com/denoland/dnt>denoland/dnt</a> -- <span>Deno to npm package build tool.</span></li><li><a href=https://github.com/lukaskollmer/objc>lukaskollmer/objc</a> -- <span>🔮 NodeJS ↔ Objective-C bridge (experimental)</span></li><li><a href=https://github.com/mo-jinran/BetterQQNT>mo-jinran/BetterQQNT</a> -- <span>QQNT的插件加载器</span></li></ul>
+<ul><li><a href=https://github.com/QiuChenlyOpenSource/macOS-InjectPluginCode>QiuChenlyOpenSource/macOS-InjectPluginCode</a> -- <span>libInlineInjectPlugin.dylib 开源项目 基于rd_route的Hook技术以及OC运行时Hook技术</span></li><li><a href=https://github.com/QiuChenlyOpenSource/MyMacsAppCrack>QiuChenlyOpenSource/MyMacsAppCrack</a> -- <span>MacBook 自用软件破解（macOS Intel）</span></li><li><a href=https://github.com/IsaacMarovitz/Whisky>IsaacMarovitz/Whisky</a> -- <span>A modern Wine wrapper for macOS built with SwiftUI</span></li><li><a href=https://github.com/davidjerleke/embla-carousel>davidjerleke/embla-carousel</a> -- <span>www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.</span></li><li><a href=https://github.com/denoland/dnt>denoland/dnt</a> -- <span>Deno to npm package build tool.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rsuite/rsuite>rsuite/rsuite</a> -- <span>🧱 A suite of React components .</span></li><li><a href=https://github.com/antfu/icones>antfu/icones</a> -- <span>⚡️ Icon Explorer with Instant searching, powered by Iconify</span></li><li><a href=https://github.com/Jurredr/github-widgetbox>Jurredr/github-widgetbox</a> -- <span>[✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)</span></li><li><a href=https://github.com/fregie/pho>fregie/pho</a> -- <span>A serverless application for viewing and synchronizing photos to cloud storage</span></li><li><a href=https://github.com/vadimdemedes/pastel>vadimdemedes/pastel</a> -- <span>🎨 Next.js-like framework for CLIs made with Ink</span></li></ul>
+<ul><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a> -- <span>Add watermark to your text,writing in go</span></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a> -- <span>Add dark mode support with just one class</span></li><li><a href=https://github.com/nbudin/react-blockly>nbudin/react-blockly</a> -- <span>A React component that embeds a Blockly visual programming editor.</span></li><li><a href=https://github.com/lukaskollmer/objc>lukaskollmer/objc</a> -- <span>🔮 NodeJS ↔ Objective-C bridge (experimental)</span></li><li><a href=https://github.com/fzf404/Monit>fzf404/Monit</a> -- <span>🎯 展示各种信息的桌面小组件</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/23, 2:22 PM<br>下一次刷新：6/8/23, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/23, 5:16 PM<br>下一次刷新：6/8/23, 8:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
