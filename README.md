@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/woltapp/blurhash>woltapp/blurhash</a> -- <span>A very compact representation of a placeholder for an image.</span></li><li><a href=https://github.com/seemoo-lab/owl>seemoo-lab/owl</a> -- <span>An open Apple Wireless Direct Link (AWDL) implementation written in C</span></li><li><a href=https://github.com/nbudin/react-blockly>nbudin/react-blockly</a> -- <span>A React component that embeds a Blockly visual programming editor.</span></li><li><a href=https://github.com/Jurredr/github-widgetbox>Jurredr/github-widgetbox</a> -- <span>[✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)</span></li><li><a href=https://github.com/wbkd/react-flow>wbkd/react-flow</a> -- <span>Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram</span></li></ul>
+<ul><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a> -- <span>Add watermark to your text,writing in go</span></li><li><a href=https://github.com/XingangPan/DragGAN>XingangPan/DragGAN</a> -- <span>Code for DragGAN (SIGGRAPH 2023)</span></li><li><a href=https://github.com/fzf404/Monit>fzf404/Monit</a> -- <span>🎯 展示各种信息的桌面小组件</span></li><li><a href=https://github.com/umpox/zero-width-detection>umpox/zero-width-detection</a> -- <span>Invisibly inserting usernames into text with Zero-Width Characters</span></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a> -- <span>Add dark mode support with just one class</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/11/23, 9:56 AM<br>下一次刷新：6/11/23, 12:56 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/11/23, 11:25 AM<br>下一次刷新：6/11/23, 2:25 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
