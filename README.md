@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a> -- <span>Add watermark to your text,writing in go</span></li><li><a href=https://github.com/seemoo-lab/owl>seemoo-lab/owl</a> -- <span>An open Apple Wireless Direct Link (AWDL) implementation written in C</span></li><li><a href=https://github.com/XingangPan/DragGAN>XingangPan/DragGAN</a> -- <span>Code for DragGAN (SIGGRAPH 2023)</span></li><li><a href=https://github.com/rsuite/rsuite>rsuite/rsuite</a> -- <span>🧱 A suite of React components .</span></li><li><a href=https://github.com/QiuChenlyOpenSource/MyMacsAppCrack>QiuChenlyOpenSource/MyMacsAppCrack</a> -- <span>MacBook 自用软件破解（macOS Intel）</span></li></ul>
+<ul><li><a href=https://github.com/IsaacMarovitz/Whisky>IsaacMarovitz/Whisky</a> -- <span>A modern Wine wrapper for macOS built with SwiftUI</span></li><li><a href=https://github.com/fast-average-color/fast-average-color-node>fast-average-color/fast-average-color-node</a> -- <span>A simple library that calculates the average color of any images for Node.js</span></li><li><a href=https://github.com/davidjerleke/embla-carousel>davidjerleke/embla-carousel</a> -- <span>www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.</span></li><li><a href=https://github.com/XingangPan/DragGAN>XingangPan/DragGAN</a> -- <span>Code for DragGAN (SIGGRAPH 2023)</span></li><li><a href=https://github.com/megaease/Remembering-Haoel>megaease/Remembering-Haoel</a> -- <span>记录您对左耳朵耗子（陈皓）的点滴回忆</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/23, 9:37 AM<br>下一次刷新：6/17/23, 12:37 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/23, 11:18 AM<br>下一次刷新：6/17/23, 2:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
