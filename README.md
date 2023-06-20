@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nbudin/react-blockly>nbudin/react-blockly</a> -- <span>A React component that embeds a Blockly visual programming editor.</span></li><li><a href=https://github.com/facebookresearch/audiocraft>facebookresearch/audiocraft</a> -- <span>Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.</span></li><li><a href=https://github.com/lukaskollmer/objc>lukaskollmer/objc</a> -- <span>🔮 NodeJS ↔ Objective-C bridge (experimental)</span></li><li><a href=https://github.com/denoland/dnt>denoland/dnt</a> -- <span>Deno to npm package build tool.</span></li><li><a href=https://github.com/fast-average-color/fast-average-color-node>fast-average-color/fast-average-color-node</a> -- <span>A simple library that calculates the average color of any images for Node.js</span></li></ul>
+<ul><li><a href=https://github.com/Antibioticss/adobe-packager>Antibioticss/adobe-packager</a> -- <span>Script that allows to download portable installers of different versions Adobe software for macOS</span></li><li><a href=https://github.com/nbudin/react-blockly>nbudin/react-blockly</a> -- <span>A React component that embeds a Blockly visual programming editor.</span></li><li><a href=https://github.com/Kingwl/monaco-volar>Kingwl/monaco-volar</a></li><li><a href=https://github.com/STRRL/cloudflare-tunnel-ingress-controller>STRRL/cloudflare-tunnel-ingress-controller</a></li><li><a href=https://github.com/fast-average-color/fast-average-color-node>fast-average-color/fast-average-color-node</a> -- <span>A simple library that calculates the average color of any images for Node.js</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/20/23, 8:35 PM<br>下一次刷新：6/20/23, 11:35 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/20/23, 11:17 PM<br>下一次刷新：6/21/23, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
