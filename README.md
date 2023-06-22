@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rsuite/rsuite>rsuite/rsuite</a> -- <span>🧱 A suite of React components .</span></li><li><a href=https://github.com/sbarex/QLMarkdown>sbarex/QLMarkdown</a> -- <span>macOS Quick Look extension for Markdown files.</span></li><li><a href=https://github.com/lukaskollmer/objc>lukaskollmer/objc</a> -- <span>🔮 NodeJS ↔ Objective-C bridge (experimental)</span></li><li><a href=https://github.com/IsaacMarovitz/Whisky>IsaacMarovitz/Whisky</a> -- <span>A modern Wine wrapper for macOS built with SwiftUI</span></li><li><a href=https://github.com/lisonge/vite-plugin-monkey>lisonge/vite-plugin-monkey</a> -- <span>A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat</span></li></ul>
+<ul><li><a href=https://github.com/Jurredr/github-widgetbox>Jurredr/github-widgetbox</a> -- <span>[✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)</span></li><li><a href=https://github.com/seemoo-lab/owl>seemoo-lab/owl</a> -- <span>An open Apple Wireless Direct Link (AWDL) implementation written in C</span></li><li><a href=https://github.com/lisonge/vite-plugin-monkey>lisonge/vite-plugin-monkey</a> -- <span>A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat</span></li><li><a href=https://github.com/QiuChenlyOpenSource/InjectLib>QiuChenlyOpenSource/InjectLib</a> -- <span>基于Ruby编写的命令行注入版本</span></li><li><a href=https://github.com/lukaskollmer/objc>lukaskollmer/objc</a> -- <span>🔮 NodeJS ↔ Objective-C bridge (experimental)</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/22/23, 11:17 PM<br>下一次刷新：6/23/23, 2:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/23/23, 2:21 AM<br>下一次刷新：6/23/23, 5:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
