@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lisonge/vite-plugin-monkey>lisonge/vite-plugin-monkey</a> -- <span>A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat</span></li><li><a href=https://github.com/Kingwl/monaco-volar>Kingwl/monaco-volar</a></li><li><a href=https://github.com/sickcodes/Docker-OSX>sickcodes/Docker-OSX</a> -- <span>Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</span></li><li><a href=https://github.com/mo-jinran/BetterQQNT>mo-jinran/BetterQQNT</a> -- <span>QQNT的插件加载器，轻量 · 简洁 · 开源</span></li><li><a href=https://github.com/facebookresearch/audiocraft>facebookresearch/audiocraft</a> -- <span>Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.</span></li></ul>
+<ul><li><a href=https://github.com/fent/node-feedsub>fent/node-feedsub</a> -- <span>Subscribes to RSS/Atom/JSON feeds and notifies on new items.</span></li><li><a href=https://github.com/mo-jinran/BetterQQNT>mo-jinran/BetterQQNT</a> -- <span>QQNT的插件加载器，轻量 · 简洁 · 开源</span></li><li><a href=https://github.com/IsaacMarovitz/Whisky>IsaacMarovitz/Whisky</a> -- <span>A modern Wine wrapper for macOS built with SwiftUI</span></li><li><a href=https://github.com/sickcodes/Docker-OSX>sickcodes/Docker-OSX</a> -- <span>Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</span></li><li><a href=https://github.com/sbarex/QLMarkdown>sbarex/QLMarkdown</a> -- <span>macOS Quick Look extension for Markdown files.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/23, 11:19 PM<br>下一次刷新：6/27/23, 2:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/27/23, 2:24 AM<br>下一次刷新：6/27/23, 5:24 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
