@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pingcap/ossinsight-lite>pingcap/ossinsight-lite</a> -- <span>🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.</span></li><li><a href=https://github.com/lukaskollmer/objc>lukaskollmer/objc</a> -- <span>🔮 NodeJS ↔ Objective-C bridge (experimental)</span></li><li><a href=https://github.com/fent/feedme.js>fent/feedme.js</a> -- <span>RSS/Atom/JSON feed parser</span></li><li><a href=https://github.com/IsaacMarovitz/Whisky>IsaacMarovitz/Whisky</a> -- <span>A modern Wine wrapper for macOS built with SwiftUI</span></li><li><a href=https://github.com/canisminor1990/sd-webui-lobe-theme>canisminor1990/sd-webui-lobe-theme</a> -- <span>🤯 Lobe theme - the modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme</span></li></ul>
+<ul><li><a href=https://github.com/davidjerleke/embla-carousel>davidjerleke/embla-carousel</a> -- <span>www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.</span></li><li><a href=https://github.com/sbarex/SourceCodeSyntaxHighlight>sbarex/SourceCodeSyntaxHighlight</a> -- <span>Quick Look extension for highlight source code files on macOS 10.15 and later.</span></li><li><a href=https://github.com/uidotdev/usehooks>uidotdev/usehooks</a> -- <span>A collection of modern, server-safe React hooks – from the ui.dev team</span></li><li><a href=https://github.com/fent/feedme.js>fent/feedme.js</a> -- <span>RSS/Atom/JSON feed parser</span></li><li><a href=https://github.com/pingcap/ossinsight-lite>pingcap/ossinsight-lite</a> -- <span>🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/1/23, 11:32 AM<br>下一次刷新：7/1/23, 2:32 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/1/23, 2:23 PM<br>下一次刷新：7/1/23, 5:23 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
