@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/QiuChenlyOpenSource/macOS-InjectPluginCode>QiuChenlyOpenSource/macOS-InjectPluginCode</a> -- <span>libInlineInjectPlugin.dylib 开源项目 基于rd_route的Hook技术以及OC运行时Hook技术</span></li><li><a href=https://github.com/denoland/dnt>denoland/dnt</a> -- <span>Deno to npm package build tool.</span></li><li><a href=https://github.com/IsaacMarovitz/Whisky>IsaacMarovitz/Whisky</a> -- <span>A modern Wine wrapper for macOS built with SwiftUI</span></li><li><a href=https://github.com/fent/feedme.js>fent/feedme.js</a> -- <span>RSS/Atom/JSON feed parser</span></li><li><a href=https://github.com/lukaskollmer/objc>lukaskollmer/objc</a> -- <span>🔮 NodeJS ↔ Objective-C bridge (experimental)</span></li></ul>
+<ul><li><a href=https://github.com/canisminor1990/sd-webui-lobe-theme>canisminor1990/sd-webui-lobe-theme</a> -- <span>🤯 Lobe theme - the modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme</span></li><li><a href=https://github.com/lisonge/vite-plugin-monkey>lisonge/vite-plugin-monkey</a> -- <span>A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat</span></li><li><a href=https://github.com/sickcodes/Docker-OSX>sickcodes/Docker-OSX</a> -- <span>Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</span></li><li><a href=https://github.com/QiuChenlyOpenSource/MyMacsAppCrack>QiuChenlyOpenSource/MyMacsAppCrack</a> -- <span>MacBook 自用软件破解（macOS Intel）</span></li><li><a href=https://github.com/ngnijland/typescript-todo-or-die-plugin>ngnijland/typescript-todo-or-die-plugin</a></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/23, 9:53 AM<br>下一次刷新：7/3/23, 12:53 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/23, 11:26 AM<br>下一次刷新：7/3/23, 2:26 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
