@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Antibioticss/adobe-packager>Antibioticss/adobe-packager</a> -- <span>Script that allows to download portable installers of different versions Adobe software for macOS</span></li><li><a href=https://github.com/facebookresearch/audiocraft>facebookresearch/audiocraft</a> -- <span>Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.</span></li><li><a href=https://github.com/ngnijland/typescript-todo-or-die-plugin>ngnijland/typescript-todo-or-die-plugin</a></li><li><a href=https://github.com/sbarex/SourceCodeSyntaxHighlight>sbarex/SourceCodeSyntaxHighlight</a> -- <span>Quick Look extension for highlight source code files on macOS 10.15 and later.</span></li><li><a href=https://github.com/fast-average-color/fast-average-color-node>fast-average-color/fast-average-color-node</a> -- <span>A simple library that calculates the average color of any images for Node.js</span></li></ul>
+<ul><li><a href=https://github.com/fent/feedme.js>fent/feedme.js</a> -- <span>RSS/Atom/JSON feed parser</span></li><li><a href=https://github.com/facebookresearch/audiocraft>facebookresearch/audiocraft</a> -- <span>Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.</span></li><li><a href=https://github.com/ngnijland/typescript-todo-or-die-plugin>ngnijland/typescript-todo-or-die-plugin</a></li><li><a href=https://github.com/Antibioticss/adobe-packager>Antibioticss/adobe-packager</a> -- <span>Script that allows to download portable installers of different versions Adobe software for macOS</span></li><li><a href=https://github.com/IsaacMarovitz/Whisky>IsaacMarovitz/Whisky</a> -- <span>A modern Wine wrapper for macOS built with SwiftUI</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/5/23, 2:25 AM<br>下一次刷新：7/5/23, 5:25 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/5/23, 5:17 AM<br>下一次刷新：7/5/23, 8:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
