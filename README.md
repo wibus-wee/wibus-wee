@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/QiuChenlyOpenSource/MyMacsAppCrack>QiuChenlyOpenSource/MyMacsAppCrack</a> -- <span>MacBook 自用软件破解（macOS Intel）</span></li><li><a href=https://github.com/canisminor1990/sd-webui-lobe-theme>canisminor1990/sd-webui-lobe-theme</a> -- <span>🤯 Lobe theme - the modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme</span></li><li><a href=https://github.com/davidjerleke/embla-carousel>davidjerleke/embla-carousel</a> -- <span>www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.</span></li><li><a href=https://github.com/lisonge/vite-plugin-monkey>lisonge/vite-plugin-monkey</a> -- <span>A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat</span></li><li><a href=https://github.com/QiuChenlyOpenSource/InjectLib>QiuChenlyOpenSource/InjectLib</a> -- <span>基于Ruby编写的命令行注入版本</span></li></ul>
+<ul><li><a href=https://github.com/fent/feedme.js>fent/feedme.js</a> -- <span>RSS/Atom/JSON feed parser</span></li><li><a href=https://github.com/brianlovin/briOS>brianlovin/briOS</a> -- <span>My personal website.</span></li><li><a href=https://github.com/canisminor1990/sd-webui-lobe-theme>canisminor1990/sd-webui-lobe-theme</a> -- <span>🤯 Lobe theme - the modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme</span></li><li><a href=https://github.com/davidjerleke/embla-carousel>davidjerleke/embla-carousel</a> -- <span>www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.</span></li><li><a href=https://github.com/QiuChenlyOpenSource/InjectLib>QiuChenlyOpenSource/InjectLib</a> -- <span>基于Ruby编写的命令行注入版本</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/4/23, 2:26 PM<br>下一次刷新：7/4/23, 5:26 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/4/23, 5:19 PM<br>下一次刷新：7/4/23, 8:19 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
