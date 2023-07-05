@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rxliuli/clean-twttier>rxliuli/clean-twttier</a></li><li><a href=https://github.com/Kingwl/monaco-volar>Kingwl/monaco-volar</a></li><li><a href=https://github.com/sbarex/QLMarkdown>sbarex/QLMarkdown</a> -- <span>macOS Quick Look extension for Markdown files.</span></li><li><a href=https://github.com/davidjerleke/embla-carousel>davidjerleke/embla-carousel</a> -- <span>www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.</span></li><li><a href=https://github.com/ngnijland/typescript-todo-or-die-plugin>ngnijland/typescript-todo-or-die-plugin</a></li></ul>
+<ul><li><a href=https://github.com/dai-shi/waku>dai-shi/waku</a> -- <span>Minimalistic React Framework</span></li><li><a href=https://github.com/QiuChenlyOpenSource/MyMacsAppCrack>QiuChenlyOpenSource/MyMacsAppCrack</a> -- <span>MacBook 自用软件破解（macOS Intel）</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/QiuChenlyOpenSource/macOS-InjectPluginCode>QiuChenlyOpenSource/macOS-InjectPluginCode</a> -- <span>libInlineInjectPlugin.dylib 开源项目 基于rd_route的Hook技术以及OC运行时Hook技术</span></li><li><a href=https://github.com/sickcodes/Docker-OSX>sickcodes/Docker-OSX</a> -- <span>Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/5/23, 11:21 PM<br>下一次刷新：7/6/23, 2:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/6/23, 2:25 AM<br>下一次刷新：7/6/23, 5:25 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
