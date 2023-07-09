@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/fent/node-feedsub>fent/node-feedsub</a> -- <span>Subscribes to RSS/Atom/JSON feeds and notifies on new items.</span></li><li><a href=https://github.com/STRRL/cloudflare-tunnel-ingress-controller>STRRL/cloudflare-tunnel-ingress-controller</a></li><li><a href=https://github.com/Antibioticss/adobe-packager>Antibioticss/adobe-packager</a> -- <span>Script that allows to download portable installers of different versions Adobe software for macOS</span></li><li><a href=https://github.com/Kingwl/monaco-volar>Kingwl/monaco-volar</a></li><li><a href=https://github.com/sbarex/QLMarkdown>sbarex/QLMarkdown</a> -- <span>macOS Quick Look extension for Markdown files.</span></li></ul>
+<ul><li><a href=https://github.com/sbarex/QLMarkdown>sbarex/QLMarkdown</a> -- <span>macOS Quick Look extension for Markdown files.</span></li><li><a href=https://github.com/Flysoft-Studio/QQNTim>Flysoft-Studio/QQNTim</a> -- <span>QQNT-Improved - PC 端 QQNT 插件管理器</span></li><li><a href=https://github.com/dai-shi/waku>dai-shi/waku</a> -- <span>Minimalistic React Framework</span></li><li><a href=https://github.com/fast-average-color/fast-average-color-node>fast-average-color/fast-average-color-node</a> -- <span>A simple library that calculates the average color of any images for Node.js</span></li><li><a href=https://github.com/facebookresearch/audiocraft>facebookresearch/audiocraft</a> -- <span>Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/9/23, 5:15 AM<br>下一次刷新：7/9/23, 8:15 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/9/23, 10:01 AM<br>下一次刷新：7/9/23, 1:01 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
