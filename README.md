@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a> -- <span>An application written in flutter for watching movies, comics and novels for Android, Windows and Linux</span></li><li><a href=https://github.com/guofei9987/blind_watermark>guofei9987/blind_watermark</a> -- <span>Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！</span></li><li><a href=https://github.com/un-es/eslint-plugin-i>un-es/eslint-plugin-i</a> -- <span>A fork of `eslint-plugin-import` using `get-tsconfig` to replace `tsconfig-paths` and heavy `typescript` under the hood.</span></li><li><a href=https://github.com/BetterQQNT/BetterQQNT>BetterQQNT/BetterQQNT</a> -- <span>QQNT/Electron 插件</span></li></ul>
+<ul><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a> -- <span>An application written in flutter for watching movies, comics and novels for Android, Windows and Linux</span></li><li><a href=https://github.com/guofei9987/blind_watermark>guofei9987/blind_watermark</a> -- <span>Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！</span></li><li><a href=https://github.com/un-es/eslint-plugin-i>un-es/eslint-plugin-i</a> -- <span>A fork of `eslint-plugin-import` using `get-tsconfig` to replace `tsconfig-paths` and heavy `typescript` under the hood.</span></li><li><a href=https://github.com/BetterNCM/UwU>BetterNCM/UwU</a></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Kingwl/monaco-volar>Kingwl/monaco-volar</a></li><li><a href=https://github.com/QiuChenlyOpenSource/MyMacsAppCrack>QiuChenlyOpenSource/MyMacsAppCrack</a> -- <span>MacBook 自用软件破解（macOS Intel）</span></li><li><a href=https://github.com/brianlovin/briOS>brianlovin/briOS</a> -- <span>My personal website.</span></li><li><a href=https://github.com/fent/feedme.js>fent/feedme.js</a> -- <span>RSS/Atom/JSON feed parser</span></li><li><a href=https://github.com/rxliuli/clean-twttier>rxliuli/clean-twttier</a></li></ul>
+<ul><li><a href=https://github.com/davidjerleke/embla-carousel>davidjerleke/embla-carousel</a> -- <span>www.embla-carousel.com — A lightweight carousel library with fluid motion and great swipe precision.</span></li><li><a href=https://github.com/ngnijland/typescript-todo-or-die-plugin>ngnijland/typescript-todo-or-die-plugin</a></li><li><a href=https://github.com/QiuChenlyOpenSource/InjectLib>QiuChenlyOpenSource/InjectLib</a> -- <span>基于Ruby编写的命令行注入版本</span></li><li><a href=https://github.com/QiuChenlyOpenSource/MyMacsAppCrack>QiuChenlyOpenSource/MyMacsAppCrack</a> -- <span>MacBook 自用软件破解（macOS Intel）</span></li><li><a href=https://github.com/pingcap/ossinsight-lite>pingcap/ossinsight-lite</a> -- <span>🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/9/23, 11:18 PM<br>下一次刷新：7/10/23, 2:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/10/23, 2:22 AM<br>下一次刷新：7/10/23, 5:22 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
