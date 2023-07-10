@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/hydrati/maria2>hydrati/maria2</a> -- <span>Simple RPC Library for aria2c</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a> -- <span>An application written in flutter for watching movies, comics and novels for Android, Windows and Linux</span></li><li><a href=https://github.com/guofei9987/blind_watermark>guofei9987/blind_watermark</a> -- <span>Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！</span></li></ul>
+<ul><li><a href=https://github.com/hydrati/maria2>hydrati/maria2</a> -- <span>Modern & Simple RPC Library for aria2c</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a> -- <span>An application written in flutter for watching movies, comics and novels for Android, Windows and Linux</span></li><li><a href=https://github.com/guofei9987/blind_watermark>guofei9987/blind_watermark</a> -- <span>Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/fent/feedme.js>fent/feedme.js</a> -- <span>RSS/Atom/JSON feed parser</span></li><li><a href=https://github.com/fent/node-feedsub>fent/node-feedsub</a> -- <span>Subscribes to RSS/Atom/JSON feeds and notifies on new items.</span></li><li><a href=https://github.com/QiuChenlyOpenSource/macOS-InjectPluginCode>QiuChenlyOpenSource/macOS-InjectPluginCode</a> -- <span>libInlineInjectPlugin.dylib 开源项目 基于rd_route的Hook技术以及OC运行时Hook技术</span></li><li><a href=https://github.com/facebookresearch/audiocraft>facebookresearch/audiocraft</a> -- <span>Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li></ul>
+<ul><li><a href=https://github.com/lisonge/vite-plugin-monkey>lisonge/vite-plugin-monkey</a> -- <span>A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat</span></li><li><a href=https://github.com/pingcap/ossinsight-lite>pingcap/ossinsight-lite</a> -- <span>🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.</span></li><li><a href=https://github.com/tweenjs/tween.js>tweenjs/tween.js</a> -- <span>JavaScript/TypeScript animation engine</span></li><li><a href=https://github.com/Flysoft-Studio/QQNTim>Flysoft-Studio/QQNTim</a> -- <span>QQNT-Improved - PC 端 QQNT 插件管理器</span></li><li><a href=https://github.com/sbarex/QLMarkdown>sbarex/QLMarkdown</a> -- <span>macOS Quick Look extension for Markdown files.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/11/23, 2:24 AM<br>下一次刷新：7/11/23, 5:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/11/23, 5:16 AM<br>下一次刷新：7/11/23, 8:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
