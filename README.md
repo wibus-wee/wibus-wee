@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/un-es/eslint-plugin-i>un-es/eslint-plugin-i</a> -- <span>A fork of `eslint-plugin-import` using `get-tsconfig` to replace `tsconfig-paths` and heavy `typescript` under the hood.</span></li><li><a href=https://github.com/lisonge/vite-plugin-monkey>lisonge/vite-plugin-monkey</a> -- <span>A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat</span></li><li><a href=https://github.com/facebookresearch/audiocraft>facebookresearch/audiocraft</a> -- <span>Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.</span></li><li><a href=https://github.com/dai-shi/waku>dai-shi/waku</a> -- <span>Minimalistic React Framework</span></li><li><a href=https://github.com/fent/node-feedsub>fent/node-feedsub</a> -- <span>Subscribes to RSS/Atom/JSON feeds and notifies on new items.</span></li></ul>
+<ul><li><a href=https://github.com/Kingwl/monaco-volar>Kingwl/monaco-volar</a></li><li><a href=https://github.com/sbarex/SourceCodeSyntaxHighlight>sbarex/SourceCodeSyntaxHighlight</a> -- <span>Quick Look extension for highlight source code files on macOS 10.15 and later.</span></li><li><a href=https://github.com/guofei9987/blind_watermark>guofei9987/blind_watermark</a> -- <span>Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！</span></li><li><a href=https://github.com/QiuChenlyOpenSource/InjectLib>QiuChenlyOpenSource/InjectLib</a> -- <span>基于Ruby编写的命令行注入版本</span></li><li><a href=https://github.com/sbarex/QLMarkdown>sbarex/QLMarkdown</a> -- <span>macOS Quick Look extension for Markdown files.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/13/23, 8:39 PM<br>下一次刷新：7/13/23, 11:39 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/13/23, 11:19 PM<br>下一次刷新：7/14/23, 2:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
