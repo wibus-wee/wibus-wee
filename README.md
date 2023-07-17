@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tweenjs/tween.js>tweenjs/tween.js</a> -- <span>JavaScript/TypeScript animation engine</span></li><li><a href=https://github.com/fingerprintjs/fingerprintjs>fingerprintjs/fingerprintjs</a> -- <span>Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).</span></li><li><a href=https://github.com/rxliuli/clean-twttier>rxliuli/clean-twttier</a></li><li><a href=https://github.com/liriliri/chii>liriliri/chii</a> -- <span>Remote debugging tool</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li></ul>
+<ul><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li><li><a href=https://github.com/rxliuli/clean-twttier>rxliuli/clean-twttier</a></li><li><a href=https://github.com/lisonge/vite-plugin-monkey>lisonge/vite-plugin-monkey</a> -- <span>A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat</span></li><li><a href=https://github.com/guofei9987/blind_watermark>guofei9987/blind_watermark</a> -- <span>Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！</span></li><li><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a> -- <span>● Mouse effect of iPad in browser that can be used in any framework</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/23, 5:15 AM<br>下一次刷新：7/17/23, 8:15 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/23, 9:58 AM<br>下一次刷新：7/17/23, 12:58 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
