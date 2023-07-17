@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/fent/node-feedsub>fent/node-feedsub</a> -- <span>Subscribes to RSS/Atom/JSON feeds and notifies on new items.</span></li><li><a href=https://github.com/Flysoft-Studio/QQNTim>Flysoft-Studio/QQNTim</a> -- <span>QQNT-Improved - PC 端 QQNT 插件管理器</span></li><li><a href=https://github.com/ramonvc/freegpt-webui>ramonvc/freegpt-webui</a> -- <span>GPT 3.5/4 with a Chat Web UI. No API key required.</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li><li><a href=https://github.com/dai-shi/waku>dai-shi/waku</a> -- <span>Minimalistic React Framework</span></li></ul>
+<ul><li><a href=https://github.com/pingcap/ossinsight-lite>pingcap/ossinsight-lite</a> -- <span>🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.</span></li><li><a href=https://github.com/webfansplz/vite-plugin-vue-devtools>webfansplz/vite-plugin-vue-devtools</a> -- <span>Vite + Vue DevTools = DX 🔥</span></li><li><a href=https://github.com/sbarex/QLMarkdown>sbarex/QLMarkdown</a> -- <span>macOS Quick Look extension for Markdown files.</span></li><li><a href=https://github.com/BetterNCM/UwU>BetterNCM/UwU</a></li><li><a href=https://github.com/Flysoft-Studio/QQNTim>Flysoft-Studio/QQNTim</a> -- <span>QQNT-Improved - PC 端 QQNT 插件管理器</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/23, 2:26 PM<br>下一次刷新：7/17/23, 5:26 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/17/23, 5:19 PM<br>下一次刷新：7/17/23, 8:19 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
