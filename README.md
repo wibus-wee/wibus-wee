@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pingcap/ossinsight-lite>pingcap/ossinsight-lite</a> -- <span>🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.</span></li><li><a href=https://github.com/tweenjs/tween.js>tweenjs/tween.js</a> -- <span>JavaScript/TypeScript animation engine</span></li><li><a href=https://github.com/BetterNCM/UwU>BetterNCM/UwU</a></li><li><a href=https://github.com/microsoft/vscode-webview-ui-toolkit>microsoft/vscode-webview-ui-toolkit</a> -- <span>A component library for building webview-based extensions in Visual Studio Code.</span></li><li><a href=https://github.com/un-es/eslint-plugin-i>un-es/eslint-plugin-i</a> -- <span>A fork of `eslint-plugin-import` using `get-tsconfig` to replace `tsconfig-paths` and heavy `typescript` under the hood.</span></li></ul>
+<ul><li><a href=https://github.com/Flysoft-Studio/QQNTim>Flysoft-Studio/QQNTim</a> -- <span>QQNT-Improved - PC 端 QQNT 插件管理器</span></li><li><a href=https://github.com/liriliri/chii>liriliri/chii</a> -- <span>Remote debugging tool</span></li><li><a href=https://github.com/microsoft/vscode-webview-ui-toolkit>microsoft/vscode-webview-ui-toolkit</a> -- <span>A component library for building webview-based extensions in Visual Studio Code.</span></li><li><a href=https://github.com/hydrati/maria2>hydrati/maria2</a> -- <span>Modern & Simple RPC Library for aria2c</span></li><li><a href=https://github.com/lyshark/LyInjector>lyshark/LyInjector</a> -- <span>一款功能强大的应用层反汇编代码注入器，实现了DLL注入，ShellCode注入等功能，是一款不错的后渗透利器。 A powerful application layer disassembly code injector that implements DLL injection, ShellCode injection, and other functions, is a good post penetration tool.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/18/23, 5:17 PM<br>下一次刷新：7/18/23, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/18/23, 8:36 PM<br>下一次刷新：7/18/23, 11:36 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
