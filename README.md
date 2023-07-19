@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/mdx-editor/editor>mdx-editor/editor</a> -- <span>An open source rich text React component for markdown editing</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a> -- <span>A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a> -- <span>A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li></ul>
+<ul><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/mdx-editor/editor>mdx-editor/editor</a> -- <span>An open source rich text React component for markdown editing</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a> -- <span>A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a> -- <span>A macOS-like dock component made with WebComponents</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a> -- <span>● Mouse effect of iPad in browser that can be used in any framework</span></li><li><a href=https://github.com/dai-shi/waku>dai-shi/waku</a> -- <span>Minimalistic React Framework</span></li><li><a href=https://github.com/liriliri/chii>liriliri/chii</a> -- <span>Remote debugging tool</span></li><li><a href=https://github.com/lyshark/LyInjector>lyshark/LyInjector</a> -- <span>一款功能强大的应用层反汇编代码注入器，实现了DLL注入，ShellCode注入等功能，是一款不错的后渗透利器。 A powerful application layer disassembly code injector that implements DLL injection, ShellCode injection, and other functions, is a good post penetration tool.</span></li><li><a href=https://github.com/rxliuli/clean-twttier>rxliuli/clean-twttier</a></li></ul>
+<ul><li><a href=https://github.com/brianlovin/briOS>brianlovin/briOS</a> -- <span>My personal website.</span></li><li><a href=https://github.com/ramonvc/freegpt-webui>ramonvc/freegpt-webui</a> -- <span>GPT 3.5/4 with a Chat Web UI. No API key required.</span></li><li><a href=https://github.com/Flysoft-Studio/QQNTim>Flysoft-Studio/QQNTim</a> -- <span>QQNT-Improved - PC 端 QQNT 插件管理器</span></li><li><a href=https://github.com/canisminor1990/sd-webui-lobe-theme>canisminor1990/sd-webui-lobe-theme</a> -- <span>🤯 Lobe theme - the modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme</span></li><li><a href=https://github.com/crsnbrt/keysim>crsnbrt/keysim</a> -- <span>design and test virtual 3d keyboards.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/19/23, 5:13 AM<br>下一次刷新：7/19/23, 8:13 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/19/23, 10:52 AM<br>下一次刷新：7/19/23, 1:52 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
