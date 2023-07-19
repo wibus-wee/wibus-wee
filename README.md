@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/fingerprintjs/fingerprintjs>fingerprintjs/fingerprintjs</a> -- <span>Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li><li><a href=https://github.com/Flysoft-Studio/QQNTim>Flysoft-Studio/QQNTim</a> -- <span>QQNT-Improved - PC 端 QQNT 插件管理器</span></li><li><a href=https://github.com/tweenjs/tween.js>tweenjs/tween.js</a> -- <span>JavaScript/TypeScript animation engine</span></li><li><a href=https://github.com/canisminor1990/sd-webui-lobe-theme>canisminor1990/sd-webui-lobe-theme</a> -- <span>🤯 Lobe theme - the modern theme for stable diffusion webui, legacy verison a.k.a kitchen theme</span></li></ul>
+<ul><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/fingerprintjs/fingerprintjs>fingerprintjs/fingerprintjs</a> -- <span>Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).</span></li><li><a href=https://github.com/fent/feedme.js>fent/feedme.js</a> -- <span>RSS/Atom/JSON feed parser</span></li><li><a href=https://github.com/lyshark/LyInjector>lyshark/LyInjector</a> -- <span>一款功能强大的应用层反汇编代码注入器，实现了DLL注入，ShellCode注入等功能，是一款不错的后渗透利器。 A powerful application layer disassembly code injector that implements DLL injection, ShellCode injection, and other functions, is a good post penetration tool.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/19/23, 11:56 AM<br>下一次刷新：7/19/23, 2:56 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/19/23, 2:22 PM<br>下一次刷新：7/19/23, 5:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
