@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a> -- <span>A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li><li><a href=https://github.com/ramonvc/freegpt-webui>ramonvc/freegpt-webui</a> -- <span>GPT 3.5/4 with a Chat Web UI. No API key required.</span></li></ul>
+<ul><li><a href=https://github.com/fingerprintjs/fingerprintjs>fingerprintjs/fingerprintjs</a> -- <span>Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).</span></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/guofei9987/blind_watermark>guofei9987/blind_watermark</a> -- <span>Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/23, 2:21 PM<br>下一次刷新：7/27/23, 5:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/27/23, 5:16 PM<br>下一次刷新：7/27/23, 8:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
