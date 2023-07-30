@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li><li><a href=https://github.com/fingerprintjs/fingerprintjs>fingerprintjs/fingerprintjs</a> -- <span>Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).</span></li><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li><li><a href=https://github.com/ramonvc/freegpt-webui>ramonvc/freegpt-webui</a> -- <span>GPT 3.5/4 with a Chat Web UI. No API key required.</span></li></ul>
+<ul><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/crsnbrt/keysim>crsnbrt/keysim</a> -- <span>design and test virtual 3d keyboards.</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li><li><a href=https://github.com/steveruizok/perfect-freehand>steveruizok/perfect-freehand</a> -- <span>Draw perfect pressure-sensitive freehand lines.</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/23, 5:13 AM<br>下一次刷新：7/30/23, 8:13 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/30/23, 9:25 AM<br>下一次刷新：7/30/23, 12:25 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
