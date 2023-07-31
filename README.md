@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li><li><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a> -- <span>● Mouse effect of iPad in browser that can be used in any framework</span></li><li><a href=https://github.com/miru-project/miru-app>miru-project/miru-app</a> -- <span>An application written in flutter for watching movies, comics and novels for Android and Windows https://miru.js.org</span></li><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/poteboy/kuma-ui>poteboy/kuma-ui</a> -- <span>🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨</span></li></ul>
+<ul><li><a href=https://github.com/ramonvc/freegpt-webui>ramonvc/freegpt-webui</a> -- <span>GPT 3.5/4 with a Chat Web UI. No API key required.</span></li><li><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a> -- <span>● Mouse effect of iPad in browser that can be used in any framework</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a> -- <span>A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/webfansplz/vite-plugin-vue-devtools>webfansplz/vite-plugin-vue-devtools</a> -- <span>Vite + Vue DevTools = DX 🔥</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/23, 5:17 PM<br>下一次刷新：7/31/23, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/31/23, 8:36 PM<br>下一次刷新：7/31/23, 11:36 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
