@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a> -- <span>A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/liriliri/chii>liriliri/chii</a> -- <span>Remote debugging tool</span></li><li><a href=https://github.com/webfansplz/vite-plugin-vue-devtools>webfansplz/vite-plugin-vue-devtools</a> -- <span>Vite + Vue DevTools = DX 🔥</span></li></ul>
+<ul><li><a href=https://github.com/BetterNCM/UwU>BetterNCM/UwU</a></li><li><a href=https://github.com/crsnbrt/keysim>crsnbrt/keysim</a> -- <span>design and test virtual 3d keyboards.</span></li><li><a href=https://github.com/liriliri/chii>liriliri/chii</a> -- <span>Remote debugging tool</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a> -- <span>A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/1/23, 8:34 PM<br>下一次刷新：8/1/23, 11:34 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/1/23, 11:17 PM<br>下一次刷新：8/2/23, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
