@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/satoshi0212/visionOS_30Days>satoshi0212/visionOS_30Days</a> -- <span>visionOS 30 days challenge.</span></li><li><a href=https://github.com/emilkowalski/vaul>emilkowalski/vaul</a> -- <span>An unstyled drawer component for React.</span></li><li><a href=https://github.com/niieani/hashids.js>niieani/hashids.js</a> -- <span>A small JavaScript library to generate YouTube-like ids from numbers.</span></li><li><a href=https://github.com/tannerntannern/ts-mixer>tannerntannern/ts-mixer</a> -- <span>A small TypeScript library that provides tolerable Mixin functionality.</span></li><li><a href=https://github.com/phoenix-ru/fervid>phoenix-ru/fervid</a></li></ul>
+<ul><li><a href=https://github.com/satoshi0212/visionOS_30Days>satoshi0212/visionOS_30Days</a> -- <span>visionOS 30 days challenge.</span></li><li><a href=https://github.com/emilkowalski/vaul>emilkowalski/vaul</a> -- <span>An unstyled drawer component for React.</span></li><li><a href=https://github.com/niieani/hashids.js>niieani/hashids.js</a> -- <span>A small JavaScript library to generate YouTube-like ids from numbers.</span></li><li><a href=https://github.com/tannerntannern/ts-mixer>tannerntannern/ts-mixer</a> -- <span>A small TypeScript library that provides tolerable Mixin functionality.</span></li><li><a href=https://github.com/phoenix-ru/fervid>phoenix-ru/fervid</a> -- <span>All-in-One Vue compiler written in Rust</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/BetterNCM/UwU>BetterNCM/UwU</a></li><li><a href=https://github.com/steveruizok/perfect-freehand>steveruizok/perfect-freehand</a> -- <span>Draw perfect pressure-sensitive freehand lines.</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a> -- <span>● Mouse effect of iPad in browser that can be used in any framework</span></li><li><a href=https://github.com/hydrati/maria2>hydrati/maria2</a> -- <span>Modern & Simple RPC Library for aria2c</span></li></ul>
+<ul><li><a href=https://github.com/kuma-ui/kuma-ui>kuma-ui/kuma-ui</a> -- <span>🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨</span></li><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/webfansplz/vite-plugin-vue-devtools>webfansplz/vite-plugin-vue-devtools</a> -- <span>Vite + Vue DevTools = DX 🔥</span></li><li><a href=https://github.com/microsoft/vscode-webview-ui-toolkit>microsoft/vscode-webview-ui-toolkit</a> -- <span>A component library for building webview-based extensions in Visual Studio Code.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/3/23, 8:34 PM<br>下一次刷新：8/3/23, 11:34 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/3/23, 11:17 PM<br>下一次刷新：8/4/23, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
