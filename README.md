@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a> -- <span>A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/mdx-editor/editor>mdx-editor/editor</a> -- <span>A rich text editor React component for markdown</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li></ul>
+<ul><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a> -- <span>A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li><li><a href=https://github.com/webfansplz/vite-plugin-vue-devtools>webfansplz/vite-plugin-vue-devtools</a> -- <span>Vite + Vue DevTools = DX 🔥</span></li><li><a href=https://github.com/kuma-ui/kuma-ui>kuma-ui/kuma-ui</a> -- <span>🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨</span></li><li><a href=https://github.com/hydrati/maria2>hydrati/maria2</a> -- <span>Modern & Simple RPC Library for aria2c</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/11/23, 2:20 PM<br>下一次刷新：8/11/23, 5:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/11/23, 5:15 PM<br>下一次刷新：8/11/23, 8:15 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
