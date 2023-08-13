@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/mdx-editor/editor>mdx-editor/editor</a> -- <span>A rich text editor React component for markdown</span></li><li><a href=https://github.com/bdlukaa/fluent_ui>bdlukaa/fluent_ui</a> -- <span>Implements Microsoft's Fluent Design System in Flutter.</span></li><li><a href=https://github.com/ramonvc/freegpt-webui>ramonvc/freegpt-webui</a> -- <span>GPT 3.5/4 with a Chat Web UI. No API key required.</span></li><li><a href=https://github.com/ixahmedxi/noodle>ixahmedxi/noodle</a> -- <span>Open Source Education Platform</span></li></ul>
+<ul><li><a href=https://github.com/tannerntannern/ts-mixer>tannerntannern/ts-mixer</a> -- <span>A small TypeScript library that provides tolerable Mixin functionality.</span></li><li><a href=https://github.com/mdx-editor/editor>mdx-editor/editor</a> -- <span>A rich text editor React component for markdown</span></li><li><a href=https://github.com/CatsJuice/ipad-cursor>CatsJuice/ipad-cursor</a> -- <span>● Mouse effect of iPad in browser that can be used in any framework</span></li><li><a href=https://github.com/PKU-YuanGroup/ChatLaw>PKU-YuanGroup/ChatLaw</a> -- <span>中文法律大模型</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/13/23, 5:13 PM<br>下一次刷新：8/13/23, 8:13 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/13/23, 8:28 PM<br>下一次刷新：8/13/23, 11:28 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
