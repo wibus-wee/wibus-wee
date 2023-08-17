@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/liriliri/chii>liriliri/chii</a> -- <span>Remote debugging tool</span></li><li><a href=https://github.com/crsnbrt/keysim>crsnbrt/keysim</a> -- <span>design and test virtual 3d keyboards.</span></li><li><a href=https://github.com/fingerprintjs/fingerprintjs>fingerprintjs/fingerprintjs</a> -- <span>Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).</span></li><li><a href=https://github.com/ramonvc/freegpt-webui>ramonvc/freegpt-webui</a> -- <span>GPT 3.5/4 with a Chat Web UI. No API key required.</span></li><li><a href=https://github.com/mdx-editor/editor>mdx-editor/editor</a> -- <span>A rich text editor React component for markdown</span></li></ul>
+<ul><li><a href=https://github.com/satoshi0212/visionOS_30Days>satoshi0212/visionOS_30Days</a> -- <span>visionOS 30 days challenge.</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a> -- <span>A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/fangshufeng/MachOView>fangshufeng/MachOView</a> -- <span>分析Macho必备工具</span></li><li><a href=https://github.com/emilkowalski/vaul>emilkowalski/vaul</a> -- <span>An unstyled drawer component for React.</span></li><li><a href=https://github.com/kuma-ui/kuma-ui>kuma-ui/kuma-ui</a> -- <span>🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/17/23, 9:08 AM<br>下一次刷新：8/17/23, 12:08 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/17/23, 11:16 AM<br>下一次刷新：8/17/23, 2:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
