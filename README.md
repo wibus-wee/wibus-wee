@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/satoshi0212/visionOS_30Days>satoshi0212/visionOS_30Days</a> -- <span>visionOS 30 days challenge.</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a> -- <span>A Linux Implementation of the Mix Space Process Reporting Feature</span></li><li><a href=https://github.com/fangshufeng/MachOView>fangshufeng/MachOView</a> -- <span>分析Macho必备工具</span></li><li><a href=https://github.com/emilkowalski/vaul>emilkowalski/vaul</a> -- <span>An unstyled drawer component for React.</span></li><li><a href=https://github.com/kuma-ui/kuma-ui>kuma-ui/kuma-ui</a> -- <span>🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨</span></li></ul>
+<ul><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li><li><a href=https://github.com/crsnbrt/keysim>crsnbrt/keysim</a> -- <span>design and test virtual 3d keyboards.</span></li><li><a href=https://github.com/tannerntannern/ts-mixer>tannerntannern/ts-mixer</a> -- <span>A small TypeScript library that provides tolerable Mixin functionality.</span></li><li><a href=https://github.com/satoshi0212/visionOS_30Days>satoshi0212/visionOS_30Days</a> -- <span>visionOS 30 days challenge.</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a> -- <span>Backup iOS devices the way it should be.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/17/23, 11:16 AM<br>下一次刷新：8/17/23, 2:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/17/23, 2:20 PM<br>下一次刷新：8/17/23, 5:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
