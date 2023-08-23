@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ecmadao/hacknical>ecmadao/hacknical</a> -- <span>Hacknical, hacker & technical. A website for GitHub user to make a better resume.</span></li><li><a href=https://github.com/kuma-ui/kuma-ui>kuma-ui/kuma-ui</a> -- <span>🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a> -- <span>Fuck Elon Musk! Let's bring Twitter back.</span></li></ul>
+<ul><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a> -- <span>Automated iOS Backup Robot</span></li><li><a href=https://github.com/mdx-editor/editor>mdx-editor/editor</a> -- <span>A rich text editor React component for markdown</span></li><li><a href=https://github.com/Jack-Works/async-call-rpc>Jack-Works/async-call-rpc</a> -- <span>A lightweight JSON RPC client & server</span></li><li><a href=https://github.com/steveruizok/perfect-freehand>steveruizok/perfect-freehand</a> -- <span>Draw perfect pressure-sensitive freehand lines.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/23/23, 5:13 AM<br>下一次刷新：8/23/23, 8:13 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/23/23, 9:09 AM<br>下一次刷新：8/23/23, 12:09 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
