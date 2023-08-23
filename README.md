@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cf-pages/Telegraph-Image>cf-pages/Telegraph-Image</a> -- <span>Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.</span></li><li><a href=https://github.com/crsnbrt/keysim>crsnbrt/keysim</a> -- <span>design and test virtual 3d keyboards.</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a> -- <span>A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li></ul>
+<ul><li><a href=https://github.com/niieani/hashids.js>niieani/hashids.js</a> -- <span>A small JavaScript library to generate YouTube-like ids from numbers.</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a> -- <span>A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/microsoft/vscode-webview-ui-toolkit>microsoft/vscode-webview-ui-toolkit</a> -- <span>A component library for building webview-based extensions in Visual Studio Code.</span></li><li><a href=https://github.com/fangshufeng/MachOView>fangshufeng/MachOView</a> -- <span>分析Macho必备工具</span></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a> -- <span>Fuck Elon Musk! Let's bring Twitter back.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/24/23, 2:18 AM<br>下一次刷新：8/24/23, 5:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/24/23, 5:14 AM<br>下一次刷新：8/24/23, 8:14 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
