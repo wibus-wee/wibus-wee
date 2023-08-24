@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/TopWidgets/SwingAnimation>TopWidgets/SwingAnimation</a> -- <span>小组件平移动画 | Widget on the Move, A Playful Animation</span></li><li><a href=https://github.com/unjs/unctx>unjs/unctx</a> -- <span>🍦 Composables in vanilla JS</span></li><li><a href=https://github.com/opensumi/di>opensumi/di</a> -- <span>A Dependency Injection Library for JavaScript.</span></li><li><a href=https://github.com/fscarmen/warp>fscarmen/warp</a> -- <span>WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本</span></li><li><a href=https://github.com/wanasit/chrono>wanasit/chrono</a> -- <span>A natural language date parser in Javascript</span></li></ul>
+<ul><li><a href=https://github.com/chxm1023/Rewrite>chxm1023/Rewrite</a></li><li><a href=https://github.com/TopWidgets/SwingAnimation>TopWidgets/SwingAnimation</a> -- <span>小组件平移动画 | Widget on the Move, A Playful Animation</span></li><li><a href=https://github.com/unjs/unctx>unjs/unctx</a> -- <span>🍦 Composables in vanilla JS</span></li><li><a href=https://github.com/opensumi/di>opensumi/di</a> -- <span>A Dependency Injection Library for JavaScript.</span></li><li><a href=https://github.com/fscarmen/warp>fscarmen/warp</a> -- <span>WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/niieani/hashids.js>niieani/hashids.js</a> -- <span>A small JavaScript library to generate YouTube-like ids from numbers.</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a> -- <span>A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/microsoft/vscode-webview-ui-toolkit>microsoft/vscode-webview-ui-toolkit</a> -- <span>A component library for building webview-based extensions in Visual Studio Code.</span></li><li><a href=https://github.com/fangshufeng/MachOView>fangshufeng/MachOView</a> -- <span>分析Macho必备工具</span></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a> -- <span>Fuck Elon Musk! Let's bring Twitter back.</span></li></ul>
+<ul><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li><li><a href=https://github.com/microsoft/vscode-webview-ui-toolkit>microsoft/vscode-webview-ui-toolkit</a> -- <span>A component library for building webview-based extensions in Visual Studio Code.</span></li><li><a href=https://github.com/niieani/hashids.js>niieani/hashids.js</a> -- <span>A small JavaScript library to generate YouTube-like ids from numbers.</span></li><li><a href=https://github.com/CatsJuice/dockbar>CatsJuice/dockbar</a> -- <span>A macOS-like dock component made with WebComponents</span></li><li><a href=https://github.com/fangshufeng/MachOView>fangshufeng/MachOView</a> -- <span>分析Macho必备工具</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/24/23, 5:14 AM<br>下一次刷新：8/24/23, 8:14 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/24/23, 9:09 AM<br>下一次刷新：8/24/23, 12:09 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
