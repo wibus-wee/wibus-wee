@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ecmadao/hacknical>ecmadao/hacknical</a> -- <span>Hacknical, hacker & technical. A website for GitHub user to make a better resume.</span></li><li><a href=https://github.com/cf-pages/Telegraph-Image>cf-pages/Telegraph-Image</a> -- <span>Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.</span></li><li><a href=https://github.com/tannerntannern/ts-mixer>tannerntannern/ts-mixer</a> -- <span>A small TypeScript library that provides tolerable Mixin functionality.</span></li><li><a href=https://github.com/fangshufeng/MachOView>fangshufeng/MachOView</a> -- <span>分析Macho必备工具</span></li><li><a href=https://github.com/unjs/listhen>unjs/listhen</a> -- <span>👂 Elegant HTTP Listener</span></li></ul>
+<ul><li><a href=https://github.com/ecmadao/hacknical>ecmadao/hacknical</a> -- <span>Hacknical, hacker & technical. A website for GitHub user to make a better resume.</span></li><li><a href=https://github.com/mdx-editor/editor>mdx-editor/editor</a> -- <span>A rich text editor React component for markdown</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/wanasit/chrono>wanasit/chrono</a> -- <span>A natural language date parser in Javascript</span></li><li><a href=https://github.com/ttimochan/processforlinux>ttimochan/processforlinux</a> -- <span>A Linux Implementation of the Mix Space Process Reporting Feature</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/24/23, 11:16 PM<br>下一次刷新：8/25/23, 2:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/25/23, 2:20 AM<br>下一次刷新：8/25/23, 5:20 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
