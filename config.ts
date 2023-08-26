@@ -1,12 +1,14 @@
 export const opensource = {
   active: [
     'mogland/core',
-    'wibus-wee/wc-lantern',
-    'wibus-wee/iucky.cn',
-    'wibus-wee/chatgpt-bing-extension',
-    'wibus-wee/github-event-discord-listener',
-    'wibus-wee/Mix',
-    'utmapp/UTM',
+    'pf4n/pf4n',
+    'mx-space/core',
+    'mogland-dev/mog-render-service',
+    'jwcjs/core',
+    'wibus-wee/icalingua-theme-telegram',
+    'wibus-wee/stable-diffusion-webui-ipynb',
+    'wibus-wee/mini-class-tool',
+    'wibus-wee/wibus.ren',
   ],
 }
 
