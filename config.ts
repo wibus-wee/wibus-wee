@@ -1,7 +1,7 @@
 export const opensource = {
   active: [
     'mogland/core',
-    'pf4n/pf4n',
+    // 'pf4n/pf4n',
     'mx-space/core',
     'mogland-dev/mog-render-service',
     'jwcjs/core',
