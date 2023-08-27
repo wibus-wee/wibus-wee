@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/chrononeko/chronocat>chrononeko/chronocat</a> -- <span>小巧轻便的 Red 实现</span></li><li><a href=https://github.com/fullstack-build/tslog>fullstack-build/tslog</a> -- <span>📝 tslog - Universal Logger for TypeScript and JavaScript</span></li><li><a href=https://github.com/square/Valet>square/Valet</a> -- <span>Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.</span></li><li><a href=https://github.com/samzhangjy/ObserverX>samzhangjy/ObserverX</a> -- <span>🤖️ Node.js framework for instantly building GPT bot applications.</span></li><li><a href=https://github.com/chxm1023/Rewrite>chxm1023/Rewrite</a></li></ul>
+<ul><li><a href=https://github.com/szimek/sharedrop>szimek/sharedrop</a> -- <span>Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop</span></li><li><a href=https://github.com/chrononeko/chronocat>chrononeko/chronocat</a> -- <span>小巧轻便的 Red 实现</span></li><li><a href=https://github.com/fullstack-build/tslog>fullstack-build/tslog</a> -- <span>📝 tslog - Universal Logger for TypeScript and JavaScript</span></li><li><a href=https://github.com/square/Valet>square/Valet</a> -- <span>Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.</span></li><li><a href=https://github.com/samzhangjy/ObserverX>samzhangjy/ObserverX</a> -- <span>🤖️ Node.js framework for instantly building GPT bot applications.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bdlukaa/fluent_ui>bdlukaa/fluent_ui</a> -- <span>Implements Microsoft's WinUI3 in Flutter.</span></li><li><a href=https://github.com/emilkowalski/vaul>emilkowalski/vaul</a> -- <span>An unstyled drawer component for React.</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li></ul>
+<ul><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a> -- <span>Fuck Elon Musk! Let's bring Twitter back.</span></li><li><a href=https://github.com/opensumi/di>opensumi/di</a> -- <span>A Dependency Injection Library for JavaScript.</span></li><li><a href=https://github.com/steveruizok/perfect-freehand>steveruizok/perfect-freehand</a> -- <span>Draw perfect pressure-sensitive freehand lines.</span></li><li><a href=https://github.com/mdx-editor/editor>mdx-editor/editor</a> -- <span>A rich text editor React component for markdown</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a> -- <span>Automated iOS Backup Robot</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/27/23, 5:14 PM<br>下一次刷新：8/27/23, 8:14 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/27/23, 8:28 PM<br>下一次刷新：8/27/23, 11:28 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
