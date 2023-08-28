@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/steveruizok/perfect-freehand>steveruizok/perfect-freehand</a> -- <span>Draw perfect pressure-sensitive freehand lines.</span></li><li><a href=https://github.com/STRRL/dejavu>STRRL/dejavu</a> -- <span>With Dejavu, you can have a perfect memory by capturing and organizing your visual recordings efficiently.</span></li><li><a href=https://github.com/phoenix-ru/fervid>phoenix-ru/fervid</a> -- <span>All-in-One Vue compiler written in Rust</span></li><li><a href=https://github.com/unjs/listhen>unjs/listhen</a> -- <span>👂 Elegant HTTP Listener</span></li><li><a href=https://github.com/ecmadao/hacknical>ecmadao/hacknical</a> -- <span>Hacknical, hacker & technical. A website for GitHub user to make a better resume.</span></li></ul>
+<ul><li><a href=https://github.com/wanasit/chrono>wanasit/chrono</a> -- <span>A natural language date parser in Javascript</span></li><li><a href=https://github.com/steveruizok/perfect-freehand>steveruizok/perfect-freehand</a> -- <span>Draw perfect pressure-sensitive freehand lines.</span></li><li><a href=https://github.com/fscarmen/warp>fscarmen/warp</a> -- <span>WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本</span></li><li><a href=https://github.com/emilkowalski/vaul>emilkowalski/vaul</a> -- <span>An unstyled drawer component for React.</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/28/23, 2:21 PM<br>下一次刷新：8/28/23, 5:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/28/23, 5:16 PM<br>下一次刷新：8/28/23, 8:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
