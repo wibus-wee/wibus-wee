@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/opensumi/di>opensumi/di</a> -- <span>A Dependency Injection Library for JavaScript.</span></li><li><a href=https://github.com/kuma-ui/kuma-ui>kuma-ui/kuma-ui</a> -- <span>🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨</span></li><li><a href=https://github.com/chxm1023/Rewrite>chxm1023/Rewrite</a></li><li><a href=https://github.com/tannerntannern/ts-mixer>tannerntannern/ts-mixer</a> -- <span>A small TypeScript library that provides tolerable Mixin functionality.</span></li><li><a href=https://github.com/TopWidgets/SwingAnimation>TopWidgets/SwingAnimation</a> -- <span>小组件平移动画 | Widget on the Move, A Playful Animation</span></li></ul>
+<ul><li><a href=https://github.com/satoshi0212/visionOS_30Days>satoshi0212/visionOS_30Days</a> -- <span>visionOS 30 days challenge.</span></li><li><a href=https://github.com/wanasit/chrono>wanasit/chrono</a> -- <span>A natural language date parser in Javascript</span></li><li><a href=https://github.com/niieani/hashids.js>niieani/hashids.js</a> -- <span>A small JavaScript library to generate YouTube-like ids from numbers.</span></li><li><a href=https://github.com/Jack-Works/async-call-rpc>Jack-Works/async-call-rpc</a> -- <span>A lightweight JSON RPC client & server</span></li><li><a href=https://github.com/cf-pages/Telegraph-Image>cf-pages/Telegraph-Image</a> -- <span>Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/29/23, 11:17 AM<br>下一次刷新：8/29/23, 2:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/29/23, 2:21 PM<br>下一次刷新：8/29/23, 5:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
