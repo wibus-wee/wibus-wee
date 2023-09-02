@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/scaffdog/scaffdog>scaffdog/scaffdog</a> -- <span>:dog: scaffdog is Markdown driven scaffolding tool.</span></li><li><a href=https://github.com/monako97/2fa-for-macOS>monako97/2fa-for-macOS</a> -- <span>使用Swift UI开发的身份验证器(2FA)</span></li><li><a href=https://github.com/aerotoad/neboa>aerotoad/neboa</a> -- <span>Type-safe NoSQL with Node & SQLite. 🌫️💽</span></li><li><a href=https://github.com/Innei/jojoo>Innei/jojoo</a></li><li><a href=https://github.com/qxchuckle/vsc-cec-ide>qxchuckle/vsc-cec-ide</a> -- <span>一个插件，国产化你的VSCode，来源于CEC-IDE，有敏感词检测功能，这下自主创新了！</span></li></ul>
+<ul><li><a href=https://github.com/cw2k/Adobe-GenP>cw2k/Adobe-GenP</a> -- <span>Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0</span></li><li><a href=https://github.com/scaffdog/scaffdog>scaffdog/scaffdog</a> -- <span>:dog: scaffdog is Markdown driven scaffolding tool.</span></li><li><a href=https://github.com/monako97/2fa-for-macOS>monako97/2fa-for-macOS</a> -- <span>使用Swift UI开发的身份验证器(2FA)</span></li><li><a href=https://github.com/aerotoad/neboa>aerotoad/neboa</a> -- <span>Type-safe NoSQL with Node & SQLite. 🌫️💽</span></li><li><a href=https://github.com/Innei/jojoo>Innei/jojoo</a></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cf-pages/Telegraph-Image>cf-pages/Telegraph-Image</a> -- <span>Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.</span></li><li><a href=https://github.com/opensumi/di>opensumi/di</a> -- <span>A Dependency Injection Library for JavaScript.</span></li><li><a href=https://github.com/unjs/unctx>unjs/unctx</a> -- <span>🍦 Composables in vanilla JS</span></li><li><a href=https://github.com/bdlukaa/fluent_ui>bdlukaa/fluent_ui</a> -- <span>Implements Microsoft's WinUI3 in Flutter.</span></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a> -- <span>Fuck Elon Musk! Let's bring Twitter back.</span></li></ul>
+<ul><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a> -- <span>Fuck Elon Musk! Let's bring Twitter back.</span></li><li><a href=https://github.com/square/Valet>square/Valet</a> -- <span>Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.</span></li><li><a href=https://github.com/chxm1023/Rewrite>chxm1023/Rewrite</a></li><li><a href=https://github.com/TopWidgets/SwingAnimation>TopWidgets/SwingAnimation</a> -- <span>小组件平移动画 | Widget on the Move, A Playful Animation</span></li><li><a href=https://github.com/steveruizok/perfect-freehand>steveruizok/perfect-freehand</a> -- <span>Draw perfect pressure-sensitive freehand lines.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/2/23, 5:14 PM<br>下一次刷新：9/2/23, 8:14 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/2/23, 8:28 PM<br>下一次刷新：9/2/23, 11:28 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
