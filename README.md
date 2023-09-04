@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/spicetify/spicetify-cli>spicetify/spicetify-cli</a> -- <span>Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.</span></li><li><a href=https://github.com/cw2k/Adobe-GenP>cw2k/Adobe-GenP</a> -- <span>Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0</span></li><li><a href=https://github.com/scaffdog/scaffdog>scaffdog/scaffdog</a> -- <span>:dog: scaffdog is Markdown driven scaffolding tool.</span></li><li><a href=https://github.com/monako97/2fa-for-macOS>monako97/2fa-for-macOS</a> -- <span>使用Swift UI开发的身份验证器(2FA)</span></li><li><a href=https://github.com/aerotoad/neboa>aerotoad/neboa</a> -- <span>Type-safe NoSQL with Node & SQLite. 🌫️💽</span></li></ul>
+<ul><li><a href=https://github.com/Mereithhh/vanblog>Mereithhh/vanblog</a> -- <span>一款简洁实用优雅的个人博客系统</span></li><li><a href=https://github.com/SukkaW/foxact>SukkaW/foxact</a> -- <span>React Hooks/Utils done right. For Browser, SSR, and React Server Components.</span></li><li><a href=https://github.com/spicetify/spicetify-cli>spicetify/spicetify-cli</a> -- <span>Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.</span></li><li><a href=https://github.com/cw2k/Adobe-GenP>cw2k/Adobe-GenP</a> -- <span>Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0</span></li><li><a href=https://github.com/scaffdog/scaffdog>scaffdog/scaffdog</a> -- <span>:dog: scaffdog is Markdown driven scaffolding tool.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wanasit/chrono>wanasit/chrono</a> -- <span>A natural language date parser in Javascript</span></li><li><a href=https://github.com/Innei/jojoo>Innei/jojoo</a></li><li><a href=https://github.com/fscarmen/warp>fscarmen/warp</a> -- <span>WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本</span></li><li><a href=https://github.com/unjs/unctx>unjs/unctx</a> -- <span>🍦 Composables in vanilla JS</span></li><li><a href=https://github.com/square/Valet>square/Valet</a> -- <span>Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.</span></li></ul>
+<ul><li><a href=https://github.com/chrononeko/chronocat>chrononeko/chronocat</a> -- <span>小巧轻便的 Red 实现</span></li><li><a href=https://github.com/fullstack-build/tslog>fullstack-build/tslog</a> -- <span>📝 tslog - Universal Logger for TypeScript and JavaScript</span></li><li><a href=https://github.com/qxchuckle/vsc-cec-ide>qxchuckle/vsc-cec-ide</a> -- <span>一个插件，国产化你的VSCode，来源于CEC-IDE，有敏感词检测功能，这下自主创新了！</span></li><li><a href=https://github.com/Jack-Works/async-call-rpc>Jack-Works/async-call-rpc</a> -- <span>A lightweight JSON RPC client & server</span></li><li><a href=https://github.com/cf-pages/Telegraph-Image>cf-pages/Telegraph-Image</a> -- <span>Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/4/23, 5:12 AM<br>下一次刷新：9/4/23, 8:12 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/4/23, 9:12 AM<br>下一次刷新：9/4/23, 12:12 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
