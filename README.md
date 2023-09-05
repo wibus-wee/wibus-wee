@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wanasit/chrono>wanasit/chrono</a> -- <span>A natural language date parser in Javascript</span></li><li><a href=https://github.com/monako97/2fa-for-macOS>monako97/2fa-for-macOS</a> -- <span>使用Swift UI开发的身份验证器(2FA)</span></li><li><a href=https://github.com/Jack-Works/async-call-rpc>Jack-Works/async-call-rpc</a> -- <span>A lightweight JSON RPC client & server</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a> -- <span>Automated iOS Backup Robot</span></li><li><a href=https://github.com/TopWidgets/SwingAnimation>TopWidgets/SwingAnimation</a> -- <span>小组件平移动画 | Widget on the Move, A Playful Animation</span></li></ul>
+<ul><li><a href=https://github.com/chrononeko/chronocat>chrononeko/chronocat</a> -- <span>小巧轻便的 Red 实现</span></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a> -- <span>Fuck Elon Musk! Let's bring Twitter back.</span></li><li><a href=https://github.com/Jack-Works/async-call-rpc>Jack-Works/async-call-rpc</a> -- <span>A lightweight JSON RPC client & server</span></li><li><a href=https://github.com/fullstack-build/tslog>fullstack-build/tslog</a> -- <span>📝 tslog - Universal Logger for TypeScript and JavaScript</span></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a> -- <span>Automated iOS Backup Robot</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/5/23, 11:17 PM<br>下一次刷新：9/6/23, 2:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/6/23, 2:20 AM<br>下一次刷新：9/6/23, 5:20 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
