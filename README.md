@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/chrononeko/chronocat>chrononeko/chronocat</a> -- <span>小巧轻便的 Red 实现</span></li><li><a href=https://github.com/chxm1023/Rewrite>chxm1023/Rewrite</a></li><li><a href=https://github.com/Lakr233/BBackupp>Lakr233/BBackupp</a> -- <span>Automated iOS Backup Robot</span></li><li><a href=https://github.com/fscarmen/warp>fscarmen/warp</a> -- <span>WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本</span></li><li><a href=https://github.com/wanasit/chrono>wanasit/chrono</a> -- <span>A natural language date parser in Javascript</span></li></ul>
+<ul><li><a href=https://github.com/samzhangjy/ObserverX>samzhangjy/ObserverX</a> -- <span>🤖️ Node.js framework for instantly building GPT bot applications.</span></li><li><a href=https://github.com/fullstack-build/tslog>fullstack-build/tslog</a> -- <span>📝 tslog - Universal Logger for TypeScript and JavaScript</span></li><li><a href=https://github.com/aerotoad/neboa>aerotoad/neboa</a> -- <span>Type-safe NoSQL with Node & SQLite. 🌫️💽</span></li><li><a href=https://github.com/SukkaW/foxact>SukkaW/foxact</a> -- <span>React Hooks/Utils done right. For Browser, SSR, and React Server Components.</span></li><li><a href=https://github.com/square/Valet>square/Valet</a> -- <span>Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/7/23, 2:21 PM<br>下一次刷新：9/7/23, 5:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/7/23, 5:16 PM<br>下一次刷新：9/7/23, 8:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
