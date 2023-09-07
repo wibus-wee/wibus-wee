@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/samzhangjy/ObserverX>samzhangjy/ObserverX</a> -- <span>🤖️ Node.js framework for instantly building GPT bot applications.</span></li><li><a href=https://github.com/fullstack-build/tslog>fullstack-build/tslog</a> -- <span>📝 tslog - Universal Logger for TypeScript and JavaScript</span></li><li><a href=https://github.com/aerotoad/neboa>aerotoad/neboa</a> -- <span>Type-safe NoSQL with Node & SQLite. 🌫️💽</span></li><li><a href=https://github.com/SukkaW/foxact>SukkaW/foxact</a> -- <span>React Hooks/Utils done right. For Browser, SSR, and React Server Components.</span></li><li><a href=https://github.com/square/Valet>square/Valet</a> -- <span>Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.</span></li></ul>
+<ul><li><a href=https://github.com/Innei/jojoo>Innei/jojoo</a></li><li><a href=https://github.com/cw2k/Adobe-GenP>cw2k/Adobe-GenP</a> -- <span>Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0</span></li><li><a href=https://github.com/cf-pages/Telegraph-Image>cf-pages/Telegraph-Image</a> -- <span>Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.</span></li><li><a href=https://github.com/unjs/listhen>unjs/listhen</a> -- <span>👂 Elegant HTTP Listener</span></li><li><a href=https://github.com/chxm1023/Rewrite>chxm1023/Rewrite</a></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/7/23, 5:16 PM<br>下一次刷新：9/7/23, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/7/23, 8:32 PM<br>下一次刷新：9/7/23, 11:32 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
