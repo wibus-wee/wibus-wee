@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/chrononeko/chronocat>chrononeko/chronocat</a> -- <span>小巧轻便的 Red 实现</span></li><li><a href=https://github.com/szimek/sharedrop>szimek/sharedrop</a> -- <span>Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop</span></li><li><a href=https://github.com/SukkaW/nolyfill>SukkaW/nolyfill</a> -- <span>Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.</span></li><li><a href=https://github.com/infely/react-curse>infely/react-curse</a> -- <span>A curses-like blazingly fast react renderer</span></li><li><a href=https://github.com/wanasit/chrono>wanasit/chrono</a> -- <span>A natural language date parser in Javascript</span></li></ul>
+<ul><li><a href=https://github.com/szimek/sharedrop>szimek/sharedrop</a> -- <span>Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop</span></li><li><a href=https://github.com/opensumi/di>opensumi/di</a> -- <span>A Dependency Injection Library for JavaScript.</span></li><li><a href=https://github.com/monako97/2fa-for-macOS>monako97/2fa-for-macOS</a> -- <span>使用Swift UI开发的身份验证器(2FA)</span></li><li><a href=https://github.com/Mereithhh/vanblog>Mereithhh/vanblog</a> -- <span>一款简洁实用优雅的个人博客系统</span></li><li><a href=https://github.com/chrononeko/chronocat>chrononeko/chronocat</a> -- <span>小巧轻便的 Red 实现</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/9/23, 2:20 AM<br>下一次刷新：9/9/23, 5:20 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/9/23, 5:13 AM<br>下一次刷新：9/9/23, 8:13 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
