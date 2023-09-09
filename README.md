@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/TopWidgets/SwingAnimation>TopWidgets/SwingAnimation</a> -- <span>小组件平移动画 | Widget on the Move, A Playful Animation</span></li><li><a href=https://github.com/chrononeko/chronocat>chrononeko/chronocat</a> -- <span>小巧轻便的 Red 实现</span></li><li><a href=https://github.com/spicetify/spicetify-cli>spicetify/spicetify-cli</a> -- <span>Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.</span></li><li><a href=https://github.com/SukkaW/nolyfill>SukkaW/nolyfill</a> -- <span>Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.</span></li><li><a href=https://github.com/cf-pages/Telegraph-Image>cf-pages/Telegraph-Image</a> -- <span>Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.</span></li></ul>
+<ul><li><a href=https://github.com/cf-pages/Telegraph-Image>cf-pages/Telegraph-Image</a> -- <span>Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.</span></li><li><a href=https://github.com/SukkaW/nolyfill>SukkaW/nolyfill</a> -- <span>Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.</span></li><li><a href=https://github.com/Jack-Works/async-call-rpc>Jack-Works/async-call-rpc</a> -- <span>A lightweight JSON RPC client & server</span></li><li><a href=https://github.com/Innei/jojoo>Innei/jojoo</a></li><li><a href=https://github.com/aerotoad/neboa>aerotoad/neboa</a> -- <span>Type-safe NoSQL with Node & SQLite. 🌫️💽</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/9/23, 9:09 AM<br>下一次刷新：9/9/23, 12:09 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/9/23, 11:16 AM<br>下一次刷新：9/9/23, 2:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
