@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ecmadao/hacknical>ecmadao/hacknical</a> -- <span>Hacknical, hacker & technical. A website for GitHub user to make a better resume.</span></li><li><a href=https://github.com/opensumi/di>opensumi/di</a> -- <span>A Dependency Injection Library for JavaScript.</span></li><li><a href=https://github.com/square/Valet>square/Valet</a> -- <span>Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.</span></li><li><a href=https://github.com/SukkaW/foxact>SukkaW/foxact</a> -- <span>React Hooks/Utils done right. For Browser, SSR, and React Server Components.</span></li><li><a href=https://github.com/samzhangjy/ObserverX>samzhangjy/ObserverX</a> -- <span>🤖️ Node.js framework for instantly building GPT bot applications.</span></li></ul>
+<ul><li><a href=https://github.com/ecmadao/hacknical>ecmadao/hacknical</a> -- <span>Hacknical, hacker & technical. A website for GitHub user to make a better resume.</span></li><li><a href=https://github.com/szimek/sharedrop>szimek/sharedrop</a> -- <span>Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop</span></li><li><a href=https://github.com/TopWidgets/SwingAnimation>TopWidgets/SwingAnimation</a> -- <span>小组件平移动画 | Widget on the Move, A Playful Animation</span></li><li><a href=https://github.com/monako97/2fa-for-macOS>monako97/2fa-for-macOS</a> -- <span>使用Swift UI开发的身份验证器(2FA)</span></li><li><a href=https://github.com/aerotoad/neboa>aerotoad/neboa</a> -- <span>Type-safe NoSQL with Node & SQLite. 🌫️💽</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/11/23, 11:17 PM<br>下一次刷新：9/12/23, 2:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/12/23, 2:21 AM<br>下一次刷新：9/12/23, 5:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
