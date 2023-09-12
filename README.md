@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/nest-http-prisma-zod>Innei/nest-http-prisma-zod</a> -- <span>A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod and Vitest</span></li><li><a href=https://github.com/samzhangjy/ObserverX>samzhangjy/ObserverX</a> -- <span>🤖️ Node.js framework for instantly building GPT bot applications.</span></li><li><a href=https://github.com/szimek/sharedrop>szimek/sharedrop</a> -- <span>Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop</span></li><li><a href=https://github.com/infely/react-curse>infely/react-curse</a> -- <span>A curses-like blazingly fast react renderer</span></li><li><a href=https://github.com/wanasit/chrono>wanasit/chrono</a> -- <span>A natural language date parser in Javascript</span></li></ul>
+<ul><li><a href=https://github.com/chxm1023/Rewrite>chxm1023/Rewrite</a></li><li><a href=https://github.com/szimek/sharedrop>szimek/sharedrop</a> -- <span>Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop</span></li><li><a href=https://github.com/cw2k/Adobe-GenP>cw2k/Adobe-GenP</a> -- <span>Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0</span></li><li><a href=https://github.com/fscarmen/warp>fscarmen/warp</a> -- <span>WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本</span></li><li><a href=https://github.com/TopWidgets/SwingAnimation>TopWidgets/SwingAnimation</a> -- <span>小组件平移动画 | Widget on the Move, A Playful Animation</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/13/23, 2:19 AM<br>下一次刷新：9/13/23, 5:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/13/23, 5:14 AM<br>下一次刷新：9/13/23, 8:14 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
