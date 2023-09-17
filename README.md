@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SukkaW/nolyfill>SukkaW/nolyfill</a> -- <span>Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.</span></li><li><a href=https://github.com/cw2k/Adobe-GenP>cw2k/Adobe-GenP</a> -- <span>Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0</span></li><li><a href=https://github.com/spicetify/spicetify-cli>spicetify/spicetify-cli</a> -- <span>Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a> -- <span>⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li><li><a href=https://github.com/qxchuckle/vsc-cec-ide>qxchuckle/vsc-cec-ide</a> -- <span>一个插件，国产化你的VSCode，来源于CEC-IDE，有敏感词检测、防沉迷等功能，这下自主创新了！</span></li></ul>
+<ul><li><a href=https://github.com/nftblackmagic/sdwebui-api-manager>nftblackmagic/sdwebui-api-manager</a></li><li><a href=https://github.com/aerotoad/neboa>aerotoad/neboa</a> -- <span>Type-safe NoSQL with Node & SQLite. 🌫️💽</span></li><li><a href=https://github.com/lascic/UIOnboarding>lascic/UIOnboarding</a> -- <span>Apple-esque animated welcome screen for iOS and iPadOS. Configurable.</span></li><li><a href=https://github.com/SukkaW/nolyfill>SukkaW/nolyfill</a> -- <span>Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a> -- <span>⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/17/23, 5:13 AM<br>下一次刷新：9/17/23, 8:13 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/17/23, 9:15 AM<br>下一次刷新：9/17/23, 12:15 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
