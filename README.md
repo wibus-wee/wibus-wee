@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/aerotoad/neboa>aerotoad/neboa</a> -- <span>Type-safe NoSQL with Node & SQLite. 🌫️💽</span></li><li><a href=https://github.com/scaffdog/scaffdog>scaffdog/scaffdog</a> -- <span>:dog: scaffdog is Markdown driven scaffolding tool.</span></li><li><a href=https://github.com/SukkaW/foxact>SukkaW/foxact</a> -- <span>React Hooks/Utils done right. For Browser, SSR, and React Server Components.</span></li><li><a href=https://github.com/lxfater/LLMR-NLUP>lxfater/LLMR-NLUP</a> -- <span>A quick demo of Natural-Language-UI-Programming, implemented purely on the front end and powered by GPT-3.5</span></li><li><a href=https://github.com/chrononeko/chronocat>chrononeko/chronocat</a> -- <span>小巧轻便的 Red 实现</span></li></ul>
+<ul><li><a href=https://github.com/qxchuckle/vsc-cec-ide>qxchuckle/vsc-cec-ide</a> -- <span>一个插件，国产化你的VSCode，来源于CEC-IDE，有敏感词检测、防沉迷等功能，这下自主创新了！</span></li><li><a href=https://github.com/hellof2e/quark-core>hellof2e/quark-core</a> -- <span>Fast 4Kb size! Web Components with JSX. Write once, run everywhere(React, Vue, Qwik, Solid, Angular, Svelte, and more.)（构建你的跨技术栈 / 浏览器原生组件，可运行于任何前端框架！）</span></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a> -- <span>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</span></li><li><a href=https://github.com/sindresorhus/ky>sindresorhus/ky</a> -- <span>🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API</span></li><li><a href=https://github.com/aerotoad/neboa>aerotoad/neboa</a> -- <span>Type-safe NoSQL with Node & SQLite. 🌫️💽</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/18/23, 5:16 PM<br>下一次刷新：9/18/23, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/18/23, 8:33 PM<br>下一次刷新：9/18/23, 11:33 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
