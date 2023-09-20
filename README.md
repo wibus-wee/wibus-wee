@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/nest-http-prisma-zod>Innei/nest-http-prisma-zod</a> -- <span>A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod and Vitest</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a> -- <span>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/infely/react-curse>infely/react-curse</a> -- <span>A curses-like blazingly fast react renderer</span></li><li><a href=https://github.com/sindresorhus/ky>sindresorhus/ky</a> -- <span>🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API</span></li><li><a href=https://github.com/hellof2e/quark-core>hellof2e/quark-core</a> -- <span>Fast 4Kb size! Web Components with JSX. Write once, run everywhere(React, Vue, Qwik, Solid, Angular, Svelte, and more.)（构建你的跨技术栈 / 浏览器原生组件，可运行于任何前端框架！）</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a> -- <span>Drop in replacement for _presentMenuAtLocation:</span></li><li><a href=https://github.com/dadalar/SwiftUI-CardStackView>dadalar/SwiftUI-CardStackView</a> -- <span>A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS.</span></li><li><a href=https://github.com/scaffdog/scaffdog>scaffdog/scaffdog</a> -- <span>:dog: scaffdog is Markdown driven scaffolding tool.</span></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a> -- <span>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a> -- <span>⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/20/23, 8:33 PM<br>下一次刷新：9/20/23, 11:33 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/20/23, 11:16 PM<br>下一次刷新：9/21/23, 2:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
