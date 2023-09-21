@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lxfater/LLMR-NLUP>lxfater/LLMR-NLUP</a> -- <span>A quick demo of Natural-Language-UI-Programming, implemented purely on the front end and powered by GPT-3.5</span></li><li><a href=https://github.com/hellof2e/quark-core>hellof2e/quark-core</a> -- <span>Fast 4Kb size! Web Components with JSX. Write once, run everywhere(React, Vue, Qwik, Solid, Angular, Svelte, and more.)（构建你的跨技术栈 / 浏览器原生组件，可运行于任何前端框架！）</span></li><li><a href=https://github.com/hex2f/marz>hex2f/marz</a> -- <span>🚀 A Fast and Lightweight React Server Components Framework for Bun</span></li><li><a href=https://github.com/Innei/nest-http-prisma-zod>Innei/nest-http-prisma-zod</a> -- <span>A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod and Vitest</span></li><li><a href=https://github.com/SukkaW/foxact>SukkaW/foxact</a> -- <span>React Hooks/Utils done right. For Browser, SSR, and React Server Components.</span></li></ul>
+<ul><li><a href=https://github.com/lascic/UIOnboarding>lascic/UIOnboarding</a> -- <span>Apple-esque animated welcome screen for iOS and iPadOS. Configurable.</span></li><li><a href=https://github.com/infely/react-curse>infely/react-curse</a> -- <span>A curses-like blazingly fast react renderer</span></li><li><a href=https://github.com/pengzhile/cocopilot>pengzhile/cocopilot</a> -- <span>你可以把它称为：联合副驾驶。</span></li><li><a href=https://github.com/Brendonovich/prisma-client-rust>Brendonovich/prisma-client-rust</a> -- <span>Type-safe database access for Rust</span></li><li><a href=https://github.com/monako97/2fa-for-macOS>monako97/2fa-for-macOS</a> -- <span>使用Swift UI开发的身份验证器(2FA)</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/21/23, 9:11 AM<br>下一次刷新：9/21/23, 12:11 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/21/23, 11:16 AM<br>下一次刷新：9/21/23, 2:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
