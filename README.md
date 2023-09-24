@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/igorkulman/iOSSampleApp>igorkulman/iOSSampleApp</a> -- <span>Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding</span></li><li><a href=https://github.com/lascic/UIOnboarding>lascic/UIOnboarding</a> -- <span>Apple-esque animated welcome screen for iOS and iPadOS. Configurable.</span></li><li><a href=https://github.com/dadalar/SwiftUI-CardStackView>dadalar/SwiftUI-CardStackView</a> -- <span>A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS.</span></li><li><a href=https://github.com/pengzhile/cocopilot>pengzhile/cocopilot</a> -- <span>你可以把它称为：联合副驾驶。</span></li><li><a href=https://github.com/fuergaosi233/apple-health-exporter>fuergaosi233/apple-health-exporter</a></li></ul>
+<ul><li><a href=https://github.com/aigc-apps/sd-webui-EasyPhoto>aigc-apps/sd-webui-EasyPhoto</a> -- <span>📷 EasyPhoto | Your Smart AI Photo Generator.</span></li><li><a href=https://github.com/igorkulman/iOSSampleApp>igorkulman/iOSSampleApp</a> -- <span>Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding</span></li><li><a href=https://github.com/hellof2e/quark-core>hellof2e/quark-core</a> -- <span>Fast 4Kb size! Web Components with JSX. Write once, run everywhere(React, Vue, Qwik, Solid, Angular, Svelte, and more.)（构建你的跨技术栈 / 浏览器原生组件，可运行于任何前端框架！）</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a> -- <span>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/Mereithhh/vanblog>Mereithhh/vanblog</a> -- <span>一款简洁实用优雅的个人博客系统</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/24/23, 5:14 PM<br>下一次刷新：9/24/23, 8:14 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/24/23, 8:29 PM<br>下一次刷新：9/24/23, 11:29 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
