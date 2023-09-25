@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a> -- <span>Server dashboard</span></li><li><a href=https://github.com/igorkulman/iOSSampleApp>igorkulman/iOSSampleApp</a> -- <span>Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a> -- <span>Drop in replacement for _presentMenuAtLocation:</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li><li><a href=https://github.com/sindresorhus/ky>sindresorhus/ky</a> -- <span>🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API</span></li></ul>
+<ul><li><a href=https://github.com/Brendonovich/prisma-client-rust>Brendonovich/prisma-client-rust</a> -- <span>Type-safe database access for Rust</span></li><li><a href=https://github.com/SukkaW/nolyfill>SukkaW/nolyfill</a> -- <span>Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.</span></li><li><a href=https://github.com/hex2f/marz>hex2f/marz</a> -- <span>🚀 A Fast and Lightweight React Server Components Framework for Bun</span></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a> -- <span>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/23, 2:22 PM<br>下一次刷新：9/25/23, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/23, 5:17 PM<br>下一次刷新：9/25/23, 8:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
