@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Lakr233/CameraTools>Lakr233/CameraTools</a> -- <span>EXIF Tool Kit</span></li><li><a href=https://github.com/rubygarage/media-watermark>rubygarage/media-watermark</a> -- <span>GPU/CPU-based iOS Watermark Library for Image and Video Overlay</span></li><li><a href=https://github.com/mchall/HiddenWatermark>mchall/HiddenWatermark</a> -- <span>Embeds a hidden watermark in an image using a blind DWT-DCT approach</span></li><li><a href=https://github.com/elysiajs/elysia>elysiajs/elysia</a> -- <span>Fast, and friendly Bun web framework</span></li><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a> -- <span>Server dashboard</span></li></ul>
+<ul><li><a href=https://github.com/weaigc/bingo>weaigc/bingo</a> -- <span>Bingo，一个让你呼吸顺畅 New Bing。</span></li><li><a href=https://github.com/Lakr233/CameraTools>Lakr233/CameraTools</a> -- <span>EXIF Tool Kit</span></li><li><a href=https://github.com/rubygarage/media-watermark>rubygarage/media-watermark</a> -- <span>GPU/CPU-based iOS Watermark Library for Image and Video Overlay</span></li><li><a href=https://github.com/mchall/HiddenWatermark>mchall/HiddenWatermark</a> -- <span>Embeds a hidden watermark in an image using a blind DWT-DCT approach</span></li><li><a href=https://github.com/elysiajs/elysia>elysiajs/elysia</a> -- <span>Fast, and friendly Bun web framework</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lxfater/LLMR-NLUP>lxfater/LLMR-NLUP</a> -- <span>A quick demo of Natural-Language-UI-Programming, implemented purely on the front end and powered by GPT-3.5</span></li><li><a href=https://github.com/fuergaosi233/apple-health-exporter>fuergaosi233/apple-health-exporter</a></li><li><a href=https://github.com/dadalar/SwiftUI-CardStackView>dadalar/SwiftUI-CardStackView</a> -- <span>A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS.</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a> -- <span>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li></ul>
+<ul><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a> -- <span>💥 Blazing fast terminal file manager written in Rust, based on async I/O.</span></li><li><a href=https://github.com/Mereithhh/vanblog>Mereithhh/vanblog</a> -- <span>一款简洁实用优雅的个人博客系统</span></li><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a> -- <span>Server dashboard</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li><li><a href=https://github.com/dadalar/SwiftUI-CardStackView>dadalar/SwiftUI-CardStackView</a> -- <span>A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/23, 5:13 AM<br>下一次刷新：9/25/23, 8:13 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/23, 9:13 AM<br>下一次刷新：9/25/23, 12:13 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
