@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nftblackmagic/sdwebui-api-manager>nftblackmagic/sdwebui-api-manager</a></li><li><a href=https://github.com/aigc-apps/sd-webui-EasyPhoto>aigc-apps/sd-webui-EasyPhoto</a> -- <span>📷 EasyPhoto | Your Smart AI Photo Generator.</span></li><li><a href=https://github.com/SukkaW/nolyfill>SukkaW/nolyfill</a> -- <span>Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a> -- <span>💥 Blazing fast terminal file manager written in Rust, based on async I/O.</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a> -- <span>Drop in replacement for _presentMenuAtLocation:</span></li></ul>
+<ul><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a> -- <span>Server dashboard</span></li><li><a href=https://github.com/sindresorhus/ky>sindresorhus/ky</a> -- <span>🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a> -- <span>Drop in replacement for _presentMenuAtLocation:</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li><li><a href=https://github.com/nftblackmagic/sdwebui-api-manager>nftblackmagic/sdwebui-api-manager</a></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/27/23, 8:33 PM<br>下一次刷新：9/27/23, 11:33 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/27/23, 11:17 PM<br>下一次刷新：9/28/23, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
