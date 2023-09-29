@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/emmanuelnk/github-actions-workflow-ts>emmanuelnk/github-actions-workflow-ts</a> -- <span>Write Github Actions workflow files in TypeScript (compiles to YAML)</span></li><li><a href=https://github.com/plugxjs/plugx>plugxjs/plugx</a> -- <span>universal plugin framework for web application</span></li><li><a href=https://github.com/weaigc/bingo>weaigc/bingo</a> -- <span>Bingo，一个让你呼吸顺畅 New Bing。</span></li><li><a href=https://github.com/Lakr233/CameraTools>Lakr233/CameraTools</a> -- <span>EXIF Tool Kit</span></li><li><a href=https://github.com/rubygarage/media-watermark>rubygarage/media-watermark</a> -- <span>GPU/CPU-based iOS Watermark Library for Image and Video Overlay</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/Colorful>Lakr233/Colorful</a> -- <span>A SwiftUI implementation of AppleCard's animated colorful blur background.</span></li><li><a href=https://github.com/emmanuelnk/github-actions-workflow-ts>emmanuelnk/github-actions-workflow-ts</a> -- <span>Write Github Actions workflow files in TypeScript (compiles to YAML)</span></li><li><a href=https://github.com/plugxjs/plugx>plugxjs/plugx</a> -- <span>universal plugin framework for web application</span></li><li><a href=https://github.com/weaigc/bingo>weaigc/bingo</a> -- <span>Bingo，一个让你呼吸顺畅 New Bing。</span></li><li><a href=https://github.com/Lakr233/CameraTools>Lakr233/CameraTools</a> -- <span>EXIF Tool Kit</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/nest-http-prisma-zod>Innei/nest-http-prisma-zod</a> -- <span>A best practice for NestJS framework with using Prisma + Postgres, Socket.IO, Zod and Vitest</span></li><li><a href=https://github.com/pengzhile/cocopilot>pengzhile/cocopilot</a> -- <span>你可以把它称为：联合副驾驶。</span></li><li><a href=https://github.com/igorkulman/iOSSampleApp>igorkulman/iOSSampleApp</a> -- <span>Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a> -- <span>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a> -- <span>💥 Blazing fast terminal file manager written in Rust, based on async I/O.</span></li></ul>
+<ul><li><a href=https://github.com/hex2f/marz>hex2f/marz</a> -- <span>🚀 A Fast and Lightweight React Server Components Framework for Bun</span></li><li><a href=https://github.com/fuergaosi233/apple-health-exporter>fuergaosi233/apple-health-exporter</a></li><li><a href=https://github.com/elysiajs/elysia>elysiajs/elysia</a> -- <span>Fast, and friendly Bun web framework</span></li><li><a href=https://github.com/hellof2e/quark-core>hellof2e/quark-core</a> -- <span>Fast 4Kb size! Web Components with JSX. Write once, run everywhere(React, Vue, Qwik, Solid, Angular, Svelte, and more.)（构建你的跨技术栈 / 浏览器原生组件，可运行于任何前端框架！）</span></li><li><a href=https://github.com/pengzhile/pandora>pengzhile/pandora</a> -- <span>潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/29/23, 2:22 PM<br>下一次刷新：9/29/23, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/29/23, 5:16 PM<br>下一次刷新：9/29/23, 8:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
