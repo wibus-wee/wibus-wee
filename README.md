@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pengzhile/cocopilot>pengzhile/cocopilot</a> -- <span>你可以把它称为：联合副驾驶。</span></li><li><a href=https://github.com/nftblackmagic/sdwebui-api-manager>nftblackmagic/sdwebui-api-manager</a></li><li><a href=https://github.com/Lakr233/CameraTools>Lakr233/CameraTools</a> -- <span>EXIF Tool Kit</span></li><li><a href=https://github.com/elysiajs/elysia>elysiajs/elysia</a> -- <span>Fast, and friendly Bun web framework</span></li><li><a href=https://github.com/fuergaosi233/apple-health-exporter>fuergaosi233/apple-health-exporter</a></li></ul>
+<ul><li><a href=https://github.com/igorkulman/iOSSampleApp>igorkulman/iOSSampleApp</a> -- <span>Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding</span></li><li><a href=https://github.com/fuergaosi233/apple-health-exporter>fuergaosi233/apple-health-exporter</a></li><li><a href=https://github.com/lxfater/LLMR-NLUP>lxfater/LLMR-NLUP</a> -- <span>A quick demo of Natural-Language-UI-Programming, implemented purely on the front end and powered by GPT-3.5</span></li><li><a href=https://github.com/Lakr233/ChidoriMenu>Lakr233/ChidoriMenu</a> -- <span>Drop in replacement for _presentMenuAtLocation:</span></li><li><a href=https://github.com/sindresorhus/ky>sindresorhus/ky</a> -- <span>🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/1/23, 2:19 AM<br>下一次刷新：10/1/23, 5:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/1/23, 5:13 AM<br>下一次刷新：10/1/23, 8:13 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
