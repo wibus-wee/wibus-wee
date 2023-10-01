@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/CameraTools>Lakr233/CameraTools</a> -- <span>EXIF Tool Kit</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li><li><a href=https://github.com/nftblackmagic/sdwebui-api-manager>nftblackmagic/sdwebui-api-manager</a></li><li><a href=https://github.com/fuergaosi233/apple-health-exporter>fuergaosi233/apple-health-exporter</a></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a> -- <span>💥 Blazing fast terminal file manager written in Rust, based on async I/O.</span></li></ul>
+<ul><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li><li><a href=https://github.com/rubygarage/media-watermark>rubygarage/media-watermark</a> -- <span>GPU/CPU-based iOS Watermark Library for Image and Video Overlay</span></li><li><a href=https://github.com/infely/react-curse>infely/react-curse</a> -- <span>A curses-like blazingly fast react renderer</span></li><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a> -- <span>Server dashboard</span></li><li><a href=https://github.com/pengzhile/pandora>pengzhile/pandora</a> -- <span>潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/1/23, 9:21 AM<br>下一次刷新：10/1/23, 12:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/1/23, 11:16 AM<br>下一次刷新：10/1/23, 2:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
