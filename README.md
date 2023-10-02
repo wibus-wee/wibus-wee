@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/dadalar/SwiftUI-CardStackView>dadalar/SwiftUI-CardStackView</a> -- <span>A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS.</span></li><li><a href=https://github.com/pengzhile/pandora>pengzhile/pandora</a> -- <span>潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.</span></li><li><a href=https://github.com/pengzhile/cocopilot>pengzhile/cocopilot</a> -- <span>你可以把它称为：联合副驾驶。</span></li><li><a href=https://github.com/elysiajs/elysia>elysiajs/elysia</a> -- <span>Fast, and friendly Bun web framework</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li></ul>
+<ul><li><a href=https://github.com/mchall/HiddenWatermark>mchall/HiddenWatermark</a> -- <span>Embeds a hidden watermark in an image using a blind DWT-DCT approach</span></li><li><a href=https://github.com/pengzhile/pandora>pengzhile/pandora</a> -- <span>潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.</span></li><li><a href=https://github.com/Lakr233/CameraTools>Lakr233/CameraTools</a> -- <span>EXIF Tool Kit</span></li><li><a href=https://github.com/sxyazi/yazi>sxyazi/yazi</a> -- <span>💥 Blazing fast terminal file manager written in Rust, based on async I/O.</span></li><li><a href=https://github.com/emmanuelnk/github-actions-workflow-ts>emmanuelnk/github-actions-workflow-ts</a> -- <span>Write Github Actions workflow files in TypeScript (compiles to YAML)</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/2/23, 5:16 PM<br>下一次刷新：10/2/23, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/2/23, 8:33 PM<br>下一次刷新：10/2/23, 11:33 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
