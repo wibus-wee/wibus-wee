@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Brendonovich/prisma-client-rust>Brendonovich/prisma-client-rust</a> -- <span>Type-safe database access for Rust</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a> -- <span>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/nftblackmagic/sdwebui-api-manager>nftblackmagic/sdwebui-api-manager</a></li><li><a href=https://github.com/plugxjs/plugx>plugxjs/plugx</a> -- <span>universal plugin framework for web application</span></li><li><a href=https://github.com/mchall/HiddenWatermark>mchall/HiddenWatermark</a> -- <span>Embeds a hidden watermark in an image using a blind DWT-DCT approach</span></li></ul>
+<ul><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a> -- <span>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li><li><a href=https://github.com/lxfater/LLMR-NLUP>lxfater/LLMR-NLUP</a> -- <span>A quick demo of Natural-Language-UI-Programming, implemented purely on the front end and powered by GPT-3.5</span></li><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a> -- <span>Server dashboard</span></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a> -- <span>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/3/23, 11:18 PM<br>下一次刷新：10/4/23, 2:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/4/23, 2:22 AM<br>下一次刷新：10/4/23, 5:22 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
