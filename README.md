@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/fuergaosi233/apple-health-exporter>fuergaosi233/apple-health-exporter</a></li><li><a href=https://github.com/weaigc/bingo>weaigc/bingo</a> -- <span>Bingo，一个让你呼吸顺畅 New Bing。</span></li><li><a href=https://github.com/lxfater/LLMR-NLUP>lxfater/LLMR-NLUP</a> -- <span>A quick demo of Natural-Language-UI-Programming, implemented purely on the front end and powered by GPT-3.5</span></li><li><a href=https://github.com/plugxjs/plugx>plugxjs/plugx</a> -- <span>universal plugin framework for web application</span></li><li><a href=https://github.com/ShellWen/v8_killer>ShellWen/v8_killer</a> -- <span>A tool that can inject any js into the V8 VM</span></li></ul>
+<ul><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li><li><a href=https://github.com/pengzhile/pandora>pengzhile/pandora</a> -- <span>潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.</span></li><li><a href=https://github.com/Brendonovich/prisma-client-rust>Brendonovich/prisma-client-rust</a> -- <span>Type-safe database access for Rust</span></li><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a> -- <span>Server dashboard</span></li><li><a href=https://github.com/emmanuelnk/github-actions-workflow-ts>emmanuelnk/github-actions-workflow-ts</a> -- <span>Write Github Actions workflow files in TypeScript (compiles to YAML)</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/4/23, 11:17 AM<br>下一次刷新：10/4/23, 2:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/4/23, 2:22 PM<br>下一次刷新：10/4/23, 5:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
