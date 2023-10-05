@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Sherlockouo/music>Sherlockouo/music</a> -- <span>a music player forked from YesPlayMusic</span></li><li><a href=https://github.com/Lakr233/BootableBackupOSX>Lakr233/BootableBackupOSX</a> -- <span>A script to backup all your macOS files using rsync.</span></li><li><a href=https://github.com/gwyng-dev/react-eff-hook>gwyng-dev/react-eff-hook</a></li><li><a href=https://github.com/matklad/xshell>matklad/xshell</a></li><li><a href=https://github.com/balazsorban44/nissuer>balazsorban44/nissuer</a> -- <span>A GitHub Action for tried and tired maintainers.</span></li></ul>
+<ul><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a> -- <span>An open-source remote desktop, and alternative to TeamViewer.</span></li><li><a href=https://github.com/Wondermarin/react-color-palette>Wondermarin/react-color-palette</a> -- <span>🎨 Lightweight Color Picker component for React.</span></li><li><a href=https://github.com/Sherlockouo/music>Sherlockouo/music</a> -- <span>a music player forked from YesPlayMusic</span></li><li><a href=https://github.com/Lakr233/BootableBackupOSX>Lakr233/BootableBackupOSX</a> -- <span>A script to backup all your macOS files using rsync.</span></li><li><a href=https://github.com/gwyng-dev/react-eff-hook>gwyng-dev/react-eff-hook</a></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/Colorful>Lakr233/Colorful</a> -- <span>A SwiftUI implementation of AppleCard's animated colorful blur background.</span></li><li><a href=https://github.com/fanmingming/live>fanmingming/live</a> -- <span>✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</span></li><li><a href=https://github.com/Lakr233/CameraTools>Lakr233/CameraTools</a> -- <span>EXIF Tool Kit</span></li><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a> -- <span>Server dashboard</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a> -- <span>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li></ul>
+<ul><li><a href=https://github.com/weaigc/bingo>weaigc/bingo</a> -- <span>Bingo，一个让你呼吸顺畅 New Bing。</span></li><li><a href=https://github.com/nftblackmagic/sdwebui-api-manager>nftblackmagic/sdwebui-api-manager</a></li><li><a href=https://github.com/emmanuelnk/github-actions-workflow-ts>emmanuelnk/github-actions-workflow-ts</a> -- <span>Write Github Actions workflow files in TypeScript (compiles to YAML)</span></li><li><a href=https://github.com/elysiajs/elysia>elysiajs/elysia</a> -- <span>Fast, and friendly Bun web framework</span></li><li><a href=https://github.com/oven-sh/bun>oven-sh/bun</a> -- <span>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/5/23, 5:17 PM<br>下一次刷新：10/5/23, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/5/23, 8:35 PM<br>下一次刷新：10/5/23, 11:35 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
