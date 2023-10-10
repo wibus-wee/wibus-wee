@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a> -- <span>An open-source remote desktop, and alternative to TeamViewer.</span></li><li><a href=https://github.com/fanmingming/live>fanmingming/live</a> -- <span>✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li><li><a href=https://github.com/cuynu/ytvancedx>cuynu/ytvancedx</a> -- <span>YouTube Vanced+ & YouTube Music Vanced+ project [WIP]</span></li><li><a href=https://github.com/matklad/xshell>matklad/xshell</a></li></ul>
+<ul><li><a href=https://github.com/Sherlockouo/music>Sherlockouo/music</a> -- <span>a music player forked from YesPlayMusic</span></li><li><a href=https://github.com/Tohrusky/Final2x>Tohrusky/Final2x</a> -- <span>2^x Image Super-Resolution ☢️</span></li><li><a href=https://github.com/gwyng-dev/react-eff-hook>gwyng-dev/react-eff-hook</a></li><li><a href=https://github.com/mchall/HiddenWatermark>mchall/HiddenWatermark</a> -- <span>Embeds a hidden watermark in an image using a blind DWT-DCT approach</span></li><li><a href=https://github.com/balazsorban44/nissuer>balazsorban44/nissuer</a> -- <span>A GitHub Action for tried and tired maintainers.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/11/23, 2:21 AM<br>下一次刷新：10/11/23, 5:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/11/23, 5:15 AM<br>下一次刷新：10/11/23, 8:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
