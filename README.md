@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/gokadzev/Musify>gokadzev/Musify</a> -- <span>Unlock Music's Full Potential: Stream and Download with Ease, All in One App!</span></li><li><a href=https://github.com/plugxjs/plugx>plugxjs/plugx</a> -- <span>universal plugin framework for web application</span></li><li><a href=https://github.com/rubygarage/media-watermark>rubygarage/media-watermark</a> -- <span>GPU/CPU-based iOS Watermark Library for Image and Video Overlay</span></li><li><a href=https://github.com/emmanuelnk/github-actions-workflow-ts>emmanuelnk/github-actions-workflow-ts</a> -- <span>Write Github Actions workflow files in TypeScript (compiles to YAML)</span></li><li><a href=https://github.com/cuynu/ytvancedx>cuynu/ytvancedx</a> -- <span>YouTube Vanced+ & YouTube Music Vanced+ project [WIP]</span></li></ul>
+<ul><li><a href=https://github.com/fanmingming/live>fanmingming/live</a> -- <span>✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</span></li><li><a href=https://github.com/Sherlockouo/music>Sherlockouo/music</a> -- <span>a music player forked from YesPlayMusic</span></li><li><a href=https://github.com/Tohrusky/Final2x>Tohrusky/Final2x</a> -- <span>2^x Image Super-Resolution ☢️</span></li><li><a href=https://github.com/plugxjs/plugx>plugxjs/plugx</a> -- <span>universal plugin framework for web application</span></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a> -- <span>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/11/23, 8:33 PM<br>下一次刷新：10/11/23, 11:33 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/11/23, 11:16 PM<br>下一次刷新：10/12/23, 2:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
