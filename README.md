@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Sherlockouo/music>Sherlockouo/music</a> -- <span>a music player forked from YesPlayMusic</span></li><li><a href=https://github.com/Tohrusky/Final2x>Tohrusky/Final2x</a> -- <span>2^x Image Super-Resolution ☢️</span></li><li><a href=https://github.com/gwyng-dev/react-eff-hook>gwyng-dev/react-eff-hook</a></li><li><a href=https://github.com/mchall/HiddenWatermark>mchall/HiddenWatermark</a> -- <span>Embeds a hidden watermark in an image using a blind DWT-DCT approach</span></li><li><a href=https://github.com/balazsorban44/nissuer>balazsorban44/nissuer</a> -- <span>A GitHub Action for tried and tired maintainers.</span></li></ul>
+<ul><li><a href=https://github.com/gokadzev/Musify>gokadzev/Musify</a> -- <span>Unlock Music's Full Potential: Stream and Download with Ease, All in One App!</span></li><li><a href=https://github.com/Wondermarin/react-color-palette>Wondermarin/react-color-palette</a> -- <span>🎨 Lightweight Color Picker component for React.</span></li><li><a href=https://github.com/rubygarage/media-watermark>rubygarage/media-watermark</a> -- <span>GPU/CPU-based iOS Watermark Library for Image and Video Overlay</span></li><li><a href=https://github.com/unixzii/SwiftJotai>unixzii/SwiftJotai</a> -- <span>Primitive and flexible state management for SwiftUI.</span></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a> -- <span>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/11/23, 5:15 AM<br>下一次刷新：10/11/23, 8:15 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/11/23, 9:12 AM<br>下一次刷新：10/11/23, 12:12 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
