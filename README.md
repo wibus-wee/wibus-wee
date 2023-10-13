@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ShellWen/v8_killer>ShellWen/v8_killer</a> -- <span>A tool that can inject any js into the V8 VM</span></li><li><a href=https://github.com/duo/octopus>duo/octopus</a> -- <span>A Telegram bot bridge</span></li><li><a href=https://github.com/Lakr233/Colorful>Lakr233/Colorful</a> -- <span>A SwiftUI implementation of AppleCard's animated colorful blur background.</span></li><li><a href=https://github.com/Tohrusky/Final2x>Tohrusky/Final2x</a> -- <span>2^x Image Super-Resolution ☢️</span></li><li><a href=https://github.com/pavlobu/deskreen>pavlobu/deskreen</a> -- <span>Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!</span></li></ul>
+<ul><li><a href=https://github.com/pavlobu/deskreen>pavlobu/deskreen</a> -- <span>Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!</span></li><li><a href=https://github.com/gwyng-dev/react-eff-hook>gwyng-dev/react-eff-hook</a></li><li><a href=https://github.com/matklad/xshell>matklad/xshell</a></li><li><a href=https://github.com/duo/octopus>duo/octopus</a> -- <span>A Telegram bot bridge</span></li><li><a href=https://github.com/unjs/hookable>unjs/hookable</a> -- <span>🪝 Awaitable Hooks</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/13/23, 11:17 AM<br>下一次刷新：10/13/23, 2:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/13/23, 2:23 PM<br>下一次刷新：10/13/23, 5:23 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
