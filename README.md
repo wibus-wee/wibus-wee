@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Linwenxuan05/Lagrange.Core>Linwenxuan05/Lagrange.Core</a> -- <span>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</span></li><li><a href=https://github.com/linxinrao/Shamrock>linxinrao/Shamrock</a> -- <span>☘ 基于Xposed实现的Onebot11/12标准QQBot框架</span></li><li><a href=https://github.com/Plutoberth/SonyHeadphonesClient>Plutoberth/SonyHeadphonesClient</a> -- <span>A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app</span></li><li><a href=https://github.com/jevonmao/PermissionsSwiftUI>jevonmao/PermissionsSwiftUI</a> -- <span>A SwiftUI package to beautifully display and handle permissions.</span></li><li><a href=https://github.com/apirrone/Memento>apirrone/Memento</a> -- <span>Memento is a Python app that records everything you do on your computer and lets you go back in time, search, and chat with a LLM (Large Language Model) to find back information about what you did.</span></li></ul>
+<ul><li><a href=https://github.com/chrononeko/QQNTRedProtocol>chrononeko/QQNTRedProtocol</a> -- <span>基于 ChronoCat 的 QQNT Hook 机器人协议</span></li><li><a href=https://github.com/satorijs/satori>satorijs/satori</a> -- <span>The Universal Messenger Protocol</span></li><li><a href=https://github.com/Linwenxuan05/Lagrange.Core>Linwenxuan05/Lagrange.Core</a> -- <span>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</span></li><li><a href=https://github.com/linxinrao/Shamrock>linxinrao/Shamrock</a> -- <span>☘ 基于Xposed实现的Onebot11/12标准QQBot框架</span></li><li><a href=https://github.com/Plutoberth/SonyHeadphonesClient>Plutoberth/SonyHeadphonesClient</a> -- <span>A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/unjs/hookable>unjs/hookable</a> -- <span>🪝 Awaitable Hooks</span></li><li><a href=https://github.com/matklad/xshell>matklad/xshell</a></li><li><a href=https://github.com/Sherlockouo/music>Sherlockouo/music</a> -- <span>a music player forked from YesPlayMusic。高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</span></li><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a> -- <span>An open-source remote desktop, and alternative to TeamViewer.</span></li><li><a href=https://github.com/emmanuelnk/github-actions-workflow-ts>emmanuelnk/github-actions-workflow-ts</a> -- <span>Write Github Actions workflow files in TypeScript (compiles to YAML)</span></li></ul>
+<ul><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a> -- <span>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a> -- <span>An open-source remote desktop, and alternative to TeamViewer.</span></li><li><a href=https://github.com/Lakr233/BootableBackupOSX>Lakr233/BootableBackupOSX</a> -- <span>A script to backup all your macOS files using rsync.</span></li><li><a href=https://github.com/matklad/xshell>matklad/xshell</a></li><li><a href=https://github.com/balazsorban44/nissuer>balazsorban44/nissuer</a> -- <span>A GitHub Action for tried and tired maintainers.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/14/23, 11:14 PM<br>下一次刷新：10/15/23, 2:14 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/15/23, 2:19 AM<br>下一次刷新：10/15/23, 5:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
