@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/isena/ISStego>isena/ISStego</a> -- <span>Objective-C implementation of Steganography for OS X & iOS</span></li><li><a href=https://github.com/Tohrusky/Final2x>Tohrusky/Final2x</a> -- <span>2^x Image Super-Resolution ☢️</span></li><li><a href=https://github.com/sindresorhus/Actions>sindresorhus/Actions</a> -- <span>⚙️ Supercharge your shortcuts</span></li><li><a href=https://github.com/gokadzev/Musify>gokadzev/Musify</a> -- <span>Unlock Music's Full Potential: Stream and Download with Ease, All in One App!</span></li><li><a href=https://github.com/duo/octopus>duo/octopus</a> -- <span>A Telegram bot bridge</span></li></ul>
+<ul><li><a href=https://github.com/matklad/xshell>matklad/xshell</a></li><li><a href=https://github.com/chrononeko/QQNTRedProtocol>chrononeko/QQNTRedProtocol</a> -- <span>基于 ChronoCat 的 QQNT Hook 机器人协议</span></li><li><a href=https://github.com/unjs/hookable>unjs/hookable</a> -- <span>🪝 Awaitable Hooks</span></li><li><a href=https://github.com/Sherlockouo/music>Sherlockouo/music</a> -- <span>a music player forked from YesPlayMusic。高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</span></li><li><a href=https://github.com/cuynu/ytvancedx>cuynu/ytvancedx</a> -- <span>YouTube Vanced+ & YouTube Music Vanced+ project [WIP]</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/19/23, 2:22 AM<br>下一次刷新：10/19/23, 5:22 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/19/23, 5:14 AM<br>下一次刷新：10/19/23, 8:14 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
