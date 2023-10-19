@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/SnosMe/uiohook-napi>SnosMe/uiohook-napi</a></li><li><a href=https://github.com/ryanmcgrath/cacao>ryanmcgrath/cacao</a> -- <span>Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!</span></li><li><a href=https://github.com/lgarron/folderify>lgarron/folderify</a> -- <span>:file_folder: Generate pixel-perfect macOS folder icons in the native style.</span></li><li><a href=https://github.com/RootHide/FairFree>RootHide/FairFree</a> -- <span>jailbreak any ipa and run on apple silicon M1/M2 macOS without decrypted.</span></li><li><a href=https://github.com/chax-at/prisma-filter>chax-at/prisma-filter</a></li></ul>
+<ul><li><a href=https://github.com/clickvote/clickvote>clickvote/clickvote</a> -- <span>Add upvotes, likes, and reviews to any context ⭐️</span></li><li><a href=https://github.com/SnosMe/uiohook-napi>SnosMe/uiohook-napi</a></li><li><a href=https://github.com/ryanmcgrath/cacao>ryanmcgrath/cacao</a> -- <span>Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!</span></li><li><a href=https://github.com/lgarron/folderify>lgarron/folderify</a> -- <span>:file_folder: Generate pixel-perfect macOS folder icons in the native style.</span></li><li><a href=https://github.com/RootHide/FairFree>RootHide/FairFree</a> -- <span>jailbreak any ipa and run on apple silicon M1/M2 macOS without decrypted.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/matklad/xshell>matklad/xshell</a></li><li><a href=https://github.com/chrononeko/QQNTRedProtocol>chrononeko/QQNTRedProtocol</a> -- <span>基于 ChronoCat 的 QQNT Hook 机器人协议</span></li><li><a href=https://github.com/unjs/hookable>unjs/hookable</a> -- <span>🪝 Awaitable Hooks</span></li><li><a href=https://github.com/Sherlockouo/music>Sherlockouo/music</a> -- <span>a music player forked from YesPlayMusic。高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</span></li><li><a href=https://github.com/cuynu/ytvancedx>cuynu/ytvancedx</a> -- <span>YouTube Vanced+ & YouTube Music Vanced+ project [WIP]</span></li></ul>
+<ul><li><a href=https://github.com/jevonmao/PermissionsSwiftUI>jevonmao/PermissionsSwiftUI</a> -- <span>A SwiftUI package to beautifully display and handle permissions.</span></li><li><a href=https://github.com/pavlobu/deskreen>pavlobu/deskreen</a> -- <span>Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!</span></li><li><a href=https://github.com/rustdesk/rustdesk>rustdesk/rustdesk</a> -- <span>An open-source remote desktop, and alternative to TeamViewer.</span></li><li><a href=https://github.com/Innei/MetaMuse>Innei/MetaMuse</a> -- <span>📝 MetaMuse is a personal CMS for organizing your articles, diaries, projects, book lists, and inspirations. Keep your creative life unified and accessible. 🎨📚🖋</span></li><li><a href=https://github.com/Tohrusky/Final2x>Tohrusky/Final2x</a> -- <span>2^x Image Super-Resolution ☢️</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/19/23, 5:14 AM<br>下一次刷新：10/19/23, 8:14 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/19/23, 9:13 AM<br>下一次刷新：10/19/23, 12:13 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
