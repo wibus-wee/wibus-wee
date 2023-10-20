@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/BootableBackupOSX>Lakr233/BootableBackupOSX</a> -- <span>A script to backup all your macOS files using rsync.</span></li><li><a href=https://github.com/RootHide/FairFree>RootHide/FairFree</a> -- <span>jailbreak any ipa and run on apple silicon M1/M2 macOS without decrypted.</span></li><li><a href=https://github.com/Sherlockouo/music>Sherlockouo/music</a> -- <span>a music player forked from YesPlayMusic。高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</span></li><li><a href=https://github.com/satorijs/satori>satorijs/satori</a> -- <span>The Universal Messenger Protocol</span></li><li><a href=https://github.com/lgarron/folderify>lgarron/folderify</a> -- <span>:file_folder: Generate pixel-perfect macOS folder icons in the native style.</span></li></ul>
+<ul><li><a href=https://github.com/p0deje/Maccy>p0deje/Maccy</a> -- <span>Lightweight clipboard manager for macOS</span></li><li><a href=https://github.com/Caldis/Mos>Caldis/Mos</a> -- <span>一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</span></li><li><a href=https://github.com/jevonmao/PermissionsSwiftUI>jevonmao/PermissionsSwiftUI</a> -- <span>A SwiftUI package to beautifully display and handle permissions.</span></li><li><a href=https://github.com/duo/octopus>duo/octopus</a> -- <span>A Telegram bot bridge</span></li><li><a href=https://github.com/apirrone/Memento>apirrone/Memento</a> -- <span>Memento is a Python app that records everything you do on your computer and lets you go back in time, search, and chat with a LLM (Large Language Model) to find back information about what you did.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/21/23, 2:20 AM<br>下一次刷新：10/21/23, 5:20 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/21/23, 5:14 AM<br>下一次刷新：10/21/23, 8:14 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
