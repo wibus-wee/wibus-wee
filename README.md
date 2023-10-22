@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Wondermarin/react-color-palette>Wondermarin/react-color-palette</a> -- <span>🎨 Lightweight Color Picker component for React.</span></li><li><a href=https://github.com/isena/ISStego>isena/ISStego</a> -- <span>Objective-C implementation of Steganography for OS X & iOS</span></li><li><a href=https://github.com/duo/octopus>duo/octopus</a> -- <span>A Telegram bot bridge</span></li><li><a href=https://github.com/RootHide/FairFree>RootHide/FairFree</a> -- <span>jailbreak any ipa and run on apple silicon M1/M2 macOS without decrypted.</span></li><li><a href=https://github.com/chax-at/prisma-filter>chax-at/prisma-filter</a></li></ul>
+<ul><li><a href=https://github.com/sunnyyoung/WeChatTweak-macOS>sunnyyoung/WeChatTweak-macOS</a> -- <span>A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨</span></li><li><a href=https://github.com/pavlobu/deskreen>pavlobu/deskreen</a> -- <span>Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!</span></li><li><a href=https://github.com/ryanmcgrath/cacao>ryanmcgrath/cacao</a> -- <span>Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!</span></li><li><a href=https://github.com/apirrone/Memento>apirrone/Memento</a> -- <span>Memento is a Python app that records everything you do on your computer and lets you go back in time, search, and chat with a LLM (Large Language Model) to find back information about what you did.</span></li><li><a href=https://github.com/p0deje/Maccy>p0deje/Maccy</a> -- <span>Lightweight clipboard manager for macOS</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/22/23, 11:17 AM<br>下一次刷新：10/22/23, 2:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/22/23, 2:20 PM<br>下一次刷新：10/22/23, 5:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
