@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a> -- <span>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</span></li><li><a href=https://github.com/lgarron/folderify>lgarron/folderify</a> -- <span>:file_folder: Generate pixel-perfect macOS folder icons in the native style.</span></li><li><a href=https://github.com/chax-at/prisma-filter>chax-at/prisma-filter</a></li><li><a href=https://github.com/unjs/hookable>unjs/hookable</a> -- <span>🪝 Awaitable Hooks</span></li><li><a href=https://github.com/apirrone/Memento>apirrone/Memento</a> -- <span>Memento is a Python app that records everything you do on your computer and lets you go back in time, search, and chat with a LLM (Large Language Model) to find back information about what you did.</span></li></ul>
+<ul><li><a href=https://github.com/SnosMe/uiohook-napi>SnosMe/uiohook-napi</a></li><li><a href=https://github.com/imgly/background-removal-js>imgly/background-removal-js</a> -- <span>Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.</span></li><li><a href=https://github.com/jevonmao/PermissionsSwiftUI>jevonmao/PermissionsSwiftUI</a> -- <span>A SwiftUI package to beautifully display and handle permissions.</span></li><li><a href=https://github.com/Innei/MetaMuse>Innei/MetaMuse</a> -- <span>📝 MetaMuse is a personal CMS for organizing your articles, diaries, projects, book lists, and inspirations. Keep your creative life unified and accessible. 🎨📚🖋</span></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a> -- <span>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/24/23, 5:17 PM<br>下一次刷新：10/24/23, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/24/23, 8:32 PM<br>下一次刷新：10/24/23, 11:32 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
