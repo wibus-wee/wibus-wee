@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Tohrusky/Final2x>Tohrusky/Final2x</a> -- <span>2^x Image Super-Resolution ☢️</span></li><li><a href=https://github.com/chax-at/prisma-filter>chax-at/prisma-filter</a></li><li><a href=https://github.com/duo/octopus>duo/octopus</a> -- <span>A Telegram bot bridge</span></li><li><a href=https://github.com/Innei/MetaMuse>Innei/MetaMuse</a> -- <span>📝 MetaMuse is a personal CMS for organizing your articles, diaries, projects, book lists, and inspirations. Keep your creative life unified and accessible. 🎨📚🖋</span></li><li><a href=https://github.com/cuynu/ytvancedx>cuynu/ytvancedx</a> -- <span>YouTube Vanced+ & YouTube Music Vanced+ project [WIP]</span></li></ul>
+<ul><li><a href=https://github.com/lgarron/folderify>lgarron/folderify</a> -- <span>:file_folder: Generate pixel-perfect macOS folder icons in the native style.</span></li><li><a href=https://github.com/Plutoberth/SonyHeadphonesClient>Plutoberth/SonyHeadphonesClient</a> -- <span>A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app</span></li><li><a href=https://github.com/unjs/hookable>unjs/hookable</a> -- <span>🪝 Awaitable Hooks</span></li><li><a href=https://github.com/cawa-93/vite-electron-builder>cawa-93/vite-electron-builder</a> -- <span>Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla</span></li><li><a href=https://github.com/Caldis/Mos>Caldis/Mos</a> -- <span>一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/24/23, 9:12 AM<br>下一次刷新：10/24/23, 12:12 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/24/23, 11:18 AM<br>下一次刷新：10/24/23, 2:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
