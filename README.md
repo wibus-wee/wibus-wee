@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Plutoberth/SonyHeadphonesClient>Plutoberth/SonyHeadphonesClient</a> -- <span>A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app</span></li><li><a href=https://github.com/p0deje/Maccy>p0deje/Maccy</a> -- <span>Lightweight clipboard manager for macOS</span></li><li><a href=https://github.com/imgly/background-removal-js>imgly/background-removal-js</a> -- <span>Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.</span></li><li><a href=https://github.com/jevonmao/PermissionsSwiftUI>jevonmao/PermissionsSwiftUI</a> -- <span>A SwiftUI package to beautifully display and handle permissions.</span></li><li><a href=https://github.com/sindresorhus/Actions>sindresorhus/Actions</a> -- <span>⚙️ Supercharge your shortcuts</span></li></ul>
+<ul><li><a href=https://github.com/p0deje/Maccy>p0deje/Maccy</a> -- <span>Lightweight clipboard manager for macOS</span></li><li><a href=https://github.com/jevonmao/PermissionsSwiftUI>jevonmao/PermissionsSwiftUI</a> -- <span>A SwiftUI package to beautifully display and handle permissions.</span></li><li><a href=https://github.com/sindresorhus/electron-boilerplate>sindresorhus/electron-boilerplate</a> -- <span>Boilerplate to kickstart creating an app with Electron</span></li><li><a href=https://github.com/chax-at/prisma-filter>chax-at/prisma-filter</a></li><li><a href=https://github.com/cuynu/ytvancedx>cuynu/ytvancedx</a> -- <span>YouTube Vanced+ & YouTube Music Vanced+ project [WIP]</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/25/23, 9:12 AM<br>下一次刷新：10/25/23, 12:12 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/25/23, 11:17 AM<br>下一次刷新：10/25/23, 2:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
