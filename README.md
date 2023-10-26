@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SvenTiigi/WhatsNewKit>SvenTiigi/WhatsNewKit</a> -- <span>Showcase your awesome new app features 📱</span></li><li><a href=https://github.com/chax-at/prisma-filter>chax-at/prisma-filter</a></li><li><a href=https://github.com/jevonmao/PermissionsSwiftUI>jevonmao/PermissionsSwiftUI</a> -- <span>A SwiftUI package to beautifully display and handle permissions.</span></li><li><a href=https://github.com/duo/octopus>duo/octopus</a> -- <span>A Telegram bot bridge</span></li><li><a href=https://github.com/Caldis/Mos>Caldis/Mos</a> -- <span>一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</span></li></ul>
+<ul><li><a href=https://github.com/Caldis/Mos>Caldis/Mos</a> -- <span>一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</span></li><li><a href=https://github.com/isena/ISStego>isena/ISStego</a> -- <span>Objective-C implementation of Steganography for OS X & iOS</span></li><li><a href=https://github.com/p0deje/Maccy>p0deje/Maccy</a> -- <span>Lightweight clipboard manager for macOS</span></li><li><a href=https://github.com/pavlobu/deskreen>pavlobu/deskreen</a> -- <span>Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!</span></li><li><a href=https://github.com/sunnyyoung/WeChatTweak-macOS>sunnyyoung/WeChatTweak-macOS</a> -- <span>A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/23, 2:20 AM<br>下一次刷新：10/27/23, 5:20 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/23, 5:14 AM<br>下一次刷新：10/27/23, 8:14 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
