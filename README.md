@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/unjs/hookable>unjs/hookable</a> -- <span>🪝 Awaitable Hooks</span></li><li><a href=https://github.com/lqzhgood/wechat-need-web>lqzhgood/wechat-need-web</a> -- <span>让微信网页版可用 / Allow the use of WeChat via webpage access</span></li><li><a href=https://github.com/isena/ISStego>isena/ISStego</a> -- <span>Objective-C implementation of Steganography for OS X & iOS</span></li><li><a href=https://github.com/Plutoberth/SonyHeadphonesClient>Plutoberth/SonyHeadphonesClient</a> -- <span>A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app</span></li><li><a href=https://github.com/pavlobu/deskreen>pavlobu/deskreen</a> -- <span>Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!</span></li></ul>
+<ul><li><a href=https://github.com/sindresorhus/electron-boilerplate>sindresorhus/electron-boilerplate</a> -- <span>Boilerplate to kickstart creating an app with Electron</span></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a> -- <span>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</span></li><li><a href=https://github.com/imgly/background-removal-js>imgly/background-removal-js</a> -- <span>Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.</span></li><li><a href=https://github.com/p0deje/Maccy>p0deje/Maccy</a> -- <span>Lightweight clipboard manager for macOS</span></li><li><a href=https://github.com/Plutoberth/SonyHeadphonesClient>Plutoberth/SonyHeadphonesClient</a> -- <span>A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/26/23, 11:16 AM<br>下一次刷新：10/26/23, 2:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/26/23, 2:21 PM<br>下一次刷新：10/26/23, 5:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
