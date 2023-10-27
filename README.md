@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cawa-93/vite-electron-builder>cawa-93/vite-electron-builder</a> -- <span>Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla</span></li><li><a href=https://github.com/ryanmcgrath/cacao>ryanmcgrath/cacao</a> -- <span>Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!</span></li><li><a href=https://github.com/lqzhgood/wechat-need-web>lqzhgood/wechat-need-web</a> -- <span>让微信网页版可用 / Allow the use of WeChat via webpage access</span></li><li><a href=https://github.com/Plutoberth/SonyHeadphonesClient>Plutoberth/SonyHeadphonesClient</a> -- <span>A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app</span></li><li><a href=https://github.com/Caldis/Mos>Caldis/Mos</a> -- <span>一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</span></li></ul>
+<ul><li><a href=https://github.com/satorijs/satori>satorijs/satori</a> -- <span>The Universal Messenger Protocol</span></li><li><a href=https://github.com/leetcode-mafia/cheetah>leetcode-mafia/cheetah</a> -- <span>Mac app for crushing remote tech interviews with AI</span></li><li><a href=https://github.com/RootHide/FairFree>RootHide/FairFree</a> -- <span>jailbreak any ipa and run on apple silicon M1/M2 macOS without decrypted.</span></li><li><a href=https://github.com/p0deje/Maccy>p0deje/Maccy</a> -- <span>Lightweight clipboard manager for macOS</span></li><li><a href=https://github.com/duo/octopus>duo/octopus</a> -- <span>A Telegram bot bridge</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/23, 8:31 PM<br>下一次刷新：10/27/23, 11:31 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/23, 11:16 PM<br>下一次刷新：10/28/23, 2:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
