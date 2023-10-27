@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cawa-93/vite-electron-builder>cawa-93/vite-electron-builder</a> -- <span>Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla</span></li><li><a href=https://github.com/RootHide/FairFree>RootHide/FairFree</a> -- <span>jailbreak any ipa and run on apple silicon M1/M2 macOS without decrypted.</span></li><li><a href=https://github.com/lqzhgood/wechat-need-web>lqzhgood/wechat-need-web</a> -- <span>让微信网页版可用 / Allow the use of WeChat via webpage access</span></li><li><a href=https://github.com/Plutoberth/SonyHeadphonesClient>Plutoberth/SonyHeadphonesClient</a> -- <span>A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app</span></li><li><a href=https://github.com/sindresorhus/Actions>sindresorhus/Actions</a> -- <span>⚙️ Supercharge your shortcuts</span></li></ul>
+<ul><li><a href=https://github.com/jevonmao/PermissionsSwiftUI>jevonmao/PermissionsSwiftUI</a> -- <span>A SwiftUI package to beautifully display and handle permissions.</span></li><li><a href=https://github.com/duo/octopus>duo/octopus</a> -- <span>A Telegram bot bridge</span></li><li><a href=https://github.com/lgarron/folderify>lgarron/folderify</a> -- <span>:file_folder: Generate pixel-perfect macOS folder icons in the native style.</span></li><li><a href=https://github.com/SvenTiigi/WhatsNewKit>SvenTiigi/WhatsNewKit</a> -- <span>Showcase your awesome new app features 📱</span></li><li><a href=https://github.com/cawa-93/vite-electron-builder>cawa-93/vite-electron-builder</a> -- <span>Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/23, 2:22 PM<br>下一次刷新：10/27/23, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/23, 5:15 PM<br>下一次刷新：10/27/23, 8:15 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
