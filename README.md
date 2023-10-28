@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SvenTiigi/WhatsNewKit>SvenTiigi/WhatsNewKit</a> -- <span>Showcase your awesome new app features 📱</span></li><li><a href=https://github.com/p0deje/Maccy>p0deje/Maccy</a> -- <span>Lightweight clipboard manager for macOS</span></li><li><a href=https://github.com/clickvote/clickvote>clickvote/clickvote</a> -- <span>Add upvotes, likes, and reviews to any context ⭐️</span></li><li><a href=https://github.com/Plutoberth/SonyHeadphonesClient>Plutoberth/SonyHeadphonesClient</a> -- <span>A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app</span></li><li><a href=https://github.com/isena/ISStego>isena/ISStego</a> -- <span>Objective-C implementation of Steganography for OS X & iOS</span></li></ul>
+<ul><li><a href=https://github.com/clickvote/clickvote>clickvote/clickvote</a> -- <span>Add upvotes, likes, and reviews to any context ⭐️</span></li><li><a href=https://github.com/imgly/background-removal-js>imgly/background-removal-js</a> -- <span>Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.</span></li><li><a href=https://github.com/apirrone/Memento>apirrone/Memento</a> -- <span>Memento is a Python app that records everything you do on your computer and lets you go back in time, search, and chat with a LLM (Large Language Model) to find back information about what you did.</span></li><li><a href=https://github.com/azat-io/eslint-plugin-perfectionist>azat-io/eslint-plugin-perfectionist</a> -- <span>🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.</span></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a> -- <span>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/29/23, 2:19 AM<br>下一次刷新：10/29/23, 5:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/29/23, 5:13 AM<br>下一次刷新：10/29/23, 8:13 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
