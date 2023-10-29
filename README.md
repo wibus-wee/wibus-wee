@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/ninxsoft/Mist>ninxsoft/Mist</a> -- <span>A Mac utility that automatically downloads macOS Firmwares / Installers.</span></li><li><a href=https://github.com/vercel/geist-font>vercel/geist-font</a></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a> -- <span>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</span></li><li><a href=https://github.com/radix-vue/radix-vue>radix-vue/radix-vue</a> -- <span>Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.</span></li><li><a href=https://github.com/orchetect/SettingsAccess>orchetect/SettingsAccess</a> -- <span>Better SwiftUI Settings Scene Access on macOS</span></li></ul>
+<ul><li><a href=https://github.com/nodejs-mobile/nodejs-mobile>nodejs-mobile/nodejs-mobile</a> -- <span>Full-fledged Node.js on Android and iOS</span></li><li><a href=https://github.com/ninxsoft/Mist>ninxsoft/Mist</a> -- <span>A Mac utility that automatically downloads macOS Firmwares / Installers.</span></li><li><a href=https://github.com/vercel/geist-font>vercel/geist-font</a></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a> -- <span>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</span></li><li><a href=https://github.com/radix-vue/radix-vue>radix-vue/radix-vue</a> -- <span>Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cawa-93/vite-electron-builder>cawa-93/vite-electron-builder</a> -- <span>Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla</span></li><li><a href=https://github.com/p0deje/Maccy>p0deje/Maccy</a> -- <span>Lightweight clipboard manager for macOS</span></li><li><a href=https://github.com/LagrangeDev/lagrangejs>LagrangeDev/lagrangejs</a> -- <span>NTQQ Node.js Protocol Library, derived from oicq</span></li><li><a href=https://github.com/ryanmcgrath/cacao>ryanmcgrath/cacao</a> -- <span>Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!</span></li><li><a href=https://github.com/satorijs/satori>satorijs/satori</a> -- <span>The Universal Messenger Protocol</span></li></ul>
+<ul><li><a href=https://github.com/Plutoberth/SonyHeadphonesClient>Plutoberth/SonyHeadphonesClient</a> -- <span>A {Windows, macOS, Linux} client recreating the functionality of the Sony Headphones app</span></li><li><a href=https://github.com/azat-io/eslint-plugin-perfectionist>azat-io/eslint-plugin-perfectionist</a> -- <span>🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.</span></li><li><a href=https://github.com/ryanmcgrath/cacao>ryanmcgrath/cacao</a> -- <span>Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!</span></li><li><a href=https://github.com/gkd-kit/gkd>gkd-kit/gkd</a> -- <span>基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP</span></li><li><a href=https://github.com/clickvote/clickvote>clickvote/clickvote</a> -- <span>Add upvotes, likes, and reviews to any context ⭐️</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/29/23, 8:29 PM<br>下一次刷新：10/29/23, 11:29 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/29/23, 11:15 PM<br>下一次刷新：10/30/23, 2:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
