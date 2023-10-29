@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/LagrangeDev/lagrangejs>LagrangeDev/lagrangejs</a> -- <span>NTQQ Node.js Protocol Library, derived from oicq</span></li><li><a href=https://github.com/RootHide/FairFree>RootHide/FairFree</a> -- <span>jailbreak any ipa and run on apple silicon M1/M2 macOS without decrypted.</span></li><li><a href=https://github.com/clickvote/clickvote>clickvote/clickvote</a> -- <span>Add upvotes, likes, and reviews to any context ⭐️</span></li><li><a href=https://github.com/azat-io/eslint-plugin-perfectionist>azat-io/eslint-plugin-perfectionist</a> -- <span>🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.</span></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a> -- <span>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</span></li></ul>
+<ul><li><a href=https://github.com/chax-at/prisma-filter>chax-at/prisma-filter</a></li><li><a href=https://github.com/imgly/background-removal-js>imgly/background-removal-js</a> -- <span>Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.</span></li><li><a href=https://github.com/gkd-kit/gkd>gkd-kit/gkd</a> -- <span>基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP</span></li><li><a href=https://github.com/clickvote/clickvote>clickvote/clickvote</a> -- <span>Add upvotes, likes, and reviews to any context ⭐️</span></li><li><a href=https://github.com/lqzhgood/wechat-need-web>lqzhgood/wechat-need-web</a> -- <span>让微信网页版可用 / Allow the use of WeChat via webpage access</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/30/23, 2:19 AM<br>下一次刷新：10/30/23, 5:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/30/23, 5:13 AM<br>下一次刷新：10/30/23, 8:13 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
