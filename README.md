@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/yufeikang/raycast_api_proxy>yufeikang/raycast_api_proxy</a></li><li><a href=https://github.com/insidegui/VirtualBuddy>insidegui/VirtualBuddy</a> -- <span>Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2</span></li><li><a href=https://github.com/vercel/next-learn>vercel/next-learn</a> -- <span>Learn Next.js Starter Code</span></li><li><a href=https://github.com/sxzz/vue-simple-props>sxzz/vue-simple-props</a> -- <span>Remove emits, slots, and attrs concepts in Vue.</span></li><li><a href=https://github.com/elnardu/react-use-c>elnardu/react-use-c</a> -- <span>Use C in your React!</span></li></ul>
+<ul><li><a href=https://github.com/coteditor/CotEditor>coteditor/CotEditor</a> -- <span>Lightweight Plain-Text Editor for macOS</span></li><li><a href=https://github.com/yufeikang/raycast_api_proxy>yufeikang/raycast_api_proxy</a></li><li><a href=https://github.com/insidegui/VirtualBuddy>insidegui/VirtualBuddy</a> -- <span>Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2</span></li><li><a href=https://github.com/vercel/next-learn>vercel/next-learn</a> -- <span>Learn Next.js Starter Code</span></li><li><a href=https://github.com/sxzz/vue-simple-props>sxzz/vue-simple-props</a> -- <span>Remove emits, slots, and attrs concepts in Vue.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/raidendotai/openv0>raidendotai/openv0</a> -- <span>AI generated UI components</span></li><li><a href=https://github.com/SvenTiigi/WhatsNewKit>SvenTiigi/WhatsNewKit</a> -- <span>Showcase your awesome new app features 📱</span></li><li><a href=https://github.com/imgly/background-removal-js>imgly/background-removal-js</a> -- <span>Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.</span></li><li><a href=https://github.com/orchetect/SettingsAccess>orchetect/SettingsAccess</a> -- <span>Better SwiftUI Settings Scene Access on macOS</span></li><li><a href=https://github.com/ryanmcgrath/cacao>ryanmcgrath/cacao</a> -- <span>Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!</span></li></ul>
+<ul><li><a href=https://github.com/nodejs-mobile/nodejs-mobile>nodejs-mobile/nodejs-mobile</a> -- <span>Full-fledged Node.js on Android and iOS</span></li><li><a href=https://github.com/LagrangeDev/lagrangejs>LagrangeDev/lagrangejs</a> -- <span>NTQQ Node.js Protocol Library, derived from oicq</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a> -- <span>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</span></li><li><a href=https://github.com/imgly/background-removal-js>imgly/background-removal-js</a> -- <span>Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/1/23, 2:22 PM<br>下一次刷新：11/1/23, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/1/23, 5:16 PM<br>下一次刷新：11/1/23, 8:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
