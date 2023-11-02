@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/raidendotai/openv0>raidendotai/openv0</a> -- <span>AI generated UI components</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/nodejs-mobile/nodejs-mobile>nodejs-mobile/nodejs-mobile</a> -- <span>Full-fledged Node.js on Android and iOS</span></li><li><a href=https://github.com/clickvote/clickvote>clickvote/clickvote</a> -- <span>Add upvotes, likes, and reviews to any context ⭐️</span></li><li><a href=https://github.com/radix-vue/radix-vue>radix-vue/radix-vue</a> -- <span>Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.</span></li></ul>
+<ul><li><a href=https://github.com/SnosMe/uiohook-napi>SnosMe/uiohook-napi</a></li><li><a href=https://github.com/SvenTiigi/WhatsNewKit>SvenTiigi/WhatsNewKit</a> -- <span>Showcase your awesome new app features 📱</span></li><li><a href=https://github.com/ninxsoft/Mist>ninxsoft/Mist</a> -- <span>A Mac utility that automatically downloads macOS Firmwares / Installers.</span></li><li><a href=https://github.com/clickvote/clickvote>clickvote/clickvote</a> -- <span>Add upvotes, likes, and reviews to any context ⭐️</span></li><li><a href=https://github.com/gkd-kit/gkd>gkd-kit/gkd</a> -- <span>基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/2/23, 5:14 AM<br>下一次刷新：11/2/23, 8:14 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/2/23, 9:13 AM<br>下一次刷新：11/2/23, 12:13 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
