@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a> -- <span>Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/johnno1962/HotReloading>johnno1962/HotReloading</a> -- <span>Hot reloading as a Swift Package</span></li><li><a href=https://github.com/withyellow/devfools>withyellow/devfools</a> -- <span>Trick your devtools 🤡.</span></li><li><a href=https://github.com/PaoloCuscela/Cards>PaoloCuscela/Cards</a> -- <span>Awesome iOS 11 appstore cards in swift 5.</span></li><li><a href=https://github.com/coteditor/CotEditor>coteditor/CotEditor</a> -- <span>Lightweight Plain-Text Editor for macOS</span></li></ul>
+<ul><li><a href=https://github.com/bufferhead-code/nextjs-use-php>bufferhead-code/nextjs-use-php</a> -- <span>Use PHP code right within your React / Next.js App. With "use php";</span></li><li><a href=https://github.com/Lakr233/Fix-GPS>Lakr233/Fix-GPS</a> -- <span>从一生足迹中读取位置数据并写入图片</span></li><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a> -- <span>Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/johnno1962/HotReloading>johnno1962/HotReloading</a> -- <span>Hot reloading as a Swift Package</span></li><li><a href=https://github.com/withyellow/devfools>withyellow/devfools</a> -- <span>Trick your devtools 🤡.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ninxsoft/Mist>ninxsoft/Mist</a> -- <span>A Mac utility that automatically downloads macOS Firmwares / Installers.</span></li><li><a href=https://github.com/sxzz/vue-simple-props>sxzz/vue-simple-props</a> -- <span>Remove emits, slots, and attrs concepts in Vue.</span></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a> -- <span>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</span></li><li><a href=https://github.com/SvenTiigi/WhatsNewKit>SvenTiigi/WhatsNewKit</a> -- <span>Showcase your awesome new app features 📱</span></li><li><a href=https://github.com/nodejs-mobile/nodejs-mobile>nodejs-mobile/nodejs-mobile</a> -- <span>Full-fledged Node.js on Android and iOS</span></li></ul>
+<ul><li><a href=https://github.com/yufeikang/raycast_api_proxy>yufeikang/raycast_api_proxy</a></li><li><a href=https://github.com/orchetect/SettingsAccess>orchetect/SettingsAccess</a> -- <span>Better SwiftUI Settings Scene Access on macOS</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/radix-vue/radix-vue>radix-vue/radix-vue</a> -- <span>Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.</span></li><li><a href=https://github.com/PaoloCuscela/Cards>PaoloCuscela/Cards</a> -- <span>Awesome iOS 11 appstore cards in swift 5.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/23, 5:16 PM<br>下一次刷新：11/3/23, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/3/23, 8:33 PM<br>下一次刷新：11/3/23, 11:33 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
