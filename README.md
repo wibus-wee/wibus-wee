@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a> -- <span>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</span></li><li><a href=https://github.com/coteditor/CotEditor>coteditor/CotEditor</a> -- <span>Lightweight Plain-Text Editor for macOS</span></li><li><a href=https://github.com/johnno1962/HotReloading>johnno1962/HotReloading</a> -- <span>Hot reloading as a Swift Package</span></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a> -- <span>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</span></li><li><a href=https://github.com/PaoloCuscela/Cards>PaoloCuscela/Cards</a> -- <span>Awesome iOS 11 appstore cards in swift 5.</span></li></ul>
+<ul><li><a href=https://github.com/LagrangeDev/lagrangejs>LagrangeDev/lagrangejs</a> -- <span>NTQQ Node.js Protocol Library, derived from oicq</span></li><li><a href=https://github.com/johnno1962/HotReloading>johnno1962/HotReloading</a> -- <span>Hot reloading as a Swift Package</span></li><li><a href=https://github.com/nodejs-mobile/nodejs-mobile>nodejs-mobile/nodejs-mobile</a> -- <span>Full-fledged Node.js on Android and iOS</span></li><li><a href=https://github.com/orchetect/SettingsAccess>orchetect/SettingsAccess</a> -- <span>Better SwiftUI Settings Scene Access on macOS</span></li><li><a href=https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile>QiuChenlyOpenSource/SearchHexCodeInFile</a> -- <span>编写，测试特征码在文件中的相对位置，以便注入绝对地址。</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/7/23, 2:21 AM<br>下一次刷新：11/7/23, 5:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/7/23, 5:14 AM<br>下一次刷新：11/7/23, 8:14 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
