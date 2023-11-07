@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vercel/geist-font>vercel/geist-font</a></li><li><a href=https://github.com/orchetect/SettingsAccess>orchetect/SettingsAccess</a> -- <span>Better SwiftUI Settings Scene Access on macOS</span></li><li><a href=https://github.com/withyellow/devfools>withyellow/devfools</a> -- <span>Trick your devtools 🤡.</span></li><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a> -- <span>Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/elnardu/react-use-c>elnardu/react-use-c</a> -- <span>Use C in your React!</span></li></ul>
+<ul><li><a href=https://github.com/sxzz/telegram-bot-starter>sxzz/telegram-bot-starter</a> -- <span>A starter template for Telegram bots on Serverless, with Vercel, Netlify, and more support.</span></li><li><a href=https://github.com/coteditor/CotEditor>coteditor/CotEditor</a> -- <span>Lightweight Plain-Text Editor for macOS</span></li><li><a href=https://github.com/LagrangeDev/lagrangejs>LagrangeDev/lagrangejs</a> -- <span>NTQQ Node.js Protocol Library, derived from oicq</span></li><li><a href=https://github.com/raidendotai/openv0>raidendotai/openv0</a> -- <span>AI generated UI components</span></li><li><a href=https://github.com/bufferhead-code/nextjs-use-php>bufferhead-code/nextjs-use-php</a> -- <span>Use PHP code right within your React / Next.js App. With "use php";</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/7/23, 5:17 PM<br>下一次刷新：11/7/23, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/7/23, 8:32 PM<br>下一次刷新：11/7/23, 11:32 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
