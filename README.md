@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/grammyjs/grammY>grammyjs/grammY</a> -- <span>The Telegram Bot Framework.</span></li><li><a href=https://github.com/alcor/emoji-supply>alcor/emoji-supply</a> -- <span>Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen</span></li><li><a href=https://github.com/docker-easyconnect/docker-easyconnect>docker-easyconnect/docker-easyconnect</a> -- <span>使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务</span></li><li><a href=https://github.com/yeatse/KingfisherWebP>yeatse/KingfisherWebP</a> -- <span>Elegantly handle WebP format with Kingfisher.</span></li><li><a href=https://github.com/devongovett/github-lite>devongovett/github-lite</a> -- <span>WIP GitHub client built with React Aria Components + Tailwind CSS</span></li></ul>
+<ul><li><a href=https://github.com/thebrowsercompany/swift-webdriver>thebrowsercompany/swift-webdriver</a> -- <span>A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints</span></li><li><a href=https://github.com/dromara/issues-translate-action>dromara/issues-translate-action</a> -- <span>The action for translating Non-English issues content to English.</span></li><li><a href=https://github.com/grammyjs/grammY>grammyjs/grammY</a> -- <span>The Telegram Bot Framework.</span></li><li><a href=https://github.com/alcor/emoji-supply>alcor/emoji-supply</a> -- <span>Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen</span></li><li><a href=https://github.com/docker-easyconnect/docker-easyconnect>docker-easyconnect/docker-easyconnect</a> -- <span>使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/orchetect/SettingsAccess>orchetect/SettingsAccess</a> -- <span>Better SwiftUI Settings Scene Access on macOS</span></li><li><a href=https://github.com/Lakr233/Fix-GPS>Lakr233/Fix-GPS</a> -- <span>从一生足迹中读取位置数据并写入图片</span></li><li><a href=https://github.com/bufferhead-code/nextjs-use-php>bufferhead-code/nextjs-use-php</a> -- <span>Use PHP code right within your React / Next.js App. With "use php";</span></li><li><a href=https://github.com/raidendotai/openv0>raidendotai/openv0</a> -- <span>AI generated UI components</span></li><li><a href=https://github.com/radix-vue/radix-vue>radix-vue/radix-vue</a> -- <span>Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.</span></li></ul>
+<ul><li><a href=https://github.com/bufferhead-code/nextjs-use-php>bufferhead-code/nextjs-use-php</a> -- <span>Use PHP code right within your React / Next.js App. With "use php";</span></li><li><a href=https://github.com/gkd-kit/gkd>gkd-kit/gkd</a> -- <span>基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP</span></li><li><a href=https://github.com/raidendotai/openv0>raidendotai/openv0</a> -- <span>AI generated UI components</span></li><li><a href=https://github.com/sxzz/vue-simple-props>sxzz/vue-simple-props</a> -- <span>Remove emits, slots, and attrs concepts in Vue.</span></li><li><a href=https://github.com/elnardu/react-use-c>elnardu/react-use-c</a> -- <span>Use C in your React!</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/8/23, 8:32 PM<br>下一次刷新：11/8/23, 11:32 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/8/23, 11:17 PM<br>下一次刷新：11/9/23, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
