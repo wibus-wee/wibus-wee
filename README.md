@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bufferhead-code/nextjs-use-php>bufferhead-code/nextjs-use-php</a> -- <span>Use PHP code right within your React / Next.js App. With "use php";</span></li><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a> -- <span>Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/elnardu/react-use-c>elnardu/react-use-c</a> -- <span>Use C in your React!</span></li><li><a href=https://github.com/vercel/next-learn>vercel/next-learn</a> -- <span>Learn Next.js Starter Code</span></li><li><a href=https://github.com/withyellow/devfools>withyellow/devfools</a> -- <span>Trick your devtools 🤡.</span></li></ul>
+<ul><li><a href=https://github.com/vercel/geist-font>vercel/geist-font</a></li><li><a href=https://github.com/sxzz/vue-simple-props>sxzz/vue-simple-props</a> -- <span>Remove emits, slots, and attrs concepts in Vue.</span></li><li><a href=https://github.com/withyellow/devfools>withyellow/devfools</a> -- <span>Trick your devtools 🤡.</span></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a> -- <span>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</span></li><li><a href=https://github.com/grammyjs/grammY>grammyjs/grammY</a> -- <span>The Telegram Bot Framework.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/10/23, 5:16 PM<br>下一次刷新：11/10/23, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/10/23, 8:32 PM<br>下一次刷新：11/10/23, 11:32 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
