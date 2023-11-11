@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/orchetect/SettingsAccess>orchetect/SettingsAccess</a> -- <span>Better SwiftUI Settings Scene Access on macOS</span></li><li><a href=https://github.com/yeatse/KingfisherWebP>yeatse/KingfisherWebP</a> -- <span>Elegantly handle WebP format with Kingfisher.</span></li><li><a href=https://github.com/docker-easyconnect/docker-easyconnect>docker-easyconnect/docker-easyconnect</a> -- <span>使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务</span></li><li><a href=https://github.com/sxzz/vue-simple-props>sxzz/vue-simple-props</a> -- <span>Remove emits, slots, and attrs concepts in Vue.</span></li><li><a href=https://github.com/withyellow/devfools>withyellow/devfools</a> -- <span>Trick your devtools 🤡.</span></li></ul>
+<ul><li><a href=https://github.com/coteditor/CotEditor>coteditor/CotEditor</a> -- <span>Lightweight Plain-Text Editor for macOS</span></li><li><a href=https://github.com/vercel/next-learn>vercel/next-learn</a> -- <span>Learn Next.js Starter Code</span></li><li><a href=https://github.com/ninxsoft/Mist>ninxsoft/Mist</a> -- <span>A Mac utility that automatically downloads macOS Firmwares / Installers.</span></li><li><a href=https://github.com/yeatse/KingfisherWebP>yeatse/KingfisherWebP</a> -- <span>Elegantly handle WebP format with Kingfisher.</span></li><li><a href=https://github.com/sxzz/vue-simple-props>sxzz/vue-simple-props</a> -- <span>Remove emits, slots, and attrs concepts in Vue.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/11/23, 10:13 AM<br>下一次刷新：11/11/23, 1:13 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/11/23, 11:18 AM<br>下一次刷新：11/11/23, 2:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
