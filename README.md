@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/himself65/refine>himself65/refine</a> -- <span>Note-taking app for multiple distributions (desktop, web, chrome extension, react native)</span></li><li><a href=https://github.com/exyte/Grid>exyte/Grid</a> -- <span>The most powerful Grid container missed in SwiftUI</span></li><li><a href=https://github.com/AIFSH/MyHeyGen>AIFSH/MyHeyGen</a></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a> -- <span>Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/thebrowsercompany/swift-webdriver>thebrowsercompany/swift-webdriver</a> -- <span>A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints</span></li></ul>
+<ul><li><a href=https://github.com/caddyserver/caddy>caddyserver/caddy</a> -- <span>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</span></li><li><a href=https://github.com/himself65/refine>himself65/refine</a> -- <span>Note-taking app for multiple distributions (desktop, web, chrome extension, react native)</span></li><li><a href=https://github.com/exyte/Grid>exyte/Grid</a> -- <span>The most powerful Grid container missed in SwiftUI</span></li><li><a href=https://github.com/AIFSH/MyHeyGen>AIFSH/MyHeyGen</a></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a> -- <span>Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vercel/next-learn>vercel/next-learn</a> -- <span>Learn Next.js Starter Code</span></li><li><a href=https://github.com/dromara/issues-translate-action>dromara/issues-translate-action</a> -- <span>The action for translating Non-English issues content to English.</span></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a> -- <span>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</span></li><li><a href=https://github.com/radix-vue/radix-vue>radix-vue/radix-vue</a> -- <span>Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.</span></li><li><a href=https://github.com/coteditor/CotEditor>coteditor/CotEditor</a> -- <span>Lightweight Plain-Text Editor for macOS</span></li></ul>
+<ul><li><a href=https://github.com/devongovett/github-lite>devongovett/github-lite</a> -- <span>WIP GitHub client built with React Aria Components + Tailwind CSS</span></li><li><a href=https://github.com/yeatse/KingfisherWebP>yeatse/KingfisherWebP</a> -- <span>Elegantly handle WebP format with Kingfisher.</span></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a> -- <span>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</span></li><li><a href=https://github.com/grammyjs/grammY>grammyjs/grammY</a> -- <span>The Telegram Bot Framework.</span></li><li><a href=https://github.com/PaoloCuscela/Cards>PaoloCuscela/Cards</a> -- <span>Awesome iOS 11 appstore cards in swift 5.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/13/23, 5:13 AM<br>下一次刷新：11/13/23, 8:13 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/13/23, 9:16 AM<br>下一次刷新：11/13/23, 12:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
