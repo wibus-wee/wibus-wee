@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/yeatse/KingfisherWebP>yeatse/KingfisherWebP</a> -- <span>Elegantly handle WebP format with Kingfisher.</span></li><li><a href=https://github.com/yufeikang/raycast_api_proxy>yufeikang/raycast_api_proxy</a></li><li><a href=https://github.com/vercel/geist-font>vercel/geist-font</a></li><li><a href=https://github.com/sxzz/vue-simple-props>sxzz/vue-simple-props</a> -- <span>Remove emits, slots, and attrs concepts in Vue.</span></li><li><a href=https://github.com/elnardu/react-use-c>elnardu/react-use-c</a> -- <span>Use C in your React!</span></li></ul>
+<ul><li><a href=https://github.com/sxzz/vue-simple-props>sxzz/vue-simple-props</a> -- <span>Remove emits, slots, and attrs concepts in Vue.</span></li><li><a href=https://github.com/ninxsoft/Mist>ninxsoft/Mist</a> -- <span>A Mac utility that automatically downloads macOS Firmwares / Installers.</span></li><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a> -- <span>Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a> -- <span>Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/PaoloCuscela/Cards>PaoloCuscela/Cards</a> -- <span>Awesome iOS 11 appstore cards in swift 5.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/15/23, 2:22 PM<br>下一次刷新：11/15/23, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/15/23, 5:18 PM<br>下一次刷新：11/15/23, 8:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
