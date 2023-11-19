@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/thebrowsercompany/swift-webdriver>thebrowsercompany/swift-webdriver</a> -- <span>A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints</span></li><li><a href=https://github.com/dromara/issues-translate-action>dromara/issues-translate-action</a> -- <span>The action for translating Non-English issues content to English.</span></li><li><a href=https://github.com/Lakr233/Fix-GPS>Lakr233/Fix-GPS</a> -- <span>从一生足迹中读取位置数据并写入图片</span></li><li><a href=https://github.com/AIFSH/MyHeyGen>AIFSH/MyHeyGen</a></li><li><a href=https://github.com/johnno1962/HotReloading>johnno1962/HotReloading</a> -- <span>Hot reloading as a Swift Package</span></li></ul>
+<ul><li><a href=https://github.com/johnno1962/HotReloading>johnno1962/HotReloading</a> -- <span>Hot reloading as a Swift Package</span></li><li><a href=https://github.com/alcor/emoji-supply>alcor/emoji-supply</a> -- <span>Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen</span></li><li><a href=https://github.com/yufeikang/raycast_api_proxy>yufeikang/raycast_api_proxy</a></li><li><a href=https://github.com/thebrowsercompany/swift-webdriver>thebrowsercompany/swift-webdriver</a> -- <span>A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints</span></li><li><a href=https://github.com/himself65/refine>himself65/refine</a> -- <span>Note-taking app for multiple distributions (desktop, web, chrome extension, react native)</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/19/23, 11:17 AM<br>下一次刷新：11/19/23, 2:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/19/23, 2:21 PM<br>下一次刷新：11/19/23, 5:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
