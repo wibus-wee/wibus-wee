@@ -83,12 +83,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/AabyssZG/WebShell-Bypass-Guide>AabyssZG/WebShell-Bypass-Guide</a> -- <span>从零学习Webshell免杀手册</span></li><li><a href=https://github.com/sindresorhus/dom-mutations>sindresorhus/dom-mutations</a> -- <span>Observe changes to the DOM using an async iterable — A nicer API for MutationObserver</span></li><li><a href=https://github.com/sparrowcode/PermissionsKit>sparrowcode/PermissionsKit</a> -- <span>Universal API for request permission and get its statuses.</span></li><li><a href=https://github.com/janlionly/NFCReaderWriter>janlionly/NFCReaderWriter</a> -- <span>NFCReaderWriter which supports to read data from NFC chips(iOS 11), write data to NFC chips(iOS 13) and read NFC tags infos(iOS 13) by iOS devices. Compatible with both Swift and Objective-C. I will appreciate you if give me a star on the top right of page.</span></li><li><a href=https://github.com/mudler/LocalAI>mudler/LocalAI</a> -- <span>:robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/RunestoneEditor>Lakr233/RunestoneEditor</a> -- <span>Packed Runstone Package</span></li><li><a href=https://github.com/AabyssZG/WebShell-Bypass-Guide>AabyssZG/WebShell-Bypass-Guide</a> -- <span>从零学习Webshell免杀手册</span></li><li><a href=https://github.com/sindresorhus/dom-mutations>sindresorhus/dom-mutations</a> -- <span>Observe changes to the DOM using an async iterable — A nicer API for MutationObserver</span></li><li><a href=https://github.com/sparrowcode/PermissionsKit>sparrowcode/PermissionsKit</a> -- <span>Universal API for request permission and get its statuses.</span></li><li><a href=https://github.com/janlionly/NFCReaderWriter>janlionly/NFCReaderWriter</a> -- <span>NFCReaderWriter which supports to read data from NFC chips(iOS 11), write data to NFC chips(iOS 13) and read NFC tags infos(iOS 13) by iOS devices. Compatible with both Swift and Objective-C. I will appreciate you if give me a star on the top right of page.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/alcor/emoji-supply>alcor/emoji-supply</a> -- <span>Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen</span></li><li><a href=https://github.com/PaoloCuscela/Cards>PaoloCuscela/Cards</a> -- <span>Awesome iOS 11 appstore cards in swift 5.</span></li><li><a href=https://github.com/coteditor/CotEditor>coteditor/CotEditor</a> -- <span>Lightweight Plain-Text Editor for macOS</span></li><li><a href=https://github.com/insidegui/VirtualBuddy>insidegui/VirtualBuddy</a> -- <span>Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1 & M2</span></li><li><a href=https://github.com/AIFSH/MyHeyGen>AIFSH/MyHeyGen</a></li></ul>
+<ul><li><a href=https://github.com/sxzz/telegram-bot-starter>sxzz/telegram-bot-starter</a> -- <span>A starter template for Telegram bots on Serverless, with Vercel, Netlify, and more support.</span></li><li><a href=https://github.com/devongovett/github-lite>devongovett/github-lite</a> -- <span>WIP GitHub client built with React Aria Components + Tailwind CSS</span></li><li><a href=https://github.com/Lakr233/Fix-GPS>Lakr233/Fix-GPS</a> -- <span>从一生足迹中读取位置数据并写入图片</span></li><li><a href=https://github.com/dromara/issues-translate-action>dromara/issues-translate-action</a> -- <span>The action for translating Non-English issues content to English.</span></li><li><a href=https://github.com/Innei/D>Innei/D</a> -- <span>D is a simple local first personal website, written in Vue 3</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/24/23, 8:32 PM<br>下一次刷新：11/24/23, 11:32 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/24/23, 11:17 PM<br>下一次刷新：11/25/23, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
