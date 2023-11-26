@@ -1,14 +1,13 @@
 export const opensource = {
   active: [
+    'wibus-wee/PhotosProcessor',
     'mogland/core',
     // 'pf4n/pf4n',
     'mx-space/core',
-    'mogland-dev/mog-render-service',
     'jwcjs/core',
+    'mogland-dev/mog-render-service',
     'wibus-wee/icalingua-theme-telegram',
-    'wibus-wee/stable-diffusion-webui-ipynb',
-    'wibus-wee/mini-class-tool',
-    'wibus-wee/wibus.ren',
+    // 'wibus-wee/wibus.ren',
   ],
 }
 
