@@ -6,7 +6,11 @@
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;)</h1>
 
-> <u>*I am now in school, code time is usually on the weekend*</u>
+> [!IMPORTANT]
+> **Development temporarily terminated.**
+> > I am currently preparing for the **National College Entrance Examination (高考) in 2024.**
+> > 
+> > To focus on my studies, I will be limiting my code time. I will probably only fix or otherwise focus on _documentation issues_ for the time being.
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
@@ -26,8 +30,7 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 - 🎵 I am currently focusing on the combination of 🇨🇳 Chinese style music and 💡 modern electronic music, and 🎹 piano music in the Baroque period.
 
 <p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
-<a href="https://blog.wibus.ren" align="center"><img src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
+<a href="https://blog.wibus.ren" align="center"><img src="https://img.shields.io/badge/Blog-blog.wibus.ren-yellow"></a>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
 </p>
 
@@ -36,12 +39,12 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 <br />
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<img align="right" width="450" src="https://github-readme-stats-bs.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=24292f&icon_color=57606a&bg_color=ffffff&border_color=d0d7de&rank_icon=percentile&show=reviews,discussions_answered"/>
 </a>
   
 
 <a href="https://github.com/wibus-wee#gh-dark-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
+<img align="right" width="450" src="https://github-readme-stats-bs.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/>
 </a>
 
 <br />
@@ -88,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/thebrowsercompany/swift-webdriver>thebrowsercompany/swift-webdriver</a> -- <span>A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints</span></li><li><a href=https://github.com/johnno1962/HotReloading>johnno1962/HotReloading</a> -- <span>Hot reloading as a Swift Package</span></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a> -- <span>Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/sxzz/telegram-bot-starter>sxzz/telegram-bot-starter</a> -- <span>A starter template for Telegram bots on Serverless, with Vercel, Netlify, and more support.</span></li><li><a href=https://github.com/sparrowcode/PermissionsKit>sparrowcode/PermissionsKit</a> -- <span>Universal API for request permission and get its statuses.</span></li></ul>
+<ul><li><a href=https://github.com/sindresorhus/dom-mutations>sindresorhus/dom-mutations</a> -- <span>Observe changes to the DOM using an async iterable — A nicer API for MutationObserver</span></li><li><a href=https://github.com/Lakr233/Fix-GPS>Lakr233/Fix-GPS</a> -- <span>从一生足迹中读取位置数据并写入图片</span></li><li><a href=https://github.com/himself65/refine>himself65/refine</a> -- <span>Note-taking app for multiple distributions (desktop, web, chrome extension, react native)</span></li><li><a href=https://github.com/caddyserver/caddy>caddyserver/caddy</a> -- <span>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</span></li><li><a href=https://github.com/majd/ipatool>majd/ipatool</a> -- <span>Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/3/23, 5:15 PM<br>下一次刷新：12/3/23, 8:15 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/3/23, 6:21 PM<br>下一次刷新：12/3/23, 9:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
