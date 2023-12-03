@@ -6,7 +6,11 @@
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;)</h1>
 
-> <u>*I am now in school, code time is usually on the weekend*</u>
+> [!IMPORTANT]
+> **Development temporarily terminated.**
+> > I am currently preparing for the **National College Entrance Examination (高考) in 2024.**
+> > 
+> > To focus on my studies, I will be limiting my code time. I will probably only fix or otherwise focus on _documentation issues_ for the time being.
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
@@ -26,8 +30,7 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 - 🎵 I am currently focusing on the combination of 🇨🇳 Chinese style music and 💡 modern electronic music, and 🎹 piano music in the Baroque period.
 
 <p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
-<a href="https://blog.wibus.ren" align="center"><img src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
+<a href="https://blog.wibus.ren" align="center"><img src="https://img.shields.io/badge/Blog-blog.wibus.ren-yellow"></a>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
 </p>
 
@@ -36,12 +39,12 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 <br />
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<img align="right" width="450" src="https://github-readme-stats-bs.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=24292f&icon_color=57606a&bg_color=ffffff&border_color=d0d7de&rank_icon=percentile&show=reviews,discussions_answered"/>
 </a>
   
 
 <a href="https://github.com/wibus-wee#gh-dark-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wibus-wee&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=dark"/>
+<img align="right" width="450" src="https://github-readme-stats-bs.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/>
 </a>
 
 <br />
