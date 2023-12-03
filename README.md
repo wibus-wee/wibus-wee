@@ -88,7 +88,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/himself65/refine>himself65/refine</a> -- <span>Note-taking app for multiple distributions (desktop, web, chrome extension, react native)</span></li><li><a href=https://github.com/mudler/LocalAI>mudler/LocalAI</a> -- <span>:robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others</span></li><li><a href=https://github.com/alcor/emoji-supply>alcor/emoji-supply</a> -- <span>Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen</span></li><li><a href=https://github.com/Lakr233/Fix-GPS>Lakr233/Fix-GPS</a> -- <span>从一生足迹中读取位置数据并写入图片</span></li><li><a href=https://github.com/exyte/Grid>exyte/Grid</a> -- <span>The most powerful Grid container missed in SwiftUI</span></li></ul>
+<ul><li><a href=https://github.com/himself65/refine>himself65/refine</a> -- <span>Note-taking app for multiple distributions (desktop, web, chrome extension, react native)</span></li><li><a href=https://github.com/johnno1962/InjectionIII>johnno1962/InjectionIII</a> -- <span>Re-write of Injection for Xcode in (mostly) Swift</span></li><li><a href=https://github.com/sxzz/telegram-bot-starter>sxzz/telegram-bot-starter</a> -- <span>A starter template for Telegram bots on Serverless, with Vercel, Netlify, and more support.</span></li><li><a href=https://github.com/twostraws/Inferno>twostraws/Inferno</a> -- <span>Metal shaders for SwiftUI.</span></li><li><a href=https://github.com/janlionly/NFCReaderWriter>janlionly/NFCReaderWriter</a> -- <span>NFCReaderWriter which supports to read data from NFC chips(iOS 11), write data to NFC chips(iOS 13) and read NFC tags infos(iOS 13) by iOS devices. Compatible with both Swift and Objective-C. I will appreciate you if give me a star on the top right of page.</span></li></ul>
 
 
 **捉迷藏**
@@ -101,7 +101,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/3/23, 9:20 AM<br>下一次刷新：12/3/23, 12:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/3/23, 11:17 AM<br>下一次刷新：12/3/23, 2:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
