@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/majd/ipatool>majd/ipatool</a> -- <span>Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/grammyjs/grammY>grammyjs/grammY</a> -- <span>The Telegram Bot Framework.</span></li><li><a href=https://github.com/twostraws/Inferno>twostraws/Inferno</a> -- <span>Metal shaders for SwiftUI.</span></li><li><a href=https://github.com/mudler/LocalAI>mudler/LocalAI</a> -- <span>:robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others</span></li><li><a href=https://github.com/Lakr233/Fix-GPS>Lakr233/Fix-GPS</a> -- <span>从一生足迹中读取位置数据并写入图片</span></li></ul>
+<ul><li><a href=https://github.com/exyte/Grid>exyte/Grid</a> -- <span>The most powerful Grid container missed in SwiftUI</span></li><li><a href=https://github.com/devongovett/github-lite>devongovett/github-lite</a> -- <span>WIP GitHub client built with React Aria Components + Tailwind CSS</span></li><li><a href=https://github.com/himself65/refine>himself65/refine</a> -- <span>Note-taking app for multiple distributions (desktop, web, chrome extension, react native)</span></li><li><a href=https://github.com/Innei/nestjs-pretty-logger>Innei/nestjs-pretty-logger</a> -- <span>🌟 Elevate NestJS logging with stylish, file-redirected, and real-time capable logging based on consola. Compact, powerful, and easy to integrate.</span></li><li><a href=https://github.com/sindresorhus/dom-mutations>sindresorhus/dom-mutations</a> -- <span>Observe changes to the DOM using an async iterable — A nicer API for MutationObserver</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/7/23, 5:15 AM<br>下一次刷新：12/7/23, 8:15 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/7/23, 9:17 AM<br>下一次刷新：12/7/23, 12:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
