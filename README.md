@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/devongovett/github-lite>devongovett/github-lite</a> -- <span>WIP GitHub client built with React Aria Components + Tailwind CSS</span></li><li><a href=https://github.com/dromara/issues-translate-action>dromara/issues-translate-action</a> -- <span>The action for translating Non-English issues content to English.</span></li><li><a href=https://github.com/janlionly/NFCReaderWriter>janlionly/NFCReaderWriter</a> -- <span>NFCReaderWriter which supports to read data from NFC chips(iOS 11), write data to NFC chips(iOS 13) and read NFC tags infos(iOS 13) by iOS devices. Compatible with both Swift and Objective-C. I will appreciate you if give me a star on the top right of page.</span></li><li><a href=https://github.com/sindresorhus/dom-mutations>sindresorhus/dom-mutations</a> -- <span>Observe changes to the DOM using an async iterable — A nicer API for MutationObserver</span></li><li><a href=https://github.com/mudler/LocalAI>mudler/LocalAI</a> -- <span>:robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others</span></li></ul>
+<ul><li><a href=https://github.com/doronz88/ida-scripts>doronz88/ida-scripts</a></li><li><a href=https://github.com/yeatse/KingfisherWebP>yeatse/KingfisherWebP</a> -- <span>Elegantly handle WebP format with Kingfisher.</span></li><li><a href=https://github.com/sparrowcode/PermissionsKit>sparrowcode/PermissionsKit</a> -- <span>Universal API for request permission and get its statuses.</span></li><li><a href=https://github.com/Innei/nestjs-pretty-logger>Innei/nestjs-pretty-logger</a> -- <span>🌟 Elevate NestJS logging with stylish, file-redirected, and real-time capable logging based on consola. Compact, powerful, and easy to integrate.</span></li><li><a href=https://github.com/mudler/LocalAI>mudler/LocalAI</a> -- <span>:robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/20/23, 2:17 AM<br>下一次刷新：12/20/23, 5:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/20/23, 5:12 AM<br>下一次刷新：12/20/23, 8:12 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
