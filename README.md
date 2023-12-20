@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a> -- <span>Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/AabyssZG/WebShell-Bypass-Guide>AabyssZG/WebShell-Bypass-Guide</a> -- <span>从零学习Webshell免杀手册</span></li><li><a href=https://github.com/Innei/D>Innei/D</a> -- <span>D is a simple local first personal website, written in Vue 3</span></li><li><a href=https://github.com/grammyjs/grammY>grammyjs/grammY</a> -- <span>The Telegram Bot Framework.</span></li><li><a href=https://github.com/Steve-xmh/applemusic-like-lyrics>Steve-xmh/applemusic-like-lyrics</a> -- <span>一个基于 Web 技术制作的类 Apple Music 歌词显示组件库，同时支持 DOM 原生、React 和 Vue 绑定。</span></li></ul>
+<ul><li><a href=https://github.com/majd/ipatool>majd/ipatool</a> -- <span>Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/sparrowcode/PermissionsKit>sparrowcode/PermissionsKit</a> -- <span>Universal API for request permission and get its statuses.</span></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a> -- <span>Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/Innei/nestjs-pretty-logger>Innei/nestjs-pretty-logger</a> -- <span>🌟 Elevate NestJS logging with stylish, file-redirected, and real-time capable logging based on consola. Compact, powerful, and easy to integrate.</span></li><li><a href=https://github.com/Steve-xmh/applemusic-like-lyrics>Steve-xmh/applemusic-like-lyrics</a> -- <span>一个基于 Web 技术制作的类 Apple Music 歌词显示组件库，同时支持 DOM 原生、React 和 Vue 绑定。</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/20/23, 11:14 AM<br>下一次刷新：12/20/23, 2:14 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/20/23, 2:18 PM<br>下一次刷新：12/20/23, 5:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
