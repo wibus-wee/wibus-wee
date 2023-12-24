@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/majd/ipatool>majd/ipatool</a> -- <span>Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</span></li><li><a href=https://github.com/overtake/TelegramSwift>overtake/TelegramSwift</a> -- <span>Source code of Telegram for macos on Swift 5.0</span></li><li><a href=https://github.com/khanhduytran0/LiveContainer>khanhduytran0/LiveContainer</a> -- <span>Run unsigned iOS app without actually installing it!</span></li><li><a href=https://github.com/alcor/emoji-supply>alcor/emoji-supply</a> -- <span>Source for http://emoji.supply/wallpaper and http://emoji.supply/kitchen</span></li><li><a href=https://github.com/Innei/D>Innei/D</a> -- <span>D is a simple local first personal website, written in Vue 3</span></li></ul>
+<ul><li><a href=https://github.com/twostraws/Inferno>twostraws/Inferno</a> -- <span>Metal shaders for SwiftUI.</span></li><li><a href=https://github.com/dromara/issues-translate-action>dromara/issues-translate-action</a> -- <span>The action for translating Non-English issues content to English.</span></li><li><a href=https://github.com/boring-design/EasyDevo-Distro>boring-design/EasyDevo-Distro</a></li><li><a href=https://github.com/sindresorhus/dom-mutations>sindresorhus/dom-mutations</a> -- <span>Observe changes to the DOM using an async iterable — A nicer API for MutationObserver</span></li><li><a href=https://github.com/sparrowcode/PermissionsKit>sparrowcode/PermissionsKit</a> -- <span>Universal API for request permission and get its statuses.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/24/23, 11:15 PM<br>下一次刷新：12/25/23, 2:15 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/25/23, 2:19 AM<br>下一次刷新：12/25/23, 5:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
