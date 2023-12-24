@@ -86,12 +86,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/extractus/feed-extractor>extractus/feed-extractor</a> -- <span>Simplest way to read & normalize RSS/ATOM/JSON feed data</span></li><li><a href=https://github.com/shapehq/tartelet>shapehq/tartelet</a> -- <span>⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job runs in an isolated environment.</span></li><li><a href=https://github.com/juewuy/ShellCrash>juewuy/ShellCrash</a> -- <span>RM</span></li><li><a href=https://github.com/sxyazi/bendan>sxyazi/bendan</a> -- <span>Bendan Bot</span></li><li><a href=https://github.com/overtake/TelegramSwift>overtake/TelegramSwift</a> -- <span>Source code of Telegram for macos on Swift 5.0</span></li></ul>
+<ul><li><a href=https://github.com/Kiranism/next-shadcn-dashboard-starter>Kiranism/next-shadcn-dashboard-starter</a> -- <span>Admin Dashboard Starter with Nextjs14 and shadcn ui</span></li><li><a href=https://github.com/extractus/feed-extractor>extractus/feed-extractor</a> -- <span>Simplest way to read & normalize RSS/ATOM/JSON feed data</span></li><li><a href=https://github.com/shapehq/tartelet>shapehq/tartelet</a> -- <span>⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job runs in an isolated environment.</span></li><li><a href=https://github.com/juewuy/ShellCrash>juewuy/ShellCrash</a> -- <span>RM</span></li><li><a href=https://github.com/sxyazi/bendan>sxyazi/bendan</a> -- <span>Bendan Bot</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/RunestoneEditor>Lakr233/RunestoneEditor</a> -- <span>Packed Runstone Package</span></li><li><a href=https://github.com/Innei/D>Innei/D</a> -- <span>D is a simple local first personal website, written in Vue 3</span></li><li><a href=https://github.com/Innei/nestjs-pretty-logger>Innei/nestjs-pretty-logger</a> -- <span>🌟 Elevate NestJS logging with stylish, file-redirected, and real-time capable logging based on consola. Compact, powerful, and easy to integrate.</span></li><li><a href=https://github.com/thebrowsercompany/swift-webdriver>thebrowsercompany/swift-webdriver</a> -- <span>A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints</span></li><li><a href=https://github.com/Steve-xmh/applemusic-like-lyrics>Steve-xmh/applemusic-like-lyrics</a> -- <span>一个基于 Web 技术制作的类 Apple Music 歌词显示组件库，同时支持 DOM 原生、React 和 Vue 绑定。</span></li></ul>
+<ul><li><a href=https://github.com/sparrowcode/PermissionsKit>sparrowcode/PermissionsKit</a> -- <span>Universal API for request permission and get its statuses.</span></li><li><a href=https://github.com/thebrowsercompany/swift-webdriver>thebrowsercompany/swift-webdriver</a> -- <span>A Swift library for communicating with WebDriver (Appium/WinAppDriver) endpoints</span></li><li><a href=https://github.com/Lakr233/ColorfulX>Lakr233/ColorfulX</a> -- <span>ColorfulX is an implementation using Metal for crafting multi-colored gradients.</span></li><li><a href=https://github.com/khanhduytran0/LiveContainer>khanhduytran0/LiveContainer</a> -- <span>Run unsigned iOS app without actually installing it!</span></li><li><a href=https://github.com/Innei/D>Innei/D</a> -- <span>D is a simple local first personal website, written in Vue 3</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/24/23, 5:16 PM<br>下一次刷新：12/24/23, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/24/23, 8:30 PM<br>下一次刷新：12/24/23, 11:30 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
