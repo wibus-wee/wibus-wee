@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/RunestoneEditor>Lakr233/RunestoneEditor</a> -- <span>Packed Runstone Package</span></li><li><a href=https://github.com/dromara/issues-translate-action>dromara/issues-translate-action</a> -- <span>The action for translating Non-English issues content to English.</span></li><li><a href=https://github.com/khanhduytran0/LiveContainer>khanhduytran0/LiveContainer</a> -- <span>Run unsigned iOS app without actually installing it!</span></li><li><a href=https://github.com/caddyserver/caddy>caddyserver/caddy</a> -- <span>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</span></li><li><a href=https://github.com/overtake/TelegramSwift>overtake/TelegramSwift</a> -- <span>Source code of Telegram for macos on Swift 5.0</span></li></ul>
+<ul><li><a href=https://github.com/sparrowcode/PermissionsKit>sparrowcode/PermissionsKit</a> -- <span>Universal API for request permission and get its statuses.</span></li><li><a href=https://github.com/dromara/issues-translate-action>dromara/issues-translate-action</a> -- <span>The action for translating Non-English issues content to English.</span></li><li><a href=https://github.com/himself65/refine>himself65/refine</a> -- <span>Note-taking app for multiple distributions (desktop, web, chrome extension, react native)</span></li><li><a href=https://github.com/sindresorhus/dom-mutations>sindresorhus/dom-mutations</a> -- <span>Observe changes to the DOM using an async iterable — A nicer API for MutationObserver</span></li><li><a href=https://github.com/mudler/LocalAI>mudler/LocalAI</a> -- <span>:robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/25/23, 8:31 PM<br>下一次刷新：12/25/23, 11:31 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/25/23, 11:17 PM<br>下一次刷新：12/26/23, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
