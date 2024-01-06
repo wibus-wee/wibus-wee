@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/doronz88/ida-scripts>doronz88/ida-scripts</a></li><li><a href=https://github.com/Steve-xmh/applemusic-like-lyrics>Steve-xmh/applemusic-like-lyrics</a> -- <span>一个基于 Web 技术制作的类 Apple Music 歌词显示组件库，同时支持 DOM 原生、React 和 Vue 绑定。</span></li><li><a href=https://github.com/AabyssZG/WebShell-Bypass-Guide>AabyssZG/WebShell-Bypass-Guide</a> -- <span>从零学习Webshell免杀手册</span></li><li><a href=https://github.com/janlionly/NFCReaderWriter>janlionly/NFCReaderWriter</a> -- <span>NFCReaderWriter which supports to read data from NFC chips(iOS 11), write data to NFC chips(iOS 13) and read NFC tags infos(iOS 13) by iOS devices. Compatible with both Swift and Objective-C. I will appreciate you if give me a star on the top right of page.</span></li><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a> -- <span>leaked prompts of GPTs</span></li></ul>
+<ul><li><a href=https://github.com/extractus/feed-extractor>extractus/feed-extractor</a> -- <span>Simplest way to read & normalize RSS/ATOM/JSON feed data</span></li><li><a href=https://github.com/Kiranism/next-shadcn-dashboard-starter>Kiranism/next-shadcn-dashboard-starter</a> -- <span>Admin Dashboard Starter with Nextjs14 and shadcn ui</span></li><li><a href=https://github.com/sparrowcode/PermissionsKit>sparrowcode/PermissionsKit</a> -- <span>Universal API for request permission and get its statuses.</span></li><li><a href=https://github.com/AabyssZG/WebShell-Bypass-Guide>AabyssZG/WebShell-Bypass-Guide</a> -- <span>从零学习Webshell免杀手册</span></li><li><a href=https://github.com/Lakr233/RunestoneEditor>Lakr233/RunestoneEditor</a> -- <span>Packed Runstone Package</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/6/24, 11:16 PM<br>下一次刷新：1/7/24, 2:16 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/7/24, 2:20 AM<br>下一次刷新：1/7/24, 5:20 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
