@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/RunestoneEditor>Lakr233/RunestoneEditor</a> -- <span>Packed Runstone Package</span></li><li><a href=https://github.com/sxyazi/bendan>sxyazi/bendan</a> -- <span>Bendan Bot</span></li><li><a href=https://github.com/Steve-xmh/applemusic-like-lyrics>Steve-xmh/applemusic-like-lyrics</a> -- <span>一个基于 Web 技术制作的类 Apple Music 歌词显示组件库，同时支持 DOM 原生、React 和 Vue 绑定。</span></li><li><a href=https://github.com/doronz88/ida-scripts>doronz88/ida-scripts</a></li><li><a href=https://github.com/unixzii/ctf-2024>unixzii/ctf-2024</a></li></ul>
+<ul><li><a href=https://github.com/extractus/feed-extractor>extractus/feed-extractor</a> -- <span>Simplest way to read & normalize RSS/ATOM/JSON feed data</span></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a> -- <span>Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/sxyazi/bendan>sxyazi/bendan</a> -- <span>Bendan Bot</span></li><li><a href=https://github.com/udecode/plate>udecode/plate</a> -- <span>The rich-text editor for React.</span></li><li><a href=https://github.com/boring-design/EasyDevo-Distro>boring-design/EasyDevo-Distro</a></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/12/24, 2:21 AM<br>下一次刷新：1/12/24, 5:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/12/24, 5:15 AM<br>下一次刷新：1/12/24, 8:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
