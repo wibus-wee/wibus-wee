@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AabyssZG/WebShell-Bypass-Guide>AabyssZG/WebShell-Bypass-Guide</a> -- <span>从零学习Webshell免杀手册</span></li><li><a href=https://github.com/Lakr233/RunestoneEditor>Lakr233/RunestoneEditor</a> -- <span>Packed Runstone Package</span></li><li><a href=https://github.com/Steve-xmh/applemusic-like-lyrics>Steve-xmh/applemusic-like-lyrics</a> -- <span>A lyric player component library aims to look similar to iPad version of Apple Music. Also with DOM, React and Vue bindings. 一个基于 Web 技术制作的类 Apple Music 歌词显示组件库，同时支持 DOM 原生、React 和 Vue 绑定。</span></li><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a> -- <span>leaked prompts of GPTs</span></li><li><a href=https://github.com/Bug-Duck/newcar>Bug-Duck/newcar</a> -- <span>🪢A modern animation engine for creating animation rapidly.</span></li></ul>
+<ul><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a> -- <span>Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/doronz88/ida-scripts>doronz88/ida-scripts</a></li><li><a href=https://github.com/sxyazi/bendan>sxyazi/bendan</a> -- <span>Bendan Bot</span></li><li><a href=https://github.com/Bug-Duck/newcar>Bug-Duck/newcar</a> -- <span>🪢A modern animation engine for creating animation rapidly.</span></li><li><a href=https://github.com/Lakr233/RunestoneEditor>Lakr233/RunestoneEditor</a> -- <span>Packed Runstone Package</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/17/24, 8:34 PM<br>下一次刷新：1/17/24, 11:34 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/17/24, 11:18 PM<br>下一次刷新：1/18/24, 2:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
