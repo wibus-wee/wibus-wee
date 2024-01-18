@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/unixzii/ctf-2024>unixzii/ctf-2024</a></li><li><a href=https://github.com/overtake/TelegramSwift>overtake/TelegramSwift</a> -- <span>Source code of Telegram for macos on Swift 5.0</span></li><li><a href=https://github.com/milanvarady/Applite>milanvarady/Applite</a> -- <span>User-friendly GUI macOS application for Homebrew Casks</span></li><li><a href=https://github.com/gridaco/cors.sh>gridaco/cors.sh</a> -- <span>Sick of CORS Errors?</span></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a> -- <span>Delightful SwiftUI effects for your app</span></li></ul>
+<ul><li><a href=https://github.com/udecode/plate>udecode/plate</a> -- <span>The rich-text editor for React.</span></li><li><a href=https://github.com/zhu327/gemini-openai-proxy>zhu327/gemini-openai-proxy</a> -- <span>A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.</span></li><li><a href=https://github.com/overtake/TelegramSwift>overtake/TelegramSwift</a> -- <span>Source code of Telegram for macos on Swift 5.0</span></li><li><a href=https://github.com/aaamoon/copilot-gpt4-service>aaamoon/copilot-gpt4-service</a> -- <span>Convert Github Copilot to ChatGPT</span></li><li><a href=https://github.com/unixzii/ctf-2024>unixzii/ctf-2024</a></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/18/24, 11:18 PM<br>下一次刷新：1/19/24, 2:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/19/24, 2:22 AM<br>下一次刷新：1/19/24, 5:22 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
