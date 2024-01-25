@@ -86,12 +86,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/lencx/Noi>lencx/Noi</a> -- <span>🦄 AI + Tools + Plugins + Community</span></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a> -- <span>QNotified phoenix - To make OICQ great again</span></li><li><a href=https://github.com/wudijimao/Inpaint-iOS>wudijimao/Inpaint-iOS</a> -- <span>A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.</span></li><li><a href=https://github.com/hakadao/BewlyBewly>hakadao/BewlyBewly</a> -- <span>Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)</span></li><li><a href=https://github.com/wevm/vocs>wevm/vocs</a> -- <span>Minimal Documentation Framework, powered by React + Vite.</span></li></ul>
+<ul><li><a href=https://github.com/vscode-use/utils>vscode-use/utils</a> -- <span>vscode lodash</span></li><li><a href=https://github.com/lencx/Noi>lencx/Noi</a> -- <span>🦄 AI + Tools + Plugins + Community</span></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a> -- <span>QNotified phoenix - To make OICQ great again</span></li><li><a href=https://github.com/wudijimao/Inpaint-iOS>wudijimao/Inpaint-iOS</a> -- <span>A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.</span></li><li><a href=https://github.com/hakadao/BewlyBewly>hakadao/BewlyBewly</a> -- <span>Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/juewuy/ShellCrash>juewuy/ShellCrash</a> -- <span>Run sing-box/mihomo as client in shell</span></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a> -- <span>Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/jsun969/just-submit>jsun969/just-submit</a> -- <span>🛫 Submit simple form, with safe types, without management!</span></li><li><a href=https://github.com/Notsfsssf/pixez-flutter>Notsfsssf/pixez-flutter</a> -- <span>一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</span></li><li><a href=https://github.com/unixzii/use-mount-effect>unixzii/use-mount-effect</a> -- <span>A hook triggered only once on mount.</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/ColorfulX>Lakr233/ColorfulX</a> -- <span>ColorfulX is an implementation using Metal for crafting multi-colored gradients.</span></li><li><a href=https://github.com/unixzii/use-mount-effect>unixzii/use-mount-effect</a> -- <span>A hook triggered only once on mount.</span></li><li><a href=https://github.com/aaamoon/copilot-gpt4-service>aaamoon/copilot-gpt4-service</a> -- <span>Convert Github Copilot to ChatGPT</span></li><li><a href=https://github.com/juewuy/ShellCrash>juewuy/ShellCrash</a> -- <span>Run sing-box/mihomo as client in shell</span></li><li><a href=https://github.com/zhu327/gemini-openai-proxy>zhu327/gemini-openai-proxy</a> -- <span>A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/25/24, 5:17 PM<br>下一次刷新：1/25/24, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/25/24, 8:34 PM<br>下一次刷新：1/25/24, 11:34 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
