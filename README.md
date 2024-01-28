@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/extractus/feed-extractor>extractus/feed-extractor</a> -- <span>Simplest way to read & normalize RSS/ATOM/JSON feed data</span></li><li><a href=https://github.com/hakadao/BewlyBewly>hakadao/BewlyBewly</a> -- <span>Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)</span></li><li><a href=https://github.com/juewuy/ShellCrash>juewuy/ShellCrash</a> -- <span>Run sing-box/mihomo as client in shell</span></li><li><a href=https://github.com/Notsfsssf/pixez-flutter>Notsfsssf/pixez-flutter</a> -- <span>一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</span></li><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a> -- <span>leaked prompts of GPTs</span></li></ul>
+<ul><li><a href=https://github.com/jsun969/just-submit>jsun969/just-submit</a> -- <span>🛫 Submit simple form, with safe types, without management!</span></li><li><a href=https://github.com/EmergeTools/Pow>EmergeTools/Pow</a> -- <span>Delightful SwiftUI effects for your app</span></li><li><a href=https://github.com/SwiftfulThinking/SwiftfulUI>SwiftfulThinking/SwiftfulUI</a> -- <span>A collection of reusable SwiftUI components.</span></li><li><a href=https://github.com/linexjlin/GPTs>linexjlin/GPTs</a> -- <span>leaked prompts of GPTs</span></li><li><a href=https://github.com/extractus/feed-extractor>extractus/feed-extractor</a> -- <span>Simplest way to read & normalize RSS/ATOM/JSON feed data</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/29/24, 2:18 AM<br>下一次刷新：1/29/24, 5:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/29/24, 5:15 AM<br>下一次刷新：1/29/24, 8:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
