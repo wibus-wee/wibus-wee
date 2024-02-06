@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/hakadao/BewlyBewly>hakadao/BewlyBewly</a> -- <span>Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)</span></li><li><a href=https://github.com/Notsfsssf/pixez-flutter>Notsfsssf/pixez-flutter</a> -- <span>一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</span></li><li><a href=https://github.com/wudijimao/Inpaint-iOS>wudijimao/Inpaint-iOS</a> -- <span>A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.</span></li><li><a href=https://github.com/Bug-Duck/newcar>Bug-Duck/newcar</a> -- <span>🪢A modern animation engine for creating animation rapidly.</span></li><li><a href=https://github.com/shapehq/tartelet>shapehq/tartelet</a> -- <span>⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job runs in an isolated environment.</span></li></ul>
+<ul><li><a href=https://github.com/Bug-Duck/newcar>Bug-Duck/newcar</a> -- <span>🪢A modern animation engine for creating animation rapidly.</span></li><li><a href=https://github.com/Notsfsssf/pixez-flutter>Notsfsssf/pixez-flutter</a> -- <span>一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</span></li><li><a href=https://github.com/jsun969/just-submit>jsun969/just-submit</a> -- <span>🛫 Submit simple form, with safe types, without management!</span></li><li><a href=https://github.com/lencx/Noi>lencx/Noi</a> -- <span>🦄 AI + Tools + Plugins + Community</span></li><li><a href=https://github.com/vuejs/devtools-next>vuejs/devtools-next</a> -- <span>The next iteration of Vue DevTools</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/24, 11:17 AM<br>下一次刷新：2/6/24, 2:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/6/24, 2:21 PM<br>下一次刷新：2/6/24, 5:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
