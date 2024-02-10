@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jsun969/just-submit>jsun969/just-submit</a> -- <span>🛫 Submit simple form, with safe types, without management!</span></li><li><a href=https://github.com/ast-grep/ast-grep>ast-grep/ast-grep</a> -- <span>⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</span></li><li><a href=https://github.com/wevm/vocs>wevm/vocs</a> -- <span>Minimal Documentation Framework, powered by React + Vite.</span></li><li><a href=https://github.com/lencx/Noi>lencx/Noi</a> -- <span>🚀 Power Your World with AI - Explore, Extend, Empower.</span></li><li><a href=https://github.com/zhu327/gemini-openai-proxy>zhu327/gemini-openai-proxy</a> -- <span>A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.</span></li></ul>
+<ul><li><a href=https://github.com/gridaco/cors.sh>gridaco/cors.sh</a> -- <span>Sick of CORS Errors?</span></li><li><a href=https://github.com/unixzii/ctf-2024>unixzii/ctf-2024</a></li><li><a href=https://github.com/Bug-Duck/newcar>Bug-Duck/newcar</a> -- <span>🪢A modern animation engine for creating animation rapidly.</span></li><li><a href=https://github.com/joogps/Glur>joogps/Glur</a> -- <span>Progressive blurs in SwiftUI.</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a> -- <span>rc file (dotfile) management</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/24, 2:19 AM<br>下一次刷新：2/11/24, 5:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/24, 5:15 AM<br>下一次刷新：2/11/24, 8:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
