@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/unixzii/use-mount-effect>unixzii/use-mount-effect</a> -- <span>A hook triggered only once on mount.</span></li><li><a href=https://github.com/yangwenmai/github-trending-backup>yangwenmai/github-trending-backup</a> -- <span>Github trending backup by everyday.</span></li><li><a href=https://github.com/wudijimao/Inpaint-iOS>wudijimao/Inpaint-iOS</a> -- <span>A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.</span></li><li><a href=https://github.com/milanvarady/Applite>milanvarady/Applite</a> -- <span>User-friendly GUI macOS application for Homebrew Casks</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a> -- <span>rc file (dotfile) management</span></li></ul>
+<ul><li><a href=https://github.com/gridaco/cors.sh>gridaco/cors.sh</a> -- <span>Sick of CORS Errors?</span></li><li><a href=https://github.com/milanvarady/Applite>milanvarady/Applite</a> -- <span>User-friendly GUI macOS application for Homebrew Casks</span></li><li><a href=https://github.com/vuejs/devtools-next>vuejs/devtools-next</a> -- <span>The next iteration of Vue DevTools</span></li><li><a href=https://github.com/wudijimao/Inpaint-iOS>wudijimao/Inpaint-iOS</a> -- <span>A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.</span></li><li><a href=https://github.com/udecode/plate>udecode/plate</a> -- <span>The rich-text editor for React.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/24, 5:14 PM<br>下一次刷新：2/11/24, 8:14 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/24, 8:27 PM<br>下一次刷新：2/11/24, 11:27 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
