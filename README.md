@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/unixzii/use-mount-effect>unixzii/use-mount-effect</a> -- <span>A hook triggered only once on mount.</span></li><li><a href=https://github.com/Lakr233/FixTim>Lakr233/FixTim</a> -- <span>Fix every runtime bug on macOS.</span></li><li><a href=https://github.com/vscode-use/utils>vscode-use/utils</a> -- <span>vscode lodash</span></li><li><a href=https://github.com/joogps/Glur>joogps/Glur</a> -- <span>Progressive blurs in SwiftUI.</span></li><li><a href=https://github.com/Bug-Duck/newcar>Bug-Duck/newcar</a> -- <span>🪢A modern animation engine for creating animation rapidly.</span></li></ul>
+<ul><li><a href=https://github.com/gridaco/cors.sh>gridaco/cors.sh</a> -- <span>Sick of CORS Errors?</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a> -- <span>rc file (dotfile) management</span></li><li><a href=https://github.com/udecode/plate>udecode/plate</a> -- <span>The rich-text editor for React.</span></li><li><a href=https://github.com/yangwenmai/github-trending-backup>yangwenmai/github-trending-backup</a> -- <span>Github trending backup by everyday.</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a> -- <span>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/14/24, 8:30 PM<br>下一次刷新：2/14/24, 11:30 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/14/24, 11:16 PM<br>下一次刷新：2/15/24, 2:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
