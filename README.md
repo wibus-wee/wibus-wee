@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wudijimao/Inpaint-iOS>wudijimao/Inpaint-iOS</a> -- <span>A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.</span></li><li><a href=https://github.com/vscode-use/utils>vscode-use/utils</a> -- <span>vscode lodash</span></li><li><a href=https://github.com/Bug-Duck/newcar>Bug-Duck/newcar</a> -- <span>🪢A modern animation engine for creating animation rapidly.</span></li><li><a href=https://github.com/hakadao/BewlyBewly>hakadao/BewlyBewly</a> -- <span>Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)</span></li><li><a href=https://github.com/zhu327/gemini-openai-proxy>zhu327/gemini-openai-proxy</a> -- <span>A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.</span></li></ul>
+<ul><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a> -- <span>rc file (dotfile) management</span></li><li><a href=https://github.com/wudijimao/Inpaint-iOS>wudijimao/Inpaint-iOS</a> -- <span>A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.</span></li><li><a href=https://github.com/SwiftfulThinking/SwiftfulUI>SwiftfulThinking/SwiftfulUI</a> -- <span>A collection of reusable SwiftUI components.</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a> -- <span>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/lencx/Noi>lencx/Noi</a> -- <span>🚀 Power Your World with AI - Explore, Extend, Empower.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/22/24, 5:13 AM<br>下一次刷新：2/22/24, 8:13 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/22/24, 9:11 AM<br>下一次刷新：2/22/24, 12:11 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
