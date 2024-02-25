@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a> -- <span>IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/hyoban/tailwindcss-classname-highlight>hyoban/tailwindcss-classname-highlight</a> -- <span>Highlight valid Tailwind CSS class names in your code.</span></li><li><a href=https://github.com/ast-grep/ast-grep>ast-grep/ast-grep</a> -- <span>⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</span></li><li><a href=https://github.com/Notsfsssf/pixez-flutter>Notsfsssf/pixez-flutter</a> -- <span>一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</span></li><li><a href=https://github.com/yangwenmai/github-trending-backup>yangwenmai/github-trending-backup</a> -- <span>Github trending backup by everyday.</span></li></ul>
+<ul><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a> -- <span>QNotified phoenix - To make OICQ great again</span></li><li><a href=https://github.com/Notsfsssf/pixez-flutter>Notsfsssf/pixez-flutter</a> -- <span>一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</span></li><li><a href=https://github.com/Lakr233/Firework>Lakr233/Firework</a> -- <span>烟花箱！</span></li><li><a href=https://github.com/hakadao/BewlyBewly>hakadao/BewlyBewly</a> -- <span>Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a> -- <span>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/25/24, 11:17 AM<br>下一次刷新：2/25/24, 2:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/25/24, 2:19 PM<br>下一次刷新：2/25/24, 5:19 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
