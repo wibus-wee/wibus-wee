@@ -86,12 +86,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a> -- <span>SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/RVC-Boss/GPT-SoVITS>RVC-Boss/GPT-SoVITS</a> -- <span>1 min voice data can also be used to train a good TTS model! (few shot voice cloning)</span></li><li><a href=https://github.com/QiuChenlyOpenSource/91QiuChen>QiuChenlyOpenSource/91QiuChen</a> -- <span>91 Sex asm code asian cosplay hexinhex porn big dick 花Q</span></li><li><a href=https://github.com/mcollina/syncthrough>mcollina/syncthrough</a> -- <span>Transform your data as it pass by, synchronously.</span></li><li><a href=https://github.com/willem-pennings/balancing-cube>willem-pennings/balancing-cube</a> -- <span>A cube that balances itself in a corner or edge using reaction wheels</span></li></ul>
+<ul><li><a href=https://github.com/NobyDa/Script>NobyDa/Script</a> -- <span>This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)</span></li><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a> -- <span>SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/RVC-Boss/GPT-SoVITS>RVC-Boss/GPT-SoVITS</a> -- <span>1 min voice data can also be used to train a good TTS model! (few shot voice cloning)</span></li><li><a href=https://github.com/QiuChenlyOpenSource/91QiuChen>QiuChenlyOpenSource/91QiuChen</a> -- <span>91 Sex asm code asian cosplay hexinhex porn big dick 花Q</span></li><li><a href=https://github.com/mcollina/syncthrough>mcollina/syncthrough</a> -- <span>Transform your data as it pass by, synchronously.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/Firework>Lakr233/Firework</a> -- <span>烟花箱！</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a> -- <span>rc file (dotfile) management</span></li><li><a href=https://github.com/yangwenmai/github-trending-backup>yangwenmai/github-trending-backup</a> -- <span>Github trending backup by everyday.</span></li><li><a href=https://github.com/refinedev/refine>refinedev/refine</a> -- <span>A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.</span></li><li><a href=https://github.com/wudijimao/Inpaint-iOS>wudijimao/Inpaint-iOS</a> -- <span>A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.</span></li></ul>
+<ul><li><a href=https://github.com/lencx/Noi>lencx/Noi</a> -- <span>🚀 Power Your World with AI - Explore, Extend, Empower.</span></li><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a> -- <span>IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/Notsfsssf/pixez-flutter>Notsfsssf/pixez-flutter</a> -- <span>一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</span></li><li><a href=https://github.com/wevm/vocs>wevm/vocs</a> -- <span>Minimal Documentation Framework, powered by React + Vite.</span></li><li><a href=https://github.com/refinedev/refine>refinedev/refine</a> -- <span>A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/24, 8:29 PM<br>下一次刷新：2/27/24, 11:29 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/24, 11:17 PM<br>下一次刷新：2/28/24, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
