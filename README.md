@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/zhuozhiyongde/Unlocking-Raycast-With-Surge>zhuozhiyongde/Unlocking-Raycast-With-Surge</a> -- <span>Utilize Surge's MiTM capability to intercept requests and leverage Docker services to emulate backend operations, enabling the activation of Raycast.</span></li><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a> -- <span>IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a> -- <span>收集于互联网的一些高清直播源。</span></li><li><a href=https://github.com/wevm/vocs>wevm/vocs</a> -- <span>Minimal Documentation Framework, powered by React + Vite.</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a> -- <span>rc file (dotfile) management</span></li></ul>
+<ul><li><a href=https://github.com/milanvarady/Applite>milanvarady/Applite</a> -- <span>User-friendly GUI macOS application for Homebrew Casks</span></li><li><a href=https://github.com/vscode-use/utils>vscode-use/utils</a> -- <span>vscode lodash</span></li><li><a href=https://github.com/hyoban/tailwindcss-classname-highlight>hyoban/tailwindcss-classname-highlight</a> -- <span>Highlight valid Tailwind CSS class names in your code.</span></li><li><a href=https://github.com/ast-grep/ast-grep>ast-grep/ast-grep</a> -- <span>⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</span></li><li><a href=https://github.com/unixzii/use-mount-effect>unixzii/use-mount-effect</a> -- <span>A hook triggered only once on mount.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/28/24, 11:17 AM<br>下一次刷新：2/28/24, 2:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/28/24, 2:21 PM<br>下一次刷新：2/28/24, 5:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
