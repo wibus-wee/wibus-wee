@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/milanvarady/Applite>milanvarady/Applite</a> -- <span>User-friendly GUI macOS application for Homebrew Casks</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a> -- <span>rc file (dotfile) management</span></li><li><a href=https://github.com/zhu327/gemini-openai-proxy>zhu327/gemini-openai-proxy</a> -- <span>A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.</span></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a> -- <span>QNotified phoenix - To make OICQ great again</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a> -- <span>收集于互联网的一些高清直播源。</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/Firework>Lakr233/Firework</a> -- <span>烟花箱！</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a> -- <span>rc file (dotfile) management</span></li><li><a href=https://github.com/aaamoon/copilot-gpt4-service>aaamoon/copilot-gpt4-service</a> -- <span>Convert Github Copilot to ChatGPT</span></li><li><a href=https://github.com/ast-grep/ast-grep>ast-grep/ast-grep</a> -- <span>⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a> -- <span>收集于互联网的一些高清直播源。</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/28/24, 8:29 PM<br>下一次刷新：2/28/24, 11:29 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/28/24, 11:17 PM<br>下一次刷新：2/29/24, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
