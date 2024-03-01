@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a> -- <span>QNotified phoenix - To make OICQ great again</span></li><li><a href=https://github.com/Lakr233/Firework>Lakr233/Firework</a> -- <span>烟花箱！</span></li><li><a href=https://github.com/wevm/vocs>wevm/vocs</a> -- <span>Minimal Documentation Framework, powered by React + Vite.</span></li><li><a href=https://github.com/ast-grep/ast-grep>ast-grep/ast-grep</a> -- <span>⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</span></li><li><a href=https://github.com/vscode-use/utils>vscode-use/utils</a> -- <span>vscode lodash</span></li></ul>
+<ul><li><a href=https://github.com/YueChan/Live>YueChan/Live</a> -- <span>收集于互联网的一些高清直播源。</span></li><li><a href=https://github.com/SwiftfulThinking/SwiftfulUI>SwiftfulThinking/SwiftfulUI</a> -- <span>A collection of reusable SwiftUI components.</span></li><li><a href=https://github.com/milanvarady/Applite>milanvarady/Applite</a> -- <span>User-friendly GUI macOS application for Homebrew Casks</span></li><li><a href=https://github.com/Lakr233/Firework>Lakr233/Firework</a> -- <span>烟花箱！</span></li><li><a href=https://github.com/hakadao/BewlyBewly>hakadao/BewlyBewly</a> -- <span>Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/1/24, 11:20 AM<br>下一次刷新：3/1/24, 2:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/1/24, 2:22 PM<br>下一次刷新：3/1/24, 5:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
