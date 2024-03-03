@@ -86,12 +86,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/lmsqueezy/wedges>lmsqueezy/wedges</a> -- <span>An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a> -- <span>A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/NobyDa/Script>NobyDa/Script</a> -- <span>This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)</span></li><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a> -- <span>SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/RVC-Boss/GPT-SoVITS>RVC-Boss/GPT-SoVITS</a> -- <span>1 min voice data can also be used to train a good TTS model! (few shot voice cloning)</span></li></ul>
+<ul><li><a href=https://github.com/ente-io/ente>ente-io/ente</a> -- <span>Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos</span></li><li><a href=https://github.com/lmsqueezy/wedges>lmsqueezy/wedges</a> -- <span>An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a> -- <span>A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/NobyDa/Script>NobyDa/Script</a> -- <span>This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)</span></li><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a> -- <span>SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lencx/Noi>lencx/Noi</a> -- <span>🚀 Power Your World with AI - Explore, Extend, Empower.</span></li><li><a href=https://github.com/ast-grep/ast-grep>ast-grep/ast-grep</a> -- <span>⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</span></li><li><a href=https://github.com/YueChan/Live>YueChan/Live</a> -- <span>收集于互联网的一些高清直播源。</span></li><li><a href=https://github.com/Lakr233/FixTim>Lakr233/FixTim</a> -- <span>Fix every runtime bug on macOS.</span></li><li><a href=https://github.com/zhuozhiyongde/Unlocking-Raycast-With-Surge>zhuozhiyongde/Unlocking-Raycast-With-Surge</a> -- <span>Utilize Surge's MiTM capability to intercept requests and leverage Docker services to emulate backend operations, enabling the activation of Raycast.</span></li></ul>
+<ul><li><a href=https://github.com/willem-pennings/balancing-cube>willem-pennings/balancing-cube</a> -- <span>A cube that balances itself in a corner or edge using reaction wheels</span></li><li><a href=https://github.com/wudijimao/Inpaint-iOS>wudijimao/Inpaint-iOS</a> -- <span>A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.</span></li><li><a href=https://github.com/thoughtbot/rcm>thoughtbot/rcm</a> -- <span>rc file (dotfile) management</span></li><li><a href=https://github.com/mcollina/syncthrough>mcollina/syncthrough</a> -- <span>Transform your data as it pass by, synchronously.</span></li><li><a href=https://github.com/yangwenmai/github-trending-backup>yangwenmai/github-trending-backup</a> -- <span>Github trending backup by everyday.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/24, 9:15 AM<br>下一次刷新：3/3/24, 12:15 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/3/24, 11:16 AM<br>下一次刷新：3/3/24, 2:16 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
