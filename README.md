@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a> -- <span>IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/lencx/Noi>lencx/Noi</a> -- <span>🚀 Power Your World with AI - Explore, Extend, Empower.</span></li><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a> -- <span>SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/NobyDa/Script>NobyDa/Script</a> -- <span>This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)</span></li><li><a href=https://github.com/RVC-Boss/GPT-SoVITS>RVC-Boss/GPT-SoVITS</a> -- <span>1 min voice data can also be used to train a good TTS model! (few shot voice cloning)</span></li></ul>
+<ul><li><a href=https://github.com/zhuozhiyongde/Unlocking-Raycast-With-Surge>zhuozhiyongde/Unlocking-Raycast-With-Surge</a> -- <span>Utilize Surge's MiTM capability to intercept requests and leverage Docker services to emulate backend operations, enabling the activation of Raycast.</span></li><li><a href=https://github.com/joogps/Glur>joogps/Glur</a> -- <span>Progressive blurs in SwiftUI.</span></li><li><a href=https://github.com/joevess/IPTV>joevess/IPTV</a> -- <span>IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新</span></li><li><a href=https://github.com/Lakr233/Firework>Lakr233/Firework</a> -- <span>烟花箱！</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a> -- <span>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/6/24, 2:20 AM<br>下一次刷新：3/6/24, 5:20 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/6/24, 5:15 AM<br>下一次刷新：3/6/24, 8:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
