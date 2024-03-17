@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/refinedev/refine>refinedev/refine</a> -- <span>A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.</span></li><li><a href=https://github.com/Lakr233/Firework>Lakr233/Firework</a> -- <span>烟花箱！</span></li><li><a href=https://github.com/RVC-Boss/GPT-SoVITS>RVC-Boss/GPT-SoVITS</a> -- <span>1 min voice data can also be used to train a good TTS model! (few shot voice cloning)</span></li><li><a href=https://github.com/NobyDa/Script>NobyDa/Script</a> -- <span>This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)</span></li><li><a href=https://github.com/sparrowcode/AlertKit>sparrowcode/AlertKit</a> -- <span>Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.</span></li></ul>
+<ul><li><a href=https://github.com/YueChan/Live>YueChan/Live</a> -- <span>收集于互联网的一些高清直播源。</span></li><li><a href=https://github.com/RVC-Boss/GPT-SoVITS>RVC-Boss/GPT-SoVITS</a> -- <span>1 min voice data can also be used to train a good TTS model! (few shot voice cloning)</span></li><li><a href=https://github.com/unixzii/swift-signal>unixzii/swift-signal</a> -- <span>A Swift package that provides reactivity computation inspired by Solid.</span></li><li><a href=https://github.com/EshayDev/Amimod>EshayDev/Amimod</a> -- <span>A hex patching tool made for crackers, by crackers.</span></li><li><a href=https://github.com/yuzu-mirror/yuzu>yuzu-mirror/yuzu</a> -- <span>Nintendo Switch emulator (unofficial mirror fork)</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/17/24, 8:29 PM<br>下一次刷新：3/17/24, 11:29 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/17/24, 11:16 PM<br>下一次刷新：3/18/24, 2:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
