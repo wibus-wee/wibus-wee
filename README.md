@@ -86,12 +86,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO>ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO</a> -- <span>我的 ComfyUI 工作流合集 | My ComfyUI workflows collection</span></li><li><a href=https://github.com/assafelovic/gpt-researcher>assafelovic/gpt-researcher</a> -- <span>GPT based autonomous agent that does online comprehensive research on any given topic</span></li><li><a href=https://github.com/Wowu/docker-rollout>Wowu/docker-rollout</a> -- <span>🚀 Zero Downtime Deployment for Docker Compose</span></li><li><a href=https://github.com/k8w/tsrpc>k8w/tsrpc</a> -- <span>A TypeScript RPC framework, with runtime type checking and serialization, support both HTTP and WebSocket. It is very suitable for website / APP / games, and absolutely comfortable to full-stack TypeScript developers.</span></li><li><a href=https://github.com/MiRO92/uYou-for-YouTube>MiRO92/uYou-for-YouTube</a> -- <span>Enhance Your YouTube Experience</span></li></ul>
+<ul><li><a href=https://github.com/jaywcjlove/swiftui-example>jaywcjlove/swiftui-example</a> -- <span>SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。</span></li><li><a href=https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO>ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO</a> -- <span>我的 ComfyUI 工作流合集 | My ComfyUI workflows collection</span></li><li><a href=https://github.com/assafelovic/gpt-researcher>assafelovic/gpt-researcher</a> -- <span>GPT based autonomous agent that does online comprehensive research on any given topic</span></li><li><a href=https://github.com/Wowu/docker-rollout>Wowu/docker-rollout</a> -- <span>🚀 Zero Downtime Deployment for Docker Compose</span></li><li><a href=https://github.com/k8w/tsrpc>k8w/tsrpc</a> -- <span>A TypeScript RPC framework, with runtime type checking and serialization, support both HTTP and WebSocket. It is very suitable for website / APP / games, and absolutely comfortable to full-stack TypeScript developers.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a> -- <span>(CLI Only) A simple audio recorder for TrollStore.</span></li><li><a href=https://github.com/willem-pennings/balancing-cube>willem-pennings/balancing-cube</a> -- <span>A cube that balances itself in a corner or edge using reaction wheels</span></li><li><a href=https://github.com/yuzu-mirror/yuzu>yuzu-mirror/yuzu</a> -- <span>Nintendo Switch emulator (unofficial mirror fork)</span></li><li><a href=https://github.com/MatthiasGrandl/Loungy>MatthiasGrandl/Loungy</a> -- <span>Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.</span></li><li><a href=https://github.com/sparrowcode/AlertKit>sparrowcode/AlertKit</a> -- <span>Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/Firework>Lakr233/Firework</a> -- <span>烟花箱！</span></li><li><a href=https://github.com/EshayDev/Amimod>EshayDev/Amimod</a> -- <span>A hex patching tool made for crackers, by crackers.</span></li><li><a href=https://github.com/willem-pennings/balancing-cube>willem-pennings/balancing-cube</a> -- <span>A cube that balances itself in a corner or edge using reaction wheels</span></li><li><a href=https://github.com/sparrowcode/AlertKit>sparrowcode/AlertKit</a> -- <span>Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.</span></li><li><a href=https://github.com/ente-io/ente>ente-io/ente</a> -- <span>Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/18/24, 5:17 PM<br>下一次刷新：3/18/24, 8:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/18/24, 8:30 PM<br>下一次刷新：3/18/24, 11:30 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
