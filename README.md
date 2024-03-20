@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a> -- <span>SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/unixzii/swift-signal>unixzii/swift-signal</a> -- <span>A Swift package that provides reactivity computation inspired by Solid.</span></li><li><a href=https://github.com/unjs/automd>unjs/automd</a> -- <span>🤖 Automated markdown maintainer</span></li><li><a href=https://github.com/Lakr233/Firework>Lakr233/Firework</a> -- <span>烟花箱！</span></li><li><a href=https://github.com/ts1/BLEUnlock>ts1/BLEUnlock</a> -- <span>Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices</span></li></ul>
+<ul><li><a href=https://github.com/EshayDev/Amimod>EshayDev/Amimod</a> -- <span>A hex patching tool made for crackers, by crackers.</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a> -- <span>Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li><li><a href=https://github.com/NobyDa/Script>NobyDa/Script</a> -- <span>This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)</span></li><li><a href=https://github.com/ente-io/ente>ente-io/ente</a> -- <span>Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos</span></li><li><a href=https://github.com/unixzii/swift-signal>unixzii/swift-signal</a> -- <span>A Swift package that provides reactivity computation inspired by Solid.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/24, 5:14 AM<br>下一次刷新：3/20/24, 8:14 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/20/24, 9:11 AM<br>下一次刷新：3/20/24, 12:11 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
