@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SoraWebui/SoraWebui>SoraWebui/SoraWebui</a> -- <span>SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.</span></li><li><a href=https://github.com/ts1/BLEUnlock>ts1/BLEUnlock</a> -- <span>Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices</span></li><li><a href=https://github.com/dai-shi/react-tracked>dai-shi/react-tracked</a> -- <span>State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.</span></li><li><a href=https://github.com/unjs/automd>unjs/automd</a> -- <span>🤖 Automated markdown maintainer</span></li><li><a href=https://github.com/Wowu/docker-rollout>Wowu/docker-rollout</a> -- <span>🚀 Zero Downtime Deployment for Docker Compose</span></li></ul>
+<ul><li><a href=https://github.com/lmsqueezy/wedges>lmsqueezy/wedges</a> -- <span>An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.</span></li><li><a href=https://github.com/jaywcjlove/swiftui-example>jaywcjlove/swiftui-example</a> -- <span>SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。</span></li><li><a href=https://github.com/ente-io/ente>ente-io/ente</a> -- <span>Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos</span></li><li><a href=https://github.com/dai-shi/react-tracked>dai-shi/react-tracked</a> -- <span>State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.</span></li><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a> -- <span>(CLI Only) A simple audio recorder for TrollStore.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/24/24, 2:21 PM<br>下一次刷新：3/24/24, 5:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/24/24, 5:17 PM<br>下一次刷新：3/24/24, 8:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
