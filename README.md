@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a> -- <span>A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/tisfeng/Easydict>tisfeng/Easydict</a> -- <span>一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.</span></li><li><a href=https://github.com/unjs/automd>unjs/automd</a> -- <span>🤖 Automated markdown maintainer</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a> -- <span>Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li><li><a href=https://github.com/lmsqueezy/wedges>lmsqueezy/wedges</a> -- <span>An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.</span></li></ul>
+<ul><li><a href=https://github.com/ente-io/ente>ente-io/ente</a> -- <span>Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos</span></li><li><a href=https://github.com/tisfeng/Easydict>tisfeng/Easydict</a> -- <span>一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.</span></li><li><a href=https://github.com/Wowu/docker-rollout>Wowu/docker-rollout</a> -- <span>🚀 Zero Downtime Deployment for Docker Compose</span></li><li><a href=https://github.com/lmsqueezy/wedges>lmsqueezy/wedges</a> -- <span>An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a> -- <span>Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/26/24, 9:12 AM<br>下一次刷新：3/26/24, 12:12 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/26/24, 11:17 AM<br>下一次刷新：3/26/24, 2:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
