@@ -86,12 +86,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/SpotX-Official/SpotX-Bash>SpotX-Official/SpotX-Bash</a> -- <span>SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash</span></li><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/launchdarkly/swift-eventsource>launchdarkly/swift-eventsource</a> -- <span>Server-sent events (SSE) client implementation in Swift for iOS, macOS, tvOS, and watchOS</span></li><li><a href=https://github.com/hpcaitech/Open-Sora>hpcaitech/Open-Sora</a> -- <span>Open-Sora: Democratizing Efficient Video Production for All</span></li><li><a href=https://github.com/nuxt/ui>nuxt/ui</a> -- <span>A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.</span></li></ul>
+<ul><li><a href=https://github.com/BasedHardware/Friend>BasedHardware/Friend</a> -- <span>AI wearable with 24h+ battery</span></li><li><a href=https://github.com/SpotX-Official/SpotX-Bash>SpotX-Official/SpotX-Bash</a> -- <span>SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash</span></li><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/launchdarkly/swift-eventsource>launchdarkly/swift-eventsource</a> -- <span>Server-sent events (SSE) client implementation in Swift for iOS, macOS, tvOS, and watchOS</span></li><li><a href=https://github.com/hpcaitech/Open-Sora>hpcaitech/Open-Sora</a> -- <span>Open-Sora: Democratizing Efficient Video Production for All</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/EshayDev/Amimod>EshayDev/Amimod</a> -- <span>A hex patching tool made for crackers, by crackers.</span></li><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a> -- <span>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/MiRO92/uYou-for-YouTube>MiRO92/uYou-for-YouTube</a> -- <span>Enhance Your YouTube Experience</span></li><li><a href=https://github.com/MatthiasGrandl/Loungy>MatthiasGrandl/Loungy</a> -- <span>Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.</span></li><li><a href=https://github.com/yuzu-mirror/yuzu>yuzu-mirror/yuzu</a> -- <span>Nintendo Switch emulator (unofficial mirror fork)</span></li></ul>
+<ul><li><a href=https://github.com/unjs/automd>unjs/automd</a> -- <span>🤖 Automated markdown maintainer</span></li><li><a href=https://github.com/ente-io/ente>ente-io/ente</a> -- <span>Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos</span></li><li><a href=https://github.com/nuxt/ui>nuxt/ui</a> -- <span>A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.</span></li><li><a href=https://github.com/jaywcjlove/swiftui-example>jaywcjlove/swiftui-example</a> -- <span>SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a> -- <span>Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/26/24, 8:31 PM<br>下一次刷新：3/26/24, 11:31 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/26/24, 11:16 PM<br>下一次刷新：3/27/24, 2:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
