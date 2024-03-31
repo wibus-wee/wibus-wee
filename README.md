@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a> -- <span>Menu bar calendar for macOS</span></li><li><a href=https://github.com/MiRO92/uYou-for-YouTube>MiRO92/uYou-for-YouTube</a> -- <span>Enhance Your YouTube Experience</span></li><li><a href=https://github.com/EshayDev/Amimod>EshayDev/Amimod</a> -- <span>A hex patching tool made for crackers, by crackers.</span></li><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a> -- <span>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a> -- <span>(CLI Only) A simple audio recorder for TrollStore.</span></li></ul>
+<ul><li><a href=https://github.com/MatthiasGrandl/Loungy>MatthiasGrandl/Loungy</a> -- <span>Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.</span></li><li><a href=https://github.com/SpotX-Official/SpotX-Bash>SpotX-Official/SpotX-Bash</a> -- <span>SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash</span></li><li><a href=https://github.com/assafelovic/gpt-researcher>assafelovic/gpt-researcher</a> -- <span>GPT based autonomous agent that does online comprehensive research on any given topic</span></li><li><a href=https://github.com/nabla-c0d3/ssl-kill-switch2>nabla-c0d3/ssl-kill-switch2</a> -- <span>Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.</span></li><li><a href=https://github.com/sparrowcode/AlertKit>sparrowcode/AlertKit</a> -- <span>Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/31/24, 5:16 PM<br>下一次刷新：3/31/24, 8:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/31/24, 8:29 PM<br>下一次刷新：3/31/24, 11:29 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
