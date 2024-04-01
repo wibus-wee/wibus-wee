@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nabla-c0d3/ssl-kill-switch2>nabla-c0d3/ssl-kill-switch2</a> -- <span>Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.</span></li><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/Lessica/TrollRecorder>Lessica/TrollRecorder</a> -- <span>(CLI Only) A simple audio recorder for TrollStore.</span></li><li><a href=https://github.com/EshayDev/Amimod>EshayDev/Amimod</a> -- <span>A hex patching tool made for crackers, by crackers.</span></li><li><a href=https://github.com/MatthiasGrandl/Loungy>MatthiasGrandl/Loungy</a> -- <span>Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.</span></li></ul>
+<ul><li><a href=https://github.com/nabla-c0d3/ssl-kill-switch2>nabla-c0d3/ssl-kill-switch2</a> -- <span>Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.</span></li><li><a href=https://github.com/SpotX-Official/SpotX-Bash>SpotX-Official/SpotX-Bash</a> -- <span>SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash</span></li><li><a href=https://github.com/assafelovic/gpt-researcher>assafelovic/gpt-researcher</a> -- <span>GPT based autonomous agent that does online comprehensive research on any given topic</span></li><li><a href=https://github.com/tisfeng/Easydict>tisfeng/Easydict</a> -- <span>一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.</span></li><li><a href=https://github.com/nuxt/ui>nuxt/ui</a> -- <span>A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/1/24, 2:22 PM<br>下一次刷新：4/1/24, 5:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/1/24, 5:18 PM<br>下一次刷新：4/1/24, 8:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
