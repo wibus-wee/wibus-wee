@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SpotX-Official/SpotX-Bash>SpotX-Official/SpotX-Bash</a> -- <span>SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash</span></li><li><a href=https://github.com/nabla-c0d3/ssl-kill-switch2>nabla-c0d3/ssl-kill-switch2</a> -- <span>Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.</span></li><li><a href=https://github.com/BasedHardware/Friend>BasedHardware/Friend</a> -- <span>AI wearable with 24h+ battery</span></li><li><a href=https://github.com/Innei/shiro-remote-components>Innei/shiro-remote-components</a></li><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li></ul>
+<ul><li><a href=https://github.com/assafelovic/gpt-researcher>assafelovic/gpt-researcher</a> -- <span>GPT based autonomous agent that does online comprehensive research on any given topic</span></li><li><a href=https://github.com/sparrowcode/AlertKit>sparrowcode/AlertKit</a> -- <span>Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.</span></li><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/dai-shi/react-tracked>dai-shi/react-tracked</a> -- <span>State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.</span></li><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a> -- <span>Menu bar calendar for macOS</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/4/24, 8:31 PM<br>下一次刷新：4/4/24, 11:31 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/4/24, 11:17 PM<br>下一次刷新：4/5/24, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
