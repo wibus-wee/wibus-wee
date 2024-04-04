@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/assafelovic/gpt-researcher>assafelovic/gpt-researcher</a> -- <span>GPT based autonomous agent that does online comprehensive research on any given topic</span></li><li><a href=https://github.com/dai-shi/react-tracked>dai-shi/react-tracked</a> -- <span>State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.</span></li><li><a href=https://github.com/k8w/tsrpc>k8w/tsrpc</a> -- <span>A TypeScript RPC framework, with runtime type checking and serialization, support both HTTP and WebSocket. It is very suitable for website / APP / games, and absolutely comfortable to full-stack TypeScript developers.</span></li><li><a href=https://github.com/unixzii/swift-signal>unixzii/swift-signal</a> -- <span>A Swift package that provides reactivity computation inspired by Solid.</span></li><li><a href=https://github.com/MiRO92/uYou-for-YouTube>MiRO92/uYou-for-YouTube</a> -- <span>Enhance Your YouTube Experience</span></li></ul>
+<ul><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/Wowu/docker-rollout>Wowu/docker-rollout</a> -- <span>🚀 Zero Downtime Deployment for Docker Compose</span></li><li><a href=https://github.com/BasedHardware/Friend>BasedHardware/Friend</a> -- <span>AI wearable with 24h+ battery</span></li><li><a href=https://github.com/unixzii/swift-signal>unixzii/swift-signal</a> -- <span>A Swift package that provides reactivity computation inspired by Solid.</span></li><li><a href=https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO>ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO</a> -- <span>我的 ComfyUI 工作流合集 | My ComfyUI workflows collection</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/4/24, 9:14 AM<br>下一次刷新：4/4/24, 12:14 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/4/24, 11:20 AM<br>下一次刷新：4/4/24, 2:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
