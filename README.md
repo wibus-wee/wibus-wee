@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/shiro-remote-components>Innei/shiro-remote-components</a></li><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a> -- <span>Menu bar calendar for macOS</span></li><li><a href=https://github.com/MatthiasGrandl/Loungy>MatthiasGrandl/Loungy</a> -- <span>Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.</span></li><li><a href=https://github.com/k8w/tsrpc>k8w/tsrpc</a> -- <span>A TypeScript RPC framework, with runtime type checking and serialization, support both HTTP and WebSocket. It is very suitable for website / APP / games, and absolutely comfortable to full-stack TypeScript developers.</span></li><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a> -- <span>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</span></li></ul>
+<ul><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a> -- <span>Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a> -- <span>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/k8w/tsrpc>k8w/tsrpc</a> -- <span>A TypeScript RPC framework, with runtime type checking and serialization, support both HTTP and WebSocket. It is very suitable for website / APP / games, and absolutely comfortable to full-stack TypeScript developers.</span></li><li><a href=https://github.com/httptoolkit/frida-interception-and-unpinning>httptoolkit/frida-interception-and-unpinning</a> -- <span>Frida scripts to directly MitM all HTTPS traffic from a target mobile application</span></li><li><a href=https://github.com/BasedHardware/Friend>BasedHardware/Friend</a> -- <span>AI wearable with 24h+ battery</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/6/24, 11:18 AM<br>下一次刷新：4/6/24, 2:18 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/6/24, 2:21 PM<br>下一次刷新：4/6/24, 5:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
