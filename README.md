@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/iamtraction/google-translate>iamtraction/google-translate</a> -- <span>🈯 A Node.JS library to consume Google Translate API for free.</span></li><li><a href=https://github.com/BasedHardware/Friend>BasedHardware/Friend</a> -- <span>AI wearable with 24h+ battery</span></li><li><a href=https://github.com/yue/yue>yue/yue</a> -- <span>A library for creating native cross-platform GUI apps</span></li><li><a href=https://github.com/MiRO92/uYou-for-YouTube>MiRO92/uYou-for-YouTube</a> -- <span>Enhance Your YouTube Experience</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a> -- <span>Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li></ul>
+<ul><li><a href=https://github.com/brandonmcconnell/tailwindcss-signals>brandonmcconnell/tailwindcss-signals</a> -- <span>Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable code.</span></li><li><a href=https://github.com/Innei/rc-modal>Innei/rc-modal</a> -- <span>Beautifully designed Modal Component built with Radix UI and Tailwind CSS.</span></li><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/rolldown/rolldown>rolldown/rolldown</a> -- <span>Fast Rust bundler for JavaScript with Rollup-compatible API.</span></li><li><a href=https://github.com/tisfeng/Easydict>tisfeng/Easydict</a> -- <span>一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/11/24, 11:17 AM<br>下一次刷新：4/11/24, 2:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/11/24, 2:22 PM<br>下一次刷新：4/11/24, 5:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
