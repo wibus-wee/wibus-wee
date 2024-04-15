@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jaywcjlove/DevHub>jaywcjlove/DevHub</a> -- <span>A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data</span></li><li><a href=https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO>ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO</a> -- <span>我的 ComfyUI 工作流合集 | My ComfyUI workflows collection</span></li><li><a href=https://github.com/nabla-c0d3/ssl-kill-switch2>nabla-c0d3/ssl-kill-switch2</a> -- <span>Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.</span></li><li><a href=https://github.com/AkaraChen/starlight>AkaraChen/starlight</a> -- <span>The ultra-modern productivity tool for Windows lover</span></li><li><a href=https://github.com/latentcat/latentbox>latentcat/latentbox</a> -- <span>A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com</span></li></ul>
+<ul><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/AkaraChen/starlight>AkaraChen/starlight</a> -- <span>The ultra-modern productivity tool for Windows lover</span></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a> -- <span>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</span></li><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a> -- <span>Menu bar calendar for macOS</span></li><li><a href=https://github.com/httptoolkit/frida-interception-and-unpinning>httptoolkit/frida-interception-and-unpinning</a> -- <span>Frida scripts to directly MitM all HTTPS traffic from a target mobile application</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/16/24, 2:21 AM<br>下一次刷新：4/16/24, 5:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/16/24, 5:17 AM<br>下一次刷新：4/16/24, 8:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
