@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/shiro-remote-components>Innei/shiro-remote-components</a></li><li><a href=https://github.com/MiRO92/uYou-for-YouTube>MiRO92/uYou-for-YouTube</a> -- <span>Enhance Your YouTube Experience</span></li><li><a href=https://github.com/jaywcjlove/swiftui-example>jaywcjlove/swiftui-example</a> -- <span>SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。</span></li><li><a href=https://github.com/DaveWoodCom/XCGLogger>DaveWoodCom/XCGLogger</a> -- <span>A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.</span></li><li><a href=https://github.com/hpcaitech/Open-Sora>hpcaitech/Open-Sora</a> -- <span>Open-Sora: Democratizing Efficient Video Production for All</span></li></ul>
+<ul><li><a href=https://github.com/Innei/shiro-remote-components>Innei/shiro-remote-components</a></li><li><a href=https://github.com/k8w/tsrpc>k8w/tsrpc</a> -- <span>A TypeScript RPC framework, with runtime type checking and serialization, support both HTTP and WebSocket. It is very suitable for website / APP / games, and absolutely comfortable to full-stack TypeScript developers.</span></li><li><a href=https://github.com/SpotX-Official/SpotX-Bash>SpotX-Official/SpotX-Bash</a> -- <span>SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash</span></li><li><a href=https://github.com/MiRO92/uYou-for-YouTube>MiRO92/uYou-for-YouTube</a> -- <span>Enhance Your YouTube Experience</span></li><li><a href=https://github.com/yue/yue>yue/yue</a> -- <span>A library for creating native cross-platform GUI apps</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/15/24, 2:21 PM<br>下一次刷新：4/15/24, 5:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/15/24, 5:15 PM<br>下一次刷新：4/15/24, 8:15 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
