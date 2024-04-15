@@ -86,12 +86,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a> -- <span>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/xiaolai/everyone-can-use-english>xiaolai/everyone-can-use-english</a> -- <span>人人都能用英语</span></li><li><a href=https://github.com/unclecode/groqcall>unclecode/groqcall</a> -- <span>A Function Calls Proxy for Groq, the fastest AI alive!</span></li><li><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a> -- <span>The free and privacy-friendly screen recorder with no limits 🎥</span></li><li><a href=https://github.com/latentcat/latentbox>latentcat/latentbox</a> -- <span>A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com</span></li></ul>
+<ul><li><a href=https://github.com/MikeChan-HK/Gemini-agent-example>MikeChan-HK/Gemini-agent-example</a> -- <span>An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website.</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a> -- <span>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/xiaolai/everyone-can-use-english>xiaolai/everyone-can-use-english</a> -- <span>人人都能用英语</span></li><li><a href=https://github.com/unclecode/groqcall>unclecode/groqcall</a> -- <span>A Function Calls Proxy for Groq, the fastest AI alive!</span></li><li><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a> -- <span>The free and privacy-friendly screen recorder with no limits 🎥</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/shiro-remote-components>Innei/shiro-remote-components</a></li><li><a href=https://github.com/k8w/tsrpc>k8w/tsrpc</a> -- <span>A TypeScript RPC framework, with runtime type checking and serialization, support both HTTP and WebSocket. It is very suitable for website / APP / games, and absolutely comfortable to full-stack TypeScript developers.</span></li><li><a href=https://github.com/SpotX-Official/SpotX-Bash>SpotX-Official/SpotX-Bash</a> -- <span>SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash</span></li><li><a href=https://github.com/MiRO92/uYou-for-YouTube>MiRO92/uYou-for-YouTube</a> -- <span>Enhance Your YouTube Experience</span></li><li><a href=https://github.com/yue/yue>yue/yue</a> -- <span>A library for creating native cross-platform GUI apps</span></li></ul>
+<ul><li><a href=https://github.com/yue/yue>yue/yue</a> -- <span>A library for creating native cross-platform GUI apps</span></li><li><a href=https://github.com/latentcat/latentbox>latentcat/latentbox</a> -- <span>A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com</span></li><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a> -- <span>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</span></li><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a> -- <span>Menu bar calendar for macOS</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/15/24, 5:15 PM<br>下一次刷新：4/15/24, 8:15 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/15/24, 8:30 PM<br>下一次刷新：4/15/24, 11:30 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
