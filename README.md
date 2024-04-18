@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tisfeng/Easydict>tisfeng/Easydict</a> -- <span>一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.</span></li><li><a href=https://github.com/nuxt/ui>nuxt/ui</a> -- <span>A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.</span></li><li><a href=https://github.com/yue/yue>yue/yue</a> -- <span>A library for creating native cross-platform GUI apps</span></li><li><a href=https://github.com/launchdarkly/swift-eventsource>launchdarkly/swift-eventsource</a> -- <span>Server-sent events (SSE) client implementation in Swift for iOS, macOS, tvOS, and watchOS</span></li><li><a href=https://github.com/DaveWoodCom/XCGLogger>DaveWoodCom/XCGLogger</a> -- <span>A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.</span></li></ul>
+<ul><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a> -- <span>Menu bar calendar for macOS</span></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a> -- <span>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</span></li><li><a href=https://github.com/httptoolkit/frida-interception-and-unpinning>httptoolkit/frida-interception-and-unpinning</a> -- <span>Frida scripts to directly MitM all HTTPS traffic from a target mobile application</span></li><li><a href=https://github.com/AkaraChen/starlight>AkaraChen/starlight</a> -- <span>The ultra-modern productivity tool for Windows lover</span></li><li><a href=https://github.com/launchdarkly/swift-eventsource>launchdarkly/swift-eventsource</a> -- <span>Server-sent events (SSE) client implementation in Swift for iOS, macOS, tvOS, and watchOS</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/24, 2:21 AM<br>下一次刷新：4/19/24, 5:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/24, 5:15 AM<br>下一次刷新：4/19/24, 8:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
