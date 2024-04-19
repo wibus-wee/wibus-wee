@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a> -- <span>The free and privacy-friendly screen recorder with no limits 🎥</span></li><li><a href=https://github.com/jaywcjlove/DevHub>jaywcjlove/DevHub</a> -- <span>A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data</span></li><li><a href=https://github.com/BasedHardware/Friend>BasedHardware/Friend</a> -- <span>AI wearable with 24h+ battery</span></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a> -- <span>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</span></li><li><a href=https://github.com/iamtraction/google-translate>iamtraction/google-translate</a> -- <span>🈯 A Node.JS library to consume Google Translate API for free.</span></li></ul>
+<ul><li><a href=https://github.com/nabla-c0d3/ssl-kill-switch2>nabla-c0d3/ssl-kill-switch2</a> -- <span>Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.</span></li><li><a href=https://github.com/iamtraction/google-translate>iamtraction/google-translate</a> -- <span>🈯 A Node.JS library to consume Google Translate API for free.</span></li><li><a href=https://github.com/hpcaitech/Open-Sora>hpcaitech/Open-Sora</a> -- <span>Open-Sora: Democratizing Efficient Video Production for All</span></li><li><a href=https://github.com/brandonmcconnell/tailwindcss-signals>brandonmcconnell/tailwindcss-signals</a> -- <span>Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable code.</span></li><li><a href=https://github.com/yue/yue>yue/yue</a> -- <span>A library for creating native cross-platform GUI apps</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/24, 11:17 PM<br>下一次刷新：4/20/24, 2:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/20/24, 2:20 AM<br>下一次刷新：4/20/24, 5:20 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
