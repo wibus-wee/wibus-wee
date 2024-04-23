@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/yue/yue>yue/yue</a> -- <span>A library for creating native cross-platform GUI apps</span></li><li><a href=https://github.com/xiaolai/everyone-can-use-english>xiaolai/everyone-can-use-english</a> -- <span>人人都能用英语</span></li><li><a href=https://github.com/Innei/shiro-remote-components>Innei/shiro-remote-components</a></li><li><a href=https://github.com/AkaraChen/starlight>AkaraChen/starlight</a> -- <span>The ultra-modern productivity tool for Windows lover</span></li><li><a href=https://github.com/BasedHardware/Friend>BasedHardware/Friend</a> -- <span>AI wearable with 24h+ battery</span></li></ul>
+<ul><li><a href=https://github.com/BasedHardware/Friend>BasedHardware/Friend</a> -- <span>AI wearable with 24h+ battery</span></li><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools>xiyuesaves/LiteLoaderQQNT-lite_tools</a> -- <span>LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效</span></li><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a> -- <span>Menu bar calendar for macOS</span></li><li><a href=https://github.com/Innei/shiro-remote-components>Innei/shiro-remote-components</a></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/24/24, 2:21 AM<br>下一次刷新：4/24/24, 5:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/24/24, 5:15 AM<br>下一次刷新：4/24/24, 8:15 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
