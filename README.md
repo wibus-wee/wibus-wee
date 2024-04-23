@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/SpotX-Official/SpotX-Bash>SpotX-Official/SpotX-Bash</a> -- <span>SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash</span></li><li><a href=https://github.com/AkaraChen/starlight>AkaraChen/starlight</a> -- <span>The ultra-modern productivity tool for Windows lover</span></li><li><a href=https://github.com/BasedHardware/Friend>BasedHardware/Friend</a> -- <span>AI wearable with 24h+ battery</span></li><li><a href=https://github.com/iamtraction/google-translate>iamtraction/google-translate</a> -- <span>🈯 A Node.JS library to consume Google Translate API for free.</span></li></ul>
+<ul><li><a href=https://github.com/cliouo/FreeGPT35-Vercel>cliouo/FreeGPT35-Vercel</a> -- <span>Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.</span></li><li><a href=https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools>xiyuesaves/LiteLoaderQQNT-lite_tools</a> -- <span>LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效</span></li><li><a href=https://github.com/twostraws/CodeScanner>twostraws/CodeScanner</a> -- <span>A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.</span></li><li><a href=https://github.com/xiaolai/everyone-can-use-english>xiaolai/everyone-can-use-english</a> -- <span>人人都能用英语</span></li><li><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a> -- <span>The free and privacy-friendly screen recorder with no limits 🎥</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/23/24, 2:24 PM<br>下一次刷新：4/23/24, 5:24 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/23/24, 5:17 PM<br>下一次刷新：4/23/24, 8:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
