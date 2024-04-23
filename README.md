@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/starlight>AkaraChen/starlight</a> -- <span>The ultra-modern productivity tool for Windows lover</span></li><li><a href=https://github.com/MikeChan-HK/Gemini-agent-example>MikeChan-HK/Gemini-agent-example</a> -- <span>An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website.</span></li><li><a href=https://github.com/DaveWoodCom/XCGLogger>DaveWoodCom/XCGLogger</a> -- <span>A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.</span></li><li><a href=https://github.com/SpotX-Official/SpotX-Bash>SpotX-Official/SpotX-Bash</a> -- <span>SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash</span></li><li><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a> -- <span>The free and privacy-friendly screen recorder with no limits 🎥</span></li></ul>
+<ul><li><a href=https://github.com/jaywcjlove/DevHub>jaywcjlove/DevHub</a> -- <span>A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data</span></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a> -- <span>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</span></li><li><a href=https://github.com/pakerwreah/Calendr>pakerwreah/Calendr</a> -- <span>Menu bar calendar for macOS</span></li><li><a href=https://github.com/BasedHardware/Friend>BasedHardware/Friend</a> -- <span>AI wearable with 24h+ battery</span></li><li><a href=https://github.com/adams549659584/go-proxy-bingai>adams549659584/go-proxy-bingai</a> -- <span>用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/23/24, 8:33 PM<br>下一次刷新：4/23/24, 11:33 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/23/24, 11:17 PM<br>下一次刷新：4/24/24, 2:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
