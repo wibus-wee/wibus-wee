@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sindresorhus/sketch-icon-preview>sindresorhus/sketch-icon-preview</a> -- <span>Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app</span></li><li><a href=https://github.com/unclecode/groqcall>unclecode/groqcall</a> -- <span>A Function Calls Proxy for Groq, the fastest AI alive!</span></li><li><a href=https://github.com/PhotonQuantum/tmexclude>PhotonQuantum/tmexclude</a> -- <span>Exclude undesired files (node_modules, target, etc) from your TimeMachine backup.</span></li><li><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a> -- <span>A sloppy Clash.Meta GUI application based on Flutter.</span></li><li><a href=https://github.com/SignTools/SignTools>SignTools/SignTools</a> -- <span>✒ A free, self-hosted platform to sideload iOS apps without a computer</span></li></ul>
+<ul><li><a href=https://github.com/SignTools/SignTools>SignTools/SignTools</a> -- <span>✒ A free, self-hosted platform to sideload iOS apps without a computer</span></li><li><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a> -- <span>A sloppy Clash.Meta GUI application based on Flutter.</span></li><li><a href=https://github.com/SideStore/SideStore>SideStore/SideStore</a> -- <span>SideStore is a fork of AltStore that doesn't require an AltServer.</span></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a> -- <span>High-quality PNGs for logos I made for fun</span></li><li><a href=https://github.com/latentcat/latentbox>latentcat/latentbox</a> -- <span>A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/8/24, 2:20 PM<br>下一次刷新：5/8/24, 5:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/8/24, 5:18 PM<br>下一次刷新：5/8/24, 8:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
