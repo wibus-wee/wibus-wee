@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SideStore/SideStore>SideStore/SideStore</a> -- <span>SideStore is a fork of AltStore that doesn't require an AltServer.</span></li><li><a href=https://github.com/latentcat/latentbox>latentcat/latentbox</a> -- <span>A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a> -- <span>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a> -- <span>The free and privacy-friendly screen recorder with no limits 🎥</span></li><li><a href=https://github.com/jaywcjlove/DevHub>jaywcjlove/DevHub</a> -- <span>A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data</span></li></ul>
+<ul><li><a href=https://github.com/MikeChan-HK/Gemini-agent-example>MikeChan-HK/Gemini-agent-example</a> -- <span>An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website. Ready to support ollama.... (Update when i am free)</span></li><li><a href=https://github.com/sindresorhus/sketch-icon-preview>sindresorhus/sketch-icon-preview</a> -- <span>Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app</span></li><li><a href=https://github.com/cliouo/FreeGPT35-Vercel>cliouo/FreeGPT35-Vercel</a> -- <span>Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a> -- <span>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/SideStore/SideStore>SideStore/SideStore</a> -- <span>SideStore is a fork of AltStore that doesn't require an AltServer.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/9/24, 9:16 AM<br>下一次刷新：5/9/24, 12:16 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/9/24, 11:20 AM<br>下一次刷新：5/9/24, 2:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
