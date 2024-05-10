@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mangerlahn/Latest>mangerlahn/Latest</a> -- <span>A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.</span></li><li><a href=https://github.com/SideStore/SideStore>SideStore/SideStore</a> -- <span>SideStore is a fork of AltStore that doesn't require an AltServer.</span></li><li><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a> -- <span>The free and privacy-friendly screen recorder with no limits 🎥</span></li><li><a href=https://github.com/DaveWoodCom/XCGLogger>DaveWoodCom/XCGLogger</a> -- <span>A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.</span></li><li><a href=https://github.com/ianarawjo/ChainForge>ianarawjo/ChainForge</a> -- <span>An open-source visual programming environment for battle-testing prompts to LLMs.</span></li></ul>
+<ul><li><a href=https://github.com/sindresorhus/sketch-icon-preview>sindresorhus/sketch-icon-preview</a> -- <span>Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app</span></li><li><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a> -- <span>A sloppy Clash.Meta GUI application based on Flutter.</span></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a> -- <span>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</span></li><li><a href=https://github.com/ianarawjo/ChainForge>ianarawjo/ChainForge</a> -- <span>An open-source visual programming environment for battle-testing prompts to LLMs.</span></li><li><a href=https://github.com/cliouo/FreeGPT35-Vercel>cliouo/FreeGPT35-Vercel</a> -- <span>Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/11/24, 2:22 AM<br>下一次刷新：5/11/24, 5:22 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/11/24, 5:17 AM<br>下一次刷新：5/11/24, 8:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
