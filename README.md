@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MikeChan-HK/Gemini-agent-example>MikeChan-HK/Gemini-agent-example</a> -- <span>An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website. Ready to support ollama.... (Update when i am free)</span></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a> -- <span>High-quality PNGs for logos I made for fun</span></li><li><a href=https://github.com/LC044/WeChatMsg>LC044/WeChatMsg</a> -- <span>提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</span></li><li><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a> -- <span>The free and privacy-friendly screen recorder with no limits 🎥</span></li><li><a href=https://github.com/atlassian/pragmatic-drag-and-drop>atlassian/pragmatic-drag-and-drop</a> -- <span>Fast drag and drop for any experience on any tech stack</span></li></ul>
+<ul><li><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a> -- <span>A sloppy Clash.Meta GUI application based on Flutter.</span></li><li><a href=https://github.com/lihaoyun6/AirBattery>lihaoyun6/AirBattery</a> -- <span>Get the battery level of all your devices on your Mac and put them on the Dock / Status Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!</span></li><li><a href=https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools>xiyuesaves/LiteLoaderQQNT-lite_tools</a> -- <span>LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a> -- <span>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/adams549659584/go-proxy-bingai>adams549659584/go-proxy-bingai</a> -- <span>用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/12/24, 2:22 AM<br>下一次刷新：5/12/24, 5:22 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/12/24, 5:16 AM<br>下一次刷新：5/12/24, 8:16 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
