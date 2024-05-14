@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/alyssaxuu/screenity>alyssaxuu/screenity</a> -- <span>The free and privacy-friendly screen recorder with no limits 🎥</span></li><li><a href=https://github.com/xiaolai/everyone-can-use-english>xiaolai/everyone-can-use-english</a> -- <span>人人都能用英语</span></li><li><a href=https://github.com/ianarawjo/ChainForge>ianarawjo/ChainForge</a> -- <span>An open-source visual programming environment for battle-testing prompts to LLMs.</span></li><li><a href=https://github.com/mangerlahn/Latest>mangerlahn/Latest</a> -- <span>A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.</span></li><li><a href=https://github.com/yetone/get-selected-text>yetone/get-selected-text</a> -- <span>A tiny Rust library that allows you to easily obtain selected text across all platforms (macOS, Windows, Linux).</span></li></ul>
+<ul><li><a href=https://github.com/LC044/WeChatMsg>LC044/WeChatMsg</a> -- <span>提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</span></li><li><a href=https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools>xiyuesaves/LiteLoaderQQNT-lite_tools</a> -- <span>LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效</span></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a> -- <span>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</span></li><li><a href=https://github.com/LLM-Red-Team/kimi-free-api>LLM-Red-Team/kimi-free-api</a> -- <span>🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。</span></li><li><a href=https://github.com/MikeChan-HK/Gemini-agent-example>MikeChan-HK/Gemini-agent-example</a> -- <span>An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website. Ready to support ollama.... (Update when i am free)</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/14/24, 5:19 PM<br>下一次刷新：5/14/24, 8:19 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/14/24, 8:34 PM<br>下一次刷新：5/14/24, 11:34 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
