@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/andrew-levy/swiftui-react-native>andrew-levy/swiftui-react-native</a> -- <span>Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child.</span></li><li><a href=https://github.com/adams549659584/go-proxy-bingai>adams549659584/go-proxy-bingai</a> -- <span>用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。</span></li><li><a href=https://github.com/atlassian/pragmatic-drag-and-drop>atlassian/pragmatic-drag-and-drop</a> -- <span>Fast drag and drop for any experience on any tech stack</span></li><li><a href=https://github.com/sebjvidal/Apple-Music-UI-Demo>sebjvidal/Apple-Music-UI-Demo</a></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a> -- <span>High-quality PNGs for logos I made for fun</span></li></ul>
+<ul><li><a href=https://github.com/NapNeko/NapCatQQ>NapNeko/NapCatQQ</a> -- <span>基于NTQQ的无头Bot框架</span></li><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a> -- <span>[WIP] Next generation information browser</span></li><li><a href=https://github.com/adams549659584/go-proxy-bingai>adams549659584/go-proxy-bingai</a> -- <span>用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。</span></li><li><a href=https://github.com/egoist/tipc>egoist/tipc</a> -- <span>End-to-end typesafe IPC for Electron</span></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a> -- <span>High-quality PNGs for logos I made for fun</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/16/24, 11:18 PM<br>下一次刷新：5/17/24, 2:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/17/24, 2:21 AM<br>下一次刷新：5/17/24, 5:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
