@@ -86,12 +86,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/joye61/pic-smaller>joye61/pic-smaller</a> -- <span>Pic Smaller – Compress WebP, PNG and JPEG images intelligently</span></li><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li><li><a href=https://github.com/KermanX/reactive-vscode>KermanX/reactive-vscode</a> -- <span>[WIP] Develop VSCode extension with Vue 3 Composition API</span></li><li><a href=https://github.com/marlkiller/dylib_dobby_hook>marlkiller/dylib_dobby_hook</a> -- <span>这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。</span></li><li><a href=https://github.com/Danny-Dasilva/CycleTLS>Danny-Dasilva/CycleTLS</a> -- <span>Spoof TLS/JA3 fingerprints in GO and Javascript</span></li></ul>
+<ul><li><a href=https://github.com/joye61/pic-smaller>joye61/pic-smaller</a> -- <span>Pic Smaller – Compress JPEG, PNG, WebP and GIF images intelligently</span></li><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li><li><a href=https://github.com/KermanX/reactive-vscode>KermanX/reactive-vscode</a> -- <span>[WIP] Develop VSCode extension with Vue 3 Composition API</span></li><li><a href=https://github.com/marlkiller/dylib_dobby_hook>marlkiller/dylib_dobby_hook</a> -- <span>这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。</span></li><li><a href=https://github.com/Danny-Dasilva/CycleTLS>Danny-Dasilva/CycleTLS</a> -- <span>Spoof TLS/JA3 fingerprints in GO and Javascript</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/LC044/WeChatMsg>LC044/WeChatMsg</a> -- <span>提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</span></li><li><a href=https://github.com/sebjvidal/Apple-Music-UI-Demo>sebjvidal/Apple-Music-UI-Demo</a></li><li><a href=https://github.com/cliouo/FreeGPT35-Vercel>cliouo/FreeGPT35-Vercel</a> -- <span>Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.</span></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a> -- <span>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/adams549659584/go-proxy-bingai>adams549659584/go-proxy-bingai</a> -- <span>用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。</span></li></ul>
+<ul><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a> -- <span>ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li><li><a href=https://github.com/lihaoyun6/AirBattery>lihaoyun6/AirBattery</a> -- <span>Get the battery level of all your devices on your Mac and put them on the Dock / Status Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!</span></li><li><a href=https://github.com/NapNeko/NapCatQQ>NapNeko/NapCatQQ</a> -- <span>基于NTQQ的无头Bot框架</span></li><li><a href=https://github.com/SignTools/SignTools>SignTools/SignTools</a> -- <span>✒ A free, self-hosted platform to sideload iOS apps without a computer</span></li><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a> -- <span>[WIP] Next generation information browser</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/18/24, 5:18 PM<br>下一次刷新：5/18/24, 8:18 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/18/24, 8:31 PM<br>下一次刷新：5/18/24, 11:31 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
