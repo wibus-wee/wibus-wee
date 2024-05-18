@@ -86,12 +86,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/KermanX/reactive-vscode>KermanX/reactive-vscode</a> -- <span>[WIP] Develop VSCode extension with Vue 3 Composition API</span></li><li><a href=https://github.com/marlkiller/dylib_dobby_hook>marlkiller/dylib_dobby_hook</a> -- <span>这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。</span></li><li><a href=https://github.com/Danny-Dasilva/CycleTLS>Danny-Dasilva/CycleTLS</a> -- <span>Spoof TLS/JA3 fingerprints in GO and Javascript</span></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a> -- <span>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/s1ntoneli/AppUpdater>s1ntoneli/AppUpdater</a> -- <span>A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app.</span></li></ul>
+<ul><li><a href=https://github.com/joye61/pic-smaller>joye61/pic-smaller</a> -- <span>Pic Smaller – Compress WebP, PNG and JPEG images intelligently</span></li><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li><li><a href=https://github.com/KermanX/reactive-vscode>KermanX/reactive-vscode</a> -- <span>[WIP] Develop VSCode extension with Vue 3 Composition API</span></li><li><a href=https://github.com/marlkiller/dylib_dobby_hook>marlkiller/dylib_dobby_hook</a> -- <span>这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。</span></li><li><a href=https://github.com/Danny-Dasilva/CycleTLS>Danny-Dasilva/CycleTLS</a> -- <span>Spoof TLS/JA3 fingerprints in GO and Javascript</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a> -- <span>A sloppy Clash.Meta GUI application based on Flutter.</span></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a> -- <span>High-quality PNGs for logos I made for fun</span></li><li><a href=https://github.com/NapNeko/NapCatQQ>NapNeko/NapCatQQ</a> -- <span>基于NTQQ的无头Bot框架</span></li><li><a href=https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools>xiyuesaves/LiteLoaderQQNT-lite_tools</a> -- <span>LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效</span></li><li><a href=https://github.com/sindresorhus/sketch-icon-preview>sindresorhus/sketch-icon-preview</a> -- <span>Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app</span></li></ul>
+<ul><li><a href=https://github.com/atlassian/pragmatic-drag-and-drop>atlassian/pragmatic-drag-and-drop</a> -- <span>Fast drag and drop for any experience on any tech stack</span></li><li><a href=https://github.com/andrew-levy/swiftui-react-native>andrew-levy/swiftui-react-native</a> -- <span>Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child.</span></li><li><a href=https://github.com/lihaoyun6/AirBattery>lihaoyun6/AirBattery</a> -- <span>Get the battery level of all your devices on your Mac and put them on the Dock / Status Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!</span></li><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a> -- <span>[WIP] Next generation information browser</span></li><li><a href=https://github.com/ianarawjo/ChainForge>ianarawjo/ChainForge</a> -- <span>An open-source visual programming environment for battle-testing prompts to LLMs.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/18/24, 5:15 AM<br>下一次刷新：5/18/24, 8:15 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/18/24, 9:17 AM<br>下一次刷新：5/18/24, 12:17 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
