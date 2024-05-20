@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/antfu/importx>antfu/importx</a> -- <span>Unified tool for importing TypeScript modules at runtime.</span></li><li><a href=https://github.com/PhotonQuantum/tmexclude>PhotonQuantum/tmexclude</a> -- <span>Exclude undesired files (node_modules, target, etc) from your TimeMachine backup.</span></li><li><a href=https://github.com/mangerlahn/Latest>mangerlahn/Latest</a> -- <span>A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.</span></li><li><a href=https://github.com/LC044/WeChatMsg>LC044/WeChatMsg</a> -- <span>提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</span></li><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a> -- <span>ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li></ul>
+<ul><li><a href=https://github.com/antfu/importx>antfu/importx</a> -- <span>Unified tool for importing TypeScript modules at runtime.</span></li><li><a href=https://github.com/yetone/get-selected-text>yetone/get-selected-text</a> -- <span>A tiny Rust library that allows you to easily obtain selected text across all platforms (macOS, Windows, Linux).</span></li><li><a href=https://github.com/SignTools/SignTools>SignTools/SignTools</a> -- <span>✒ A free, self-hosted platform to sideload iOS apps without a computer</span></li><li><a href=https://github.com/s1ntoneli/AppUpdater>s1ntoneli/AppUpdater</a> -- <span>A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app.</span></li><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a> -- <span>Yet another template for document SSG.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/20/24, 2:25 PM<br>下一次刷新：5/20/24, 5:25 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/20/24, 5:21 PM<br>下一次刷新：5/20/24, 8:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
