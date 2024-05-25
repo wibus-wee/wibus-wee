@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SideStore/SideStore>SideStore/SideStore</a> -- <span>SideStore is a fork of AltStore that doesn't require an AltServer.</span></li><li><a href=https://github.com/LC044/WeChatMsg>LC044/WeChatMsg</a> -- <span>提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</span></li><li><a href=https://github.com/mangerlahn/Latest>mangerlahn/Latest</a> -- <span>A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.</span></li><li><a href=https://github.com/yetone/get-selected-text>yetone/get-selected-text</a> -- <span>A tiny Rust library that allows you to easily obtain selected text across all platforms (macOS, Windows, Linux).</span></li><li><a href=https://github.com/lihaoyun6/AirBattery>lihaoyun6/AirBattery</a> -- <span>Get the battery level of all your devices on your Mac and put them on the Dock / Status Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!</span></li></ul>
+<ul><li><a href=https://github.com/egoist/tipc>egoist/tipc</a> -- <span>End-to-end typesafe IPC for Electron</span></li><li><a href=https://github.com/RSSNext/follow>RSSNext/follow</a> -- <span>[WIP] Next generation information browser</span></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a> -- <span>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/PhotonQuantum/tmexclude>PhotonQuantum/tmexclude</a> -- <span>Exclude undesired files (node_modules, target, etc) from your TimeMachine backup.</span></li><li><a href=https://github.com/marlkiller/dylib_dobby_hook>marlkiller/dylib_dobby_hook</a> -- <span>这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/25/24, 9:17 AM<br>下一次刷新：5/25/24, 12:17 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/25/24, 11:22 AM<br>下一次刷新：5/25/24, 2:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
