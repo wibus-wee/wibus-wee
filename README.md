@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a> -- <span>ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li><li><a href=https://github.com/atlassian/pragmatic-drag-and-drop>atlassian/pragmatic-drag-and-drop</a> -- <span>Fast drag and drop for any experience on any tech stack</span></li><li><a href=https://github.com/lihaoyun6/AirBattery>lihaoyun6/AirBattery</a> -- <span>Get the battery level of all your devices on your Mac and put them on the Dock / Status Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!</span></li><li><a href=https://github.com/sebjvidal/Apple-Music-UI-Demo>sebjvidal/Apple-Music-UI-Demo</a></li><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a> -- <span>Yet another template for document SSG.</span></li></ul>
+<ul><li><a href=https://github.com/s1ntoneli/AppUpdater>s1ntoneli/AppUpdater</a> -- <span>A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app.</span></li><li><a href=https://github.com/ianarawjo/ChainForge>ianarawjo/ChainForge</a> -- <span>An open-source visual programming environment for battle-testing prompts to LLMs.</span></li><li><a href=https://github.com/KermanX/reactive-vscode>KermanX/reactive-vscode</a> -- <span>[WIP] Develop VSCode extension with Vue 3 Composition API</span></li><li><a href=https://github.com/antfu/importx>antfu/importx</a> -- <span>Unified tool for importing TypeScript modules at runtime.</span></li><li><a href=https://github.com/NapNeko/NapCatQQ>NapNeko/NapCatQQ</a> -- <span>基于NTQQ的无头Bot框架</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/29/24, 11:20 PM<br>下一次刷新：5/30/24, 2:20 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/30/24, 2:23 AM<br>下一次刷新：5/30/24, 5:23 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
