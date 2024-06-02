@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a> -- <span>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a> -- <span>Yet another template for document SSG.</span></li><li><a href=https://github.com/andrew-levy/swiftui-react-native>andrew-levy/swiftui-react-native</a> -- <span>Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child.</span></li><li><a href=https://github.com/mangerlahn/Latest>mangerlahn/Latest</a> -- <span>A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.</span></li></ul>
+<ul><li><a href=https://github.com/mangerlahn/Latest>mangerlahn/Latest</a> -- <span>A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.</span></li><li><a href=https://github.com/sebjvidal/Apple-Music-UI-Demo>sebjvidal/Apple-Music-UI-Demo</a></li><li><a href=https://github.com/KermanX/reactive-vscode>KermanX/reactive-vscode</a> -- <span>[WIP] Develop VSCode extension with Vue 3 Composition API</span></li><li><a href=https://github.com/lihaoyun6/AirBattery>lihaoyun6/AirBattery</a> -- <span>Get the battery level of all your devices on your Mac and put them on the Dock / Status Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!</span></li><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/2/24, 2:25 PM<br>下一次刷新：6/2/24, 5:25 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/2/24, 5:18 PM<br>下一次刷新：6/2/24, 8:18 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
