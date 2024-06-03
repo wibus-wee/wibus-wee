@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SideStore/SideStore>SideStore/SideStore</a> -- <span>SideStore is a fork of AltStore that doesn't require an AltServer.</span></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a> -- <span>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/s1ntoneli/AppUpdater>s1ntoneli/AppUpdater</a> -- <span>A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app.</span></li><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li><li><a href=https://github.com/PhotonQuantum/tmexclude>PhotonQuantum/tmexclude</a> -- <span>Exclude undesired files (node_modules, target, etc) from your TimeMachine backup.</span></li></ul>
+<ul><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a> -- <span>ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li><li><a href=https://github.com/sebjvidal/Apple-Music-UI-Demo>sebjvidal/Apple-Music-UI-Demo</a></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a> -- <span>High-quality PNGs for logos I made for fun</span></li><li><a href=https://github.com/SideStore/SideStore>SideStore/SideStore</a> -- <span>SideStore is a fork of AltStore that doesn't require an AltServer.</span></li><li><a href=https://github.com/NapNeko/NapCatQQ>NapNeko/NapCatQQ</a> -- <span>基于NTQQ的无头Bot框架</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/24, 9:21 AM<br>下一次刷新：6/3/24, 12:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/24, 11:21 AM<br>下一次刷新：6/3/24, 2:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
