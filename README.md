@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a> -- <span>High-quality PNGs for logos I made for fun</span></li><li><a href=https://github.com/antfu/importx>antfu/importx</a> -- <span>Unified tool for importing TypeScript modules at runtime.</span></li><li><a href=https://github.com/atlassian/pragmatic-drag-and-drop>atlassian/pragmatic-drag-and-drop</a> -- <span>Fast drag and drop for any experience on any tech stack</span></li><li><a href=https://github.com/Danny-Dasilva/CycleTLS>Danny-Dasilva/CycleTLS</a> -- <span>Spoof TLS/JA3 fingerprints in GO and Javascript</span></li><li><a href=https://github.com/ReVanced/revanced-manager>ReVanced/revanced-manager</a> -- <span>💊 Application to use ReVanced on Android</span></li></ul>
+<ul><li><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a> -- <span>A sloppy Clash.Meta GUI application based on Flutter.</span></li><li><a href=https://github.com/Innei/book-ssg-template>Innei/book-ssg-template</a> -- <span>Yet another template for document SSG.</span></li><li><a href=https://github.com/Danny-Dasilva/CycleTLS>Danny-Dasilva/CycleTLS</a> -- <span>Spoof TLS/JA3 fingerprints in GO and Javascript</span></li><li><a href=https://github.com/atlassian/pragmatic-drag-and-drop>atlassian/pragmatic-drag-and-drop</a> -- <span>Fast drag and drop for any experience on any tech stack</span></li><li><a href=https://github.com/KermanX/reactive-vscode>KermanX/reactive-vscode</a> -- <span>Develop VSCode extension with Vue Reactivity API</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/7/24, 8:36 PM<br>下一次刷新：6/7/24, 11:36 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/7/24, 11:20 PM<br>下一次刷新：6/8/24, 2:20 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
