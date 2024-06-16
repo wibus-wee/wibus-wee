@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/yetone/get-selected-text>yetone/get-selected-text</a> -- <span>A tiny Rust library that allows you to easily obtain selected text across all platforms (macOS, Windows, Linux).</span></li><li><a href=https://github.com/ReVanced/revanced-manager>ReVanced/revanced-manager</a> -- <span>💊 Application to use ReVanced on Android</span></li><li><a href=https://github.com/s1ntoneli/AppUpdater>s1ntoneli/AppUpdater</a> -- <span>A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app.</span></li><li><a href=https://github.com/sindresorhus/sketch-icon-preview>sindresorhus/sketch-icon-preview</a> -- <span>Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app</span></li><li><a href=https://github.com/joye61/pic-smaller>joye61/pic-smaller</a> -- <span>Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently</span></li></ul>
+<ul><li><a href=https://github.com/whoeevee/EeveeSpotify>whoeevee/EeveeSpotify</a> -- <span>A tweak to get Spotify Premium for free, just like Spotilife</span></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a> -- <span>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/s1ntoneli/AppUpdater>s1ntoneli/AppUpdater</a> -- <span>A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app.</span></li><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a> -- <span>ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li><li><a href=https://github.com/NapNeko/NapCatQQ>NapNeko/NapCatQQ</a> -- <span>基于NTQQ的无头Bot框架</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/16/24, 8:33 PM<br>下一次刷新：6/16/24, 11:33 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/16/24, 11:19 PM<br>下一次刷新：6/17/24, 2:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
