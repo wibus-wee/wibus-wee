@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/andrew-levy/swiftui-react-native>andrew-levy/swiftui-react-native</a> -- <span>Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child.</span></li><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li><li><a href=https://github.com/XInTheDark/raycast-g4f>XInTheDark/raycast-g4f</a> -- <span>Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!</span></li><li><a href=https://github.com/Danny-Dasilva/CycleTLS>Danny-Dasilva/CycleTLS</a> -- <span>Spoof TLS/JA3 fingerprints in GO and Javascript</span></li><li><a href=https://github.com/sebjvidal/Apple-Music-UI-Demo>sebjvidal/Apple-Music-UI-Demo</a></li></ul>
+<ul><li><a href=https://github.com/ReVanced/revanced-manager>ReVanced/revanced-manager</a> -- <span>💊 Application to use ReVanced on Android</span></li><li><a href=https://github.com/LC044/WeChatMsg>LC044/WeChatMsg</a> -- <span>提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</span></li><li><a href=https://github.com/egoist/tipc>egoist/tipc</a> -- <span>End-to-end typesafe IPC for Electron</span></li><li><a href=https://github.com/antfu/importx>antfu/importx</a> -- <span>Unified tool for importing TypeScript modules at runtime.</span></li><li><a href=https://github.com/Danny-Dasilva/CycleTLS>Danny-Dasilva/CycleTLS</a> -- <span>Spoof TLS/JA3 fingerprints in GO and Javascript</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/19/24, 2:25 AM<br>下一次刷新：6/19/24, 5:25 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/19/24, 5:17 AM<br>下一次刷新：6/19/24, 8:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
