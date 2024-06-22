@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/zsakvo/Clash-Fudge>zsakvo/Clash-Fudge</a> -- <span>A sloppy Clash.Meta GUI application based on Flutter.</span></li><li><a href=https://github.com/LC044/WeChatMsg>LC044/WeChatMsg</a> -- <span>提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</span></li><li><a href=https://github.com/yetone/get-selected-text>yetone/get-selected-text</a> -- <span>A tiny Rust library that allows you to easily obtain selected text across all platforms (macOS, Windows, Linux).</span></li><li><a href=https://github.com/Danny-Dasilva/CycleTLS>Danny-Dasilva/CycleTLS</a> -- <span>Spoof TLS/JA3 fingerprints in GO and Javascript</span></li><li><a href=https://github.com/egoist/tipc>egoist/tipc</a> -- <span>End-to-end typesafe IPC for Electron</span></li></ul>
+<ul><li><a href=https://github.com/whoeevee/EeveeSpotify>whoeevee/EeveeSpotify</a> -- <span>A tweak to get Spotify Premium for free, just like Spotilife</span></li><li><a href=https://github.com/KermanX/reactive-vscode>KermanX/reactive-vscode</a> -- <span>Develop VSCode extension with Vue Reactivity API</span></li><li><a href=https://github.com/LC044/WeChatMsg>LC044/WeChatMsg</a> -- <span>提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手</span></li><li><a href=https://github.com/sindresorhus/sketch-icon-preview>sindresorhus/sketch-icon-preview</a> -- <span>Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app</span></li><li><a href=https://github.com/ReVanced/revanced-manager>ReVanced/revanced-manager</a> -- <span>💊 Application to use ReVanced on Android</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/22/24, 9:19 AM<br>下一次刷新：6/22/24, 12:19 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/22/24, 11:22 AM<br>下一次刷新：6/22/24, 2:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
