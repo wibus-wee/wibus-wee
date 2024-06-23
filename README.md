@@ -86,12 +86,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/casey/just>casey/just</a> -- <span>🤖 Just a command runner</span></li><li><a href=https://github.com/KingSora/OverlayScrollbars>KingSora/OverlayScrollbars</a> -- <span>A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.</span></li><li><a href=https://github.com/niw/GoodMacAppIcon>niw/GoodMacAppIcon</a> -- <span>What is a good Mac app icon?</span></li><li><a href=https://github.com/jordanbaird/Ice>jordanbaird/Ice</a> -- <span>Powerful menu bar manager for macOS</span></li><li><a href=https://github.com/LeeeSe/MessAuto>LeeeSe/MessAuto</a> -- <span>自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform</span></li></ul>
+<ul><li><a href=https://github.com/bluwy/ihimnm>bluwy/ihimnm</a></li><li><a href=https://github.com/casey/just>casey/just</a> -- <span>🤖 Just a command runner</span></li><li><a href=https://github.com/KingSora/OverlayScrollbars>KingSora/OverlayScrollbars</a> -- <span>A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.</span></li><li><a href=https://github.com/niw/GoodMacAppIcon>niw/GoodMacAppIcon</a> -- <span>What is a good Mac app icon?</span></li><li><a href=https://github.com/jordanbaird/Ice>jordanbaird/Ice</a> -- <span>Powerful menu bar manager for macOS</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Danny-Dasilva/CycleTLS>Danny-Dasilva/CycleTLS</a> -- <span>Spoof TLS/JA3 fingerprints in GO and Javascript</span></li><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li><li><a href=https://github.com/sindresorhus/sketch-icon-preview>sindresorhus/sketch-icon-preview</a> -- <span>Sketch plugin to preview macOS app icons in the Dock using the Icon Preview app</span></li><li><a href=https://github.com/NapNeko/NapCatQQ>NapNeko/NapCatQQ</a> -- <span>基于NTQQ的无头Bot框架</span></li><li><a href=https://github.com/s1ntoneli/AppUpdater>s1ntoneli/AppUpdater</a> -- <span>A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app.</span></li></ul>
+<ul><li><a href=https://github.com/sebjvidal/Apple-Music-UI-Demo>sebjvidal/Apple-Music-UI-Demo</a></li><li><a href=https://github.com/whoeevee/EeveeSpotify>whoeevee/EeveeSpotify</a> -- <span>A tweak to get Spotify Premium for free, just like Spotilife</span></li><li><a href=https://github.com/ReVanced/revanced-manager>ReVanced/revanced-manager</a> -- <span>💊 Application to use ReVanced on Android</span></li><li><a href=https://github.com/antfu/importx>antfu/importx</a> -- <span>Unified tool for importing TypeScript modules at runtime.</span></li><li><a href=https://github.com/LeeeSe/MessAuto>LeeeSe/MessAuto</a> -- <span>自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/23/24, 11:18 PM<br>下一次刷新：6/24/24, 2:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/24/24, 2:23 AM<br>下一次刷新：6/24/24, 5:23 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
