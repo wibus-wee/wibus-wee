@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/bluwy/ihimnm>bluwy/ihimnm</a></li><li><a href=https://github.com/XInTheDark/raycast-g4f>XInTheDark/raycast-g4f</a> -- <span>Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!</span></li><li><a href=https://github.com/biomejs/biome>biomejs/biome</a> -- <span>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</span></li><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a> -- <span>ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li><li><a href=https://github.com/casey/just>casey/just</a> -- <span>🤖 Just a command runner</span></li></ul>
+<ul><li><a href=https://github.com/jordanbaird/Ice>jordanbaird/Ice</a> -- <span>Powerful menu bar manager for macOS</span></li><li><a href=https://github.com/bluwy/ihimnm>bluwy/ihimnm</a></li><li><a href=https://github.com/niw/GoodMacAppIcon>niw/GoodMacAppIcon</a> -- <span>What is a good Mac app icon?</span></li><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li><li><a href=https://github.com/danielsaidi/ScrollKit>danielsaidi/ScrollKit</a> -- <span>ScrollKit is a SwiftUI SDK that adds powerful scroll features, like offset tracking and a header view that stretches & transforms as you pull down, and sticks to the top when you scroll.</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/28/24, 8:35 PM<br>下一次刷新：6/28/24, 11:35 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/28/24, 11:19 PM<br>下一次刷新：6/29/24, 2:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
