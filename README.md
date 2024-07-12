@@ -91,7 +91,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li><li><a href=https://github.com/bluwy/ihimnm>bluwy/ihimnm</a></li><li><a href=https://github.com/marlkiller/dylib_dobby_hook>marlkiller/dylib_dobby_hook</a> -- <span>这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。</span></li><li><a href=https://github.com/joye61/pic-smaller>joye61/pic-smaller</a> -- <span>Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently</span></li><li><a href=https://github.com/sxzz/tsdown>sxzz/tsdown</a> -- <span>An even faster bundler powered by Rolldown.</span></li></ul>
+<ul><li><a href=https://github.com/KingSora/OverlayScrollbars>KingSora/OverlayScrollbars</a> -- <span>A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.</span></li><li><a href=https://github.com/lihaoyun6/QuickRecorder>lihaoyun6/QuickRecorder</a> -- <span>A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具</span></li><li><a href=https://github.com/GSQZ/TuneFree>GSQZ/TuneFree</a> -- <span>一款基于Splayer进行二次开发的音乐播放器，可解析并播放网易云音乐中所有的付费资源。</span></li><li><a href=https://github.com/rudrodip/theme-toggle-effect>rudrodip/theme-toggle-effect</a> -- <span>theme toggle effect using view transitions api</span></li><li><a href=https://github.com/marlkiller/dylib_dobby_hook>marlkiller/dylib_dobby_hook</a> -- <span>这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。</span></li></ul>
 
 
 **捉迷藏**
@@ -104,7 +104,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/12/24, 2:26 PM<br>下一次刷新：7/12/24, 5:26 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/12/24, 5:20 PM<br>下一次刷新：7/12/24, 8:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
