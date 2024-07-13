@@ -6,12 +6,6 @@
   <img alt="Wibus on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a> &nbsp;)</h1>
 
-> [!IMPORTANT]
-> **Development temporarily terminated.**
-> > I am currently preparing for the **National College Entrance Examination (高考) in 2024.**
-> > 
-> > To focus on my studies, I will be limiting my code time. I will probably only fix or otherwise focus on _documentation issues_ for the time being.
-
 <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/>
 
 Hi! I'm wibus! I am **a 🎹 personal piano player and a  🎤 personal singer & maker**, core team of 🔨 [@jwcjs](https://github.com/jwcjs/core) and 🏖 [@mogland](https://github.com/mogland/core) 
