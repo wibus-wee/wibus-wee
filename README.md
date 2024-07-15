@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ReVanced/revanced-manager>ReVanced/revanced-manager</a> -- <span>💊 Application to use ReVanced on Android</span></li><li><a href=https://github.com/casey/just>casey/just</a> -- <span>🤖 Just a command runner</span></li><li><a href=https://github.com/codematrixer/icertools>codematrixer/icertools</a> -- <span>Pure python3 implementation for ios developer certificate manager and re-signing ipa</span></li><li><a href=https://github.com/LeeeSe/MessAuto>LeeeSe/MessAuto</a> -- <span>自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform</span></li><li><a href=https://github.com/rudrodip/theme-toggle-effect>rudrodip/theme-toggle-effect</a> -- <span>theme toggle effect using view transitions api</span></li></ul>
+<ul><li><a href=https://github.com/clearlysid/tauri-plugin-decorum>clearlysid/tauri-plugin-decorum</a> -- <span>Opinionated window decoration controls for apps built with the Tauri framework.</span></li><li><a href=https://github.com/marlkiller/dylib_dobby_hook>marlkiller/dylib_dobby_hook</a> -- <span>这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。</span></li><li><a href=https://github.com/codematrixer/icertools>codematrixer/icertools</a> -- <span>Pure python3 implementation for ios developer certificate manager and re-signing ipa</span></li><li><a href=https://github.com/jordanbaird/Ice>jordanbaird/Ice</a> -- <span>Powerful menu bar manager for macOS</span></li><li><a href=https://github.com/niw/GoodMacAppIcon>niw/GoodMacAppIcon</a> -- <span>What is a good Mac app icon?</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/15/24, 9:25 AM<br>下一次刷新：7/15/24, 12:25 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/15/24, 11:24 AM<br>下一次刷新：7/15/24, 2:24 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
