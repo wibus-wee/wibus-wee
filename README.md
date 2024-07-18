@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/developit/mitt>developit/mitt</a> -- <span>🥊 Tiny 200 byte functional event emitter / pubsub.</span></li><li><a href=https://github.com/ReVanced/revanced-manager>ReVanced/revanced-manager</a> -- <span>💊 Application to use ReVanced on Android</span></li><li><a href=https://github.com/LeeeSe/MessAuto>LeeeSe/MessAuto</a> -- <span>自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform</span></li><li><a href=https://github.com/codematrixer/icertools>codematrixer/icertools</a> -- <span>Pure python3 implementation for ios developer certificate manager and re-signing ipa</span></li><li><a href=https://github.com/himself65/react-server>himself65/react-server</a> -- <span>Collection of React Server tools</span></li></ul>
+<ul><li><a href=https://github.com/MrKai77/Loop>MrKai77/Loop</a> -- <span>Window management made elegant.</span></li><li><a href=https://github.com/himself65/react-server>himself65/react-server</a> -- <span>Collection of React Server tools</span></li><li><a href=https://github.com/sxzz/tsdown>sxzz/tsdown</a> -- <span>An even faster bundler powered by Rolldown.</span></li><li><a href=https://github.com/lihaoyun6/QuickRecorder>lihaoyun6/QuickRecorder</a> -- <span>A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具</span></li><li><a href=https://github.com/whoeevee/EeveeSpotify>whoeevee/EeveeSpotify</a> -- <span>A tweak to get Spotify Premium for free, just like Spotilife</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/18/24, 5:18 AM<br>下一次刷新：7/18/24, 8:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/18/24, 9:22 AM<br>下一次刷新：7/18/24, 12:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
