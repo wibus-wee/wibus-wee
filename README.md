@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/NotchDrop>Lakr233/NotchDrop</a> -- <span>Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop</span></li><li><a href=https://github.com/sxzz/tsdown>sxzz/tsdown</a> -- <span>An even faster bundler powered by Rolldown.</span></li><li><a href=https://github.com/alohe/avatars>alohe/avatars</a> -- <span>Avatars is a collection of diverse free avatar images from across the web, designed to add personality to your projects. With a vast selection of vibrant illustrations, you can enhance your projects in seconds.</span></li><li><a href=https://github.com/niw/GoodMacAppIcon>niw/GoodMacAppIcon</a> -- <span>What is a good Mac app icon?</span></li><li><a href=https://github.com/bluwy/ihimnm>bluwy/ihimnm</a></li></ul>
+<ul><li><a href=https://github.com/SwiftfulThinking/SwiftfulRouting>SwiftfulThinking/SwiftfulRouting</a> -- <span>Programmatic navigation for SwiftUI applications.</span></li><li><a href=https://github.com/himself65/react-server>himself65/react-server</a> -- <span>Collection of React Server tools</span></li><li><a href=https://github.com/XInTheDark/raycast-g4f>XInTheDark/raycast-g4f</a> -- <span>Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!</span></li><li><a href=https://github.com/jordanbaird/Ice>jordanbaird/Ice</a> -- <span>Powerful menu bar manager for macOS</span></li><li><a href=https://github.com/stackblitz-labs/pkg.pr.new>stackblitz-labs/pkg.pr.new</a> -- <span>Continuous (Preview) Releases for your libraries!</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/18/24, 8:37 PM<br>下一次刷新：7/18/24, 11:37 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/18/24, 11:21 PM<br>下一次刷新：7/19/24, 2:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
