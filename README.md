@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/codematrixer/icertools>codematrixer/icertools</a> -- <span>Pure python3 implementation for ios developer certificate manager and re-signing ipa</span></li><li><a href=https://github.com/himself65/react-server>himself65/react-server</a> -- <span>Collection of React Server tools</span></li><li><a href=https://github.com/sxzz/tsdown>sxzz/tsdown</a> -- <span>An even faster bundler powered by Rolldown.</span></li><li><a href=https://github.com/lihaoyun6/QuickRecorder>lihaoyun6/QuickRecorder</a> -- <span>A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具</span></li><li><a href=https://github.com/niw/GoodMacAppIcon>niw/GoodMacAppIcon</a> -- <span>What is a good Mac app icon?</span></li></ul>
+<ul><li><a href=https://github.com/CatMe0w/zouxian>CatMe0w/zouxian</a> -- <span>Permanent Xcode Predictive Code Completion for Chinese-market Mac computers</span></li><li><a href=https://github.com/KingSora/OverlayScrollbars>KingSora/OverlayScrollbars</a> -- <span>A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.</span></li><li><a href=https://github.com/ReVanced/revanced-manager>ReVanced/revanced-manager</a> -- <span>💊 Application to use ReVanced on Android</span></li><li><a href=https://github.com/Lakr233/NotchDrop>Lakr233/NotchDrop</a> -- <span>Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop</span></li><li><a href=https://github.com/lihaoyun6/QuickRecorder>lihaoyun6/QuickRecorder</a> -- <span>A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/19/24, 2:26 PM<br>下一次刷新：7/19/24, 5:26 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/19/24, 5:19 PM<br>下一次刷新：7/19/24, 8:19 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
