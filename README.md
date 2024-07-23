@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lihaoyun6/QuickRecorder>lihaoyun6/QuickRecorder</a> -- <span>A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具</span></li><li><a href=https://github.com/typegoose/mongodb-memory-server>typegoose/mongodb-memory-server</a> -- <span>Manage & spin up mongodb server binaries with zero(or slight) configuration for tests.</span></li><li><a href=https://github.com/alohe/avatars>alohe/avatars</a> -- <span>Avatars is a collection of diverse free avatar images from across the web, designed to add personality to your projects. With a vast selection of vibrant illustrations, you can enhance your projects in seconds.</span></li><li><a href=https://github.com/XInTheDark/raycast-g4f>XInTheDark/raycast-g4f</a> -- <span>Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!</span></li><li><a href=https://github.com/casey/just>casey/just</a> -- <span>🤖 Just a command runner</span></li></ul>
+<ul><li><a href=https://github.com/joshfarrant/shortcuts-js>joshfarrant/shortcuts-js</a> -- <span>A JavaScript iOS 12 Shortcuts creator</span></li><li><a href=https://github.com/XInTheDark/raycast-g4f>XInTheDark/raycast-g4f</a> -- <span>Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!</span></li><li><a href=https://github.com/niw/GoodMacAppIcon>niw/GoodMacAppIcon</a> -- <span>What is a good Mac app icon?</span></li><li><a href=https://github.com/Lakr233/Asspp>Lakr233/Asspp</a> -- <span>The App Store for your multi-account eco system.</span></li><li><a href=https://github.com/lengyibai/wzry>lengyibai/wzry</a> -- <span>🌈基于 Vue3+TS的王者荣耀图鉴🚀</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/23/24, 11:21 PM<br>下一次刷新：7/24/24, 2:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/24/24, 2:25 AM<br>下一次刷新：7/24/24, 5:25 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
