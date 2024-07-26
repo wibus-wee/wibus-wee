@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/LeeeSe/MessAuto>LeeeSe/MessAuto</a> -- <span>自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform</span></li><li><a href=https://github.com/GSQZ/TuneFree>GSQZ/TuneFree</a> -- <span>一款基于Splayer进行二次开发的音乐播放器，可解析并播放网易云音乐中所有的付费资源。</span></li><li><a href=https://github.com/LondonX/clash-kit>LondonX/clash-kit</a></li><li><a href=https://github.com/rudrodip/theme-toggle-effect>rudrodip/theme-toggle-effect</a> -- <span>theme toggle effect using view transitions api</span></li><li><a href=https://github.com/niw/GoodMacAppIcon>niw/GoodMacAppIcon</a> -- <span>What is a good Mac app icon?</span></li></ul>
+<ul><li><a href=https://github.com/LeeeSe/MessAuto>LeeeSe/MessAuto</a> -- <span>自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform</span></li><li><a href=https://github.com/alohe/avatars>alohe/avatars</a> -- <span>Avatars is a collection of diverse free avatar images from across the web, designed to add personality to your projects. With a vast selection of vibrant illustrations, you can enhance your projects in seconds.</span></li><li><a href=https://github.com/rudrodip/theme-toggle-effect>rudrodip/theme-toggle-effect</a> -- <span>theme toggle effect using view transitions api</span></li><li><a href=https://github.com/KingSora/OverlayScrollbars>KingSora/OverlayScrollbars</a> -- <span>A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.</span></li><li><a href=https://github.com/Lakr233/NotchDrop>Lakr233/NotchDrop</a> -- <span>Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/26/24, 11:21 AM<br>下一次刷新：7/26/24, 2:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/26/24, 2:27 PM<br>下一次刷新：7/26/24, 5:27 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
