@@ -33,12 +33,12 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 <br />
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
-<img align="right" width="450" src="https://github-readme-stats-bs.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=24292f&icon_color=57606a&bg_color=ffffff&border_color=d0d7de&rank_icon=percentile&show=reviews,discussions_answered"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=24292f&icon_color=57606a&bg_color=ffffff&border_color=d0d7de&rank_icon=percentile&show=reviews,discussions_answered"/>
 </a>
   
 
 <a href="https://github.com/wibus-wee#gh-dark-mode-only">
-<img align="right" width="450" src="https://github-readme-stats-bs.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/>
 </a>
 
 <br />
