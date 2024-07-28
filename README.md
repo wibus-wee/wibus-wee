@@ -33,12 +33,12 @@ I began to learn vocal music and piano since I was a child, and I have won many 
 <br />
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
-<img align="right" width="450" src="https://github-readme-stats-bs.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=24292f&icon_color=57606a&bg_color=ffffff&border_color=d0d7de&rank_icon=percentile&show=reviews,discussions_answered"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=24292f&icon_color=57606a&bg_color=ffffff&border_color=d0d7de&rank_icon=percentile&show=reviews,discussions_answered"/>
 </a>
   
 
 <a href="https://github.com/wibus-wee#gh-dark-mode-only">
-<img align="right" width="450" src="https://github-readme-stats-bs.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/>
 </a>
 
 <br />
@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/typegoose/mongodb-memory-server>typegoose/mongodb-memory-server</a> -- <span>Manage & spin up mongodb server binaries with zero(or slight) configuration for tests.</span></li><li><a href=https://github.com/joshfarrant/shortcuts-js>joshfarrant/shortcuts-js</a> -- <span>A JavaScript iOS 12 Shortcuts creator</span></li><li><a href=https://github.com/rudrodip/theme-toggle-effect>rudrodip/theme-toggle-effect</a> -- <span>theme toggle effect using view transitions api</span></li><li><a href=https://github.com/MrKai77/Loop>MrKai77/Loop</a> -- <span>Window management made elegant.</span></li><li><a href=https://github.com/bluwy/ihimnm>bluwy/ihimnm</a></li></ul>
+<ul><li><a href=https://github.com/bluwy/ihimnm>bluwy/ihimnm</a></li><li><a href=https://github.com/KingSora/OverlayScrollbars>KingSora/OverlayScrollbars</a> -- <span>A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.</span></li><li><a href=https://github.com/niw/GoodMacAppIcon>niw/GoodMacAppIcon</a> -- <span>What is a good Mac app icon?</span></li><li><a href=https://github.com/SwiftfulThinking/SwiftfulRouting>SwiftfulThinking/SwiftfulRouting</a> -- <span>Programmatic navigation for SwiftUI applications.</span></li><li><a href=https://github.com/alohe/avatars>alohe/avatars</a> -- <span>Avatars is a collection of diverse free avatar images from across the web, designed to add personality to your projects. With a vast selection of vibrant illustrations, you can enhance your projects in seconds.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/28/24, 11:21 AM<br>下一次刷新：7/28/24, 2:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/28/24, 2:09 PM<br>下一次刷新：7/28/24, 5:09 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
