@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/alienator88/Pearcleaner>alienator88/Pearcleaner</a> -- <span>A free, source-available and fair-code licensed mac app cleaner</span></li><li><a href=https://github.com/stackblitz-labs/pkg.pr.new>stackblitz-labs/pkg.pr.new</a> -- <span>Continuous (Preview) Releases for your libraries!</span></li><li><a href=https://github.com/MrKai77/Loop>MrKai77/Loop</a> -- <span>Window management made elegant.</span></li><li><a href=https://github.com/rudrodip/theme-toggle-effect>rudrodip/theme-toggle-effect</a> -- <span>theme toggle effect using view transitions api</span></li><li><a href=https://github.com/sxzz/tsdown>sxzz/tsdown</a> -- <span>An even faster bundler powered by Rolldown.</span></li></ul>
+<ul><li><a href=https://github.com/alohe/avatars>alohe/avatars</a> -- <span>Avatars is a collection of diverse free avatar images from across the web, designed to add personality to your projects. With a vast selection of vibrant illustrations, you can enhance your projects in seconds.</span></li><li><a href=https://github.com/CatsJuice/masonry-flow>CatsJuice/masonry-flow</a> -- <span>A React/Vue component to render masonry layout</span></li><li><a href=https://github.com/joshfarrant/shortcuts-js>joshfarrant/shortcuts-js</a> -- <span>A JavaScript iOS 12 Shortcuts creator</span></li><li><a href=https://github.com/rudrodip/theme-toggle-effect>rudrodip/theme-toggle-effect</a> -- <span>theme toggle effect using view transitions api</span></li><li><a href=https://github.com/casey/just>casey/just</a> -- <span>🤖 Just a command runner</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/1/24, 2:27 PM<br>下一次刷新：8/1/24, 5:27 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/1/24, 5:19 PM<br>下一次刷新：8/1/24, 8:19 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
