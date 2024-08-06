@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ejbills/DockDoor>ejbills/DockDoor</a> -- <span>Window peeking for macOS</span></li><li><a href=https://github.com/Lakr233/Asspp>Lakr233/Asspp</a> -- <span>The App Store for your multi-account eco system.</span></li><li><a href=https://github.com/LondonX/clash-kit>LondonX/clash-kit</a></li><li><a href=https://github.com/developit/mitt>developit/mitt</a> -- <span>🥊 Tiny 200 byte functional event emitter / pubsub.</span></li><li><a href=https://github.com/joshfarrant/shortcuts-js>joshfarrant/shortcuts-js</a> -- <span>A JavaScript iOS 12 Shortcuts creator</span></li></ul>
+<ul><li><a href=https://github.com/sxzz/tsdown>sxzz/tsdown</a> -- <span>An even faster bundler powered by Rolldown.</span></li><li><a href=https://github.com/stackblitz-labs/pkg.pr.new>stackblitz-labs/pkg.pr.new</a> -- <span>Continuous (Preview) Releases for your libraries!</span></li><li><a href=https://github.com/Lakr233/NotchDrop>Lakr233/NotchDrop</a> -- <span>Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop</span></li><li><a href=https://github.com/SwiftfulThinking/SwiftfulRouting>SwiftfulThinking/SwiftfulRouting</a> -- <span>Programmatic navigation for SwiftUI applications.</span></li><li><a href=https://github.com/joshfarrant/shortcuts-js>joshfarrant/shortcuts-js</a> -- <span>A JavaScript iOS 12 Shortcuts creator</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/6/24, 2:28 PM<br>下一次刷新：8/6/24, 5:28 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/6/24, 5:20 PM<br>下一次刷新：8/6/24, 8:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
