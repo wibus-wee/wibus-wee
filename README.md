@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/alienator88/Pearcleaner>alienator88/Pearcleaner</a> -- <span>A free, source-available and fair-code licensed mac app cleaner</span></li><li><a href=https://github.com/nodejs/amaro>nodejs/amaro</a> -- <span>Node.js TypeScript wrapper</span></li><li><a href=https://github.com/open-webui/open-webui>open-webui/open-webui</a> -- <span>User-friendly WebUI for LLMs (Formerly Ollama WebUI)</span></li><li><a href=https://github.com/GSQZ/TuneFree>GSQZ/TuneFree</a> -- <span>一款基于Splayer进行二次开发的音乐播放器，可解析并播放网易云音乐中所有的付费资源。</span></li><li><a href=https://github.com/developit/mitt>developit/mitt</a> -- <span>🥊 Tiny 200 byte functional event emitter / pubsub.</span></li></ul>
+<ul><li><a href=https://github.com/ejbills/DockDoor>ejbills/DockDoor</a> -- <span>Window peeking for macOS</span></li><li><a href=https://github.com/MiaoMint/akutibu>MiaoMint/akutibu</a> -- <span>Add a live status to your personal website/blog</span></li><li><a href=https://github.com/alienator88/Pearcleaner>alienator88/Pearcleaner</a> -- <span>A free, source-available and fair-code licensed mac app cleaner</span></li><li><a href=https://github.com/himself65/react-server>himself65/react-server</a> -- <span>Collection of React Server tools</span></li><li><a href=https://github.com/CatsJuice/masonry-flow>CatsJuice/masonry-flow</a> -- <span>A React/Vue component to render masonry layout</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/8/24, 2:26 AM<br>下一次刷新：8/8/24, 5:26 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/8/24, 5:19 AM<br>下一次刷新：8/8/24, 8:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
