@@ -80,12 +80,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a> -- <span>A SwiftUI Mastodon client</span></li><li><a href=https://github.com/KermanX/js_to_oxc>KermanX/js_to_oxc</a> -- <span>Convert JS source to Oxc AST builder in Rust</span></li><li><a href=https://github.com/hyperoslo/Cache>hyperoslo/Cache</a> -- <span>:package: Nothing but Cache.</span></li><li><a href=https://github.com/open-webui/pipelines>open-webui/pipelines</a> -- <span>Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework</span></li><li><a href=https://github.com/Light-City/CPlusPlusThings>Light-City/CPlusPlusThings</a> -- <span>C++那些事</span></li></ul>
+<ul><li><a href=https://github.com/naver/egjs-infinitegrid>naver/egjs-infinitegrid</a> -- <span>A module used to arrange card elements including content infinitely on a grid layout.</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a> -- <span>A SwiftUI Mastodon client</span></li><li><a href=https://github.com/KermanX/js_to_oxc>KermanX/js_to_oxc</a> -- <span>Convert JS source to Oxc AST builder in Rust</span></li><li><a href=https://github.com/hyperoslo/Cache>hyperoslo/Cache</a> -- <span>:package: Nothing but Cache.</span></li><li><a href=https://github.com/open-webui/pipelines>open-webui/pipelines</a> -- <span>Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/LondonX/clash-kit>LondonX/clash-kit</a></li><li><a href=https://github.com/nodejs/amaro>nodejs/amaro</a> -- <span>Node.js TypeScript wrapper</span></li><li><a href=https://github.com/CatMe0w/zouxian>CatMe0w/zouxian</a> -- <span>Permanent Apple Intelligence + Xcode Predictive Code Completion for Chinese-market Mac computers</span></li><li><a href=https://github.com/GSQZ/TuneFree>GSQZ/TuneFree</a> -- <span>一款基于Splayer进行二次开发的音乐播放器，可解析并播放网易云音乐中所有的付费资源。</span></li><li><a href=https://github.com/MrKai77/Loop>MrKai77/Loop</a> -- <span>Window management made elegant.</span></li></ul>
+<ul><li><a href=https://github.com/lihaoyun6/QuickRecorder>lihaoyun6/QuickRecorder</a> -- <span>A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具</span></li><li><a href=https://github.com/CatMe0w/zouxian>CatMe0w/zouxian</a> -- <span>Permanent Apple Intelligence + Xcode Predictive Code Completion for Chinese-market Mac computers</span></li><li><a href=https://github.com/nodejs/amaro>nodejs/amaro</a> -- <span>Node.js TypeScript wrapper</span></li><li><a href=https://github.com/LondonX/clash-kit>LondonX/clash-kit</a></li><li><a href=https://github.com/GSQZ/TuneFree>GSQZ/TuneFree</a> -- <span>一款基于Splayer进行二次开发的音乐播放器，可解析并播放网易云音乐中所有的付费资源。</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/7/24, 2:27 PM<br>下一次刷新：8/7/24, 5:27 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/7/24, 5:21 PM<br>下一次刷新：8/7/24, 8:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
