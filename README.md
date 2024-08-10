@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/GSQZ/TuneFree>GSQZ/TuneFree</a> -- <span>一款基于Splayer进行二次开发的音乐播放器，可解析并播放网易云音乐中所有的付费资源。</span></li><li><a href=https://github.com/alienator88/Pearcleaner>alienator88/Pearcleaner</a> -- <span>A free, source-available and fair-code licensed mac app cleaner</span></li><li><a href=https://github.com/nodejs/amaro>nodejs/amaro</a> -- <span>Node.js TypeScript wrapper</span></li><li><a href=https://github.com/lengyibai/wzry>lengyibai/wzry</a> -- <span>🌈基于 Vue3+TS的王者荣耀图鉴🚀</span></li><li><a href=https://github.com/Light-City/CPlusPlusThings>Light-City/CPlusPlusThings</a> -- <span>C++那些事</span></li></ul>
+<ul><li><a href=https://github.com/MiaoMint/akutibu>MiaoMint/akutibu</a> -- <span>Add a live status to your personal website/blog</span></li><li><a href=https://github.com/Watfaq/clash-gomobile>Watfaq/clash-gomobile</a> -- <span>Clash go mobile module for iOS</span></li><li><a href=https://github.com/Lakr233/Asspp>Lakr233/Asspp</a> -- <span>The App Store for your multi-account eco system.</span></li><li><a href=https://github.com/open-webui/open-webui>open-webui/open-webui</a> -- <span>User-friendly WebUI for LLMs (Formerly Ollama WebUI)</span></li><li><a href=https://github.com/alienator88/Pearcleaner>alienator88/Pearcleaner</a> -- <span>A free, source-available and fair-code licensed mac app cleaner</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/11/24, 2:24 AM<br>下一次刷新：8/11/24, 5:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/11/24, 5:18 AM<br>下一次刷新：8/11/24, 8:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
