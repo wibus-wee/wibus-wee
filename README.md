@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/developit/mitt>developit/mitt</a> -- <span>🥊 Tiny 200 byte functional event emitter / pubsub.</span></li><li><a href=https://github.com/joshfarrant/shortcuts-js>joshfarrant/shortcuts-js</a> -- <span>A JavaScript iOS 12 Shortcuts creator</span></li><li><a href=https://github.com/Lakr233/Asspp>Lakr233/Asspp</a> -- <span>The App Store for your multi-account eco system.</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a> -- <span>A SwiftUI Mastodon client</span></li><li><a href=https://github.com/KermanX/js_to_oxc>KermanX/js_to_oxc</a> -- <span>Convert JS source to Oxc AST builder in Rust</span></li></ul>
+<ul><li><a href=https://github.com/SwiftfulThinking/SwiftfulRouting>SwiftfulThinking/SwiftfulRouting</a> -- <span>Programmatic navigation for SwiftUI applications.</span></li><li><a href=https://github.com/Lakr233/Asspp>Lakr233/Asspp</a> -- <span>The App Store for your multi-account eco system.</span></li><li><a href=https://github.com/nodejs/amaro>nodejs/amaro</a> -- <span>Node.js TypeScript wrapper</span></li><li><a href=https://github.com/open-webui/open-webui>open-webui/open-webui</a> -- <span>User-friendly WebUI for LLMs (Formerly Ollama WebUI)</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a> -- <span>A SwiftUI Mastodon client</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/23/24, 5:20 PM<br>下一次刷新：8/23/24, 8:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/23/24, 8:37 PM<br>下一次刷新：8/23/24, 11:37 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
