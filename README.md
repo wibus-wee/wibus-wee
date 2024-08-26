@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/CatsJuice/masonry-flow>CatsJuice/masonry-flow</a> -- <span>A React/Vue component to render masonry layout</span></li><li><a href=https://github.com/Lakr233/MSDisplayLink>Lakr233/MSDisplayLink</a> -- <span>The missing DisplayLink object for Apple platforms.</span></li><li><a href=https://github.com/developit/mitt>developit/mitt</a> -- <span>🥊 Tiny 200 byte functional event emitter / pubsub.</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a> -- <span>A SwiftUI Mastodon client</span></li><li><a href=https://github.com/adobe-research/VideoDoodles>adobe-research/VideoDoodles</a></li></ul>
+<ul><li><a href=https://github.com/Watfaq/clash-gomobile>Watfaq/clash-gomobile</a> -- <span>Clash go mobile module for iOS</span></li><li><a href=https://github.com/open-webui/pipelines>open-webui/pipelines</a> -- <span>Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework</span></li><li><a href=https://github.com/KermanX/js_to_oxc>KermanX/js_to_oxc</a> -- <span>Convert JS source to Oxc AST builder in Rust</span></li><li><a href=https://github.com/hipstersmoothie/react-window-splitter>hipstersmoothie/react-window-splitter</a> -- <span>react-resizable-grid-panels</span></li><li><a href=https://github.com/nodejs/amaro>nodejs/amaro</a> -- <span>Node.js TypeScript wrapper</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/26/24, 5:17 AM<br>下一次刷新：8/26/24, 8:17 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/26/24, 9:34 AM<br>下一次刷新：8/26/24, 12:34 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
