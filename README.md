@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a> -- <span>A SwiftUI Mastodon client</span></li><li><a href=https://github.com/open-webui/pipelines>open-webui/pipelines</a> -- <span>Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework</span></li><li><a href=https://github.com/nodejs/amaro>nodejs/amaro</a> -- <span>Node.js TypeScript wrapper</span></li><li><a href=https://github.com/tadija/AEXML>tadija/AEXML</a> -- <span>Swift minion for simple and lightweight XML parsing</span></li><li><a href=https://github.com/ejbills/DockDoor>ejbills/DockDoor</a> -- <span>Window peeking for macOS</span></li></ul>
+<ul><li><a href=https://github.com/open-webui/open-webui>open-webui/open-webui</a> -- <span>User-friendly WebUI for LLMs (Formerly Ollama WebUI)</span></li><li><a href=https://github.com/unjs/ungh>unjs/ungh</a> -- <span>🐙 Unlimited access to github API</span></li><li><a href=https://github.com/ejbills/DockDoor>ejbills/DockDoor</a> -- <span>Window peeking for macOS</span></li><li><a href=https://github.com/MiaoMint/akutibu>MiaoMint/akutibu</a> -- <span>Add a live status to your personal website/blog</span></li><li><a href=https://github.com/tadija/AEXML>tadija/AEXML</a> -- <span>Swift minion for simple and lightweight XML parsing</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/30/24, 5:22 PM<br>下一次刷新：8/30/24, 8:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/30/24, 8:38 PM<br>下一次刷新：8/30/24, 11:38 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
