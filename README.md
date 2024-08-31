@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/LondonX/clash-kit>LondonX/clash-kit</a></li><li><a href=https://github.com/tadija/AEXML>tadija/AEXML</a> -- <span>Swift minion for simple and lightweight XML parsing</span></li><li><a href=https://github.com/Lakr233/Asspp>Lakr233/Asspp</a> -- <span>The App Store for your multi-account eco system.</span></li><li><a href=https://github.com/open-webui/pipelines>open-webui/pipelines</a> -- <span>Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework</span></li><li><a href=https://github.com/naver/egjs-infinitegrid>naver/egjs-infinitegrid</a> -- <span>A module used to arrange card elements including content infinitely on a grid layout.</span></li></ul>
+<ul><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a> -- <span>A SwiftUI Mastodon client</span></li><li><a href=https://github.com/ChefKissInc/QEMUAppleSilicon>ChefKissInc/QEMUAppleSilicon</a> -- <span>Apple Silicon devices emulated on QEMU, currently only iPhone 11. With SEP and SpringBoard, eventually</span></li><li><a href=https://github.com/ejbills/DockDoor>ejbills/DockDoor</a> -- <span>Window peeking for macOS</span></li><li><a href=https://github.com/frzi/swiftui-router>frzi/swiftui-router</a> -- <span>Path-based routing in SwiftUI</span></li><li><a href=https://github.com/alienator88/Pearcleaner>alienator88/Pearcleaner</a> -- <span>A free, source-available and fair-code licensed mac app cleaner</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/31/24, 8:36 PM<br>下一次刷新：8/31/24, 11:36 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：8/31/24, 11:20 PM<br>下一次刷新：9/1/24, 2:20 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
