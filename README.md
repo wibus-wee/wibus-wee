@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/LondonX/clash-kit>LondonX/clash-kit</a></li><li><a href=https://github.com/adobe-research/VideoDoodles>adobe-research/VideoDoodles</a></li><li><a href=https://github.com/jeffvli/feishin>jeffvli/feishin</a> -- <span>A modern self-hosted music player.</span></li><li><a href=https://github.com/hyperoslo/Cache>hyperoslo/Cache</a> -- <span>:package: Nothing but Cache.</span></li><li><a href=https://github.com/ChefKissInc/QEMUAppleSilicon>ChefKissInc/QEMUAppleSilicon</a> -- <span>Apple Silicon devices emulated on QEMU, currently only iPhone 11. With SEP and SpringBoard, eventually</span></li></ul>
+<ul><li><a href=https://github.com/ChefKissInc/QEMUAppleSilicon>ChefKissInc/QEMUAppleSilicon</a> -- <span>Apple Silicon devices emulated on QEMU, currently only iPhone 11. With SEP and SpringBoard, eventually</span></li><li><a href=https://github.com/loro-dev/loro>loro-dev/loro</a> -- <span>Reimagine state management with CRDTs. Make your app collaborative effortlessly.</span></li><li><a href=https://github.com/Lakr233/MSDisplayLink>Lakr233/MSDisplayLink</a> -- <span>The missing DisplayLink object for Apple platforms.</span></li><li><a href=https://github.com/frzi/swiftui-router>frzi/swiftui-router</a> -- <span>Path-based routing in SwiftUI</span></li><li><a href=https://github.com/CatsJuice/masonry-flow>CatsJuice/masonry-flow</a> -- <span>A React/Vue component to render masonry layout</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/3/24, 2:26 AM<br>下一次刷新：9/3/24, 5:26 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/3/24, 5:18 AM<br>下一次刷新：9/3/24, 8:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
