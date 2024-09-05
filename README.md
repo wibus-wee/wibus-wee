@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/naver/egjs-infinitegrid>naver/egjs-infinitegrid</a> -- <span>A module used to arrange card elements including content infinitely on a grid layout.</span></li><li><a href=https://github.com/ChefKissInc/QEMUAppleSilicon>ChefKissInc/QEMUAppleSilicon</a> -- <span>Apple Silicon devices emulated on QEMU, currently only iPhone 11. With SEP and SpringBoard, eventually</span></li><li><a href=https://github.com/KermanX/js_to_oxc>KermanX/js_to_oxc</a> -- <span>Convert JS source to Oxc AST builder in Rust</span></li><li><a href=https://github.com/wanghongenpin/network_proxy_flutter>wanghongenpin/network_proxy_flutter</a> -- <span>Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems</span></li><li><a href=https://github.com/LondonX/clash_flt>LondonX/clash_flt</a> -- <span>Flutter Clash plugin</span></li></ul>
+<ul><li><a href=https://github.com/alienator88/Pearcleaner>alienator88/Pearcleaner</a> -- <span>A free, source-available and fair-code licensed mac app cleaner</span></li><li><a href=https://github.com/Dimillian/IceCubesApp>Dimillian/IceCubesApp</a> -- <span>A SwiftUI Mastodon client</span></li><li><a href=https://github.com/ChefKissInc/QEMUAppleSilicon>ChefKissInc/QEMUAppleSilicon</a> -- <span>Apple Silicon devices emulated on QEMU, currently only iPhone 11. With SEP and SpringBoard, eventually</span></li><li><a href=https://github.com/LondonX/clash_flt>LondonX/clash_flt</a> -- <span>Flutter Clash plugin</span></li><li><a href=https://github.com/Light-City/CPlusPlusThings>Light-City/CPlusPlusThings</a> -- <span>C++那些事</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/5/24, 11:21 PM<br>下一次刷新：9/6/24, 2:21 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/6/24, 2:26 AM<br>下一次刷新：9/6/24, 5:26 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
