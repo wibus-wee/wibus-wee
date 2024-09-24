@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/open-webui/pipelines>open-webui/pipelines</a> -- <span>Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework</span></li><li><a href=https://github.com/pal03377/ClipboardPortal>pal03377/ClipboardPortal</a></li><li><a href=https://github.com/unjs/ohash>unjs/ohash</a> -- <span>Super fast hashing library based on murmurhash3 written in Vanilla JS</span></li><li><a href=https://github.com/jeffvli/feishin>jeffvli/feishin</a> -- <span>A modern self-hosted music player.</span></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a> -- <span>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</span></li></ul>
+<ul><li><a href=https://github.com/KermanX/js_to_oxc>KermanX/js_to_oxc</a> -- <span>Convert JS source to Oxc AST builder in Rust</span></li><li><a href=https://github.com/yangKJ/Harbeth>yangKJ/Harbeth</a> -- <span>🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架</span></li><li><a href=https://github.com/wanghongenpin/network_proxy_flutter>wanghongenpin/network_proxy_flutter</a> -- <span>Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems</span></li><li><a href=https://github.com/loro-dev/loro>loro-dev/loro</a> -- <span>Reimagine state management with CRDTs. Make your app collaborative effortlessly.</span></li><li><a href=https://github.com/rurza/BatFi>rurza/BatFi</a> -- <span>Battery charging limiter for macOS.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/24/24, 2:30 PM<br>下一次刷新：9/24/24, 5:30 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/24/24, 5:23 PM<br>下一次刷新：9/24/24, 8:23 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
