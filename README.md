@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/MSDisplayLink>Lakr233/MSDisplayLink</a> -- <span>The missing DisplayLink object for Apple platforms.</span></li><li><a href=https://github.com/hipstersmoothie/react-window-splitter>hipstersmoothie/react-window-splitter</a> -- <span>react-resizable-grid-panels</span></li><li><a href=https://github.com/pal03377/ClipboardPortal>pal03377/ClipboardPortal</a></li><li><a href=https://github.com/mrrhq/nuxt-wcferry>mrrhq/nuxt-wcferry</a> -- <span>已迁移到👇这个仓库</span></li><li><a href=https://github.com/apparata/mkprivacy>apparata/mkprivacy</a> -- <span>UI tool for creating Apple privacy manifest property lists.</span></li></ul>
+<ul><li><a href=https://github.com/rurza/BatFi>rurza/BatFi</a> -- <span>Battery charging limiter for macOS.</span></li><li><a href=https://github.com/Lakr233/MSDisplayLink>Lakr233/MSDisplayLink</a> -- <span>The missing DisplayLink object for Apple platforms.</span></li><li><a href=https://github.com/loro-dev/loro>loro-dev/loro</a> -- <span>Reimagine state management with CRDTs. Make your app collaborative effortlessly.</span></li><li><a href=https://github.com/adobe-research/VideoDoodles>adobe-research/VideoDoodles</a></li><li><a href=https://github.com/unjs/ohash>unjs/ohash</a> -- <span>Super fast hashing library based on murmurhash3 written in Vanilla JS</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/24, 5:19 AM<br>下一次刷新：9/25/24, 8:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：9/25/24, 9:43 AM<br>下一次刷新：9/25/24, 12:43 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
