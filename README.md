@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/YunYouJun/char-dust>YunYouJun/char-dust</a> -- <span>📝 Convert image to char. 在线图片转字符画～</span></li><li><a href=https://github.com/mrrhq/nuxt-wcferry>mrrhq/nuxt-wcferry</a> -- <span>已迁移到👇这个仓库</span></li><li><a href=https://github.com/unjs/ohash>unjs/ohash</a> -- <span>Super fast hashing library based on murmurhash3 written in Vanilla JS</span></li><li><a href=https://github.com/alejandrojapkin/CocoaLUT>alejandrojapkin/CocoaLUT</a> -- <span>LUT (3D lookup tables) for Cocoa applications.</span></li><li><a href=https://github.com/tadija/AEXML>tadija/AEXML</a> -- <span>Swift minion for simple and lightweight XML parsing</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/MSDisplayLink>Lakr233/MSDisplayLink</a> -- <span>The missing DisplayLink object for Apple platforms.</span></li><li><a href=https://github.com/LondonX/clash_flt>LondonX/clash_flt</a> -- <span>Flutter Clash plugin</span></li><li><a href=https://github.com/hipstersmoothie/react-window-splitter>hipstersmoothie/react-window-splitter</a> -- <span>react-resizable-grid-panels</span></li><li><a href=https://github.com/rurza/BatFi>rurza/BatFi</a> -- <span>Battery charging limiter for macOS.</span></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a> -- <span>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/2/24, 5:23 PM<br>下一次刷新：10/2/24, 8:23 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/2/24, 8:41 PM<br>下一次刷新：10/2/24, 11:41 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
