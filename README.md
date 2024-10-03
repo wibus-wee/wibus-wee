@@ -80,12 +80,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/DallasHoff/sqlocal>DallasHoff/sqlocal</a> -- <span>SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.</span></li><li><a href=https://github.com/chipjarred/SwiftPrivilegedHelper>chipjarred/SwiftPrivilegedHelper</a> -- <span>Example application using a privileged helper tool with authentication in an unsandboxed application written in Swift</span></li><li><a href=https://github.com/IvanMathy/Boop>IvanMathy/Boop</a> -- <span>A scriptable scratchpad for developers. In slow yet steady progress.</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/jaywcjlove/quick-rss>jaywcjlove/quick-rss</a> -- <span>A powerful and intuitive macOS desktop RSS reader that helps you manage and read your favorite RSS feeds with ease.</span></li></ul>
+<ul><li><a href=https://github.com/johnpatrickmorgan/NavigationBackport>johnpatrickmorgan/NavigationBackport</a> -- <span>Backported SwiftUI navigation APIs introduced in WWDC22</span></li><li><a href=https://github.com/qqrss/qrs>qqrss/qrs</a> -- <span>Stream data through multiple QRCodes</span></li><li><a href=https://github.com/Antibioticss/xsp>Antibioticss/xsp</a> -- <span>a hex searching and patching tool</span></li><li><a href=https://github.com/DallasHoff/sqlocal>DallasHoff/sqlocal</a> -- <span>SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.</span></li><li><a href=https://github.com/chipjarred/SwiftPrivilegedHelper>chipjarred/SwiftPrivilegedHelper</a> -- <span>Example application using a privileged helper tool with authentication in an unsandboxed application written in Swift</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/loro-dev/loro>loro-dev/loro</a> -- <span>Reimagine state management with CRDTs. Make your app collaborative effortlessly.</span></li><li><a href=https://github.com/adobe-research/VideoDoodles>adobe-research/VideoDoodles</a></li><li><a href=https://github.com/hipstersmoothie/react-window-splitter>hipstersmoothie/react-window-splitter</a> -- <span>react-resizable-grid-panels</span></li><li><a href=https://github.com/naver/egjs-infinitegrid>naver/egjs-infinitegrid</a> -- <span>A module used to arrange card elements including content infinitely on a grid layout.</span></li><li><a href=https://github.com/BradLarson/GPUImage>BradLarson/GPUImage</a> -- <span>An open source iOS framework for GPU-based image and video processing</span></li></ul>
+<ul><li><a href=https://github.com/pal03377/ClipboardPortal>pal03377/ClipboardPortal</a></li><li><a href=https://github.com/yangKJ/Harbeth>yangKJ/Harbeth</a> -- <span>🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架</span></li><li><a href=https://github.com/wanghongenpin/network_proxy_flutter>wanghongenpin/network_proxy_flutter</a> -- <span>Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems</span></li><li><a href=https://github.com/frzi/swiftui-router>frzi/swiftui-router</a> -- <span>Path-based routing in SwiftUI</span></li><li><a href=https://github.com/rurza/BatFi>rurza/BatFi</a> -- <span>Battery charging limiter for macOS.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/3/24, 8:41 PM<br>下一次刷新：10/3/24, 11:41 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/3/24, 11:23 PM<br>下一次刷新：10/4/24, 2:23 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
