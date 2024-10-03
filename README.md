@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/yangKJ/Harbeth>yangKJ/Harbeth</a> -- <span>🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架</span></li><li><a href=https://github.com/tadija/AEXML>tadija/AEXML</a> -- <span>Swift minion for simple and lightweight XML parsing</span></li><li><a href=https://github.com/YunYouJun/char-dust>YunYouJun/char-dust</a> -- <span>📝 Convert image to char. 在线图片转字符画～</span></li><li><a href=https://github.com/naver/egjs-infinitegrid>naver/egjs-infinitegrid</a> -- <span>A module used to arrange card elements including content infinitely on a grid layout.</span></li><li><a href=https://github.com/unjs/ohash>unjs/ohash</a> -- <span>Super fast hashing library based on murmurhash3 written in Vanilla JS</span></li></ul>
+<ul><li><a href=https://github.com/loro-dev/loro>loro-dev/loro</a> -- <span>Reimagine state management with CRDTs. Make your app collaborative effortlessly.</span></li><li><a href=https://github.com/adobe-research/VideoDoodles>adobe-research/VideoDoodles</a></li><li><a href=https://github.com/hipstersmoothie/react-window-splitter>hipstersmoothie/react-window-splitter</a> -- <span>react-resizable-grid-panels</span></li><li><a href=https://github.com/naver/egjs-infinitegrid>naver/egjs-infinitegrid</a> -- <span>A module used to arrange card elements including content infinitely on a grid layout.</span></li><li><a href=https://github.com/BradLarson/GPUImage>BradLarson/GPUImage</a> -- <span>An open source iOS framework for GPU-based image and video processing</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/3/24, 5:22 PM<br>下一次刷新：10/3/24, 8:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/3/24, 8:41 PM<br>下一次刷新：10/3/24, 11:41 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
