@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Antibioticss/xsp>Antibioticss/xsp</a> -- <span>a hex searching and patching tool</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/apparata/mkprivacy>apparata/mkprivacy</a> -- <span>UI tool for creating Apple privacy manifest property lists.</span></li><li><a href=https://github.com/frzi/swiftui-router>frzi/swiftui-router</a> -- <span>Path-based routing in SwiftUI</span></li><li><a href=https://github.com/mrrhq/nuxt-wcferry>mrrhq/nuxt-wcferry</a> -- <span>已迁移到👇这个仓库</span></li></ul>
+<ul><li><a href=https://github.com/DallasHoff/sqlocal>DallasHoff/sqlocal</a> -- <span>SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.</span></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a> -- <span>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/yangKJ/Harbeth>yangKJ/Harbeth</a> -- <span>🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架</span></li><li><a href=https://github.com/unjs/ohash>unjs/ohash</a> -- <span>Super fast hashing library based on murmurhash3 written in Vanilla JS</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/9/24, 9:41 AM<br>下一次刷新：10/9/24, 12:41 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/9/24, 11:26 AM<br>下一次刷新：10/9/24, 2:26 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
