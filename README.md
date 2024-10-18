@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/YunYouJun/char-dust>YunYouJun/char-dust</a> -- <span>📝 Convert image to char. 在线图片转字符画～</span></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a> -- <span>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</span></li><li><a href=https://github.com/pal03377/ClipboardPortal>pal03377/ClipboardPortal</a></li><li><a href=https://github.com/tadija/AEXML>tadija/AEXML</a> -- <span>Swift minion for simple and lightweight XML parsing</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li></ul>
+<ul><li><a href=https://github.com/unovue/inspira-ui>unovue/inspira-ui</a> -- <span>Build beautiful website using Vue & Nuxt.</span></li><li><a href=https://github.com/johnpatrickmorgan/NavigationBackport>johnpatrickmorgan/NavigationBackport</a> -- <span>Backported SwiftUI navigation APIs introduced in WWDC22</span></li><li><a href=https://github.com/unjs/ungh>unjs/ungh</a> -- <span>🐙 Unlimited access to github API</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/jeffvli/feishin>jeffvli/feishin</a> -- <span>A modern self-hosted music player.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/18/24, 11:28 AM<br>下一次刷新：10/18/24, 2:28 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/18/24, 2:30 PM<br>下一次刷新：10/18/24, 5:30 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
