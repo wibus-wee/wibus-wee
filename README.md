@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/DallasHoff/sqlocal>DallasHoff/sqlocal</a> -- <span>SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.</span></li><li><a href=https://github.com/BradLarson/GPUImage>BradLarson/GPUImage</a> -- <span>An open source iOS framework for GPU-based image and video processing</span></li><li><a href=https://github.com/Rishikant181/Rettiwt-API>Rishikant181/Rettiwt-API</a> -- <span>A CLI tool and an API for fetching data from Twitter for free!</span></li><li><a href=https://github.com/Antibioticss/xsp>Antibioticss/xsp</a> -- <span>a hex searching and patching tool</span></li></ul>
+<ul><li><a href=https://github.com/apparata/mkprivacy>apparata/mkprivacy</a> -- <span>UI tool for creating Apple privacy manifest property lists.</span></li><li><a href=https://github.com/wanghongenpin/network_proxy_flutter>wanghongenpin/network_proxy_flutter</a> -- <span>Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems</span></li><li><a href=https://github.com/BradLarson/GPUImage>BradLarson/GPUImage</a> -- <span>An open source iOS framework for GPU-based image and video processing</span></li><li><a href=https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI>heart/CarBode-Barcode-Scanner-For-SwiftUI</a> -- <span>CarBode : Free & Opensource barcode scanner & generator for SwiftUI</span></li><li><a href=https://github.com/rurza/BatFi>rurza/BatFi</a> -- <span>Battery charging limiter for macOS.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/22/24, 9:43 AM<br>下一次刷新：10/22/24, 12:43 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/22/24, 11:27 AM<br>下一次刷新：10/22/24, 2:27 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
