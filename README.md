@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/qifi-dev/qrs>qifi-dev/qrs</a> -- <span>Stream data through multiple series of QR codes</span></li><li><a href=https://github.com/Rishikant181/Rettiwt-API>Rishikant181/Rettiwt-API</a> -- <span>A CLI tool and an API for fetching data from Twitter for free!</span></li><li><a href=https://github.com/chipjarred/SwiftPrivilegedHelper>chipjarred/SwiftPrivilegedHelper</a> -- <span>Example application using a privileged helper tool with authentication in an unsandboxed application written in Swift</span></li><li><a href=https://github.com/Antibioticss/xsp>Antibioticss/xsp</a> -- <span>a hex searching and patching tool</span></li><li><a href=https://github.com/rurza/BatFi>rurza/BatFi</a> -- <span>Battery charging limiter for macOS.</span></li></ul>
+<ul><li><a href=https://github.com/DallasHoff/sqlocal>DallasHoff/sqlocal</a> -- <span>SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.</span></li><li><a href=https://github.com/alejandrojapkin/CocoaLUT>alejandrojapkin/CocoaLUT</a> -- <span>LUT (3D lookup tables) for Cocoa applications.</span></li><li><a href=https://github.com/jaywcjlove/quick-rss>jaywcjlove/quick-rss</a> -- <span>A powerful and intuitive macOS desktop RSS reader that helps you manage and read your favorite RSS feeds with ease.</span></li><li><a href=https://github.com/Kyle-Ye/XcodeLLMEligible>Kyle-Ye/XcodeLLMEligible</a></li><li><a href=https://github.com/Rishikant181/Rettiwt-API>Rishikant181/Rettiwt-API</a> -- <span>A CLI tool and an API for fetching data from Twitter for free!</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/26/24, 5:20 PM<br>下一次刷新：10/26/24, 8:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/26/24, 8:38 PM<br>下一次刷新：10/26/24, 11:38 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
