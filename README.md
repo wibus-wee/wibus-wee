@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/dexie/Dexie.js>dexie/Dexie.js</a> -- <span>A Minimalistic Wrapper for IndexedDB</span></li><li><a href=https://github.com/LondonX/clash_flt>LondonX/clash_flt</a> -- <span>Flutter Clash plugin</span></li><li><a href=https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI>heart/CarBode-Barcode-Scanner-For-SwiftUI</a> -- <span>CarBode : Free & Opensource barcode scanner & generator for SwiftUI</span></li><li><a href=https://github.com/unovue/inspira-ui>unovue/inspira-ui</a> -- <span>Build beautiful website using Vue & Nuxt.</span></li><li><a href=https://github.com/DallasHoff/sqlocal>DallasHoff/sqlocal</a> -- <span>SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.</span></li></ul>
+<ul><li><a href=https://github.com/apparata/mkprivacy>apparata/mkprivacy</a> -- <span>UI tool for creating Apple privacy manifest property lists.</span></li><li><a href=https://github.com/BradLarson/GPUImage>BradLarson/GPUImage</a> -- <span>An open source iOS framework for GPU-based image and video processing</span></li><li><a href=https://github.com/qifi-dev/qrs>qifi-dev/qrs</a> -- <span>Stream data through multiple series of QR codes</span></li><li><a href=https://github.com/dexie/Dexie.js>dexie/Dexie.js</a> -- <span>A Minimalistic Wrapper for IndexedDB</span></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a> -- <span>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/24, 5:18 AM<br>下一次刷新：10/27/24, 8:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/27/24, 9:48 AM<br>下一次刷新：10/27/24, 12:48 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
