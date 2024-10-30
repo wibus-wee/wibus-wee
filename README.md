@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/selemondev/spark-ui>selemondev/spark-ui</a> -- <span>Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨</span></li><li><a href=https://github.com/YunYouJun/char-dust>YunYouJun/char-dust</a> -- <span>📝 Convert image to char. 在线图片转字符画～</span></li><li><a href=https://github.com/yaakapp/app>yaakapp/app</a> -- <span>The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.</span></li><li><a href=https://github.com/mrrhq/nuxt-wcferry>mrrhq/nuxt-wcferry</a> -- <span>已迁移到👇这个仓库</span></li><li><a href=https://github.com/devxoul/Toaster>devxoul/Toaster</a> -- <span>🍞 Toast for Swift</span></li></ul>
+<ul><li><a href=https://github.com/yaakapp/app>yaakapp/app</a> -- <span>The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.</span></li><li><a href=https://github.com/jaywcjlove/quick-rss>jaywcjlove/quick-rss</a> -- <span>A powerful and intuitive macOS desktop RSS reader that helps you manage and read your favorite RSS feeds with ease.</span></li><li><a href=https://github.com/johnpatrickmorgan/NavigationBackport>johnpatrickmorgan/NavigationBackport</a> -- <span>Backported SwiftUI navigation APIs introduced in WWDC22</span></li><li><a href=https://github.com/alejandrojapkin/CocoaLUT>alejandrojapkin/CocoaLUT</a> -- <span>LUT (3D lookup tables) for Cocoa applications.</span></li><li><a href=https://github.com/selemondev/spark-ui>selemondev/spark-ui</a> -- <span>Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/30/24, 5:23 PM<br>下一次刷新：10/30/24, 8:23 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：10/30/24, 8:42 PM<br>下一次刷新：10/30/24, 11:42 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
