@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/devxoul/Toaster>devxoul/Toaster</a> -- <span>🍞 Toast for Swift</span></li><li><a href=https://github.com/yaakapp/app>yaakapp/app</a> -- <span>The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.</span></li><li><a href=https://github.com/mrrhq/nuxt-wcferry>mrrhq/nuxt-wcferry</a> -- <span>已迁移到👇这个仓库</span></li><li><a href=https://github.com/apparata/mkprivacy>apparata/mkprivacy</a> -- <span>UI tool for creating Apple privacy manifest property lists.</span></li><li><a href=https://github.com/unovue/inspira-ui>unovue/inspira-ui</a> -- <span>Build beautiful website using Vue & Nuxt.</span></li></ul>
+<ul><li><a href=https://github.com/johnpatrickmorgan/NavigationBackport>johnpatrickmorgan/NavigationBackport</a> -- <span>Backported SwiftUI navigation APIs introduced in WWDC22</span></li><li><a href=https://github.com/jaywcjlove/quick-rss>jaywcjlove/quick-rss</a> -- <span>A powerful and intuitive macOS desktop RSS reader that helps you manage and read your favorite RSS feeds with ease.</span></li><li><a href=https://github.com/BradLarson/GPUImage>BradLarson/GPUImage</a> -- <span>An open source iOS framework for GPU-based image and video processing</span></li><li><a href=https://github.com/yaakapp/app>yaakapp/app</a> -- <span>The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.</span></li><li><a href=https://github.com/qifi-dev/qrs>qifi-dev/qrs</a> -- <span>Stream data through multiple series of QR codes</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/2/24, 5:19 AM<br>下一次刷新：11/2/24, 8:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/2/24, 9:41 AM<br>下一次刷新：11/2/24, 12:41 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
