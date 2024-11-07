@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/chipjarred/SwiftPrivilegedHelper>chipjarred/SwiftPrivilegedHelper</a> -- <span>Example application using a privileged helper tool with authentication in an unsandboxed application written in Swift</span></li><li><a href=https://github.com/devxoul/Toaster>devxoul/Toaster</a> -- <span>🍞 Toast for Swift</span></li><li><a href=https://github.com/Rishikant181/Rettiwt-API>Rishikant181/Rettiwt-API</a> -- <span>A CLI tool and an API for fetching data from Twitter for free!</span></li><li><a href=https://github.com/dexie/Dexie.js>dexie/Dexie.js</a> -- <span>A Minimalistic Wrapper for IndexedDB</span></li><li><a href=https://github.com/zanjie1999/meDisplay>zanjie1999/meDisplay</a> -- <span>使用任何设备(浏览器)作为mac的副屏(随航) 将Android平板用作Mac的第二台显示器 还能在Win和Linux镜像屏幕</span></li></ul>
+<ul><li><a href=https://github.com/BradLarson/GPUImage>BradLarson/GPUImage</a> -- <span>An open source iOS framework for GPU-based image and video processing</span></li><li><a href=https://github.com/Antibioticss/xsp>Antibioticss/xsp</a> -- <span>a hex searching and patching tool</span></li><li><a href=https://github.com/apparata/mkprivacy>apparata/mkprivacy</a> -- <span>UI tool for creating Apple privacy manifest property lists.</span></li><li><a href=https://github.com/devxoul/Toaster>devxoul/Toaster</a> -- <span>🍞 Toast for Swift</span></li><li><a href=https://github.com/IvanMathy/Boop>IvanMathy/Boop</a> -- <span>A scriptable scratchpad for developers. In slow yet steady progress.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/7/24, 5:21 PM<br>下一次刷新：11/7/24, 8:21 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/7/24, 8:40 PM<br>下一次刷新：11/7/24, 11:40 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
