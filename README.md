@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/qifi-dev/qrs>qifi-dev/qrs</a> -- <span>Stream data through multiple series of QR codes</span></li><li><a href=https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI>heart/CarBode-Barcode-Scanner-For-SwiftUI</a> -- <span>CarBode : Free & Opensource barcode scanner & generator for SwiftUI</span></li><li><a href=https://github.com/getyaak/app>getyaak/app</a> -- <span>The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.</span></li><li><a href=https://github.com/DallasHoff/sqlocal>DallasHoff/sqlocal</a> -- <span>SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.</span></li><li><a href=https://github.com/sweetpad-dev/sweetpad>sweetpad-dev/sweetpad</a> -- <span>Develop Swift/iOS projects using VSCode</span></li></ul>
+<ul><li><a href=https://github.com/YunYouJun/char-dust>YunYouJun/char-dust</a> -- <span>📝 Convert image to char. 在线图片转字符画～</span></li><li><a href=https://github.com/Lakr233/WindowAnimation>Lakr233/WindowAnimation</a> -- <span>Provide animation when animating SwiftUI windows on macOS.</span></li><li><a href=https://github.com/sweetpad-dev/sweetpad>sweetpad-dev/sweetpad</a> -- <span>Develop Swift/iOS projects using VSCode</span></li><li><a href=https://github.com/Antibioticss/tinyhook>Antibioticss/tinyhook</a> -- <span>A tiny macOS inline hook framework</span></li><li><a href=https://github.com/getyaak/app>getyaak/app</a> -- <span>The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/17/24, 9:52 AM<br>下一次刷新：11/17/24, 12:52 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/17/24, 11:33 AM<br>下一次刷新：11/17/24, 2:33 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
