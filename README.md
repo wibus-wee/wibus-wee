@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/unovue/inspira-ui>unovue/inspira-ui</a> -- <span>Build beautiful website using Vue & Nuxt.</span></li><li><a href=https://github.com/sweetpad-dev/sweetpad>sweetpad-dev/sweetpad</a> -- <span>Develop Swift/iOS projects using VSCode</span></li><li><a href=https://github.com/chipjarred/SwiftPrivilegedHelper>chipjarred/SwiftPrivilegedHelper</a> -- <span>Example application using a privileged helper tool with authentication in an unsandboxed application written in Swift</span></li><li><a href=https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI>heart/CarBode-Barcode-Scanner-For-SwiftUI</a> -- <span>CarBode : Free & Opensource barcode scanner & generator for SwiftUI</span></li><li><a href=https://github.com/Antibioticss/tinyhook>Antibioticss/tinyhook</a> -- <span>A tiny macOS inline hook framework</span></li></ul>
+<ul><li><a href=https://github.com/selemondev/spark-ui>selemondev/spark-ui</a> -- <span>Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨</span></li><li><a href=https://github.com/Antibioticss/tinyhook>Antibioticss/tinyhook</a> -- <span>A tiny macOS inline hook framework</span></li><li><a href=https://github.com/nut-tree/nut.js>nut-tree/nut.js</a> -- <span>Native UI testing / controlling with node</span></li><li><a href=https://github.com/IvanMathy/Boop>IvanMathy/Boop</a> -- <span>A scriptable scratchpad for developers. In slow yet steady progress.</span></li><li><a href=https://github.com/johnpatrickmorgan/NavigationBackport>johnpatrickmorgan/NavigationBackport</a> -- <span>Backported SwiftUI navigation APIs introduced in WWDC22</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/20/24, 5:24 PM<br>下一次刷新：11/20/24, 8:24 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/20/24, 8:44 PM<br>下一次刷新：11/20/24, 11:44 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
