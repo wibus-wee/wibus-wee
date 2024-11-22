@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sweetpad-dev/sweetpad>sweetpad-dev/sweetpad</a> -- <span>Develop Swift/iOS projects using VSCode</span></li><li><a href=https://github.com/timb-103/colormagic>timb-103/colormagic</a> -- <span>AI Color Palette Generator</span></li><li><a href=https://github.com/unovue/inspira-ui>unovue/inspira-ui</a> -- <span>Build beautiful website using Vue & Nuxt.</span></li><li><a href=https://github.com/IvanMathy/Boop>IvanMathy/Boop</a> -- <span>A scriptable scratchpad for developers. In slow yet steady progress.</span></li><li><a href=https://github.com/metasidd/Orb>metasidd/Orb</a> -- <span>A mesmerizing orb, fully designed in SwiftUI.</span></li></ul>
+<ul><li><a href=https://github.com/dexie/Dexie.js>dexie/Dexie.js</a> -- <span>A Minimalistic Wrapper for IndexedDB</span></li><li><a href=https://github.com/Lakr233/WindowAnimation>Lakr233/WindowAnimation</a> -- <span>Provide animation when animating SwiftUI windows on macOS.</span></li><li><a href=https://github.com/devxoul/Toaster>devxoul/Toaster</a> -- <span>🍞 Toast for Swift</span></li><li><a href=https://github.com/NapNeko/NapCat.Docker.Framework>NapNeko/NapCat.Docker.Framework</a> -- <span>NapCat.Docker.Framework</span></li><li><a href=https://github.com/johnpatrickmorgan/NavigationBackport>johnpatrickmorgan/NavigationBackport</a> -- <span>Backported SwiftUI navigation APIs introduced in WWDC22</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/22/24, 9:48 AM<br>下一次刷新：11/22/24, 12:48 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/22/24, 11:31 AM<br>下一次刷新：11/22/24, 2:31 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
