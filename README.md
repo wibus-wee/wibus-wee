@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/metasidd/Orb>metasidd/Orb</a> -- <span>A mesmerizing orb, fully designed in SwiftUI.</span></li><li><a href=https://github.com/devxoul/Toaster>devxoul/Toaster</a> -- <span>🍞 Toast for Swift</span></li><li><a href=https://github.com/ddddxxx/LyricsX>ddddxxx/LyricsX</a> -- <span>🎶 Ultimate lyrics app for macOS.</span></li><li><a href=https://github.com/selemondev/spark-ui>selemondev/spark-ui</a> -- <span>Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨</span></li><li><a href=https://github.com/mikelikesdesign/SwiftUI-experiments>mikelikesdesign/SwiftUI-experiments</a> -- <span>Examples with SwiftUI that showcase various interactions, animations and more</span></li></ul>
+<ul><li><a href=https://github.com/sweetpad-dev/sweetpad>sweetpad-dev/sweetpad</a> -- <span>Develop Swift/iOS projects using VSCode</span></li><li><a href=https://github.com/Rishikant181/Rettiwt-API>Rishikant181/Rettiwt-API</a> -- <span>A CLI tool and an API for fetching data from Twitter for free!</span></li><li><a href=https://github.com/Lakr233/WindowAnimation>Lakr233/WindowAnimation</a> -- <span>Provide animation when animating SwiftUI windows on macOS.</span></li><li><a href=https://github.com/chipjarred/SwiftPrivilegedHelper>chipjarred/SwiftPrivilegedHelper</a> -- <span>Example application using a privileged helper tool with authentication in an unsandboxed application written in Swift</span></li><li><a href=https://github.com/DallasHoff/sqlocal>DallasHoff/sqlocal</a> -- <span>SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/23/24, 5:20 PM<br>下一次刷新：11/23/24, 8:20 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/23/24, 8:39 PM<br>下一次刷新：11/23/24, 11:39 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
