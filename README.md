@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/metasidd/Orb>metasidd/Orb</a> -- <span>A mesmerizing orb, fully designed in SwiftUI.</span></li><li><a href=https://github.com/Antibioticss/tinyhook>Antibioticss/tinyhook</a> -- <span>A tiny macOS inline hook framework</span></li><li><a href=https://github.com/ddddxxx/LyricsX>ddddxxx/LyricsX</a> -- <span>🎶 Ultimate lyrics app for macOS.</span></li><li><a href=https://github.com/qifi-dev/qrs>qifi-dev/qrs</a> -- <span>Stream data through multiple series of QR codes</span></li><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a> -- <span>Display and customize Markdown text in SwiftUI</span></li></ul>
+<ul><li><a href=https://github.com/egoist/tailwindcss-icons>egoist/tailwindcss-icons</a> -- <span>Use any icon (100,000+) from Iconify, for TailwindCSS</span></li><li><a href=https://github.com/mikelikesdesign/SwiftUI-experiments>mikelikesdesign/SwiftUI-experiments</a> -- <span>Examples with SwiftUI that showcase various interactions, animations and more</span></li><li><a href=https://github.com/qifi-dev/qrs>qifi-dev/qrs</a> -- <span>Stream data through multiple series of QR codes</span></li><li><a href=https://github.com/unovue/inspira-ui>unovue/inspira-ui</a> -- <span>Build beautiful website using Vue & Nuxt.</span></li><li><a href=https://github.com/devxoul/Toaster>devxoul/Toaster</a> -- <span>🍞 Toast for Swift</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/25/24, 8:45 PM<br>下一次刷新：11/25/24, 11:45 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/25/24, 11:24 PM<br>下一次刷新：11/26/24, 2:24 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
