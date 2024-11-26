@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mikelikesdesign/SwiftUI-experiments>mikelikesdesign/SwiftUI-experiments</a> -- <span>Examples with SwiftUI that showcase various interactions, animations and more</span></li><li><a href=https://github.com/egoist/tailwindcss-icons>egoist/tailwindcss-icons</a> -- <span>Use any icon (100,000+) from Iconify, for TailwindCSS</span></li><li><a href=https://github.com/metasidd/Orb>metasidd/Orb</a> -- <span>A mesmerizing orb, fully designed in SwiftUI.</span></li><li><a href=https://github.com/selemondev/spark-ui>selemondev/spark-ui</a> -- <span>Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨</span></li><li><a href=https://github.com/timb-103/colormagic>timb-103/colormagic</a> -- <span>AI Color Palette Generator</span></li></ul>
+<ul><li><a href=https://github.com/sweetpad-dev/sweetpad>sweetpad-dev/sweetpad</a> -- <span>Develop Swift/iOS projects using VSCode</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a> -- <span>Display and control your Android device</span></li><li><a href=https://github.com/unovue/inspira-ui>unovue/inspira-ui</a> -- <span>Build beautiful website using Vue & Nuxt.</span></li><li><a href=https://github.com/zanjie1999/meDisplay>zanjie1999/meDisplay</a> -- <span>使用任何设备(浏览器)作为mac的副屏(随航) 将Android平板用作Mac的第二台显示器 还能在Win和Linux镜像屏幕</span></li><li><a href=https://github.com/NapNeko/NapCat.Docker.Framework>NapNeko/NapCat.Docker.Framework</a> -- <span>NapCat.Docker.Framework</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/26/24, 9:48 AM<br>下一次刷新：11/26/24, 12:48 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/26/24, 11:33 AM<br>下一次刷新：11/26/24, 2:33 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
