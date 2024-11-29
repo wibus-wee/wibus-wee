@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mikelikesdesign/SwiftUI-experiments>mikelikesdesign/SwiftUI-experiments</a> -- <span>Examples with SwiftUI that showcase various interactions, animations and more</span></li><li><a href=https://github.com/Antibioticss/tinyhook>Antibioticss/tinyhook</a> -- <span>A tiny macOS inline hook framework</span></li><li><a href=https://github.com/NapNeko/NapCat.Docker.Framework>NapNeko/NapCat.Docker.Framework</a> -- <span>NapCat.Docker.Framework</span></li><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a> -- <span>Display and customize Markdown text in SwiftUI</span></li><li><a href=https://github.com/zanjie1999/meDisplay>zanjie1999/meDisplay</a> -- <span>使用任何设备(浏览器)作为mac的副屏(随航) 将Android平板用作Mac的第二台显示器 还能在Win和Linux镜像屏幕</span></li></ul>
+<ul><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a> -- <span>Display and control your Android device</span></li><li><a href=https://github.com/unovue/inspira-ui>unovue/inspira-ui</a> -- <span>Build beautiful website using Vue & Nuxt.</span></li><li><a href=https://github.com/Antibioticss/xsp>Antibioticss/xsp</a> -- <span>a hex searching and patching tool</span></li><li><a href=https://github.com/selemondev/spark-ui>selemondev/spark-ui</a> -- <span>Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨</span></li><li><a href=https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI>heart/CarBode-Barcode-Scanner-For-SwiftUI</a> -- <span>CarBode : Free & Opensource barcode scanner & generator for SwiftUI</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/29/24, 8:45 PM<br>下一次刷新：11/29/24, 11:45 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：11/29/24, 11:24 PM<br>下一次刷新：11/30/24, 2:24 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
