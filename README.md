@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a> -- <span>UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/timb-103/colormagic>timb-103/colormagic</a> -- <span>AI Color Palette Generator</span></li><li><a href=https://github.com/nut-tree/nut.js>nut-tree/nut.js</a> -- <span>Native UI testing / controlling with node</span></li><li><a href=https://github.com/sweetpad-dev/sweetpad>sweetpad-dev/sweetpad</a> -- <span>Develop Swift/iOS projects using VSCode</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a> -- <span>Display and control your Android device</span></li></ul>
+<ul><li><a href=https://github.com/ddddxxx/LyricsX>ddddxxx/LyricsX</a> -- <span>🎶 Ultimate lyrics app for macOS.</span></li><li><a href=https://github.com/Lakr233/WindowAnimation>Lakr233/WindowAnimation</a> -- <span>Provide animation when animating SwiftUI windows on macOS.</span></li><li><a href=https://github.com/sweetpad-dev/sweetpad>sweetpad-dev/sweetpad</a> -- <span>Develop Swift/iOS projects using VSCode</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a> -- <span>Display and control your Android device</span></li><li><a href=https://github.com/metasidd/Orb>metasidd/Orb</a> -- <span>A mesmerizing orb, fully designed in SwiftUI.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/4/24, 11:24 PM<br>下一次刷新：12/5/24, 2:24 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/5/24, 2:32 AM<br>下一次刷新：12/5/24, 5:32 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
