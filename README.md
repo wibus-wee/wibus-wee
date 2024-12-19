@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/timb-103/colormagic>timb-103/colormagic</a> -- <span>AI Color Palette Generator</span></li><li><a href=https://github.com/gabrielpetersson/fast-grid>gabrielpetersson/fast-grid</a> -- <span>World's most performant DOM-based web table. Try it! fast-grid.vercel.app/</span></li><li><a href=https://github.com/mrmckeb/typescript-plugin-css-modules>mrmckeb/typescript-plugin-css-modules</a> -- <span>A TypeScript language service plugin providing support for CSS Modules.</span></li><li><a href=https://github.com/Antibioticss/tinyhook>Antibioticss/tinyhook</a> -- <span>A tiny macOS hook framework, inlcuded inline hook, objc runtime hook, symbol resolver..</span></li><li><a href=https://github.com/egoist/tailwindcss-icons>egoist/tailwindcss-icons</a> -- <span>Use any icon (100,000+) from Iconify, for TailwindCSS</span></li></ul>
+<ul><li><a href=https://github.com/MichaelTr7/FolderPaint>MichaelTr7/FolderPaint</a> -- <span>Folder colour changing application for macOS.</span></li><li><a href=https://github.com/Byron/dua-cli>Byron/dua-cli</a> -- <span>View disk space usage and delete unwanted data, fast.</span></li><li><a href=https://github.com/selemondev/spark-ui>selemondev/spark-ui</a> -- <span>Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨</span></li><li><a href=https://github.com/jackyzha0/sunlit>jackyzha0/sunlit</a> -- <span>a pure css implementation of some sunlight streaming in through the window</span></li><li><a href=https://github.com/NapNeko/NapCat.Docker.Framework>NapNeko/NapCat.Docker.Framework</a> -- <span>NapCat.Docker.Framework</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/19/24, 11:31 AM<br>下一次刷新：12/19/24, 2:31 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/19/24, 2:31 PM<br>下一次刷新：12/19/24, 5:31 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
