@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a> -- <span>Display and control your Android device</span></li><li><a href=https://github.com/egoist/tailwindcss-icons>egoist/tailwindcss-icons</a> -- <span>Use any icon (100,000+) from Iconify, for TailwindCSS</span></li><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a> -- <span>UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/inject-X/injectX>inject-X/injectX</a> -- <span>Simple injection of macOS applications</span></li><li><a href=https://github.com/NapNeko/NapCat.Docker.Framework>NapNeko/NapCat.Docker.Framework</a> -- <span>NapCat.Docker.Framework</span></li></ul>
+<ul><li><a href=https://github.com/dexie/Dexie.js>dexie/Dexie.js</a> -- <span>A Minimalistic Wrapper for IndexedDB</span></li><li><a href=https://github.com/jackyzha0/sunlit>jackyzha0/sunlit</a> -- <span>a pure css implementation of some sunlight streaming in through the window</span></li><li><a href=https://github.com/Lakr233/WindowAnimation>Lakr233/WindowAnimation</a> -- <span>Provide animation when animating SwiftUI windows on macOS.</span></li><li><a href=https://github.com/MichaelTr7/FolderPaint>MichaelTr7/FolderPaint</a> -- <span>Folder colour changing application for macOS.</span></li><li><a href=https://github.com/mikelikesdesign/SwiftUI-experiments>mikelikesdesign/SwiftUI-experiments</a> -- <span>Examples with SwiftUI that showcase various interactions, animations and more</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/31/24, 2:29 PM<br>下一次刷新：12/31/24, 5:29 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：12/31/24, 5:21 PM<br>下一次刷新：12/31/24, 8:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
