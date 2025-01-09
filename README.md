@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/egoist/vite-plugin-compile-time>egoist/vite-plugin-compile-time</a> -- <span>Some compile-time magic for your Vite project</span></li><li><a href=https://github.com/imputnet/cobalt>imputnet/cobalt</a> -- <span>best way to save what you love</span></li><li><a href=https://github.com/Codfisher/side-project-cod-toys>Codfisher/side-project-cod-toys</a> -- <span>啟發於 PowerToys，使用 Electron 仿造</span></li><li><a href=https://github.com/gabrielpetersson/fast-grid>gabrielpetersson/fast-grid</a> -- <span>World's most performant DOM-based web table. Try it! fast-grid.vercel.app/</span></li><li><a href=https://github.com/inject-X/injectX>inject-X/injectX</a> -- <span>Simple injection of macOS applications</span></li></ul>
+<ul><li><a href=https://github.com/Sunzxyong/Tiny>Sunzxyong/Tiny</a> -- <span>an image compression framework.（一个高保真、高压缩比的图片压缩框架）</span></li><li><a href=https://github.com/ant-design/x>ant-design/x</a> -- <span>Craft AI-driven interfaces effortlessly 🤖</span></li><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a> -- <span>UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/jackyzha0/sunlit>jackyzha0/sunlit</a> -- <span>a pure css implementation of some sunlight streaming in through the window</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a> -- <span>Display and control your Android device</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/10/25, 2:30 AM<br>下一次刷新：1/10/25, 5:30 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/10/25, 5:19 AM<br>下一次刷新：1/10/25, 8:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
