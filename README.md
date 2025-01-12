@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/metasidd/Orb>metasidd/Orb</a> -- <span>A mesmerizing orb, fully designed in SwiftUI.</span></li><li><a href=https://github.com/Byron/dua-cli>Byron/dua-cli</a> -- <span>View disk space usage and delete unwanted data, fast.</span></li><li><a href=https://github.com/ant-design/x>ant-design/x</a> -- <span>Craft AI-driven interfaces effortlessly 🤖</span></li><li><a href=https://github.com/unifiedjs/unified>unifiedjs/unified</a> -- <span>☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a> -- <span>Display and control your Android device</span></li></ul>
+<ul><li><a href=https://github.com/ddddxxx/LyricsX>ddddxxx/LyricsX</a> -- <span>🎶 Ultimate lyrics app for macOS.</span></li><li><a href=https://github.com/boyter/scc>boyter/scc</a> -- <span>Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go</span></li><li><a href=https://github.com/MichaelTr7/FolderPaint>MichaelTr7/FolderPaint</a> -- <span>Folder colour changing application for macOS.</span></li><li><a href=https://github.com/Byron/dua-cli>Byron/dua-cli</a> -- <span>View disk space usage and delete unwanted data, fast.</span></li><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a> -- <span>UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/13/25, 2:26 AM<br>下一次刷新：1/13/25, 5:26 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/13/25, 5:18 AM<br>下一次刷新：1/13/25, 8:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
