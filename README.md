@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Byron/dua-cli>Byron/dua-cli</a> -- <span>View disk space usage and delete unwanted data, fast.</span></li><li><a href=https://github.com/nicbarker/clay>nicbarker/clay</a> -- <span>High performance UI layout library in C.</span></li><li><a href=https://github.com/MichaelTr7/FolderPaint>MichaelTr7/FolderPaint</a> -- <span>Folder colour changing application for macOS.</span></li><li><a href=https://github.com/Flight-School/AnyCodable>Flight-School/AnyCodable</a> -- <span>Type-erased wrappers for Encodable, Decodable, and Codable values</span></li><li><a href=https://github.com/trilemma-dev/SecureXPC>trilemma-dev/SecureXPC</a> -- <span>A simple and secure XPC framework for Swift</span></li></ul>
+<ul><li><a href=https://github.com/ant-design/x>ant-design/x</a> -- <span>Craft AI-driven interfaces effortlessly 🤖</span></li><li><a href=https://github.com/trilemma-dev/SecureXPC>trilemma-dev/SecureXPC</a> -- <span>A simple and secure XPC framework for Swift</span></li><li><a href=https://github.com/egoist/vite-plugin-compile-time>egoist/vite-plugin-compile-time</a> -- <span>Some compile-time magic for your Vite project</span></li><li><a href=https://github.com/nicbarker/clay>nicbarker/clay</a> -- <span>High performance UI layout library in C.</span></li><li><a href=https://github.com/Dean151/ButtonKit>Dean151/ButtonKit</a> -- <span>Asynchronous and Throwable button implementation for SwiftUI, with animations and progress tracking</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/15/25, 2:28 PM<br>下一次刷新：1/15/25, 5:28 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/15/25, 5:21 PM<br>下一次刷新：1/15/25, 8:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
