@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ant-design/x>ant-design/x</a> -- <span>Craft AI-driven interfaces effortlessly 🤖</span></li><li><a href=https://github.com/magicuidesign/magicui>magicuidesign/magicui</a> -- <span>UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.</span></li><li><a href=https://github.com/Sunzxyong/Tiny>Sunzxyong/Tiny</a> -- <span>an image compression framework.（一个高保真、高压缩比的图片压缩框架）</span></li><li><a href=https://github.com/imputnet/cobalt>imputnet/cobalt</a> -- <span>best way to save what you love</span></li><li><a href=https://github.com/MichaelTr7/FolderPaint>MichaelTr7/FolderPaint</a> -- <span>Folder colour changing application for macOS.</span></li></ul>
+<ul><li><a href=https://github.com/boyter/scc>boyter/scc</a> -- <span>Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go</span></li><li><a href=https://github.com/aheze/Setting>aheze/Setting</a> -- <span>Compose beautiful preference panels.</span></li><li><a href=https://github.com/egoist/vite-plugin-compile-time>egoist/vite-plugin-compile-time</a> -- <span>Some compile-time magic for your Vite project</span></li><li><a href=https://github.com/gabrielpetersson/fast-grid>gabrielpetersson/fast-grid</a> -- <span>World's most performant DOM-based web table. Try it! fast-grid.vercel.app/</span></li><li><a href=https://github.com/Lakr233/ConfigurableKit>Lakr233/ConfigurableKit</a> -- <span>Set up settings pages like a charm with UIKit.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/16/25, 9:39 AM<br>下一次刷新：1/16/25, 12:39 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/16/25, 11:22 AM<br>下一次刷新：1/16/25, 2:22 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
