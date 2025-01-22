@@ -80,12 +80,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a> -- <span>A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/efremidze/VisualEffectView>efremidze/VisualEffectView</a> -- <span>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</span></li><li><a href=https://github.com/roninoss/nativewindui>roninoss/nativewindui</a> -- <span>Carefully crafted components that strive for a native look & feel. The perfect starting point for those that need to ship fast, and look good while doing it.</span></li><li><a href=https://github.com/foamzou/melody>foamzou/melody</a> -- <span>我的音乐精灵</span></li><li><a href=https://github.com/ryohey/signal>ryohey/signal</a> -- <span>Online MIDI Editor: signal</span></li></ul>
+<ul><li><a href=https://github.com/zhuozhiyongde/Stargazer>zhuozhiyongde/Stargazer</a> -- <span>我在梦河边浣洗星星。</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a> -- <span>A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/efremidze/VisualEffectView>efremidze/VisualEffectView</a> -- <span>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</span></li><li><a href=https://github.com/roninoss/nativewindui>roninoss/nativewindui</a> -- <span>Carefully crafted components that strive for a native look & feel. The perfect starting point for those that need to ship fast, and look good while doing it.</span></li><li><a href=https://github.com/foamzou/melody>foamzou/melody</a> -- <span>我的音乐精灵</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/trilemma-dev/SecureXPC>trilemma-dev/SecureXPC</a> -- <span>A simple and secure XPC framework for Swift</span></li><li><a href=https://github.com/nicbarker/clay>nicbarker/clay</a> -- <span>High performance UI layout library in C.</span></li><li><a href=https://github.com/gabrielpetersson/fast-grid>gabrielpetersson/fast-grid</a> -- <span>World's most performant DOM-based web table. Try it! fast-grid.vercel.app/</span></li><li><a href=https://github.com/mrmckeb/typescript-plugin-css-modules>mrmckeb/typescript-plugin-css-modules</a> -- <span>A TypeScript language service plugin providing support for CSS Modules.</span></li><li><a href=https://github.com/Byron/dua-cli>Byron/dua-cli</a> -- <span>View disk space usage and delete unwanted data, fast.</span></li></ul>
+<ul><li><a href=https://github.com/mikelikesdesign/SwiftUI-experiments>mikelikesdesign/SwiftUI-experiments</a> -- <span>Examples with SwiftUI that showcase various interactions, animations and more</span></li><li><a href=https://github.com/mrmckeb/typescript-plugin-css-modules>mrmckeb/typescript-plugin-css-modules</a> -- <span>A TypeScript language service plugin providing support for CSS Modules.</span></li><li><a href=https://github.com/FuzzyIdeas/Clop>FuzzyIdeas/Clop</a> -- <span>Clipboard optimizer for macOS</span></li><li><a href=https://github.com/j4k0xb/webcrack>j4k0xb/webcrack</a> -- <span>Deobfuscate obfuscator.io, unminify and unpack bundled javascript</span></li><li><a href=https://github.com/nicbarker/clay>nicbarker/clay</a> -- <span>High performance UI layout library in C.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/22/25, 8:41 PM<br>下一次刷新：1/22/25, 11:41 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/22/25, 11:22 PM<br>下一次刷新：1/23/25, 2:22 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
