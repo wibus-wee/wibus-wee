@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MichaelTr7/FolderPaint>MichaelTr7/FolderPaint</a> -- <span>Folder colour changing application for macOS.</span></li><li><a href=https://github.com/Codfisher/side-project-cod-toys>Codfisher/side-project-cod-toys</a> -- <span>啟發於 PowerToys，使用 Electron 仿造</span></li><li><a href=https://github.com/FuzzyIdeas/Clop>FuzzyIdeas/Clop</a> -- <span>Clipboard optimizer for macOS</span></li><li><a href=https://github.com/inject-X/injectX>inject-X/injectX</a> -- <span>Simple injection of macOS applications</span></li><li><a href=https://github.com/boyter/scc>boyter/scc</a> -- <span>Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/ConfigurableKit>Lakr233/ConfigurableKit</a> -- <span>Set up settings pages like a charm with UIKit.</span></li><li><a href=https://github.com/MichaelTr7/FolderPaint>MichaelTr7/FolderPaint</a> -- <span>Folder colour changing application for macOS.</span></li><li><a href=https://github.com/Flight-School/AnyCodable>Flight-School/AnyCodable</a> -- <span>Type-erased wrappers for Encodable, Decodable, and Codable values</span></li><li><a href=https://github.com/nicbarker/clay>nicbarker/clay</a> -- <span>High performance UI layout library in C.</span></li><li><a href=https://github.com/aheze/Setting>aheze/Setting</a> -- <span>Compose beautiful preference panels.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/23/25, 8:41 PM<br>下一次刷新：1/23/25, 11:41 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/23/25, 11:22 PM<br>下一次刷新：1/24/25, 2:22 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
