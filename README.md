@@ -80,12 +80,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/EthanArbuckle/simforge>EthanArbuckle/simforge</a> -- <span>Run (decrypted) iOS Apps on iOS Simulators</span></li><li><a href=https://github.com/desko27/react-call>desko27/react-call</a> -- <span>⚛️ 📡 Call your React components</span></li><li><a href=https://github.com/zhuozhiyongde/Stargazer>zhuozhiyongde/Stargazer</a> -- <span>我在梦河边浣洗星星。</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a> -- <span>A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/efremidze/VisualEffectView>efremidze/VisualEffectView</a> -- <span>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</span></li></ul>
+<ul><li><a href=https://github.com/mrousavy/nitro>mrousavy/nitro</a> -- <span>🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI</span></li><li><a href=https://github.com/EthanArbuckle/simforge>EthanArbuckle/simforge</a> -- <span>Run (decrypted) iOS Apps on iOS Simulators</span></li><li><a href=https://github.com/desko27/react-call>desko27/react-call</a> -- <span>⚛️ 📡 Call your React components</span></li><li><a href=https://github.com/zhuozhiyongde/Stargazer>zhuozhiyongde/Stargazer</a> -- <span>我在梦河边浣洗星星。</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a> -- <span>A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/gonzalezreal/swift-markdown-ui>gonzalezreal/swift-markdown-ui</a> -- <span>Display and customize Markdown text in SwiftUI</span></li><li><a href=https://github.com/Codfisher/side-project-cod-toys>Codfisher/side-project-cod-toys</a> -- <span>啟發於 PowerToys，使用 Electron 仿造</span></li><li><a href=https://github.com/ryohey/signal>ryohey/signal</a> -- <span>Online MIDI Editor: signal</span></li><li><a href=https://github.com/imputnet/cobalt>imputnet/cobalt</a> -- <span>best way to save what you love</span></li><li><a href=https://github.com/roninoss/nativewindui>roninoss/nativewindui</a> -- <span>Carefully crafted components that strive for a native look & feel. The perfect starting point for those that need to ship fast, and look good while doing it.</span></li></ul>
+<ul><li><a href=https://github.com/Lakr233/ConfigurableKit>Lakr233/ConfigurableKit</a> -- <span>Set up settings pages like a charm with UIKit.</span></li><li><a href=https://github.com/Byron/dua-cli>Byron/dua-cli</a> -- <span>View disk space usage and delete unwanted data, fast.</span></li><li><a href=https://github.com/ryohey/signal>ryohey/signal</a> -- <span>Online MIDI Editor: signal</span></li><li><a href=https://github.com/MichaelTr7/FolderPaint>MichaelTr7/FolderPaint</a> -- <span>Folder colour changing application for macOS.</span></li><li><a href=https://github.com/trilemma-dev/SecureXPC>trilemma-dev/SecureXPC</a> -- <span>A simple and secure XPC framework for Swift</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/24/25, 8:40 PM<br>下一次刷新：1/24/25, 11:40 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/24/25, 11:21 PM<br>下一次刷新：1/25/25, 2:21 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
