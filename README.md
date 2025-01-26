@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/FuzzyIdeas/Clop>FuzzyIdeas/Clop</a> -- <span>Clipboard optimizer for macOS</span></li><li><a href=https://github.com/inject-X/injectX>inject-X/injectX</a> -- <span>Simple injection of macOS applications</span></li><li><a href=https://github.com/ant-design/x>ant-design/x</a> -- <span>Craft AI-driven interfaces effortlessly 🤖</span></li><li><a href=https://github.com/Lakr233/ConfigurableKit>Lakr233/ConfigurableKit</a> -- <span>Set up settings pages like a charm with UIKit.</span></li><li><a href=https://github.com/nicbarker/clay>nicbarker/clay</a> -- <span>High performance UI layout library in C.</span></li></ul>
+<ul><li><a href=https://github.com/j4k0xb/webcrack>j4k0xb/webcrack</a> -- <span>Deobfuscate obfuscator.io, unminify and unpack bundled javascript</span></li><li><a href=https://github.com/ryohey/signal>ryohey/signal</a> -- <span>Online MIDI Editor: signal</span></li><li><a href=https://github.com/nicbarker/clay>nicbarker/clay</a> -- <span>High performance UI layout library in C.</span></li><li><a href=https://github.com/Lakr233/ConfigurableKit>Lakr233/ConfigurableKit</a> -- <span>Set up settings pages like a charm with UIKit.</span></li><li><a href=https://github.com/boyter/scc>boyter/scc</a> -- <span>Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/27/25, 2:26 AM<br>下一次刷新：1/27/25, 5:26 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/27/25, 5:18 AM<br>下一次刷新：1/27/25, 8:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
