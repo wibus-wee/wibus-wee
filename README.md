@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/aheze/Setting>aheze/Setting</a> -- <span>Compose beautiful preference panels.</span></li><li><a href=https://github.com/Codfisher/side-project-cod-toys>Codfisher/side-project-cod-toys</a> -- <span>啟發於 PowerToys，使用 Electron 仿造</span></li><li><a href=https://github.com/Sunzxyong/Tiny>Sunzxyong/Tiny</a> -- <span>an image compression framework.（一个高保真、高压缩比的图片压缩框架）</span></li><li><a href=https://github.com/birobirobiro/awesome-shadcn-ui>birobirobiro/awesome-shadcn-ui</a> -- <span>A curated list of awesome things related to shadcn/ui.</span></li><li><a href=https://github.com/EthanArbuckle/simforge>EthanArbuckle/simforge</a> -- <span>Run (decrypted) iOS Apps on iOS Simulators</span></li></ul>
+<ul><li><a href=https://github.com/zhuozhiyongde/Stargazer>zhuozhiyongde/Stargazer</a> -- <span>我在梦河边浣洗星星。</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a> -- <span>A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/FuzzyIdeas/Clop>FuzzyIdeas/Clop</a> -- <span>Clipboard optimizer for macOS</span></li><li><a href=https://github.com/foamzou/melody>foamzou/melody</a> -- <span>我的音乐精灵</span></li><li><a href=https://github.com/nicbarker/clay>nicbarker/clay</a> -- <span>High performance UI layout library in C.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/25, 2:27 AM<br>下一次刷新：2/1/25, 5:27 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/25, 5:18 AM<br>下一次刷新：2/1/25, 8:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
