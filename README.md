@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/imputnet/cobalt>imputnet/cobalt</a> -- <span>best way to save what you love</span></li><li><a href=https://github.com/aheze/Setting>aheze/Setting</a> -- <span>Compose beautiful preference panels.</span></li><li><a href=https://github.com/MichaelTr7/FolderPaint>MichaelTr7/FolderPaint</a> -- <span>Folder colour changing application for macOS.</span></li><li><a href=https://github.com/j4k0xb/webcrack>j4k0xb/webcrack</a> -- <span>Deobfuscate obfuscator.io, unminify and unpack bundled javascript</span></li><li><a href=https://github.com/Flight-School/AnyCodable>Flight-School/AnyCodable</a> -- <span>Type-erased wrappers for Encodable, Decodable, and Codable values</span></li></ul>
+<ul><li><a href=https://github.com/foamzou/melody>foamzou/melody</a> -- <span>我的音乐精灵</span></li><li><a href=https://github.com/desko27/react-call>desko27/react-call</a> -- <span>⚛️ 📡 Call your React components</span></li><li><a href=https://github.com/egoist/vite-plugin-compile-time>egoist/vite-plugin-compile-time</a> -- <span>Some compile-time magic for your Vite project</span></li><li><a href=https://github.com/trilemma-dev/SecureXPC>trilemma-dev/SecureXPC</a> -- <span>A simple and secure XPC framework for Swift</span></li><li><a href=https://github.com/boyter/scc>boyter/scc</a> -- <span>Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/25, 2:27 PM<br>下一次刷新：2/1/25, 5:27 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/1/25, 5:21 PM<br>下一次刷新：2/1/25, 8:21 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
