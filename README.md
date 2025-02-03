@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/ConfigurableKit>Lakr233/ConfigurableKit</a> -- <span>Set up settings pages like a charm with UIKit.</span></li><li><a href=https://github.com/ryohey/signal>ryohey/signal</a> -- <span>Online MIDI Editor: signal</span></li><li><a href=https://github.com/nicbarker/clay>nicbarker/clay</a> -- <span>High performance UI layout library in C.</span></li><li><a href=https://github.com/zhuozhiyongde/Stargazer>zhuozhiyongde/Stargazer</a> -- <span>我在梦河边浣洗星星。</span></li><li><a href=https://github.com/birobirobiro/awesome-shadcn-ui>birobirobiro/awesome-shadcn-ui</a> -- <span>A curated list of awesome things related to shadcn/ui.</span></li></ul>
+<ul><li><a href=https://github.com/j4k0xb/webcrack>j4k0xb/webcrack</a> -- <span>Deobfuscate obfuscator.io, unminify and unpack bundled javascript</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a> -- <span>A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/trilemma-dev/SecureXPC>trilemma-dev/SecureXPC</a> -- <span>A simple and secure XPC framework for Swift</span></li><li><a href=https://github.com/aheze/Setting>aheze/Setting</a> -- <span>Compose beautiful preference panels.</span></li><li><a href=https://github.com/Lakr233/ConfigurableKit>Lakr233/ConfigurableKit</a> -- <span>Set up settings pages like a charm with UIKit.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/25, 2:29 PM<br>下一次刷新：2/3/25, 5:29 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/3/25, 5:23 PM<br>下一次刷新：2/3/25, 8:23 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
