@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/trilemma-dev/SecureXPC>trilemma-dev/SecureXPC</a> -- <span>A simple and secure XPC framework for Swift</span></li><li><a href=https://github.com/zhuozhiyongde/Stargazer>zhuozhiyongde/Stargazer</a> -- <span>我在梦河边浣洗星星。</span></li><li><a href=https://github.com/Dean151/ButtonKit>Dean151/ButtonKit</a> -- <span>Asynchronous and Throwable button implementation for SwiftUI, with animations and progress tracking</span></li><li><a href=https://github.com/roninoss/nativewindui>roninoss/nativewindui</a> -- <span>Carefully crafted components that strive for a native look & feel. The perfect starting point for those that need to ship fast, and look good while doing it.</span></li><li><a href=https://github.com/mrousavy/nitro>mrousavy/nitro</a> -- <span>🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI</span></li></ul>
+<ul><li><a href=https://github.com/Sunzxyong/Tiny>Sunzxyong/Tiny</a> -- <span>an image compression framework.（一个高保真、高压缩比的图片压缩框架）</span></li><li><a href=https://github.com/ryohey/signal>ryohey/signal</a> -- <span>Online MIDI Editor: signal</span></li><li><a href=https://github.com/aheze/Setting>aheze/Setting</a> -- <span>Compose beautiful preference panels.</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a> -- <span>A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/Clipy/Clipy>Clipy/Clipy</a> -- <span>Clipboard extension app for macOS.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/5/25, 5:19 AM<br>下一次刷新：2/5/25, 8:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/5/25, 9:41 AM<br>下一次刷新：2/5/25, 12:41 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
