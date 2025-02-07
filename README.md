@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Flight-School/AnyCodable>Flight-School/AnyCodable</a> -- <span>Type-erased wrappers for Encodable, Decodable, and Codable values</span></li><li><a href=https://github.com/jixiaozhong/Sonic>jixiaozhong/Sonic</a> -- <span>Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"</span></li><li><a href=https://github.com/Clipy/Clipy>Clipy/Clipy</a> -- <span>Clipboard extension app for macOS.</span></li><li><a href=https://github.com/efremidze/VisualEffectView>efremidze/VisualEffectView</a> -- <span>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</span></li><li><a href=https://github.com/BastiaanJansen/toast-swift>BastiaanJansen/toast-swift</a> -- <span>Customizable Swift Toast view built with UIKit. 🍞</span></li></ul>
+<ul><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a> -- <span>Abracadabra 魔曰，安全高效的文本脱敏和加密工具</span></li><li><a href=https://github.com/foamzou/melody>foamzou/melody</a> -- <span>我的音乐精灵</span></li><li><a href=https://github.com/Innei/react-native-uikit-colors>Innei/react-native-uikit-colors</a></li><li><a href=https://github.com/efremidze/VisualEffectView>efremidze/VisualEffectView</a> -- <span>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</span></li><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a> -- <span>A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/8/25, 2:28 AM<br>下一次刷新：2/8/25, 5:28 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/8/25, 5:18 AM<br>下一次刷新：2/8/25, 8:18 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
