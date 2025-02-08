@@ -80,12 +80,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/saulamsal/apple-sports-menu>saulamsal/apple-sports-menu</a></li><li><a href=https://github.com/antfu/node-modules-inspector>antfu/node-modules-inspector</a> -- <span>Interactive UI for local node modules inspection</span></li><li><a href=https://github.com/lindongchen/tauri-plugin-share>lindongchen/tauri-plugin-share</a> -- <span>Tauri share file and get shared plugin</span></li><li><a href=https://github.com/LinMoQC/Memory-LowCodeEditor>LinMoQC/Memory-LowCodeEditor</a> -- <span>Memory LowCodeEditor is a low-code platform designed to streamline the creation, organization, and visualization of user-generated content and workflows.</span></li><li><a href=https://github.com/okooo5km/HiPixel>okooo5km/HiPixel</a> -- <span>HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.</span></li></ul>
+<ul><li><a href=https://github.com/ibelick/motion-primitives>ibelick/motion-primitives</a> -- <span>UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.</span></li><li><a href=https://github.com/7PH/powerglitch>7PH/powerglitch</a> -- <span>Tiny JS library to glitch anything on the web</span></li><li><a href=https://github.com/saulamsal/apple-sports-menu>saulamsal/apple-sports-menu</a></li><li><a href=https://github.com/antfu/node-modules-inspector>antfu/node-modules-inspector</a> -- <span>Interactive UI for local node modules inspection</span></li><li><a href=https://github.com/lindongchen/tauri-plugin-share>lindongchen/tauri-plugin-share</a> -- <span>Tauri share file and get shared plugin</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Dean151/ButtonKit>Dean151/ButtonKit</a> -- <span>Asynchronous and Throwable button implementation for SwiftUI, with animations and progress tracking</span></li><li><a href=https://github.com/tinylibs/tinypool>tinylibs/tinypool</a> -- <span>🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)</span></li><li><a href=https://github.com/Clipy/Clipy>Clipy/Clipy</a> -- <span>Clipboard extension app for macOS.</span></li><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a> -- <span>Abracadabra 魔曰，安全高效的文本脱敏和加密工具</span></li><li><a href=https://github.com/BastiaanJansen/toast-swift>BastiaanJansen/toast-swift</a> -- <span>Customizable Swift Toast view built with UIKit. 🍞</span></li></ul>
+<ul><li><a href=https://github.com/efremidze/VisualEffectView>efremidze/VisualEffectView</a> -- <span>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</span></li><li><a href=https://github.com/ryohey/signal>ryohey/signal</a> -- <span>Online MIDI Editor: signal</span></li><li><a href=https://github.com/trilemma-dev/SecureXPC>trilemma-dev/SecureXPC</a> -- <span>A simple and secure XPC framework for Swift</span></li><li><a href=https://github.com/okooo5km/HiPixel>okooo5km/HiPixel</a> -- <span>HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.</span></li><li><a href=https://github.com/Clipy/Clipy>Clipy/Clipy</a> -- <span>Clipboard extension app for macOS.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/8/25, 11:19 PM<br>下一次刷新：2/9/25, 2:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/9/25, 2:26 AM<br>下一次刷新：2/9/25, 5:26 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
