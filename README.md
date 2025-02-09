@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/efremidze/VisualEffectView>efremidze/VisualEffectView</a> -- <span>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</span></li><li><a href=https://github.com/EthanArbuckle/simforge>EthanArbuckle/simforge</a> -- <span>Run (decrypted) iOS Apps on iOS Simulators</span></li><li><a href=https://github.com/huozhi/sugar-high>huozhi/sugar-high</a> -- <span>✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped</span></li><li><a href=https://github.com/tinylibs/tinypool>tinylibs/tinypool</a> -- <span>🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)</span></li><li><a href=https://github.com/foamzou/melody>foamzou/melody</a> -- <span>我的音乐精灵</span></li></ul>
+<ul><li><a href=https://github.com/Clipy/Clipy>Clipy/Clipy</a> -- <span>Clipboard extension app for macOS.</span></li><li><a href=https://github.com/huozhi/sugar-high>huozhi/sugar-high</a> -- <span>✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped</span></li><li><a href=https://github.com/efremidze/VisualEffectView>efremidze/VisualEffectView</a> -- <span>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</span></li><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a> -- <span>Abracadabra 魔曰，安全高效的文本脱敏和加密工具</span></li><li><a href=https://github.com/Codfisher/side-project-cod-toys>Codfisher/side-project-cod-toys</a> -- <span>啟發於 PowerToys，使用 Electron 仿造</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/9/25, 5:18 AM<br>下一次刷新：2/9/25, 8:18 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/9/25, 9:45 AM<br>下一次刷新：2/9/25, 12:45 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
