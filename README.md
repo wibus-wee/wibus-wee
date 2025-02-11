@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Clipy/Clipy>Clipy/Clipy</a> -- <span>Clipboard extension app for macOS.</span></li><li><a href=https://github.com/sxzz/unloader>sxzz/unloader</a> -- <span>🚧 WIP: Node.js loader with a Rollup-like interface.</span></li><li><a href=https://github.com/7PH/powerglitch>7PH/powerglitch</a> -- <span>Tiny JS library to glitch anything on the web</span></li><li><a href=https://github.com/LinMoQC/Memory-LowCodeEditor>LinMoQC/Memory-LowCodeEditor</a> -- <span>Memory LowCodeEditor is a low-code platform designed to streamline the creation, organization, and visualization of user-generated content and workflows.</span></li><li><a href=https://github.com/antfu/node-modules-inspector>antfu/node-modules-inspector</a> -- <span>Interactive UI for local node modules inspection</span></li></ul>
+<ul><li><a href=https://github.com/unixzii/swiftui-for-react-devs>unixzii/swiftui-for-react-devs</a> -- <span>A cheat sheet that helps React developers to quickly start with SwiftUI.</span></li><li><a href=https://github.com/EthanArbuckle/simforge>EthanArbuckle/simforge</a> -- <span>Run (decrypted) iOS Apps on iOS Simulators</span></li><li><a href=https://github.com/efremidze/VisualEffectView>efremidze/VisualEffectView</a> -- <span>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</span></li><li><a href=https://github.com/huozhi/sugar-high>huozhi/sugar-high</a> -- <span>✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped</span></li><li><a href=https://github.com/saulamsal/apple-sports-menu>saulamsal/apple-sports-menu</a></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/25, 5:19 AM<br>下一次刷新：2/11/25, 8:19 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/11/25, 9:41 AM<br>下一次刷新：2/11/25, 12:41 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
