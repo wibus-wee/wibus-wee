@@ -80,12 +80,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/run-llama/LlamaIndexTS>run-llama/LlamaIndexTS</a> -- <span>Data framework for your LLM applications. Focus on server side solution</span></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a> -- <span>Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</span></li><li><a href=https://github.com/1998code/19-Splash-Screen-for-SwiftUI>1998code/19-Splash-Screen-for-SwiftUI</a> -- <span>Be the first to try the next-gen SwiftUI Splash Screen.</span></li><li><a href=https://github.com/jaredLunde/masonic>jaredLunde/masonic</a> -- <span>🧱 High-performance masonry layouts for React</span></li><li><a href=https://github.com/AppPear/ChartView>AppPear/ChartView</a> -- <span>ChartView made in SwiftUI</span></li></ul>
+<ul><li><a href=https://github.com/run-llama/LlamaIndexTS>run-llama/LlamaIndexTS</a> -- <span>Data framework for your LLM applications. Focus on server side solution</span></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a> -- <span>Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</span></li><li><a href=https://github.com/1998code/19-Splash-Screen-for-SwiftUI>1998code/19-Splash-Screen-for-SwiftUI</a> -- <span>Be the first to try the next-gen SwiftUI Splash Screen.</span></li><li><a href=https://github.com/jaredLunde/masonic>jaredLunde/masonic</a> -- <span>🧱 High-performance masonry layouts for React</span></li><li><a href=https://github.com/AppPear/ChartView>AppPear/ChartView</a> -- <span>ChartView made in SwiftUI</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/foamzou/melody>foamzou/melody</a> -- <span>我的音乐精灵</span></li><li><a href=https://github.com/desko27/react-call>desko27/react-call</a> -- <span>⚛️ 📡 Call your React components</span></li><li><a href=https://github.com/7PH/powerglitch>7PH/powerglitch</a> -- <span>Tiny JS library to glitch anything on the web</span></li><li><a href=https://github.com/BastiaanJansen/toast-swift>BastiaanJansen/toast-swift</a> -- <span>Customizable Swift Toast view built with UIKit. 🍞</span></li><li><a href=https://github.com/lindongchen/tauri-plugin-share>lindongchen/tauri-plugin-share</a> -- <span>Tauri share file and get shared plugin</span></li></ul>
+<ul><li><a href=https://github.com/efremidze/VisualEffectView>efremidze/VisualEffectView</a> -- <span>Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱</span></li><li><a href=https://github.com/tinylibs/tinypool>tinylibs/tinypool</a> -- <span>🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)</span></li><li><a href=https://github.com/7PH/powerglitch>7PH/powerglitch</a> -- <span>Tiny JS library to glitch anything on the web</span></li><li><a href=https://github.com/Clipy/Clipy>Clipy/Clipy</a> -- <span>Clipboard extension app for macOS.</span></li><li><a href=https://github.com/jixiaozhong/Sonic>jixiaozhong/Sonic</a> -- <span>Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/14/25, 2:29 AM<br>下一次刷新：2/14/25, 5:29 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/14/25, 5:19 AM<br>下一次刷新：2/14/25, 8:19 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
