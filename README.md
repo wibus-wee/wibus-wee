@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a> -- <span>Abracadabra 魔曰，下一代文本脱敏和加密工具</span></li><li><a href=https://github.com/saulamsal/apple-sports-menu>saulamsal/apple-sports-menu</a></li><li><a href=https://github.com/jixiaozhong/Sonic>jixiaozhong/Sonic</a> -- <span>Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"</span></li><li><a href=https://github.com/AppPear/ChartView>AppPear/ChartView</a> -- <span>ChartView made in SwiftUI</span></li><li><a href=https://github.com/nikstar/VariableBlur>nikstar/VariableBlur</a> -- <span>SwiftUI variable blur (progressive blur)</span></li></ul>
+<ul><li><a href=https://github.com/7PH/powerglitch>7PH/powerglitch</a> -- <span>Tiny JS library to glitch anything on the web</span></li><li><a href=https://github.com/Innei/react-native-uikit-colors>Innei/react-native-uikit-colors</a></li><li><a href=https://github.com/jtrivedi/VariableBlurView>jtrivedi/VariableBlurView</a> -- <span>An example of how to create a live, variable blur effect on iOS.</span></li><li><a href=https://github.com/saulamsal/apple-sports-menu>saulamsal/apple-sports-menu</a></li><li><a href=https://github.com/okooo5km/HiPixel>okooo5km/HiPixel</a> -- <span>HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/20/25, 5:22 PM<br>下一次刷新：2/20/25, 8:22 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/20/25, 8:42 PM<br>下一次刷新：2/20/25, 11:42 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
