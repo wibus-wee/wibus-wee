@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Clipy/Clipy>Clipy/Clipy</a> -- <span>Clipboard extension app for macOS.</span></li><li><a href=https://github.com/7PH/powerglitch>7PH/powerglitch</a> -- <span>Tiny JS library to glitch anything on the web</span></li><li><a href=https://github.com/1998code/19-Splash-Screen-for-SwiftUI>1998code/19-Splash-Screen-for-SwiftUI</a> -- <span>Be the first to try the next-gen SwiftUI Splash Screen.</span></li><li><a href=https://github.com/okooo5km/HiPixel>okooo5km/HiPixel</a> -- <span>HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.</span></li><li><a href=https://github.com/jaredLunde/masonic>jaredLunde/masonic</a> -- <span>🧱 High-performance masonry layouts for React</span></li></ul>
+<ul><li><a href=https://github.com/nikstar/VariableBlur>nikstar/VariableBlur</a> -- <span>SwiftUI variable blur (progressive blur)</span></li><li><a href=https://github.com/huozhi/sugar-high>huozhi/sugar-high</a> -- <span>✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped</span></li><li><a href=https://github.com/Innei/react-native-uikit-colors>Innei/react-native-uikit-colors</a></li><li><a href=https://github.com/xiaoxiaojx/super-contra>xiaoxiaojx/super-contra</a> -- <span>An h5 game written in React.js.</span></li><li><a href=https://github.com/tinylibs/tinypool>tinylibs/tinypool</a> -- <span>🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/22/25, 2:28 AM<br>下一次刷新：2/22/25, 5:28 AM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/22/25, 5:17 AM<br>下一次刷新：2/22/25, 8:17 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
