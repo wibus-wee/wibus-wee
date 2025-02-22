@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/xiaoxiaojx/super-contra>xiaoxiaojx/super-contra</a> -- <span>An h5 game written in React.js.</span></li><li><a href=https://github.com/multimodal-art-projection/YuE>multimodal-art-projection/YuE</a> -- <span>YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open</span></li><li><a href=https://github.com/run-llama/LlamaIndexTS>run-llama/LlamaIndexTS</a> -- <span>Data framework for your LLM applications. Focus on server side solution</span></li><li><a href=https://github.com/jaredLunde/masonic>jaredLunde/masonic</a> -- <span>🧱 High-performance masonry layouts for React</span></li><li><a href=https://github.com/ibelick/motion-primitives>ibelick/motion-primitives</a> -- <span>UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.</span></li></ul>
+<ul><li><a href=https://github.com/ading2210/linuxpdf>ading2210/linuxpdf</a> -- <span>Linux running inside a PDF file via a RISC-V emulator</span></li><li><a href=https://github.com/tinylibs/tinypool>tinylibs/tinypool</a> -- <span>🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)</span></li><li><a href=https://github.com/jaredLunde/masonic>jaredLunde/masonic</a> -- <span>🧱 High-performance masonry layouts for React</span></li><li><a href=https://github.com/saulamsal/apple-sports-menu>saulamsal/apple-sports-menu</a></li><li><a href=https://github.com/ibelick/motion-primitives>ibelick/motion-primitives</a> -- <span>UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/22/25, 2:29 PM<br>下一次刷新：2/22/25, 5:29 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/22/25, 5:20 PM<br>下一次刷新：2/22/25, 8:20 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
