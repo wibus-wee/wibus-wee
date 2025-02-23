@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a> -- <span>Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</span></li><li><a href=https://github.com/huozhi/sugar-high>huozhi/sugar-high</a> -- <span>✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped</span></li><li><a href=https://github.com/antfu/node-modules-inspector>antfu/node-modules-inspector</a> -- <span>Interactive UI for local node modules inspection</span></li><li><a href=https://github.com/jtrivedi/VariableBlurView>jtrivedi/VariableBlurView</a> -- <span>An example of how to create a live, variable blur effect on iOS.</span></li><li><a href=https://github.com/sxzz/unloader>sxzz/unloader</a> -- <span>Node.js loader with a Rollup-like interface.</span></li></ul>
+<ul><li><a href=https://github.com/7PH/powerglitch>7PH/powerglitch</a> -- <span>Tiny JS library to glitch anything on the web</span></li><li><a href=https://github.com/xiaoxiaojx/super-contra>xiaoxiaojx/super-contra</a> -- <span>An h5 game written in React.js.</span></li><li><a href=https://github.com/run-llama/LlamaIndexTS>run-llama/LlamaIndexTS</a> -- <span>Data framework for your LLM applications. Focus on server side solution</span></li><li><a href=https://github.com/nikstar/VariableBlur>nikstar/VariableBlur</a> -- <span>SwiftUI variable blur (progressive blur)</span></li><li><a href=https://github.com/Innei/react-native-uikit-colors>Innei/react-native-uikit-colors</a></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/23/25, 9:49 AM<br>下一次刷新：2/23/25, 12:49 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/23/25, 11:27 AM<br>下一次刷新：2/23/25, 2:27 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
