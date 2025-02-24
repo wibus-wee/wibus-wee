@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/7PH/powerglitch>7PH/powerglitch</a> -- <span>Tiny JS library to glitch anything on the web</span></li><li><a href=https://github.com/nikstar/VariableBlur>nikstar/VariableBlur</a> -- <span>SwiftUI variable blur (progressive blur)</span></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a> -- <span>Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</span></li><li><a href=https://github.com/ading2210/linuxpdf>ading2210/linuxpdf</a> -- <span>Linux running inside a PDF file via a RISC-V emulator</span></li><li><a href=https://github.com/run-llama/LlamaIndexTS>run-llama/LlamaIndexTS</a> -- <span>Data framework for your LLM applications. Focus on server side solution</span></li></ul>
+<ul><li><a href=https://github.com/lindongchen/tauri-plugin-share>lindongchen/tauri-plugin-share</a> -- <span>Tauri share file and get shared plugin</span></li><li><a href=https://github.com/jixiaozhong/Sonic>jixiaozhong/Sonic</a> -- <span>Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"</span></li><li><a href=https://github.com/jaredLunde/masonic>jaredLunde/masonic</a> -- <span>🧱 High-performance masonry layouts for React</span></li><li><a href=https://github.com/ibelick/motion-primitives>ibelick/motion-primitives</a> -- <span>UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.</span></li><li><a href=https://github.com/xiaoxiaojx/super-contra>xiaoxiaojx/super-contra</a> -- <span>An h5 game written in React.js.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/24/25, 2:31 PM<br>下一次刷新：2/24/25, 5:31 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/24/25, 5:24 PM<br>下一次刷新：2/24/25, 8:24 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
