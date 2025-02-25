@@ -80,12 +80,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/ourongxing/newsnow>ourongxing/newsnow</a> -- <span>Elegant reading of real-time and hottest news</span></li><li><a href=https://github.com/kermanx/js.rs>kermanx/js.rs</a> -- <span>JavaScript in Rust Syntax</span></li><li><a href=https://github.com/tlkh/asitop>tlkh/asitop</a> -- <span>Perf monitoring CLI tool for Apple Silicon</span></li><li><a href=https://github.com/pawello2222/WidgetExamples>pawello2222/WidgetExamples</a> -- <span>A demo project showing different types of Widgets created with SwiftUI and WidgetKit.</span></li><li><a href=https://github.com/origin-space/originui>origin-space/originui</a></li></ul>
+<ul><li><a href=https://github.com/shapehq/spices>shapehq/spices</a> -- <span>🫙🌶️ Spices makes it straightforward to create in-app debug menus by generating native UI from Swift.</span></li><li><a href=https://github.com/ourongxing/newsnow>ourongxing/newsnow</a> -- <span>Elegant reading of real-time and hottest news</span></li><li><a href=https://github.com/kermanx/js.rs>kermanx/js.rs</a> -- <span>JavaScript in Rust Syntax</span></li><li><a href=https://github.com/tlkh/asitop>tlkh/asitop</a> -- <span>Perf monitoring CLI tool for Apple Silicon</span></li><li><a href=https://github.com/pawello2222/WidgetExamples>pawello2222/WidgetExamples</a> -- <span>A demo project showing different types of Widgets created with SwiftUI and WidgetKit.</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/okooo5km/HiPixel>okooo5km/HiPixel</a> -- <span>HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.</span></li><li><a href=https://github.com/huozhi/sugar-high>huozhi/sugar-high</a> -- <span>✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped</span></li><li><a href=https://github.com/jimp-dev/jimp>jimp-dev/jimp</a> -- <span>An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.</span></li><li><a href=https://github.com/AppPear/ChartView>AppPear/ChartView</a> -- <span>ChartView made in SwiftUI</span></li><li><a href=https://github.com/saulamsal/apple-sports-menu>saulamsal/apple-sports-menu</a></li></ul>
+<ul><li><a href=https://github.com/antfu/node-modules-inspector>antfu/node-modules-inspector</a> -- <span>Interactive UI for local node modules inspection</span></li><li><a href=https://github.com/xiaoxiaojx/super-contra>xiaoxiaojx/super-contra</a> -- <span>An h5 game written in React.js.</span></li><li><a href=https://github.com/BastiaanJansen/toast-swift>BastiaanJansen/toast-swift</a> -- <span>Customizable Swift Toast view built with UIKit. 🍞</span></li><li><a href=https://github.com/ading2210/linuxpdf>ading2210/linuxpdf</a> -- <span>Linux running inside a PDF file via a RISC-V emulator</span></li><li><a href=https://github.com/jixiaozhong/Sonic>jixiaozhong/Sonic</a> -- <span>Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/25/25, 8:43 PM<br>下一次刷新：2/25/25, 11:43 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/25/25, 11:24 PM<br>下一次刷新：2/26/25, 2:24 AM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
