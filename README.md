@@ -85,7 +85,7 @@ opensource_dashboard:gs -->
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/okooo5km/HiPixel>okooo5km/HiPixel</a> -- <span>HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.</span></li><li><a href=https://github.com/BastiaanJansen/toast-swift>BastiaanJansen/toast-swift</a> -- <span>Customizable Swift Toast view built with UIKit. 🍞</span></li><li><a href=https://github.com/huozhi/sugar-high>huozhi/sugar-high</a> -- <span>✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped</span></li><li><a href=https://github.com/antfu/node-modules-inspector>antfu/node-modules-inspector</a> -- <span>Interactive UI for local node modules inspection</span></li><li><a href=https://github.com/nikstar/VariableBlur>nikstar/VariableBlur</a> -- <span>SwiftUI variable blur (progressive blur)</span></li></ul>
+<ul><li><a href=https://github.com/multimodal-art-projection/YuE>multimodal-art-projection/YuE</a> -- <span>YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open</span></li><li><a href=https://github.com/AppPear/ChartView>AppPear/ChartView</a> -- <span>ChartView made in SwiftUI</span></li><li><a href=https://github.com/ading2210/linuxpdf>ading2210/linuxpdf</a> -- <span>Linux running inside a PDF file via a RISC-V emulator</span></li><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a> -- <span>Abracadabra 魔曰，下一代文本脱敏和加密工具</span></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a> -- <span>Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/25, 9:45 AM<br>下一次刷新：2/27/25, 12:45 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/25, 11:29 AM<br>下一次刷新：2/27/25, 2:29 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
