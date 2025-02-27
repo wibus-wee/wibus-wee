@@ -80,12 +80,12 @@ opensource_dashboard:gs -->
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/shapehq/spices>shapehq/spices</a> -- <span>🫙🌶️ Spices makes it straightforward to create in-app debug menus by generating native UI from Swift.</span></li><li><a href=https://github.com/ourongxing/newsnow>ourongxing/newsnow</a> -- <span>Elegant reading of real-time and hottest news</span></li><li><a href=https://github.com/kermanx/js.rs>kermanx/js.rs</a> -- <span>JavaScript in Rust Syntax</span></li><li><a href=https://github.com/tlkh/asitop>tlkh/asitop</a> -- <span>Perf monitoring CLI tool for Apple Silicon</span></li><li><a href=https://github.com/pawello2222/WidgetExamples>pawello2222/WidgetExamples</a> -- <span>A demo project showing different types of Widgets created with SwiftUI and WidgetKit.</span></li></ul>
+<ul><li><a href=https://github.com/fatbobman/PersistentHistoryTrackingKit>fatbobman/PersistentHistoryTrackingKit</a> -- <span>A library for managing Core Data's Persistent History Tracking</span></li><li><a href=https://github.com/shapehq/spices>shapehq/spices</a> -- <span>🫙🌶️ Spices makes it straightforward to create in-app debug menus by generating native UI from Swift.</span></li><li><a href=https://github.com/ourongxing/newsnow>ourongxing/newsnow</a> -- <span>Elegant reading of real-time and hottest news</span></li><li><a href=https://github.com/kermanx/js.rs>kermanx/js.rs</a> -- <span>JavaScript in Rust Syntax</span></li><li><a href=https://github.com/tlkh/asitop>tlkh/asitop</a> -- <span>Perf monitoring CLI tool for Apple Silicon</span></li></ul>
 
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ibelick/motion-primitives>ibelick/motion-primitives</a> -- <span>UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.</span></li><li><a href=https://github.com/jaredLunde/masonic>jaredLunde/masonic</a> -- <span>🧱 High-performance masonry layouts for React</span></li><li><a href=https://github.com/massgravel/Microsoft-Activation-Scripts>massgravel/Microsoft-Activation-Scripts</a> -- <span>Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</span></li><li><a href=https://github.com/LinMoQC/Memory-LowCodeEditor>LinMoQC/Memory-LowCodeEditor</a> -- <span>Memory LowCodeEditor is a low-code platform designed to streamline the creation, organization, and visualization of user-generated content and workflows.</span></li><li><a href=https://github.com/okooo5km/HiPixel>okooo5km/HiPixel</a> -- <span>HiPixel is a native macOS application for AI-powered image super-resolution, built with SwiftUI and leveraging Upscayl's powerful AI models.</span></li></ul>
+<ul><li><a href=https://github.com/jtrivedi/VariableBlurView>jtrivedi/VariableBlurView</a> -- <span>An example of how to create a live, variable blur effect on iOS.</span></li><li><a href=https://github.com/multimodal-art-projection/YuE>multimodal-art-projection/YuE</a> -- <span>YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open</span></li><li><a href=https://github.com/huozhi/sugar-high>huozhi/sugar-high</a> -- <span>✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped</span></li><li><a href=https://github.com/run-llama/LlamaIndexTS>run-llama/LlamaIndexTS</a> -- <span>Data framework for your LLM applications. Focus on server side solution</span></li><li><a href=https://github.com/Lakr233/Dealer>Lakr233/Dealer</a> -- <span>Simple web search with multiple source.</span></li></ul>
 
 
 **捉迷藏**
@@ -98,7 +98,7 @@ opensource_dashboard:gs -->
 
 ------------
 
-<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/25, 5:23 PM<br>下一次刷新：2/27/25, 8:23 PM</p>
+<p align=center>很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href=https://innei.ren>https://innei.ren</a><br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/27/25, 8:43 PM<br>下一次刷新：2/27/25, 11:43 PM</p>
 
 <a href="https://github.com/wibus-wee#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wibus-wee&theme=github" width="100%">
