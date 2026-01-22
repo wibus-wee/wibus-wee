@@ -11,12 +11,9 @@
 
 <p align="center">
   <strong>Developer + AI Commander · Open Source Contributor · Builder</strong><br/>
-  🎹 Piano Player · 🎤 Singer & Maker · Core Member of 
-  <a href="https://github.com/jwcjs/core">@jwcjs</a> & 
-  <a href="https://github.com/mogland/core">@mogland</a>
+  🎹 Piano Player · 🎤 Singer & Maker · Focus on Web Design
 </p>
 
----
 
 ### 👋 Hi, I'm Wibus
 
@@ -71,6 +68,4 @@ recent_star_inject -->
 
 random_github_stars_inject -->
 
-------------
-
-<p align=center>️Fork from innei/innei<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/22/26, 1:55 PM<br>下一次刷新：1/22/26, 4:55 PM</p>
+<p align=center>️Fork from innei/innei<br>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：1/22/26, 1:59 PM<br>下一次刷新：1/22/26, 4:59 PM</p>
