@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>Developer + AI Commander · Open Source Contributor · Builder</strong><br/>
-  🎹 Piano Player · 🎤 Singer & Maker · Focus on Web Design
+  Focus on Web Design
 </p>
 
 
@@ -31,22 +31,6 @@ I’ve contributed to the **Typecho ecosystem**, and I’m currently focused on 
 <a href="https://blog.wibus.ren" align="center"><img src="https://img.shields.io/badge/Blog-blog.wibus.ren-yellow"></a>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
 </p>
-
----
-
-<br />
-
-<a href="https://github.com/wibus-wee#gh-light-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=24292f&icon_color=57606a&bg_color=ffffff&border_color=d0d7de&rank_icon=percentile&show=reviews,discussions_answered"/>
-</a>
-  
-
-<a href="https://github.com/wibus-wee#gh-dark-mode-only">
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/?username=wibus-wee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&disable_animations=true&text_color=c9d1d9&icon_color=8b949e&bg_color=0d1117&border_color=30363d&rank_icon=percentile&show=reviews,discussions_answered"/>
-</a>
-
-<br />
-
 
 <!--**我的开源项目**
 

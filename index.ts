@@ -154,32 +154,32 @@ ${topStar5}
   }
 
   // 注入 FOOTER
-  {
-    const now = new Date()
-    const next = dayjs().add(3, 'h').toDate()
+  // {
+  //   const now = new Date()
+  //   const next = dayjs().add(3, 'h').toDate()
 
-    newContent = newContent.replace(
-      gc('FOOTER'),
-      m`
-    <p align="center">
-    ️Fork from innei/innei
-    </br>
-    此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
-    </br>
-    刷新于：${now.toLocaleString(undefined, {
-      timeStyle: 'short',
-      dateStyle: 'short',
-      timeZone,
-    })}
-    <br/>
-    下一次刷新：${next.toLocaleString(undefined, {
-      timeStyle: 'short',
-      dateStyle: 'short',
-      timeZone,
-    })}</p>
-    `,
-    )
-  }
+  //   newContent = newContent.replace(
+  //     gc('FOOTER'),
+  //     m`
+  //   <p align="center">
+  //   ️Fork from innei/innei
+  //   </br>
+  //   此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
+  //   </br>
+  //   刷新于：${now.toLocaleString(undefined, {
+  //     timeStyle: 'short',
+  //     dateStyle: 'short',
+  //     timeZone,
+  //   })}
+  //   <br/>
+  //   下一次刷新：${next.toLocaleString(undefined, {
+  //     timeStyle: 'short',
+  //     dateStyle: 'short',
+  //     timeZone,
+  //   })}</p>
+  //   `,
+  //   )
+  // }
   newContent = newContent.toString()
   await rm('./README.md', { force: true })
   await writeFile('./README.md', newContent, { encoding: 'utf-8' })
