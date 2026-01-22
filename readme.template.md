@@ -11,12 +11,9 @@
 
 <p align="center">
   <strong>Developer + AI Commander · Open Source Contributor · Builder</strong><br/>
-  🎹 Piano Player · 🎤 Singer & Maker · Core Member of 
-  <a href="https://github.com/jwcjs/core">@jwcjs</a> & 
-  <a href="https://github.com/mogland/core">@mogland</a>
+  🎹 Piano Player · 🎤 Singer & Maker · Focus on Web Design
 </p>
 
----
 
 ### 👋 Hi, I'm Wibus
 
@@ -70,7 +67,5 @@ recent_star_inject -->
 <!-- **曾经看了...**
 
 random_github_stars_inject -->
-
-------------
 
 <!-- footer_inject -->
