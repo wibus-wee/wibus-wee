@@ -162,7 +162,7 @@ ${topStar5}
       gc('FOOTER'),
       m`
     <p align="center">
-    很感谢Innei所写的此项目，真的是我的idol！Innei's Blog：<a href="https://innei.ren">https://innei.ren</a>
+    ️Fork from innei/innei
     </br>
     此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
     </br>
