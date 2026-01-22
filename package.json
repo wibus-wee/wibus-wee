@@ -2,7 +2,7 @@
   "name": "innei",
   "private": true,
   "description": "Innei's profile",
-  "packageManager": "pnpm@16.2.4",
+  "packageManager": "pnpm@10.28.1",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev index.ts",
