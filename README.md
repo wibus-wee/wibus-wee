@@ -23,11 +23,33 @@ I enjoy crafting developer tools, open-source infrastructure, and clean UI/UX th
 I’ve contributed to the **Typecho ecosystem**, and I’m currently focused on **modern web development**, plugin systems, and full-stack architecture.
 
 
-**📫 How to reach me:** 🏠 [Home Page](https://wibus.ren) | ✍️ [Blog (CN)](https://blog.wibus.ren) | 🐦 [Twitter](https://twitter.com/@wibus_wee)
+📫 How to reach me: 🏠 [Home Page](https://wibus.ren) | ✍️ [Blog (CN)](https://blog.wibus.ren) | 🐦 [Twitter](https://twitter.com/@wibus_wee)
 
-**📌 Resume:** 📄 [resume.wibus.ren](https://resume.wibus.ren)
+
 
 <p>
 <a href="https://blog.wibus.ren" align="center"><img src="https://img.shields.io/badge/Blog-blog.wibus.ren-yellow"></a>
 <a href="https://wakatime.com/@5c293fcd-9bec-4609-946b-c06b5fbf192c"><img src="https://wakatime.com/badge/user/5c293fcd-9bec-4609-946b-c06b5fbf192c.svg" alt="Total time coded since Apr 24 2021" /></a>
 </p>
+
+<!--**我的开源项目**
+
+ opensource_dashboard:active -->
+
+
+<!-- **目前在...**
+
+opensource_dashboard:gs -->
+
+
+
+<!-- **最近赞了...**
+
+recent_star_inject -->
+
+
+<!-- **曾经看了...**
+
+random_github_stars_inject -->
+
+<!-- footer_inject -->
